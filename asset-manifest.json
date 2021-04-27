@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "https://stealthc.github.io/anagramas/static/css/main.424154a6.chunk.css",
-    "main.js": "https://stealthc.github.io/anagramas/static/js/main.d0169e4b.chunk.js",
-    "main.js.map": "https://stealthc.github.io/anagramas/static/js/main.d0169e4b.chunk.js.map",
+    "main.js": "https://stealthc.github.io/anagramas/static/js/main.51c116df.chunk.js",
+    "main.js.map": "https://stealthc.github.io/anagramas/static/js/main.51c116df.chunk.js.map",
     "runtime-main.js": "https://stealthc.github.io/anagramas/static/js/runtime-main.642150ba.js",
     "runtime-main.js.map": "https://stealthc.github.io/anagramas/static/js/runtime-main.642150ba.js.map",
     "static/js/2.d1eab02d.chunk.js": "https://stealthc.github.io/anagramas/static/js/2.d1eab02d.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.642150ba.js",
     "static/js/2.d1eab02d.chunk.js",
     "static/css/main.424154a6.chunk.css",
-    "static/js/main.d0169e4b.chunk.js"
+    "static/js/main.51c116df.chunk.js"
   ]
 }
