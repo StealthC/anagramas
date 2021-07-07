@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "https://stealthc.github.io/anagramas/static/css/main.7548c113.chunk.css",
-    "main.js": "https://stealthc.github.io/anagramas/static/js/main.2e039b6f.chunk.js",
-    "main.js.map": "https://stealthc.github.io/anagramas/static/js/main.2e039b6f.chunk.js.map",
+    "main.js": "https://stealthc.github.io/anagramas/static/js/main.ea273efd.chunk.js",
+    "main.js.map": "https://stealthc.github.io/anagramas/static/js/main.ea273efd.chunk.js.map",
     "runtime-main.js": "https://stealthc.github.io/anagramas/static/js/runtime-main.642150ba.js",
     "runtime-main.js.map": "https://stealthc.github.io/anagramas/static/js/runtime-main.642150ba.js.map",
-    "static/js/2.d1eab02d.chunk.js": "https://stealthc.github.io/anagramas/static/js/2.d1eab02d.chunk.js",
-    "static/js/2.d1eab02d.chunk.js.map": "https://stealthc.github.io/anagramas/static/js/2.d1eab02d.chunk.js.map",
+    "static/js/2.f23d9849.chunk.js": "https://stealthc.github.io/anagramas/static/js/2.f23d9849.chunk.js",
+    "static/js/2.f23d9849.chunk.js.map": "https://stealthc.github.io/anagramas/static/js/2.f23d9849.chunk.js.map",
     "index.html": "https://stealthc.github.io/anagramas/index.html",
     "static/css/main.7548c113.chunk.css.map": "https://stealthc.github.io/anagramas/static/css/main.7548c113.chunk.css.map",
-    "static/js/2.d1eab02d.chunk.js.LICENSE.txt": "https://stealthc.github.io/anagramas/static/js/2.d1eab02d.chunk.js.LICENSE.txt"
+    "static/js/2.f23d9849.chunk.js.LICENSE.txt": "https://stealthc.github.io/anagramas/static/js/2.f23d9849.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.642150ba.js",
-    "static/js/2.d1eab02d.chunk.js",
+    "static/js/2.f23d9849.chunk.js",
     "static/css/main.7548c113.chunk.css",
-    "static/js/main.2e039b6f.chunk.js"
+    "static/js/main.ea273efd.chunk.js"
   ]
 }
