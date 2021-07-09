@@ -1,20 +1,24 @@
 {
   "files": {
-    "main.css": "https://stealthc.github.io/anagramas/static/css/main.657beea6.chunk.css",
-    "main.js": "https://stealthc.github.io/anagramas/static/js/main.a1ce2e3c.chunk.js",
-    "main.js.map": "https://stealthc.github.io/anagramas/static/js/main.a1ce2e3c.chunk.js.map",
+    "main.css": "https://stealthc.github.io/anagramas/static/css/main.a10b8ccc.chunk.css",
+    "main.js": "https://stealthc.github.io/anagramas/static/js/main.f977c839.chunk.js",
+    "main.js.map": "https://stealthc.github.io/anagramas/static/js/main.f977c839.chunk.js.map",
     "runtime-main.js": "https://stealthc.github.io/anagramas/static/js/runtime-main.dfa5dd6a.js",
     "runtime-main.js.map": "https://stealthc.github.io/anagramas/static/js/runtime-main.dfa5dd6a.js.map",
-    "static/js/2.0d5136c8.chunk.js": "https://stealthc.github.io/anagramas/static/js/2.0d5136c8.chunk.js",
-    "static/js/2.0d5136c8.chunk.js.map": "https://stealthc.github.io/anagramas/static/js/2.0d5136c8.chunk.js.map",
+    "static/css/2.ea5a6179.chunk.css": "https://stealthc.github.io/anagramas/static/css/2.ea5a6179.chunk.css",
+    "static/js/2.c2d3e10c.chunk.js": "https://stealthc.github.io/anagramas/static/js/2.c2d3e10c.chunk.js",
+    "static/js/2.c2d3e10c.chunk.js.map": "https://stealthc.github.io/anagramas/static/js/2.c2d3e10c.chunk.js.map",
     "index.html": "https://stealthc.github.io/anagramas/index.html",
-    "static/css/main.657beea6.chunk.css.map": "https://stealthc.github.io/anagramas/static/css/main.657beea6.chunk.css.map",
-    "static/js/2.0d5136c8.chunk.js.LICENSE.txt": "https://stealthc.github.io/anagramas/static/js/2.0d5136c8.chunk.js.LICENSE.txt"
+    "static/css/2.ea5a6179.chunk.css.map": "https://stealthc.github.io/anagramas/static/css/2.ea5a6179.chunk.css.map",
+    "static/css/main.a10b8ccc.chunk.css.map": "https://stealthc.github.io/anagramas/static/css/main.a10b8ccc.chunk.css.map",
+    "static/js/2.c2d3e10c.chunk.js.LICENSE.txt": "https://stealthc.github.io/anagramas/static/js/2.c2d3e10c.chunk.js.LICENSE.txt",
+    "static/media/index.scss": "https://stealthc.github.io/anagramas/static/media/bootstrap-icons.dfd0ea12.woff2"
   },
   "entrypoints": [
     "static/js/runtime-main.dfa5dd6a.js",
-    "static/js/2.0d5136c8.chunk.js",
-    "static/css/main.657beea6.chunk.css",
-    "static/js/main.a1ce2e3c.chunk.js"
+    "static/css/2.ea5a6179.chunk.css",
+    "static/js/2.c2d3e10c.chunk.js",
+    "static/css/main.a10b8ccc.chunk.css",
+    "static/js/main.f977c839.chunk.js"
   ]
 }
