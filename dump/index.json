@@ -1107,6 +1107,7 @@
     "adegios",
     "adegissu",
     "adeglno",
+    "adeglos",
     "adegoorv",
     "adegoosss",
     "adegru",
@@ -10276,6 +10277,10 @@
     {
       "date": "2023-11-05T23:02:56.420Z",
       "anagram": "aelmns"
+    },
+    {
+      "date": "2023-11-06T12:05:25.832Z",
+      "anagram": "adeglos"
     }
   ]
 }
