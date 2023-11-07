@@ -1217,6 +1217,7 @@
     "aeeemrsx",
     "aeeennnrv",
     "aeeenrsv",
+    "aeefgipr",
     "aeefilnt",
     "aeefilrvx",
     "aeefinprs",
@@ -1444,6 +1445,7 @@
     "aggloot",
     "aghinost",
     "aghnos",
+    "agiiinns",
     "agijosz",
     "agilooru",
     "agils",
@@ -10316,6 +10318,14 @@
     {
       "date": "2023-11-07T12:05:06.391Z",
       "anagram": "deilot"
+    },
+    {
+      "date": "2023-11-07T16:04:00.535Z",
+      "anagram": "agiiinns"
+    },
+    {
+      "date": "2023-11-07T16:04:00.613Z",
+      "anagram": "aeefgipr"
     }
   ]
 }
