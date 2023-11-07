@@ -1040,6 +1040,7 @@
     "aciopp",
     "aciopr",
     "aciot",
+    "aciprst",
     "aciprt",
     "acirt",
     "aclmouu",
@@ -1488,6 +1489,7 @@
     "ahors",
     "aiiilmnoor",
     "aiiilnrtuz",
+    "aiiilnst",
     "aiiilrrvz",
     "aiiimnnos",
     "aiiimssvv",
@@ -10326,6 +10328,14 @@
     {
       "date": "2023-11-07T16:04:00.613Z",
       "anagram": "aeefgipr"
+    },
+    {
+      "date": "2023-11-07T20:03:46.479Z",
+      "anagram": "aiiilnst"
+    },
+    {
+      "date": "2023-11-07T20:03:46.596Z",
+      "anagram": "aciprst"
     }
   ]
 }
