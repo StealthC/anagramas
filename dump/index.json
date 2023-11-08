@@ -1013,6 +1013,7 @@
     "acgjnosu",
     "acgjnou",
     "acgloosu",
+    "achiilosx",
     "achimno",
     "achinooz",
     "achinorz",
@@ -1247,6 +1248,7 @@
     "aeeisstv",
     "aeejlpr",
     "aeelmrs",
+    "aeelnorvv",
     "aeelntv",
     "aeelpt",
     "aeelqsu",
@@ -10361,6 +10363,14 @@
     {
       "date": "2023-11-08T16:03:57.866Z",
       "anagram": "cddeiiopr"
+    },
+    {
+      "date": "2023-11-08T20:03:50.287Z",
+      "anagram": "achiilosx"
+    },
+    {
+      "date": "2023-11-08T20:03:50.379Z",
+      "anagram": "aeelnorvv"
     }
   ]
 }
