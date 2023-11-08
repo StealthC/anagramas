@@ -976,6 +976,7 @@
     "aceinrs",
     "aceinrss",
     "aceioquv",
+    "aceiot",
     "acellru",
     "aceloopt",
     "acelot",
@@ -1722,6 +1723,7 @@
     "cehioors",
     "cehios",
     "cehlnooss",
+    "cehlor",
     "ceiilnoruv",
     "ceiilnsuv",
     "ceiinopruz",
@@ -10336,6 +10338,14 @@
     {
       "date": "2023-11-07T20:03:46.596Z",
       "anagram": "aciprst"
+    },
+    {
+      "date": "2023-11-08T00:12:04.169Z",
+      "anagram": "aceiot"
+    },
+    {
+      "date": "2023-11-08T00:12:04.320Z",
+      "anagram": "cehlor"
     }
   ]
 }
