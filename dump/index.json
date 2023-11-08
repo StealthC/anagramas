@@ -1598,6 +1598,7 @@
     "bcciooos",
     "bcdeeeorr",
     "bcdeeior",
+    "bcdiloooss",
     "bcehiors",
     "bceiorrr",
     "bcelsu",
@@ -1658,6 +1659,7 @@
     "ccenoorrt",
     "ccnoorssu",
     "cddeeiox",
+    "cddeiiopr",
     "cddinooos",
     "cdeeenorsv",
     "cdeeenst",
@@ -10351,6 +10353,14 @@
     {
       "date": "2023-11-08T12:05:02.022Z",
       "anagram": "aaeflsst"
+    },
+    {
+      "date": "2023-11-08T16:03:57.800Z",
+      "anagram": "bcdiloooss"
+    },
+    {
+      "date": "2023-11-08T16:03:57.866Z",
+      "anagram": "cddeiiopr"
     }
   ]
 }
