@@ -439,6 +439,7 @@
     "aaddiimst",
     "aaddilov",
     "aaddit",
+    "aaddlmo",
     "aaddlos",
     "aaddoors",
     "aaddoost",
@@ -10396,6 +10397,10 @@
     {
       "date": "2023-11-09T16:03:54.909Z",
       "anagram": "aefiiilsst"
+    },
+    {
+      "date": "2023-11-09T20:03:50.720Z",
+      "anagram": "aaddlmo"
     }
   ]
 }
