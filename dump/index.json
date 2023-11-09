@@ -1280,6 +1280,7 @@
     "aefginr",
     "aefgorss",
     "aefhiilmo",
+    "aefiiilsst",
     "aefiirs",
     "aefilnnuz",
     "aefilv",
@@ -1792,6 +1793,7 @@
     "cioossv",
     "clmoossu",
     "cloortu",
+    "cmoopr",
     "cmooss",
     "cnnooorst",
     "cnoorrsttu",
@@ -10386,6 +10388,14 @@
     {
       "date": "2023-11-09T12:04:54.997Z",
       "anagram": "aabceemrrr"
+    },
+    {
+      "date": "2023-11-09T16:03:54.831Z",
+      "anagram": "cmoopr"
+    },
+    {
+      "date": "2023-11-09T16:03:54.909Z",
+      "anagram": "aefiiilsst"
     }
   ]
 }
