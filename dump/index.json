@@ -520,6 +520,7 @@
     "aadhinno",
     "aadiimnrt",
     "aadiinssu",
+    "aadiirrt",
     "aadiisssst",
     "aadilsu",
     "aadimnot",
@@ -10371,6 +10372,10 @@
     {
       "date": "2023-11-08T20:03:50.379Z",
       "anagram": "aeelnorvv"
+    },
+    {
+      "date": "2023-11-09T00:12:01.957Z",
+      "anagram": "aadiirrt"
     }
   ]
 }
