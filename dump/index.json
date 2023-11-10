@@ -1711,6 +1711,7 @@
     "ceeilnott",
     "ceeilnst",
     "ceeioprtv",
+    "ceeiors",
     "ceeiprsst",
     "ceeloosuv",
     "ceemrs",
@@ -1838,6 +1839,7 @@
     "deeoprst",
     "deeorrst",
     "defimors",
+    "defiooorr",
     "defiost",
     "degiorrsu",
     "degoossst",
@@ -10406,6 +10408,14 @@
     {
       "date": "2023-11-10T00:12:15.910Z",
       "anagram": "aaaacclor"
+    },
+    {
+      "date": "2023-11-10T12:04:49.801Z",
+      "anagram": "ceeiors"
+    },
+    {
+      "date": "2023-11-10T12:04:49.881Z",
+      "anagram": "defiooorr"
     }
   ]
 }
