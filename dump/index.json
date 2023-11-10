@@ -525,6 +525,7 @@
     "aadiinssu",
     "aadiirrt",
     "aadiisssst",
+    "aadilmtu",
     "aadilsu",
     "aadimnot",
     "aadimr",
@@ -828,6 +829,7 @@
     "abiiprrt",
     "abilnos",
     "abilnrtu",
+    "abilr",
     "abilrt",
     "abimmort",
     "abimopr",
@@ -10416,6 +10418,14 @@
     {
       "date": "2023-11-10T12:04:49.881Z",
       "anagram": "defiooorr"
+    },
+    {
+      "date": "2023-11-10T16:03:59.899Z",
+      "anagram": "abilr"
+    },
+    {
+      "date": "2023-11-10T16:04:00.004Z",
+      "anagram": "aadilmtu"
     }
   ]
 }
