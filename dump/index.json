@@ -329,6 +329,7 @@
     "aacefls",
     "aacefst",
     "aaceginn",
+    "aaceglo",
     "aacegls",
     "aacegost",
     "aacegrrs",
@@ -1648,6 +1649,7 @@
     "beiossstx",
     "belmoos",
     "bemoort",
+    "benors",
     "beoprs",
     "beorsv",
     "bfioorss",
@@ -10426,6 +10428,14 @@
     {
       "date": "2023-11-10T16:04:00.004Z",
       "anagram": "aadilmtu"
+    },
+    {
+      "date": "2023-11-10T20:03:52.718Z",
+      "anagram": "benors"
+    },
+    {
+      "date": "2023-11-10T20:03:52.855Z",
+      "anagram": "aaceglo"
     }
   ]
 }
