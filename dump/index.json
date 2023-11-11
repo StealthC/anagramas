@@ -383,6 +383,7 @@
     "aacils",
     "aacimnooz",
     "aacinnt",
+    "aacinoov",
     "aacinos",
     "aacinrruz",
     "aacinrs",
@@ -1371,6 +1372,7 @@
     "aeioqrttu",
     "aeiorrs",
     "aeiprs",
+    "aeiprt",
     "aeiqrsuz",
     "aeirsttz",
     "aeirsz",
@@ -10466,6 +10468,14 @@
     {
       "date": "2023-11-11T16:03:56.407Z",
       "anagram": "aeoopssss"
+    },
+    {
+      "date": "2023-11-11T20:03:37.703Z",
+      "anagram": "aeiprt"
+    },
+    {
+      "date": "2023-11-11T20:03:37.832Z",
+      "anagram": "aacinoov"
     }
   ]
 }
