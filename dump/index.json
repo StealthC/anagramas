@@ -206,6 +206,7 @@
     "aabceemrrr",
     "aabceflu",
     "aabcemn",
+    "aabcer",
     "aabchnnoo",
     "aabciins",
     "aabcilrr",
@@ -1414,6 +1415,7 @@
     "aenstux",
     "aentux",
     "aeooprs",
+    "aeoopssss",
     "aeoorstx",
     "aeoprss",
     "aeorrt",
@@ -10456,6 +10458,14 @@
     {
       "date": "2023-11-11T12:04:27.994Z",
       "anagram": "almopu"
+    },
+    {
+      "date": "2023-11-11T16:03:56.316Z",
+      "anagram": "aabcer"
+    },
+    {
+      "date": "2023-11-11T16:03:56.407Z",
+      "anagram": "aeoopssss"
     }
   ]
 }
