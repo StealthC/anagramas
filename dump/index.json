@@ -1566,6 +1566,7 @@
     "airsv",
     "ajmoru",
     "almnopru",
+    "almopu",
     "alnooprt",
     "alopps",
     "aloptu",
@@ -2078,6 +2079,7 @@
     "inoorsu",
     "inoosss",
     "inoosv",
+    "inort",
     "iooopprstt",
     "iooopst",
     "iooprs",
@@ -10446,6 +10448,14 @@
     {
       "date": "2023-11-11T00:12:17.891Z",
       "anagram": "aaabdhist"
+    },
+    {
+      "date": "2023-11-11T12:04:27.921Z",
+      "anagram": "inort"
+    },
+    {
+      "date": "2023-11-11T12:04:27.994Z",
+      "anagram": "almopu"
     }
   ]
 }
