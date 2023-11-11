@@ -38,6 +38,7 @@
     "aaabcrr",
     "aaabdelms",
     "aaabdelst",
+    "aaabdhist",
     "aaabdnnor",
     "aaabdoost",
     "aaabdrrs",
@@ -906,6 +907,7 @@
     "acdegnoo",
     "acdeiimn",
     "acdeiint",
+    "acdeilm",
     "acdeilsu",
     "acdeilux",
     "acdeim",
@@ -10436,6 +10438,14 @@
     {
       "date": "2023-11-10T20:03:52.855Z",
       "anagram": "aaceglo"
+    },
+    {
+      "date": "2023-11-11T00:12:17.770Z",
+      "anagram": "acdeilm"
+    },
+    {
+      "date": "2023-11-11T00:12:17.891Z",
+      "anagram": "aaabdhist"
     }
   ]
 }
