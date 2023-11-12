@@ -1496,6 +1496,7 @@
     "ahilqu",
     "ahilrrt",
     "ahinnop",
+    "ahinnost",
     "ahinoqssu",
     "ahiost",
     "ahiot",
@@ -10481,6 +10482,10 @@
     {
       "date": "2023-11-12T00:13:13.806Z",
       "anagram": "aopru"
+    },
+    {
+      "date": "2023-11-12T12:04:31.766Z",
+      "anagram": "ahinnost"
     }
   ]
 }
