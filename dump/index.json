@@ -1597,6 +1597,7 @@
     "aoprst",
     "aoprsu",
     "aoprt",
+    "aopru",
     "aoqrtu",
     "aorrsst",
     "aorrtu",
@@ -10476,6 +10477,10 @@
     {
       "date": "2023-11-11T20:03:37.832Z",
       "anagram": "aacinoov"
+    },
+    {
+      "date": "2023-11-12T00:13:13.806Z",
+      "anagram": "aopru"
     }
   ]
 }
