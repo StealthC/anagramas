@@ -1235,6 +1235,7 @@
     "aeefgipr",
     "aeefilnt",
     "aeefilrvx",
+    "aeefimnr",
     "aeefinprs",
     "aeefiprt",
     "aeefrrr",
@@ -10486,6 +10487,10 @@
     {
       "date": "2023-11-12T12:04:31.766Z",
       "anagram": "ahinnost"
+    },
+    {
+      "date": "2023-11-12T16:04:06.202Z",
+      "anagram": "aeefimnr"
     }
   ]
 }
