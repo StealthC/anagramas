@@ -194,6 +194,7 @@
     "aaajnrrr",
     "aaalnrttu",
     "aaamrrs",
+    "aaanrt",
     "aaapsst",
     "aabboor",
     "aabbrs",
@@ -516,6 +517,7 @@
     "aadfrtu",
     "aadginoo",
     "aadginru",
+    "aadgio",
     "aadglnsu",
     "aadgloss",
     "aadglou",
@@ -10521,6 +10523,14 @@
     {
       "date": "2023-11-13T12:05:16.003Z",
       "anagram": "dilmossu"
+    },
+    {
+      "date": "2023-11-13T16:03:59.727Z",
+      "anagram": "aadgio"
+    },
+    {
+      "date": "2023-11-13T16:03:59.829Z",
+      "anagram": "aaanrt"
     }
   ]
 }
