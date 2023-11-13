@@ -60,6 +60,7 @@
     "aaaccosu",
     "aaaccsst",
     "aaacddelr",
+    "aaacddest",
     "aaacddmoo",
     "aaacdemss",
     "aaacdeuv",
@@ -991,6 +992,7 @@
     "aceinrss",
     "aceioquv",
     "aceiot",
+    "aceippst",
     "acellru",
     "aceloopt",
     "acelot",
@@ -10531,6 +10533,14 @@
     {
       "date": "2023-11-13T16:03:59.829Z",
       "anagram": "aaanrt"
+    },
+    {
+      "date": "2023-11-13T20:03:27.463Z",
+      "anagram": "aceippst"
+    },
+    {
+      "date": "2023-11-13T20:03:27.531Z",
+      "anagram": "aaacddest"
     }
   ]
 }
