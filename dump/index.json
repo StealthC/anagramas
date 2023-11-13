@@ -1065,6 +1065,7 @@
     "acmoopt",
     "acmorr",
     "acmossu",
+    "acnnoott",
     "acnotu",
     "acoopr",
     "acoorr",
@@ -1191,6 +1192,7 @@
     "adiimnsu",
     "adiimot",
     "adiinoorr",
+    "adiinrv",
     "adiintuv",
     "adiiossst",
     "adiiprss",
@@ -10501,6 +10503,14 @@
     {
       "date": "2023-11-12T20:04:01.462Z",
       "anagram": "afgorr"
+    },
+    {
+      "date": "2023-11-13T00:12:35.511Z",
+      "anagram": "adiinrv"
+    },
+    {
+      "date": "2023-11-13T00:12:35.604Z",
+      "anagram": "acnnoott"
     }
   ]
 }
