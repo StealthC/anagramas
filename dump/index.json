@@ -1004,6 +1004,7 @@
     "acenoox",
     "acenoru",
     "acenrrsu",
+    "acenrruv",
     "acenrs",
     "aceooprr",
     "aceopr",
@@ -10541,6 +10542,10 @@
     {
       "date": "2023-11-13T20:03:27.531Z",
       "anagram": "aaacddest"
+    },
+    {
+      "date": "2023-11-14T00:12:11.873Z",
+      "anagram": "acenrruv"
     }
   ]
 }
