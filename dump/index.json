@@ -1,6 +1,8 @@
 {
   "anagrams": [
+    "aadiln",
     "acenrruv",
+    "agorsss",
     "cdiijoru"
   ],
   "byDate": [
@@ -11,6 +13,14 @@
     {
       "date": "2023-11-14T08:04:31.681Z",
       "anagram": "acenrruv"
+    },
+    {
+      "date": "2023-11-14T12:05:21.262Z",
+      "anagram": "agorsss"
+    },
+    {
+      "date": "2023-11-14T12:05:21.310Z",
+      "anagram": "aadiln"
     }
   ]
 }
