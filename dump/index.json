@@ -1,11 +1,16 @@
 {
   "anagrams": [
+    "acenrruv",
     "cdiijoru"
   ],
   "byDate": [
     {
       "date": "2023-11-14T04:03:57.081Z",
       "anagram": "cdiijoru"
+    },
+    {
+      "date": "2023-11-14T08:04:31.681Z",
+      "anagram": "acenrruv"
     }
   ]
 }
