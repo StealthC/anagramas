@@ -1,9 +1,11 @@
 {
   "anagrams": [
     "aaacddemr",
+    "aaadegillz",
     "aadiln",
     "abimoss",
     "acenrruv",
+    "aciiimprs",
     "agorsss",
     "cdiijoru"
   ],
@@ -31,6 +33,14 @@
     {
       "date": "2023-11-14T16:03:46.950Z",
       "anagram": "aaacddemr"
+    },
+    {
+      "date": "2023-11-14T20:03:38.067Z",
+      "anagram": "aaadegillz"
+    },
+    {
+      "date": "2023-11-14T20:03:38.149Z",
+      "anagram": "aciiimprs"
     }
   ]
 }
