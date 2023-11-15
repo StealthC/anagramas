@@ -7,6 +7,8 @@
     "acenrruv",
     "aciiimprs",
     "agorsss",
+    "ahooorrrs",
+    "beimoorrs",
     "cdiijoru"
   ],
   "byDate": [
@@ -41,6 +43,14 @@
     {
       "date": "2023-11-14T20:03:38.149Z",
       "anagram": "aciiimprs"
+    },
+    {
+      "date": "2023-11-15T00:12:14.262Z",
+      "anagram": "ahooorrrs"
+    },
+    {
+      "date": "2023-11-15T00:12:14.338Z",
+      "anagram": "beimoorrs"
     }
   ]
 }
