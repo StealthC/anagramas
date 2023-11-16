@@ -1,95 +1,10 @@
 {
   "anagrams": [
-    "aaabeinnr",
-    "aaacddemr",
-    "aaadegillz",
-    "aabginss",
-    "aadenqrtu",
-    "aadiln",
-    "aagisu",
-    "abimoss",
-    "acenrruv",
-    "aciiimprs",
-    "aghlorru",
-    "agorsss",
-    "ahiilnoqtu",
-    "ahooorrrs",
-    "beimoorrs",
-    "cdiijoru",
-    "cgilooooss",
-    "efglorsu"
+    "aagisu"
   ],
   "byDate": [
     {
-      "date": "2023-11-14T04:03:57.081Z",
-      "anagram": "cdiijoru"
-    },
-    {
-      "date": "2023-11-14T08:04:31.681Z",
-      "anagram": "acenrruv"
-    },
-    {
-      "date": "2023-11-14T12:05:21.262Z",
-      "anagram": "agorsss"
-    },
-    {
-      "date": "2023-11-14T12:05:21.310Z",
-      "anagram": "aadiln"
-    },
-    {
-      "date": "2023-11-14T16:03:46.912Z",
-      "anagram": "abimoss"
-    },
-    {
-      "date": "2023-11-14T16:03:46.950Z",
-      "anagram": "aaacddemr"
-    },
-    {
-      "date": "2023-11-14T20:03:38.067Z",
-      "anagram": "aaadegillz"
-    },
-    {
-      "date": "2023-11-14T20:03:38.149Z",
-      "anagram": "aciiimprs"
-    },
-    {
-      "date": "2023-11-15T00:12:14.262Z",
-      "anagram": "ahooorrrs"
-    },
-    {
-      "date": "2023-11-15T00:12:14.338Z",
-      "anagram": "beimoorrs"
-    },
-    {
-      "date": "2023-11-15T12:05:12.074Z",
-      "anagram": "efglorsu"
-    },
-    {
-      "date": "2023-11-15T12:05:12.129Z",
-      "anagram": "aghlorru"
-    },
-    {
-      "date": "2023-11-15T16:03:54.407Z",
-      "anagram": "aaabeinnr"
-    },
-    {
-      "date": "2023-11-15T16:03:54.436Z",
-      "anagram": "aadenqrtu"
-    },
-    {
-      "date": "2023-11-15T20:03:43.522Z",
-      "anagram": "cgilooooss"
-    },
-    {
-      "date": "2023-11-15T20:03:43.571Z",
-      "anagram": "ahiilnoqtu"
-    },
-    {
-      "date": "2023-11-16T00:12:18.565Z",
-      "anagram": "aabginss"
-    },
-    {
-      "date": "2023-11-16T00:12:18.584Z",
+      "date": "2023-11-16T04:04:28.346Z",
       "anagram": "aagisu"
     }
   ]
