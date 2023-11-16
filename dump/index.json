@@ -1,11 +1,16 @@
 {
   "anagrams": [
+    "aabginss",
     "aagisu"
   ],
   "byDate": [
     {
       "date": "2023-11-16T04:04:28.346Z",
       "anagram": "aagisu"
+    },
+    {
+      "date": "2023-11-16T08:04:18.696Z",
+      "anagram": "aabginss"
     }
   ]
 }
