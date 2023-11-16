@@ -1,7 +1,9 @@
 {
   "anagrams": [
     "aabginss",
-    "aagisu"
+    "aagisu",
+    "acnoostt",
+    "adenoss"
   ],
   "byDate": [
     {
@@ -11,6 +13,14 @@
     {
       "date": "2023-11-16T08:04:18.696Z",
       "anagram": "aabginss"
+    },
+    {
+      "date": "2023-11-16T12:04:58.962Z",
+      "anagram": "adenoss"
+    },
+    {
+      "date": "2023-11-16T12:04:58.979Z",
+      "anagram": "acnoostt"
     }
   ]
 }
