@@ -2,6 +2,7 @@
   "anagrams": [
     "aaadestvx",
     "aabginss",
+    "aaceruv",
     "aadgsu",
     "aagisu",
     "abcer",
@@ -11,6 +12,7 @@
     "aeenrstx",
     "aeilmtuv",
     "aiprstu",
+    "beeorrsz",
     "ceeeinprst",
     "ddeeiinsst",
     "inost"
@@ -71,6 +73,14 @@
     {
       "date": "2023-11-17T16:05:44.129Z",
       "anagram": "aeilmtuv"
+    },
+    {
+      "date": "2023-11-17T20:03:40.725Z",
+      "anagram": "beeorrsz"
+    },
+    {
+      "date": "2023-11-17T20:03:40.743Z",
+      "anagram": "aaceruv"
     }
   ]
 }
