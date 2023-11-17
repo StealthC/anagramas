@@ -9,8 +9,10 @@
     "adddeiinst",
     "adenoss",
     "aeenrstx",
+    "aeilmtuv",
     "aiprstu",
     "ceeeinprst",
+    "ddeeiinsst",
     "inost"
   ],
   "byDate": [
@@ -61,6 +63,14 @@
     {
       "date": "2023-11-17T12:05:01.815Z",
       "anagram": "aeenrstx"
+    },
+    {
+      "date": "2023-11-17T16:05:44.065Z",
+      "anagram": "ddeeiinsst"
+    },
+    {
+      "date": "2023-11-17T16:05:44.129Z",
+      "anagram": "aeilmtuv"
     }
   ]
 }
