@@ -3,6 +3,7 @@
     "aaadestvx",
     "aabginss",
     "aaceruv",
+    "aacnp",
     "aadgsu",
     "aaegmrz",
     "aagisu",
@@ -20,6 +21,7 @@
     "ceeeinprst",
     "ddeeiinsst",
     "deorrtu",
+    "eeelnopv",
     "ehlnotu",
     "inost"
   ],
@@ -111,6 +113,14 @@
     {
       "date": "2023-11-18T16:03:52.982Z",
       "anagram": "aaegmrz"
+    },
+    {
+      "date": "2023-11-18T20:03:31.691Z",
+      "anagram": "eeelnopv"
+    },
+    {
+      "date": "2023-11-18T20:03:31.710Z",
+      "anagram": "aacnp"
     }
   ]
 }
