@@ -4,6 +4,7 @@
     "aabginss",
     "aaceruv",
     "aadgsu",
+    "aaegmrz",
     "aagisu",
     "abcer",
     "abemrrtu",
@@ -12,6 +13,7 @@
     "adenoss",
     "aeegnt",
     "aeenrstx",
+    "aegrr",
     "aeilmtuv",
     "aiprstu",
     "beeorrsz",
@@ -101,6 +103,14 @@
     {
       "date": "2023-11-18T12:04:30.099Z",
       "anagram": "deorrtu"
+    },
+    {
+      "date": "2023-11-18T16:03:52.965Z",
+      "anagram": "aegrr"
+    },
+    {
+      "date": "2023-11-18T16:03:52.982Z",
+      "anagram": "aaegmrz"
     }
   ]
 }
