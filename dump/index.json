@@ -17,6 +17,8 @@
     "beeorrsz",
     "ceeeinprst",
     "ddeeiinsst",
+    "deorrtu",
+    "ehlnotu",
     "inost"
   ],
   "byDate": [
@@ -91,6 +93,14 @@
     {
       "date": "2023-11-18T00:12:07.033Z",
       "anagram": "abemrrtu"
+    },
+    {
+      "date": "2023-11-18T12:04:30.058Z",
+      "anagram": "ehlnotu"
+    },
+    {
+      "date": "2023-11-18T12:04:30.099Z",
+      "anagram": "deorrtu"
     }
   ]
 }
