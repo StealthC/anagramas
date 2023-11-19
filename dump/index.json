@@ -4,6 +4,7 @@
     "aabginss",
     "aaceruv",
     "aacnp",
+    "aadeeggrs",
     "aadgsu",
     "aaegmrz",
     "aagisu",
@@ -14,6 +15,7 @@
     "adddeiinst",
     "adeeenprr",
     "adenoss",
+    "adortu",
     "aeegnt",
     "aeenrstx",
     "aegrr",
@@ -141,6 +143,14 @@
     {
       "date": "2023-11-19T12:04:29.602Z",
       "anagram": "aeilorv"
+    },
+    {
+      "date": "2023-11-19T16:03:51.913Z",
+      "anagram": "aadeeggrs"
+    },
+    {
+      "date": "2023-11-19T16:03:51.955Z",
+      "anagram": "adortu"
     }
   ]
 }
