@@ -11,11 +11,13 @@
     "abemrrtu",
     "acnoostt",
     "adddeiinst",
+    "adeeenprr",
     "adenoss",
     "aeegnt",
     "aeenrstx",
     "aegrr",
     "aeilmtuv",
+    "aelrv",
     "aiprstu",
     "beeorrsz",
     "ceeeinprst",
@@ -121,6 +123,14 @@
     {
       "date": "2023-11-18T20:03:31.710Z",
       "anagram": "aacnp"
+    },
+    {
+      "date": "2023-11-19T00:13:24.865Z",
+      "anagram": "aelrv"
+    },
+    {
+      "date": "2023-11-19T00:13:24.896Z",
+      "anagram": "adeeenprr"
     }
   ]
 }
