@@ -1,6 +1,7 @@
 {
   "anagrams": [
     "aaadestvx",
+    "aaadfost",
     "aabginss",
     "aaceruv",
     "aacnp",
@@ -151,6 +152,10 @@
     {
       "date": "2023-11-19T16:03:51.955Z",
       "anagram": "adortu"
+    },
+    {
+      "date": "2023-11-19T20:03:33.811Z",
+      "anagram": "aaadfost"
     }
   ]
 }
