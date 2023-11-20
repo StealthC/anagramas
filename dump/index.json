@@ -11,6 +11,7 @@
     "aadgsu",
     "aadioop",
     "aaegmrz",
+    "aaginos",
     "aagisu",
     "aaort",
     "abcer",
@@ -28,6 +29,7 @@
     "aegrr",
     "aeilmtuv",
     "aeilorv",
+    "aeilrt",
     "aelrv",
     "aiprstu",
     "beeorrsz",
@@ -186,6 +188,14 @@
     {
       "date": "2023-11-20T16:03:53.467Z",
       "anagram": "aaccdloo"
+    },
+    {
+      "date": "2023-11-20T20:03:48.022Z",
+      "anagram": "aeilrt"
+    },
+    {
+      "date": "2023-11-20T20:03:48.063Z",
+      "anagram": "aaginos"
     }
   ]
 }
