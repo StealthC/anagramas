@@ -4,6 +4,7 @@
     "aaadestvx",
     "aaadfost",
     "aabginss",
+    "aaccdloo",
     "aaceruv",
     "aacnp",
     "aadeeggrs",
@@ -18,6 +19,7 @@
     "aclors",
     "acnoostt",
     "adddeiinst",
+    "addoops",
     "adeeenprr",
     "adenoss",
     "adortu",
@@ -176,6 +178,14 @@
     {
       "date": "2023-11-20T12:05:43.569Z",
       "anagram": "aadioop"
+    },
+    {
+      "date": "2023-11-20T16:03:53.431Z",
+      "anagram": "addoops"
+    },
+    {
+      "date": "2023-11-20T16:03:53.467Z",
+      "anagram": "aaccdloo"
     }
   ]
 }
