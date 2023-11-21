@@ -27,6 +27,7 @@
     "addoops",
     "adeeenprr",
     "adenoss",
+    "adenost",
     "adortu",
     "aeegnt",
     "aeenrstx",
@@ -226,6 +227,10 @@
     {
       "date": "2023-11-21T16:03:56.744Z",
       "anagram": "aciss"
+    },
+    {
+      "date": "2023-11-21T20:03:44.691Z",
+      "anagram": "adenost"
     }
   ]
 }
