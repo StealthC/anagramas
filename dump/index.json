@@ -13,12 +13,14 @@
     "aadioop",
     "aaegilnt",
     "aaegmrz",
+    "aaflss",
     "aaginos",
     "aagisu",
     "aaort",
     "abcer",
     "abemrrtu",
     "achmos",
+    "aciss",
     "aclors",
     "acnoostt",
     "adddeiinst",
@@ -216,6 +218,14 @@
     {
       "date": "2023-11-21T12:05:22.790Z",
       "anagram": "aaaddegrrs"
+    },
+    {
+      "date": "2023-11-21T16:03:56.703Z",
+      "anagram": "aaflss"
+    },
+    {
+      "date": "2023-11-21T16:03:56.744Z",
+      "anagram": "aciss"
     }
   ]
 }
