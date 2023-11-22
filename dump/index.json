@@ -18,7 +18,9 @@
     "aagisu",
     "aaort",
     "abcer",
+    "abejoss",
     "abemrrtu",
+    "acdeinnou",
     "achmos",
     "aciss",
     "aclors",
@@ -231,6 +233,14 @@
     {
       "date": "2023-11-21T20:03:44.691Z",
       "anagram": "adenost"
+    },
+    {
+      "date": "2023-11-22T00:14:16.545Z",
+      "anagram": "acdeinnou"
+    },
+    {
+      "date": "2023-11-22T00:14:16.576Z",
+      "anagram": "abejoss"
     }
   ]
 }
