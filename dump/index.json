@@ -16,6 +16,7 @@
     "aaflss",
     "aaginos",
     "aagisu",
+    "aaipps",
     "aaort",
     "abcer",
     "abejoss",
@@ -241,6 +242,11 @@
     {
       "date": "2023-11-22T00:14:16.576Z",
       "anagram": "abejoss"
+    },
+    {
+      "date": "2023-11-22T12:05:08.667Z",
+      "anagram": "aaipps"
     }
   ]
+}
 }
