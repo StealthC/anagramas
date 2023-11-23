@@ -1,8 +1,10 @@
 {
   "anagrams": [
+    "aaeimnrr",
     "aceeinsss",
     "adeirt",
     "aeeprrsz",
+    "deioprsss",
     "eiirrsttu"
   ],
   "byDate": [
@@ -21,6 +23,14 @@
     {
       "date": "2023-11-22T20:03:48.413Z",
       "anagram": "aeeprrsz"
+    },
+    {
+      "date": "2023-11-23T00:12:26.254Z",
+      "anagram": "aaeimnrr"
+    },
+    {
+      "date": "2023-11-23T00:12:26.325Z",
+      "anagram": "deioprsss"
     }
   ]
 }
