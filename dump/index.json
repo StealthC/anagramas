@@ -2,9 +2,11 @@
   "anagrams": [
     "aaaacdhn",
     "aaaceilt",
+    "aabcemns",
     "aabdorr",
     "aaceittx",
     "aachls",
+    "aaefilnr",
     "aaeimnrr",
     "aaiimmrxz",
     "aceeinsss",
@@ -81,6 +83,14 @@
     {
       "date": "2023-11-24T12:05:11.834Z",
       "anagram": "acemno"
+    },
+    {
+      "date": "2023-11-24T16:04:10.253Z",
+      "anagram": "aaefilnr"
+    },
+    {
+      "date": "2023-11-24T16:04:10.271Z",
+      "anagram": "aabcemns"
     }
   ]
 }
