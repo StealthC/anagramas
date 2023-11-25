@@ -2,6 +2,8 @@
   "anagrams": [
     "aaaabcdhlo",
     "aaaacdhn",
+    "aaaacdnr",
+    "aaaadistv",
     "aaaceilt",
     "aaaddilt",
     "aaadmrru",
@@ -131,6 +133,14 @@
     {
       "date": "2023-11-25T16:03:59.965Z",
       "anagram": "aaagjrstu"
+    },
+    {
+      "date": "2023-11-25T20:03:53.331Z",
+      "anagram": "aaaacdnr"
+    },
+    {
+      "date": "2023-11-25T20:03:53.336Z",
+      "anagram": "aaaadistv"
     }
   ]
 }
