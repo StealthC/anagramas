@@ -3,7 +3,9 @@
     "aaaabcdhlo",
     "aaaacdhn",
     "aaaceilt",
+    "aaaddilt",
     "aaadmrru",
+    "aaagjrstu",
     "aabcemns",
     "aabdorr",
     "aaceittx",
@@ -121,6 +123,14 @@
     {
       "date": "2023-11-25T12:04:29.470Z",
       "anagram": "afgirru"
+    },
+    {
+      "date": "2023-11-25T16:03:59.932Z",
+      "anagram": "aaaddilt"
+    },
+    {
+      "date": "2023-11-25T16:03:59.965Z",
+      "anagram": "aaagjrstu"
     }
   ]
 }
