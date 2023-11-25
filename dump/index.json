@@ -19,6 +19,8 @@
     "aeeprrsz",
     "aeinnstv",
     "aelorrt",
+    "afgirru",
+    "bceejoos",
     "cgilnoooot",
     "deioprsss",
     "eiirrsttu"
@@ -111,6 +113,14 @@
     {
       "date": "2023-11-25T00:11:52.563Z",
       "anagram": "aaaabcdhlo"
+    },
+    {
+      "date": "2023-11-25T12:04:29.428Z",
+      "anagram": "bceejoos"
+    },
+    {
+      "date": "2023-11-25T12:04:29.470Z",
+      "anagram": "afgirru"
     }
   ]
 }
