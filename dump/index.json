@@ -17,6 +17,7 @@
     "aadelu",
     "aaefilnr",
     "aaeimnrr",
+    "aaelnqu",
     "aaiimmrxz",
     "aceeinsss",
     "acemno",
@@ -29,6 +30,7 @@
     "afgirru",
     "ainnossu",
     "bceejoos",
+    "ceeiortx",
     "cgilnoooot",
     "deioprsss",
     "eiirrsttu"
@@ -161,6 +163,14 @@
     {
       "date": "2023-11-26T12:04:47.652Z",
       "anagram": "aadelu"
+    },
+    {
+      "date": "2023-11-26T16:03:35.583Z",
+      "anagram": "aaelnqu"
+    },
+    {
+      "date": "2023-11-26T16:03:35.646Z",
+      "anagram": "ceeiortx"
     }
   ]
 }
