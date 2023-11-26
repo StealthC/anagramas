@@ -4,6 +4,7 @@
     "aaaacdhn",
     "aaaacdnr",
     "aaaadistv",
+    "aaabcr",
     "aaaceilt",
     "aaaciov",
     "aaaddilt",
@@ -28,6 +29,7 @@
     "aelorrt",
     "aelrz",
     "afgirru",
+    "aiiiorrrs",
     "ainnossu",
     "bceejoos",
     "ceeiortx",
@@ -171,6 +173,14 @@
     {
       "date": "2023-11-26T16:03:35.646Z",
       "anagram": "ceeiortx"
+    },
+    {
+      "date": "2023-11-26T20:03:39.438Z",
+      "anagram": "aaabcr"
+    },
+    {
+      "date": "2023-11-26T20:03:39.684Z",
+      "anagram": "aiiiorrrs"
     }
   ]
 }
