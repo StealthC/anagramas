@@ -14,6 +14,7 @@
     "aabdorr",
     "aaceittx",
     "aachls",
+    "aaciiintv",
     "aaddeix",
     "aadelu",
     "aaefilnr",
@@ -33,6 +34,7 @@
     "aiiiorrrs",
     "ainnossu",
     "bceejoos",
+    "beglrsuu",
     "ceeiortx",
     "cgilnoooot",
     "deioprsss",
@@ -191,6 +193,14 @@
     {
       "date": "2023-11-27T00:13:35.214Z",
       "anagram": "ilosv"
+    },
+    {
+      "date": "2023-11-27T12:05:48.372Z",
+      "anagram": "beglrsuu"
+    },
+    {
+      "date": "2023-11-27T12:05:48.392Z",
+      "anagram": "aaciiintv"
     }
   ]
 }
