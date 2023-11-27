@@ -23,6 +23,7 @@
     "aceeinsss",
     "acemno",
     "adeirt",
+    "adinrtuu",
     "aeefirt",
     "aeeprrsz",
     "aeinnstv",
@@ -35,7 +36,8 @@
     "ceeiortx",
     "cgilnoooot",
     "deioprsss",
-    "eiirrsttu"
+    "eiirrsttu",
+    "ilosv"
   ],
   "byDate": [
     {
@@ -181,6 +183,14 @@
     {
       "date": "2023-11-26T20:03:39.684Z",
       "anagram": "aiiiorrrs"
+    },
+    {
+      "date": "2023-11-27T00:13:35.201Z",
+      "anagram": "adinrtuu"
+    },
+    {
+      "date": "2023-11-27T00:13:35.214Z",
+      "anagram": "ilosv"
     }
   ]
 }
