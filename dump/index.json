@@ -27,9 +27,11 @@
     "abddeiot",
     "aceeinsss",
     "acemno",
+    "acos",
     "adeefiprr",
     "adeirt",
     "adinrtuu",
+    "adior",
     "aeefirt",
     "aeeprrsz",
     "aeinnstv",
@@ -251,6 +253,14 @@
     {
       "date": "2023-11-28T16:03:54.942Z",
       "anagram": "aaailnrss"
+    },
+    {
+      "date": "2023-11-28T20:03:51.896Z",
+      "anagram": "acos"
+    },
+    {
+      "date": "2023-11-28T20:03:51.915Z",
+      "anagram": "adior"
     }
   ]
 }
