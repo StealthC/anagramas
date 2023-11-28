@@ -7,6 +7,7 @@
     "aaabcr",
     "aaaceilt",
     "aaaciov",
+    "aaacmorr",
     "aaaddilt",
     "aaadmrru",
     "aaagjrstu",
@@ -41,6 +42,7 @@
     "cgilnoooot",
     "deioprsss",
     "dgiorsu",
+    "eelooprt",
     "eginnou",
     "eiirrsttu",
     "ilosv"
@@ -221,6 +223,14 @@
     {
       "date": "2023-11-27T20:03:55.498Z",
       "anagram": "adeefiprr"
+    },
+    {
+      "date": "2023-11-28T00:12:25.780Z",
+      "anagram": "eelooprt"
+    },
+    {
+      "date": "2023-11-28T00:12:25.847Z",
+      "anagram": "aaacmorr"
     }
   ]
 }
