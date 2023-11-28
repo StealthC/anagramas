@@ -11,6 +11,7 @@
     "aaaddilt",
     "aaadmrru",
     "aaagjrstu",
+    "aaailnrss",
     "aabcemns",
     "aabdorr",
     "aacdgos",
@@ -23,6 +24,7 @@
     "aaeimnrr",
     "aaelnqu",
     "aaiimmrxz",
+    "abddeiot",
     "aceeinsss",
     "acemno",
     "adeefiprr",
@@ -241,6 +243,14 @@
     {
       "date": "2023-11-28T12:05:17.674Z",
       "anagram": "ceimnotu"
+    },
+    {
+      "date": "2023-11-28T16:03:54.897Z",
+      "anagram": "abddeiot"
+    },
+    {
+      "date": "2023-11-28T16:03:54.942Z",
+      "anagram": "aaailnrss"
     }
   ]
 }
