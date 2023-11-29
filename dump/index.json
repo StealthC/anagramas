@@ -20,6 +20,7 @@
     "aaciiintv",
     "aaddeix",
     "aadelu",
+    "aadhilno",
     "aaefilnr",
     "aaeimnrr",
     "aaelnqu",
@@ -46,6 +47,7 @@
     "bceejoos",
     "beglrsuu",
     "ceeiortx",
+    "cehiilqsu",
     "ceimnotu",
     "cgilnoooot",
     "deioprsss",
@@ -271,6 +273,14 @@
     {
       "date": "2023-11-29T00:12:37.904Z",
       "anagram": "acehilns"
+    },
+    {
+      "date": "2023-11-29T12:05:07.386Z",
+      "anagram": "cehiilqsu"
+    },
+    {
+      "date": "2023-11-29T12:05:07.449Z",
+      "anagram": "aadhilno"
     }
   ]
 }
