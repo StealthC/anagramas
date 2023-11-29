@@ -29,6 +29,7 @@
     "aceeinsss",
     "acehilns",
     "acemno",
+    "aciimssstu",
     "acos",
     "adeefiprr",
     "adeirt",
@@ -36,6 +37,7 @@
     "adior",
     "aeefirt",
     "aeeprrsz",
+    "aegiinrrt",
     "aeinnstv",
     "aelorrt",
     "aelrz",
@@ -281,6 +283,14 @@
     {
       "date": "2023-11-29T12:05:07.449Z",
       "anagram": "aadhilno"
+    },
+    {
+      "date": "2023-11-29T16:03:55.842Z",
+      "anagram": "aciimssstu"
+    },
+    {
+      "date": "2023-11-29T16:03:55.937Z",
+      "anagram": "aegiinrrt"
     }
   ]
 }
