@@ -23,6 +23,7 @@
     "aadenrrr",
     "aadhilno",
     "aaefilnr",
+    "aaegjnrr",
     "aaeimnrr",
     "aaelnqu",
     "aaiimmrxz",
@@ -60,6 +61,7 @@
     "dgiorsu",
     "eelooprt",
     "eginnou",
+    "eiinrrs",
     "eiirrsttu",
     "ilosv"
   ],
@@ -311,6 +313,14 @@
     {
       "date": "2023-11-30T00:12:21.534Z",
       "anagram": "deooprt"
+    },
+    {
+      "date": "2023-11-30T12:05:09.947Z",
+      "anagram": "eiinrrs"
+    },
+    {
+      "date": "2023-11-30T12:05:10.160Z",
+      "anagram": "aaegjnrr"
     }
   ]
 }
