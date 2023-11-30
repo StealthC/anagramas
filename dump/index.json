@@ -43,9 +43,11 @@
     "aeeprrsz",
     "aegiinrrt",
     "aeinnstv",
+    "aejmoosst",
     "aelorrt",
     "aelrz",
     "aeors",
+    "aepqrsu",
     "afgirru",
     "ahioorrrrz",
     "aiiiorrrs",
@@ -331,6 +333,14 @@
     {
       "date": "2023-11-30T16:04:00.846Z",
       "anagram": "aaiimpst"
+    },
+    {
+      "date": "2023-11-30T20:03:39.128Z",
+      "anagram": "aepqrsu"
+    },
+    {
+      "date": "2023-11-30T20:03:39.148Z",
+      "anagram": "aejmoosst"
     }
   ]
 }
