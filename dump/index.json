@@ -22,6 +22,7 @@
     "aadelu",
     "aadenrrr",
     "aadhilno",
+    "aadilmno",
     "aaefilnr",
     "aaegjnrr",
     "aaeimnrr",
@@ -51,6 +52,7 @@
     "aelorrt",
     "aelrz",
     "aeors",
+    "aeorst",
     "aepqrsu",
     "afgirru",
     "ahioorrrrz",
@@ -371,6 +373,14 @@
     {
       "date": "2023-12-01T16:04:14.737Z",
       "anagram": "eegiopss"
+    },
+    {
+      "date": "2023-12-01T20:03:50.419Z",
+      "anagram": "aeorst"
+    },
+    {
+      "date": "2023-12-01T20:03:50.434Z",
+      "anagram": "aadilmno"
     }
   ]
 }
