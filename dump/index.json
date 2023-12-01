@@ -30,6 +30,7 @@
     "aaiimpst",
     "abcnosu",
     "abddeiot",
+    "aborrs",
     "aceeinsss",
     "acehilns",
     "acemno",
@@ -67,6 +68,7 @@
     "deioprsss",
     "deooprt",
     "dgiorsu",
+    "eegiopss",
     "eelooprt",
     "eginnou",
     "eiinrrs",
@@ -361,6 +363,14 @@
     {
       "date": "2023-12-01T12:05:03.721Z",
       "anagram": "dddeiosuz"
+    },
+    {
+      "date": "2023-12-01T16:04:14.716Z",
+      "anagram": "aborrs"
+    },
+    {
+      "date": "2023-12-01T16:04:14.737Z",
+      "anagram": "eegiopss"
     }
   ]
 }
