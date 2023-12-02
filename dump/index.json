@@ -10,6 +10,7 @@
     "aaacmorr",
     "aaaddilt",
     "aaadmrru",
+    "aaaelprrv",
     "aaagjrstu",
     "aaailnrss",
     "aabcemns",
@@ -43,6 +44,7 @@
     "adeeilno",
     "adeirt",
     "adelstu",
+    "adfilouz",
     "adinrtuu",
     "adior",
     "aeefirt",
@@ -401,6 +403,14 @@
     {
       "date": "2023-12-02T12:04:21.539Z",
       "anagram": "adelstu"
+    },
+    {
+      "date": "2023-12-02T16:03:38.793Z",
+      "anagram": "adfilouz"
+    },
+    {
+      "date": "2023-12-02T16:03:38.841Z",
+      "anagram": "aaaelprrv"
     }
   ]
 }
