@@ -42,6 +42,7 @@
     "adeefiprr",
     "adeeilno",
     "adeirt",
+    "adelstu",
     "adinrtuu",
     "adior",
     "aeefirt",
@@ -62,6 +63,7 @@
     "ainnossu",
     "bceejoos",
     "beglrsuu",
+    "bijlosu",
     "cceeiiorsx",
     "ceeiortx",
     "ceenoostt",
@@ -391,6 +393,14 @@
     {
       "date": "2023-12-02T00:12:09.057Z",
       "anagram": "aaimnqsu"
+    },
+    {
+      "date": "2023-12-02T12:04:21.498Z",
+      "anagram": "bijlosu"
+    },
+    {
+      "date": "2023-12-02T12:04:21.539Z",
+      "anagram": "adelstu"
     }
   ]
 }
