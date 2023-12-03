@@ -9,6 +9,7 @@
     "aaaciov",
     "aaacmorr",
     "aaaddilt",
+    "aaadejmn",
     "aaadmrru",
     "aaaelprrv",
     "aaagjrstu",
@@ -39,6 +40,7 @@
     "aceeinsss",
     "acehilns",
     "acemno",
+    "aceooprr",
     "aciimssstu",
     "acos",
     "adeefiprr",
@@ -421,6 +423,14 @@
     {
       "date": "2023-12-02T20:03:49.772Z",
       "anagram": "acdeior"
+    },
+    {
+      "date": "2023-12-03T00:13:44.012Z",
+      "anagram": "aaadejmn"
+    },
+    {
+      "date": "2023-12-03T00:13:44.117Z",
+      "anagram": "aceooprr"
     }
   ]
 }
