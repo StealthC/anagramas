@@ -14,6 +14,7 @@
     "aaaelprrv",
     "aaagjrstu",
     "aaailnrss",
+    "aaalrrst",
     "aabcemns",
     "aabdorr",
     "aacdgos",
@@ -64,6 +65,7 @@
     "aehlort",
     "aeinnstv",
     "aejmoosst",
+    "aelnrt",
     "aelorrt",
     "aelrz",
     "aenostv",
@@ -471,6 +473,14 @@
     {
       "date": "2023-12-04T00:12:49.423Z",
       "anagram": "aaciov"
+    },
+    {
+      "date": "2023-12-04T12:05:02.612Z",
+      "anagram": "aelnrt"
+    },
+    {
+      "date": "2023-12-04T12:05:02.626Z",
+      "anagram": "aaalrrst"
     }
   ]
 }
