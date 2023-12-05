@@ -41,6 +41,7 @@
     "aaimnqsu",
     "abcnosu",
     "abddeiot",
+    "abiilmo",
     "aborrs",
     "acdegiimr",
     "acdeior",
@@ -84,6 +85,7 @@
     "bceejoos",
     "beglrsuu",
     "bijlosu",
+    "boorsu",
     "cceeiiorsx",
     "cdeeinsst",
     "ceeiortx",
@@ -526,6 +528,14 @@
     {
       "date": "2023-12-05T16:04:02.478Z",
       "anagram": "ceoprrsu"
+    },
+    {
+      "date": "2023-12-05T20:03:52.492Z",
+      "anagram": "boorsu"
+    },
+    {
+      "date": "2023-12-05T20:03:52.510Z",
+      "anagram": "abiilmo"
     }
   ]
 }
