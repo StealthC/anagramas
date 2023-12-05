@@ -78,6 +78,7 @@
     "ahioorrrrz",
     "aiiiorrrs",
     "ainnossu",
+    "amopru",
     "bceejoos",
     "beglrsuu",
     "bijlosu",
@@ -96,6 +97,7 @@
     "eegiopss",
     "eelooprt",
     "eginnou",
+    "eginort",
     "eiinrrs",
     "eiirrsttu",
     "ilosv"
@@ -496,6 +498,14 @@
     {
       "date": "2023-12-04T20:03:52.501Z",
       "anagram": "ciinotv"
+    },
+    {
+      "date": "2023-12-05T00:12:59.512Z",
+      "anagram": "eginort"
+    },
+    {
+      "date": "2023-12-05T00:12:59.602Z",
+      "anagram": "amopru"
     }
   ]
 }
