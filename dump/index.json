@@ -23,6 +23,7 @@
     "aachls",
     "aaciiintv",
     "aaciov",
+    "aacloouv",
     "aaclps",
     "aaddeix",
     "aadefglrr",
@@ -89,6 +90,7 @@
     "ceenoostt",
     "cehiilqsu",
     "ceimnotu",
+    "ceoprrsu",
     "cgilnoooot",
     "ciinotv",
     "dddeiosuz",
@@ -516,6 +518,14 @@
     {
       "date": "2023-12-05T12:05:09.930Z",
       "anagram": "aeiort"
+    },
+    {
+      "date": "2023-12-05T16:04:02.411Z",
+      "anagram": "aacloouv"
+    },
+    {
+      "date": "2023-12-05T16:04:02.478Z",
+      "anagram": "ceoprrsu"
     }
   ]
 }
