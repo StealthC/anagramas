@@ -35,6 +35,7 @@
     "aaefilnr",
     "aaegjnrr",
     "aaeimnrr",
+    "aaeinnnotw",
     "aaelnqu",
     "aaiimmrxz",
     "aaiimpst",
@@ -106,6 +107,7 @@
     "eginort",
     "eiinrrs",
     "eiirrsttu",
+    "giorst",
     "ilosv"
   ],
   "byDate": [
@@ -536,6 +538,14 @@
     {
       "date": "2023-12-05T20:03:52.510Z",
       "anagram": "abiilmo"
+    },
+    {
+      "date": "2023-12-06T00:12:49.616Z",
+      "anagram": "aaeinnnotw"
+    },
+    {
+      "date": "2023-12-06T00:12:49.631Z",
+      "anagram": "giorst"
     }
   ]
 }
