@@ -67,6 +67,7 @@
     "aefiilsv",
     "aegiinrrt",
     "aegioorru",
+    "aehiimnnn",
     "aehlort",
     "aeinnstv",
     "aeiort",
@@ -100,6 +101,7 @@
     "deioprsss",
     "deooprt",
     "dgiorsu",
+    "eeeefnrrtv",
     "eegiopss",
     "eelooprt",
     "eemoorst",
@@ -546,6 +548,14 @@
     {
       "date": "2023-12-06T00:12:49.631Z",
       "anagram": "giorst"
+    },
+    {
+      "date": "2023-12-06T12:05:12.207Z",
+      "anagram": "eeeefnrrtv"
+    },
+    {
+      "date": "2023-12-06T12:05:12.269Z",
+      "anagram": "aehiimnnn"
     }
   ]
 }
