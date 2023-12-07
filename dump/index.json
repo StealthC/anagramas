@@ -40,11 +40,13 @@
     "aaeimnrr",
     "aaeinnnotw",
     "aaelnqu",
+    "aaemnst",
     "aaglmsu",
     "aaiimmrxz",
     "aaiimpst",
     "aaimnqsu",
     "aaiotv",
+    "abbeior",
     "abcnosu",
     "abddeiot",
     "abiilmo",
@@ -596,6 +598,14 @@
     {
       "date": "2023-12-07T12:05:01.884Z",
       "anagram": "deegiorsss"
+    },
+    {
+      "date": "2023-12-07T16:04:08.935Z",
+      "anagram": "abbeior"
+    },
+    {
+      "date": "2023-12-07T16:04:08.955Z",
+      "anagram": "aaemnst"
     }
   ]
 }
