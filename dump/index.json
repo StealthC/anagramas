@@ -39,6 +39,7 @@
     "aaeimnrr",
     "aaeinnnotw",
     "aaelnqu",
+    "aaglmsu",
     "aaiimmrxz",
     "aaiimpst",
     "aaimnqsu",
@@ -103,6 +104,7 @@
     "ciinotv",
     "dddeiosuz",
     "deioprsss",
+    "deiopst",
     "deooprt",
     "dgiorsu",
     "eeeefnrrtv",
@@ -576,6 +578,14 @@
     {
       "date": "2023-12-06T20:03:39.408Z",
       "anagram": "aachilsss"
+    },
+    {
+      "date": "2023-12-07T00:12:30.726Z",
+      "anagram": "deiopst"
+    },
+    {
+      "date": "2023-12-07T00:12:30.769Z",
+      "anagram": "aaglmsu"
     }
   ]
 }
