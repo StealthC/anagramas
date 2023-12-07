@@ -74,6 +74,7 @@
     "aefiilsv",
     "aegiinrrt",
     "aegioorru",
+    "aegrsv",
     "aehiimnnn",
     "aehlort",
     "aeinnstv",
@@ -107,6 +108,7 @@
     "ciinotv",
     "dddeiosuz",
     "deegiorsss",
+    "deiimoops",
     "deioprsss",
     "deiopst",
     "deooprt",
@@ -606,6 +608,14 @@
     {
       "date": "2023-12-07T16:04:08.955Z",
       "anagram": "aaemnst"
+    },
+    {
+      "date": "2023-12-07T20:03:41.974Z",
+      "anagram": "deiimoops"
+    },
+    {
+      "date": "2023-12-07T20:03:42.052Z",
+      "anagram": "aegrsv"
     }
   ]
 }
