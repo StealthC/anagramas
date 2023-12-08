@@ -70,6 +70,7 @@
     "adelstu",
     "adfilouz",
     "adgoost",
+    "adiimnsu",
     "adinrtuu",
     "adior",
     "adnoos",
@@ -112,6 +113,7 @@
     "ceoprrsu",
     "cgilnoooot",
     "ciinotv",
+    "ciloors",
     "dddeiosuz",
     "deegiorsss",
     "deiimoops",
@@ -646,6 +648,14 @@
     {
       "date": "2023-12-08T16:04:15.909Z",
       "anagram": "aaaefprrrs"
+    },
+    {
+      "date": "2023-12-08T20:04:01.025Z",
+      "anagram": "adiimnsu"
+    },
+    {
+      "date": "2023-12-08T20:04:01.060Z",
+      "anagram": "ciloors"
     }
   ]
 }
