@@ -11,6 +11,7 @@
     "aaacmorr",
     "aaaddilt",
     "aaadejmn",
+    "aaadiotv",
     "aaadmrru",
     "aaaelprrv",
     "aaagjrstu",
@@ -94,6 +95,7 @@
     "aiiiorrrs",
     "ainnossu",
     "amopru",
+    "aorsu",
     "bceejoos",
     "beglrsuu",
     "benors",
@@ -626,6 +628,14 @@
     {
       "date": "2023-12-08T00:12:58.824Z",
       "anagram": "abdisstu"
+    },
+    {
+      "date": "2023-12-08T12:05:03.172Z",
+      "anagram": "aaadiotv"
+    },
+    {
+      "date": "2023-12-08T12:05:03.303Z",
+      "anagram": "aorsu"
     }
   ]
 }
