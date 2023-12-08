@@ -49,6 +49,7 @@
     "abbeior",
     "abcnosu",
     "abddeiot",
+    "abdisstu",
     "abiilmo",
     "aborrs",
     "acdegiimr",
@@ -88,6 +89,7 @@
     "aeorst",
     "aepqrsu",
     "afgirru",
+    "agirtu",
     "ahioorrrrz",
     "aiiiorrrs",
     "ainnossu",
@@ -616,6 +618,14 @@
     {
       "date": "2023-12-07T20:03:42.052Z",
       "anagram": "aegrsv"
+    },
+    {
+      "date": "2023-12-08T00:12:58.805Z",
+      "anagram": "agirtu"
+    },
+    {
+      "date": "2023-12-08T00:12:58.824Z",
+      "anagram": "abdisstu"
     }
   ]
 }
