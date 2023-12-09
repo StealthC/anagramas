@@ -5,6 +5,7 @@
     "aaaacdnnot",
     "aaaacdnr",
     "aaaadistv",
+    "aaaadlmrtt",
     "aaabcr",
     "aaaceilt",
     "aaaciov",
@@ -88,6 +89,7 @@
     "aelnrt",
     "aelorrt",
     "aelrz",
+    "aenorrtt",
     "aenostv",
     "aeors",
     "aeorst",
@@ -656,6 +658,14 @@
     {
       "date": "2023-12-08T20:04:01.060Z",
       "anagram": "ciloors"
+    },
+    {
+      "date": "2023-12-09T00:12:26.198Z",
+      "anagram": "aaaadlmrtt"
+    },
+    {
+      "date": "2023-12-09T00:12:26.222Z",
+      "anagram": "aenorrtt"
     }
   ]
 }
