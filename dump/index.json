@@ -12,6 +12,7 @@
     "aaacmorr",
     "aaaddilt",
     "aaadejmn",
+    "aaadgilm",
     "aaadiotv",
     "aaadmrru",
     "aaaefprrrs",
@@ -96,6 +97,7 @@
     "aelrz",
     "aenorrtt",
     "aenostv",
+    "aeoprss",
     "aeors",
     "aeorst",
     "aepqrsu",
@@ -701,6 +703,14 @@
     {
       "date": "2023-12-10T00:13:53.459Z",
       "anagram": "aeiiprss"
+    },
+    {
+      "date": "2023-12-10T12:04:46.978Z",
+      "anagram": "aaadgilm"
+    },
+    {
+      "date": "2023-12-10T12:04:47.024Z",
+      "anagram": "aeoprss"
     }
   ]
 }
