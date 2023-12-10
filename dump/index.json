@@ -102,11 +102,13 @@
     "aeorst",
     "aepqrsu",
     "afgirru",
+    "afiint",
     "agirtu",
     "agort",
     "ahioorrrrz",
     "aiiiorrrs",
     "aiinnrsu",
+    "ailosuv",
     "ainnossu",
     "amopru",
     "aorsu",
@@ -711,6 +713,14 @@
     {
       "date": "2023-12-10T12:04:47.024Z",
       "anagram": "aeoprss"
+    },
+    {
+      "date": "2023-12-10T16:03:54.235Z",
+      "anagram": "afiint"
+    },
+    {
+      "date": "2023-12-10T16:03:54.258Z",
+      "anagram": "ailosuv"
     }
   ]
 }
