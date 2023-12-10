@@ -119,6 +119,7 @@
     "boorsu",
     "cceeiiorsx",
     "cdeeinsst",
+    "cdfooru",
     "ceeiortx",
     "ceenoostt",
     "cehiilqsu",
@@ -129,6 +130,7 @@
     "ciloors",
     "dddeiosuz",
     "deegiorsss",
+    "degiiosx",
     "deiimoops",
     "deioprsss",
     "deiopst",
@@ -721,6 +723,14 @@
     {
       "date": "2023-12-10T16:03:54.258Z",
       "anagram": "ailosuv"
+    },
+    {
+      "date": "2023-12-10T20:03:45.740Z",
+      "anagram": "degiiosx"
+    },
+    {
+      "date": "2023-12-10T20:03:45.773Z",
+      "anagram": "cdfooru"
     }
   ]
 }
