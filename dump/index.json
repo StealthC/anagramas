@@ -87,6 +87,7 @@
     "aegrsv",
     "aehiimnnn",
     "aehlort",
+    "aeiiprss",
     "aeinnstv",
     "aeiort",
     "aejmoosst",
@@ -100,6 +101,7 @@
     "aepqrsu",
     "afgirru",
     "agirtu",
+    "agort",
     "ahioorrrrz",
     "aiiiorrrs",
     "aiinnrsu",
@@ -691,6 +693,14 @@
     {
       "date": "2023-12-09T20:03:53.606Z",
       "anagram": "aiinnrsu"
+    },
+    {
+      "date": "2023-12-10T00:13:53.437Z",
+      "anagram": "agort"
+    },
+    {
+      "date": "2023-12-10T00:13:53.459Z",
+      "anagram": "aeiiprss"
     }
   ]
 }
