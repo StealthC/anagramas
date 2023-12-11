@@ -85,6 +85,7 @@
     "adnoos",
     "adoprs",
     "aeefirt",
+    "aeeinrrtt",
     "aeeprrsz",
     "aefiilsv",
     "aegiinrrt",
@@ -140,6 +141,7 @@
     "deiinorss",
     "deioprsss",
     "deiopst",
+    "demoost",
     "deooprt",
     "dgiorsu",
     "eeeefnrrtv",
@@ -761,6 +763,14 @@
     {
       "date": "2023-12-11T16:03:51.727Z",
       "anagram": "aceeinrtz"
+    },
+    {
+      "date": "2023-12-11T20:03:46.511Z",
+      "anagram": "demoost"
+    },
+    {
+      "date": "2023-12-11T20:03:46.529Z",
+      "anagram": "aeeinrrtt"
     }
   ]
 }
