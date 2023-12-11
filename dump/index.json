@@ -34,6 +34,7 @@
     "aacloouv",
     "aaclps",
     "aacss",
+    "aaddeint",
     "aaddeix",
     "aadefglrr",
     "aadegn",
@@ -132,6 +133,7 @@
     "deegiorsss",
     "degiiosx",
     "deiimoops",
+    "deiinorss",
     "deioprsss",
     "deiopst",
     "deooprt",
@@ -731,6 +733,14 @@
     {
       "date": "2023-12-10T20:03:45.773Z",
       "anagram": "cdfooru"
+    },
+    {
+      "date": "2023-12-11T00:13:05.034Z",
+      "anagram": "deiinorss"
+    },
+    {
+      "date": "2023-12-11T00:13:05.227Z",
+      "anagram": "aaddeint"
     }
   ]
 }
