@@ -63,8 +63,10 @@
     "aborrs",
     "acdegiimr",
     "acdeior",
+    "aceeinrtz",
     "aceeinsss",
     "acehilns",
+    "aceiopt",
     "acemno",
     "aceooprr",
     "acfir",
@@ -751,6 +753,14 @@
     {
       "date": "2023-12-11T12:05:26.854Z",
       "anagram": "aeirs"
+    },
+    {
+      "date": "2023-12-11T16:03:51.702Z",
+      "anagram": "aceiopt"
+    },
+    {
+      "date": "2023-12-11T16:03:51.727Z",
+      "anagram": "aceeinrtz"
     }
   ]
 }
