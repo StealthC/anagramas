@@ -7,6 +7,7 @@
     "aaaadistv",
     "aaaadlmrtt",
     "aaabcr",
+    "aaaccnrrs",
     "aaaceilt",
     "aaaciov",
     "aaacmorr",
@@ -60,6 +61,7 @@
     "abddeiot",
     "abdisstu",
     "abiilmo",
+    "abilost",
     "aborrs",
     "acdegiimr",
     "acdeior",
@@ -781,6 +783,14 @@
     {
       "date": "2023-12-12T00:12:50.657Z",
       "anagram": "ainotx"
+    },
+    {
+      "date": "2023-12-12T12:05:09.664Z",
+      "anagram": "abilost"
+    },
+    {
+      "date": "2023-12-12T12:05:09.686Z",
+      "anagram": "aaaccnrrs"
     }
   ]
 }
