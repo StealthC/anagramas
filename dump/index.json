@@ -13,6 +13,7 @@
     "aaacmorr",
     "aaaddilt",
     "aaadejmn",
+    "aaadelnru",
     "aaadgilm",
     "aaadiotv",
     "aaadmrru",
@@ -119,6 +120,7 @@
     "ailosuv",
     "ainnossu",
     "ainotx",
+    "almos",
     "amopru",
     "aorsu",
     "bceejoos",
@@ -791,6 +793,14 @@
     {
       "date": "2023-12-12T12:05:09.686Z",
       "anagram": "aaaccnrrs"
+    },
+    {
+      "date": "2023-12-12T16:04:00.054Z",
+      "anagram": "almos"
+    },
+    {
+      "date": "2023-12-12T16:04:00.245Z",
+      "anagram": "aaadelnru"
     }
   ]
 }
