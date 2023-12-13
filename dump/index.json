@@ -79,6 +79,7 @@
     "acos",
     "adeefiprr",
     "adeeilno",
+    "adeimrs",
     "adeirt",
     "adelstu",
     "adfilouz",
@@ -118,6 +119,7 @@
     "ahioorrrrz",
     "aiiiorrrs",
     "aiinnrsu",
+    "ailmpr",
     "ailosuv",
     "ainnossu",
     "ainotx",
@@ -811,6 +813,14 @@
     {
       "date": "2023-12-12T20:03:39.188Z",
       "anagram": "deiioopss"
+    },
+    {
+      "date": "2023-12-13T00:13:16.639Z",
+      "anagram": "ailmpr"
+    },
+    {
+      "date": "2023-12-13T00:13:16.681Z",
+      "anagram": "adeimrs"
     }
   ]
 }
