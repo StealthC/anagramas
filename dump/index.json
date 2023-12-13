@@ -45,6 +45,7 @@
     "aadenrrr",
     "aadhilno",
     "aadhnor",
+    "aadiipsst",
     "aadilmno",
     "aaefilnr",
     "aaegjnrr",
@@ -59,6 +60,7 @@
     "aaiimpst",
     "aaimnqsu",
     "aaiotv",
+    "aampps",
     "abbeior",
     "abcnosu",
     "abddeiot",
@@ -831,6 +833,14 @@
     {
       "date": "2023-12-13T12:05:08.143Z",
       "anagram": "agimopr"
+    },
+    {
+      "date": "2023-12-13T16:03:45.978Z",
+      "anagram": "aampps"
+    },
+    {
+      "date": "2023-12-13T16:03:46.014Z",
+      "anagram": "aadiipsst"
     }
   ]
 }
