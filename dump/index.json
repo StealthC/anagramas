@@ -17,6 +17,7 @@
     "aaadgilm",
     "aaadiotv",
     "aaadmrru",
+    "aaaeeinrt",
     "aaaefprrrs",
     "aaaelprrv",
     "aaagjrstu",
@@ -114,6 +115,7 @@
     "aepqrsu",
     "afgirru",
     "afiint",
+    "agimopr",
     "agirtu",
     "agort",
     "ahioorrrrz",
@@ -821,6 +823,14 @@
     {
       "date": "2023-12-13T00:13:16.681Z",
       "anagram": "adeimrs"
+    },
+    {
+      "date": "2023-12-13T12:05:08.075Z",
+      "anagram": "aaaeeinrt"
+    },
+    {
+      "date": "2023-12-13T12:05:08.143Z",
+      "anagram": "agimopr"
     }
   ]
 }
