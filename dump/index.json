@@ -1,11 +1,21 @@
 {
   "anagrams": [
+    "aaagmr",
+    "eefmnnoos",
     "iiimmosstu"
   ],
   "byDate": [
     {
       "date": "2023-12-14T08:04:21.866Z",
       "anagram": "iiimmosstu"
+    },
+    {
+      "date": "2023-12-14T12:04:57.497Z",
+      "anagram": "aaagmr"
+    },
+    {
+      "date": "2023-12-14T12:04:57.515Z",
+      "anagram": "eefmnnoos"
     }
   ]
 }
