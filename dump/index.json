@@ -89,6 +89,7 @@
     "adfilouz",
     "adgoost",
     "adiimnsu",
+    "adiiotv",
     "adinrtuu",
     "adior",
     "adnoos",
@@ -169,6 +170,7 @@
     "eiinrrs",
     "eiirrsttu",
     "giorst",
+    "iiimmosstu",
     "ilosv"
   ],
   "byDate": [
@@ -851,6 +853,14 @@
     {
       "date": "2023-12-13T20:04:07.389Z",
       "anagram": "cdeeorsu"
+    },
+    {
+      "date": "2023-12-14T00:12:36.037Z",
+      "anagram": "adiiotv"
+    },
+    {
+      "date": "2023-12-14T00:12:36.062Z",
+      "anagram": "iiimmosstu"
     }
   ]
 }
