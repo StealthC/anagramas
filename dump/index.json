@@ -1,7 +1,9 @@
 {
   "anagrams": [
+    "aaaadmprs",
     "aaacinnru",
     "aaagmr",
+    "aadeenosv",
     "aeeirs",
     "eefmnnoos",
     "iiimmosstu"
@@ -26,6 +28,14 @@
     {
       "date": "2023-12-14T16:03:48.618Z",
       "anagram": "aaacinnru"
+    },
+    {
+      "date": "2023-12-14T20:03:43.150Z",
+      "anagram": "aaaadmprs"
+    },
+    {
+      "date": "2023-12-14T20:03:43.181Z",
+      "anagram": "aadeenosv"
     }
   ]
 }
