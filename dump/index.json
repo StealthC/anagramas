@@ -6,7 +6,9 @@
     "aaagmr",
     "aacdil",
     "aadeenosv",
+    "adjnotu",
     "aeeirs",
+    "cloosu",
     "eefmnnoos",
     "iiimmosstu"
   ],
@@ -46,6 +48,14 @@
     {
       "date": "2023-12-15T00:12:57.705Z",
       "anagram": "aacdil"
+    },
+    {
+      "date": "2023-12-15T12:05:13.078Z",
+      "anagram": "cloosu"
+    },
+    {
+      "date": "2023-12-15T12:05:13.138Z",
+      "anagram": "adjnotu"
     }
   ]
 }
