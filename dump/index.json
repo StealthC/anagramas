@@ -8,9 +8,11 @@
     "aachno",
     "aadeenosv",
     "abcdimssuu",
+    "aciilnov",
     "adeeefnrrs",
     "adjnotu",
     "aeeirs",
+    "aioorr",
     "cloosu",
     "eeeiorrstx",
     "eefmnnoos",
@@ -76,6 +78,14 @@
     {
       "date": "2023-12-15T20:03:42.024Z",
       "anagram": "abcdimssuu"
+    },
+    {
+      "date": "2023-12-16T00:12:33.456Z",
+      "anagram": "aioorr"
+    },
+    {
+      "date": "2023-12-16T00:12:33.544Z",
+      "anagram": "aciilnov"
     }
   ]
 }
