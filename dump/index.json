@@ -7,6 +7,7 @@
     "aacdil",
     "aachno",
     "aadeenosv",
+    "aaeglsz",
     "abcdimssuu",
     "aciilnov",
     "adeeefnrrs",
@@ -14,6 +15,7 @@
     "aeeirs",
     "aioorr",
     "cloosu",
+    "eeeilstt",
     "eeeiorrstx",
     "eefmnnoos",
     "iiimmosstu"
@@ -86,6 +88,14 @@
     {
       "date": "2023-12-16T00:12:33.544Z",
       "anagram": "aciilnov"
+    },
+    {
+      "date": "2023-12-16T12:05:02.491Z",
+      "anagram": "eeeilstt"
+    },
+    {
+      "date": "2023-12-16T12:05:02.512Z",
+      "anagram": "aaeglsz"
     }
   ]
 }
