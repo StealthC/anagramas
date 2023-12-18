@@ -24,9 +24,11 @@
     "adiopr",
     "adjnotu",
     "aeeirs",
+    "aelnotv",
     "aioorr",
     "arsu",
     "bdimosuz",
+    "cfiioooss",
     "cloosu",
     "diioprs",
     "eeeilstt",
@@ -166,6 +168,14 @@
     {
       "date": "2023-12-18T00:13:13.218Z",
       "anagram": "aaaiqrstuu"
+    },
+    {
+      "date": "2023-12-18T12:05:07.489Z",
+      "anagram": "cfiioooss"
+    },
+    {
+      "date": "2023-12-18T12:05:07.503Z",
+      "anagram": "aelnotv"
     }
   ]
 }
