@@ -9,6 +9,7 @@
     "aaaiqrstuu",
     "aaccfiinou",
     "aacdil",
+    "aacdnru",
     "aachno",
     "aadeempr",
     "aadeenosv",
@@ -36,6 +37,7 @@
     "eeeilstt",
     "eeeiorrstx",
     "eefmnnoos",
+    "fhmmoooors",
     "iiimmosstu"
   ],
   "byDate": [
@@ -186,6 +188,14 @@
     {
       "date": "2023-12-18T16:04:00.998Z",
       "anagram": "aeoprrs"
+    },
+    {
+      "date": "2023-12-18T20:03:59.826Z",
+      "anagram": "fhmmoooors"
+    },
+    {
+      "date": "2023-12-18T20:03:59.892Z",
+      "anagram": "aacdnru"
     }
   ]
 }
