@@ -7,6 +7,7 @@
     "aaacinnru",
     "aaagmr",
     "aaaiqrstuu",
+    "aaccfiinou",
     "aacdil",
     "aachno",
     "aadeempr",
@@ -25,6 +26,7 @@
     "adjnotu",
     "aeeirs",
     "aelnotv",
+    "aeoprrs",
     "aioorr",
     "arsu",
     "bdimosuz",
@@ -176,6 +178,14 @@
     {
       "date": "2023-12-18T12:05:07.503Z",
       "anagram": "aelnotv"
+    },
+    {
+      "date": "2023-12-18T16:04:00.860Z",
+      "anagram": "aaccfiinou"
+    },
+    {
+      "date": "2023-12-18T16:04:00.998Z",
+      "anagram": "aeoprrs"
     }
   ]
 }
