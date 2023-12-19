@@ -11,6 +11,7 @@
     "aacdil",
     "aacdnru",
     "aachno",
+    "aacnrs",
     "aadeempr",
     "aadeenosv",
     "aadfio",
@@ -30,6 +31,7 @@
     "aeeirs",
     "aelnotv",
     "aeoprrs",
+    "ailms",
     "aioorr",
     "arsu",
     "bdimosuz",
@@ -206,6 +208,14 @@
     {
       "date": "2023-12-19T00:12:42.083Z",
       "anagram": "accdostuu"
+    },
+    {
+      "date": "2023-12-19T12:05:18.095Z",
+      "anagram": "ailms"
+    },
+    {
+      "date": "2023-12-19T12:05:18.128Z",
+      "anagram": "aacnrs"
     }
   ]
 }
