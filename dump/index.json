@@ -35,6 +35,8 @@
     "aioorr",
     "arsu",
     "bdimosuz",
+    "cdhiiimoos",
+    "ceeeeilors",
     "cfiioooss",
     "cloosu",
     "diioprs",
@@ -216,6 +218,14 @@
     {
       "date": "2023-12-19T12:05:18.128Z",
       "anagram": "aacnrs"
+    },
+    {
+      "date": "2023-12-19T16:04:02.500Z",
+      "anagram": "cdhiiimoos"
+    },
+    {
+      "date": "2023-12-19T16:04:02.577Z",
+      "anagram": "ceeeeilors"
     }
   ]
 }
