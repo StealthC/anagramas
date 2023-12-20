@@ -11,9 +11,11 @@
     "aaccfiinou",
     "aacdil",
     "aacdnru",
+    "aaceegnrrr",
     "aachno",
     "aaciimns",
     "aacnrs",
+    "aacrs",
     "aadeempr",
     "aadeenosv",
     "aadfio",
@@ -256,6 +258,14 @@
     {
       "date": "2023-12-20T12:04:38.180Z",
       "anagram": "ciiloor"
+    },
+    {
+      "date": "2023-12-20T16:03:51.014Z",
+      "anagram": "aacrs"
+    },
+    {
+      "date": "2023-12-20T16:03:51.123Z",
+      "anagram": "aaceegnrrr"
     }
   ]
 }
