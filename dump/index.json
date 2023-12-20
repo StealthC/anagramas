@@ -11,6 +11,7 @@
     "aacdil",
     "aacdnru",
     "aachno",
+    "aaciimns",
     "aacnrs",
     "aadeempr",
     "aadeenosv",
@@ -236,6 +237,10 @@
     {
       "date": "2023-12-19T20:03:31.917Z",
       "anagram": "aesst"
+    },
+    {
+      "date": "2023-12-20T00:10:43.753Z",
+      "anagram": "aaciimns"
     }
   ]
 }
