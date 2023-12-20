@@ -20,6 +20,7 @@
     "aadgmos",
     "aadmorr",
     "aaeglsz",
+    "aaijlv",
     "aainqtu",
     "abcdimssuu",
     "accdostuu",
@@ -42,6 +43,7 @@
     "cdhiiimoos",
     "ceeeeilors",
     "cfiioooss",
+    "ciiloor",
     "cloosu",
     "diioprs",
     "eeeilstt",
@@ -246,6 +248,14 @@
     {
       "date": "2023-12-20T04:03:54.120Z",
       "anagram": "aaaegmorr"
+    },
+    {
+      "date": "2023-12-20T12:04:38.154Z",
+      "anagram": "aaijlv"
+    },
+    {
+      "date": "2023-12-20T12:04:38.180Z",
+      "anagram": "ciiloor"
     }
   ]
 }
