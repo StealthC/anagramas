@@ -1,7 +1,9 @@
 {
   "anagrams": [
     "aaaccdo",
-    "acdeenot"
+    "aadlrs",
+    "acdeenot",
+    "eeimos"
   ],
   "byDate": [
     {
@@ -11,6 +13,14 @@
     {
       "date": "2023-12-21T08:04:08.419Z",
       "anagram": "acdeenot"
+    },
+    {
+      "date": "2023-12-21T12:04:52.450Z",
+      "anagram": "eeimos"
+    },
+    {
+      "date": "2023-12-21T12:04:52.550Z",
+      "anagram": "aadlrs"
     }
   ]
 }
