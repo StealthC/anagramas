@@ -3,6 +3,7 @@
     "aaaadmprs",
     "aaaanrtz",
     "aaabddlo",
+    "aaaccdo",
     "aaacdegrr",
     "aaacinnru",
     "aaaegmorr",
@@ -27,6 +28,7 @@
     "aainqtu",
     "abcdimssuu",
     "accdostuu",
+    "acdeenot",
     "acdeorrr",
     "acdeort",
     "aciilnov",
@@ -276,6 +278,14 @@
     {
       "date": "2023-12-20T20:03:33.717Z",
       "anagram": "acdeorrr"
+    },
+    {
+      "date": "2023-12-21T00:12:35.752Z",
+      "anagram": "aaaccdo"
+    },
+    {
+      "date": "2023-12-21T00:12:35.783Z",
+      "anagram": "acdeenot"
     }
   ]
 }
