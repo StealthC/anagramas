@@ -4,8 +4,10 @@
     "aacinor",
     "aadlrs",
     "acdeenot",
+    "adeeenqux",
     "eefgiiorrr",
-    "eeimos"
+    "eeimos",
+    "eeoorss"
   ],
   "byDate": [
     {
@@ -31,6 +33,14 @@
     {
       "date": "2023-12-21T16:04:00.941Z",
       "anagram": "aacinor"
+    },
+    {
+      "date": "2023-12-21T20:03:41.448Z",
+      "anagram": "eeoorss"
+    },
+    {
+      "date": "2023-12-21T20:03:41.524Z",
+      "anagram": "adeeenqux"
     }
   ]
 }
