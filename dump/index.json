@@ -5,6 +5,8 @@
     "aadlrs",
     "acdeenot",
     "adeeenqux",
+    "adlmoos",
+    "aeipsst",
     "aimrs",
     "eefgiiorrr",
     "eeimos",
@@ -51,6 +53,14 @@
     {
       "date": "2023-12-22T00:12:42.189Z",
       "anagram": "aimrs"
+    },
+    {
+      "date": "2023-12-22T12:04:55.676Z",
+      "anagram": "adlmoos"
+    },
+    {
+      "date": "2023-12-22T12:04:55.702Z",
+      "anagram": "aeipsst"
     }
   ]
 }
