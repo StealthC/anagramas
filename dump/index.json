@@ -3,6 +3,7 @@
     "aaaccdo",
     "aaacipst",
     "aaaipps",
+    "aabisx",
     "aacinor",
     "aadlrs",
     "abeehmnrr",
@@ -13,6 +14,7 @@
     "aeipsst",
     "aenoors",
     "aimrs",
+    "celnou",
     "eefgiiorrr",
     "eeimos",
     "eeoorss",
@@ -91,6 +93,14 @@
     {
       "date": "2023-12-23T00:12:14.055Z",
       "anagram": "himnoorst"
+    },
+    {
+      "date": "2023-12-23T12:04:21.547Z",
+      "anagram": "celnou"
+    },
+    {
+      "date": "2023-12-23T12:04:21.593Z",
+      "anagram": "aabisx"
     }
   ]
 }
