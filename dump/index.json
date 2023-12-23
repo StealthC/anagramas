@@ -12,8 +12,10 @@
     "acdeenot",
     "adeeenqux",
     "adlmoos",
+    "aeglrsu",
     "aeipsst",
     "aenoors",
+    "aeprx",
     "aimrs",
     "cdeos",
     "celnou",
@@ -111,6 +113,14 @@
     {
       "date": "2023-12-23T16:03:47.674Z",
       "anagram": "accciilno"
+    },
+    {
+      "date": "2023-12-23T20:03:31.002Z",
+      "anagram": "aeprx"
+    },
+    {
+      "date": "2023-12-23T20:03:31.066Z",
+      "anagram": "aeglrsu"
     }
   ]
 }
