@@ -7,6 +7,7 @@
     "aabisx",
     "aacinor",
     "aadlrs",
+    "aagiimnr",
     "abeehmnrr",
     "abijoot",
     "accciilno",
@@ -20,6 +21,7 @@
     "aenoors",
     "aeprx",
     "aimrs",
+    "bdiimosu",
     "cdeos",
     "celnou",
     "eefgiiorrr",
@@ -141,6 +143,14 @@
     {
       "date": "2023-12-24T12:04:48.490Z",
       "anagram": "adeefimno"
+    },
+    {
+      "date": "2023-12-24T16:04:09.664Z",
+      "anagram": "bdiimosu"
+    },
+    {
+      "date": "2023-12-24T16:04:09.687Z",
+      "anagram": "aagiimnr"
     }
   ]
 }
