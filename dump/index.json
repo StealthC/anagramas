@@ -3,6 +3,7 @@
     "aaaccdo",
     "aaacipst",
     "aaaipps",
+    "aabcdenoo",
     "aabisx",
     "aacinor",
     "aadlrs",
@@ -23,6 +24,7 @@
     "eeimos",
     "eeoorss",
     "eijost",
+    "eioprt",
     "himnoorst"
   ],
   "byDate": [
@@ -121,6 +123,14 @@
     {
       "date": "2023-12-23T20:03:31.066Z",
       "anagram": "aeglrsu"
+    },
+    {
+      "date": "2023-12-24T00:13:50.722Z",
+      "anagram": "eioprt"
+    },
+    {
+      "date": "2023-12-24T00:13:50.809Z",
+      "anagram": "aabcdenoo"
     }
   ]
 }
