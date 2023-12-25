@@ -1,6 +1,7 @@
 {
   "anagrams": [
     "aaaccdo",
+    "aaacdhot",
     "aaacipst",
     "aaaipps",
     "aabcdenoo",
@@ -8,6 +9,7 @@
     "aabisx",
     "aaceiptt",
     "aacinor",
+    "aadilrt",
     "aadlrs",
     "aafinr",
     "aagiimnr",
@@ -191,6 +193,14 @@
     {
       "date": "2023-12-25T16:03:48.108Z",
       "anagram": "abceeorrr"
+    },
+    {
+      "date": "2023-12-25T20:03:51.304Z",
+      "anagram": "aaacdhot"
+    },
+    {
+      "date": "2023-12-25T20:03:51.330Z",
+      "anagram": "aadilrt"
     }
   ]
 }
