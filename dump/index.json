@@ -4,6 +4,7 @@
     "aaacipst",
     "aaaipps",
     "aabcdenoo",
+    "aabciloo",
     "aabisx",
     "aaceiptt",
     "aacinor",
@@ -17,6 +18,7 @@
     "aceelssx",
     "adeeenqux",
     "adeefimno",
+    "adhiosv",
     "adlmoos",
     "aeglrsu",
     "aeipsst",
@@ -171,6 +173,14 @@
     {
       "date": "2023-12-25T00:13:23.916Z",
       "anagram": "aaceiptt"
+    },
+    {
+      "date": "2023-12-25T12:04:53.944Z",
+      "anagram": "aabciloo"
+    },
+    {
+      "date": "2023-12-25T12:04:54.013Z",
+      "anagram": "adhiosv"
     }
   ]
 }
