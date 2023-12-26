@@ -9,6 +9,8 @@
     "aabisx",
     "aaceiptt",
     "aacinor",
+    "aaddiimt",
+    "aadiinstu",
     "aadilrt",
     "aadlrs",
     "aafinr",
@@ -201,6 +203,14 @@
     {
       "date": "2023-12-25T20:03:51.330Z",
       "anagram": "aadilrt"
+    },
+    {
+      "date": "2023-12-26T00:12:07.449Z",
+      "anagram": "aadiinstu"
+    },
+    {
+      "date": "2023-12-26T00:12:07.462Z",
+      "anagram": "aaddiimt"
     }
   ]
 }
