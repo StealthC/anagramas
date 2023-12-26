@@ -7,6 +7,7 @@
     "aaalmno",
     "aabcdenoo",
     "aabciloo",
+    "aabdnoos",
     "aabisx",
     "aacddes",
     "aaceiptt",
@@ -37,6 +38,7 @@
     "aimrs",
     "bdiimosu",
     "cdeos",
+    "ceeinot",
     "celnou",
     "coopr",
     "eefgiiorrr",
@@ -231,6 +233,14 @@
     {
       "date": "2023-12-26T16:03:50.086Z",
       "anagram": "aaalmno"
+    },
+    {
+      "date": "2023-12-26T20:03:50.345Z",
+      "anagram": "aabdnoos"
+    },
+    {
+      "date": "2023-12-26T20:03:50.361Z",
+      "anagram": "ceeinot"
     }
   ]
 }
