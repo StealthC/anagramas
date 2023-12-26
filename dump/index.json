@@ -11,12 +11,14 @@
     "aacinor",
     "aaddiimt",
     "aadiinstu",
+    "aadilpr",
     "aadilrt",
     "aadlrs",
     "aafinr",
     "aagiimnr",
     "abceeorrr",
     "abeehmnrr",
+    "abhinrrsu",
     "abijoot",
     "accciilno",
     "acdeenot",
@@ -211,6 +213,14 @@
     {
       "date": "2023-12-26T00:12:07.462Z",
       "anagram": "aaddiimt"
+    },
+    {
+      "date": "2023-12-26T12:04:41.702Z",
+      "anagram": "aadilpr"
+    },
+    {
+      "date": "2023-12-26T12:04:41.719Z",
+      "anagram": "abhinrrsu"
     }
   ]
 }
