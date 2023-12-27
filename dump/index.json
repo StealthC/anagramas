@@ -1,7 +1,9 @@
 {
   "anagrams": [
     "aceeilrt",
-    "acelru"
+    "acelru",
+    "acoss",
+    "adeems"
   ],
   "byDate": [
     {
@@ -11,6 +13,14 @@
     {
       "date": "2023-12-27T16:03:45.528Z",
       "anagram": "acelru"
+    },
+    {
+      "date": "2023-12-27T20:03:53.011Z",
+      "anagram": "adeems"
+    },
+    {
+      "date": "2023-12-27T20:03:53.037Z",
+      "anagram": "acoss"
     }
   ]
 }
