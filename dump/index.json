@@ -13,6 +13,7 @@
     "aaceiptt",
     "aacinor",
     "aaddiimt",
+    "aadiimstv",
     "aadiinstu",
     "aadilpr",
     "aadilrt",
@@ -47,7 +48,8 @@
     "efiilmort",
     "eijost",
     "eioprt",
-    "himnoorst"
+    "himnoorst",
+    "nnoortu"
   ],
   "byDate": [
     {
@@ -241,6 +243,14 @@
     {
       "date": "2023-12-26T20:03:50.361Z",
       "anagram": "ceeinot"
+    },
+    {
+      "date": "2023-12-27T00:12:09.651Z",
+      "anagram": "nnoortu"
+    },
+    {
+      "date": "2023-12-27T00:12:09.689Z",
+      "anagram": "aadiimstv"
     }
   ]
 }
