@@ -1,5 +1,6 @@
 {
   "anagrams": [
+    "aaepqrru",
     "accilru",
     "aceeilrt",
     "acelru",
@@ -7,7 +8,8 @@
     "adeems",
     "afors",
     "ceeiimort",
-    "eeooprrsss"
+    "eeooprrsss",
+    "eiloopsvx"
   ],
   "byDate": [
     {
@@ -41,6 +43,14 @@
     {
       "date": "2023-12-28T12:04:45.601Z",
       "anagram": "ceeiimort"
+    },
+    {
+      "date": "2023-12-28T16:03:57.523Z",
+      "anagram": "eiloopsvx"
+    },
+    {
+      "date": "2023-12-28T16:03:57.574Z",
+      "anagram": "aaepqrru"
     }
   ]
 }
