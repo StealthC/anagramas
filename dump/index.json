@@ -1,5 +1,7 @@
 {
   "anagrams": [
+    "aaabcdis",
+    "aaelrrx",
     "aaepqrru",
     "accilru",
     "aceeilrt",
@@ -51,6 +53,14 @@
     {
       "date": "2023-12-28T16:03:57.574Z",
       "anagram": "aaepqrru"
+    },
+    {
+      "date": "2023-12-28T20:03:50.650Z",
+      "anagram": "aaelrrx"
+    },
+    {
+      "date": "2023-12-28T20:03:50.817Z",
+      "anagram": "aaabcdis"
     }
   ]
 }
