@@ -3,6 +3,7 @@
     "aaabcdis",
     "aaelrrx",
     "aaepqrru",
+    "aaginpst",
     "accdioot",
     "acceiinno",
     "accilru",
@@ -10,6 +11,7 @@
     "acelru",
     "acoss",
     "adeems",
+    "aeefilmnnt",
     "afors",
     "ceeiimort",
     "eeooprrsss",
@@ -71,6 +73,14 @@
     {
       "date": "2023-12-29T00:10:45.065Z",
       "anagram": "acceiinno"
+    },
+    {
+      "date": "2023-12-29T12:04:44.528Z",
+      "anagram": "aeefilmnnt"
+    },
+    {
+      "date": "2023-12-29T12:04:44.537Z",
+      "anagram": "aaginpst"
     }
   ]
 }
