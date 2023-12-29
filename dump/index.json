@@ -1,6 +1,7 @@
 {
   "anagrams": [
     "aaabcdis",
+    "aaccfiipr",
     "aaelrrx",
     "aaepqrru",
     "aaginpst",
@@ -15,6 +16,7 @@
     "adeems",
     "aeefilmnnt",
     "afors",
+    "beoqssu",
     "ceeiimort",
     "eeooprrsss",
     "eiloopsvx"
@@ -91,6 +93,14 @@
     {
       "date": "2023-12-29T16:03:44.917Z",
       "anagram": "aceelmu"
+    },
+    {
+      "date": "2023-12-29T20:03:37.460Z",
+      "anagram": "aaccfiipr"
+    },
+    {
+      "date": "2023-12-29T20:03:37.472Z",
+      "anagram": "beoqssu"
     }
   ]
 }
