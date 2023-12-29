@@ -4,10 +4,12 @@
     "aaelrrx",
     "aaepqrru",
     "aaginpst",
+    "abddeiot",
     "accdioot",
     "acceiinno",
     "accilru",
     "aceeilrt",
+    "aceelmu",
     "acelru",
     "acoss",
     "adeems",
@@ -81,6 +83,14 @@
     {
       "date": "2023-12-29T12:04:44.537Z",
       "anagram": "aaginpst"
+    },
+    {
+      "date": "2023-12-29T16:03:44.901Z",
+      "anagram": "abddeiot"
+    },
+    {
+      "date": "2023-12-29T16:03:44.917Z",
+      "anagram": "aceelmu"
     }
   ]
 }
