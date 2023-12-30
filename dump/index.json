@@ -7,6 +7,7 @@
     "aaccfiipr",
     "aacdmos",
     "aaclmssu",
+    "aadmors",
     "aaelrrx",
     "aaepqrru",
     "aaginpst",
@@ -22,6 +23,7 @@
     "adelrsuux",
     "aeefilmnnt",
     "afors",
+    "aioorssv",
     "beoqssu",
     "ceeiimort",
     "eeooprrsss",
@@ -131,6 +133,14 @@
     {
       "date": "2023-12-30T16:03:54.803Z",
       "anagram": "aaaddefgos"
+    },
+    {
+      "date": "2023-12-30T20:03:50.798Z",
+      "anagram": "aadmors"
+    },
+    {
+      "date": "2023-12-30T20:03:50.835Z",
+      "anagram": "aioorssv"
     }
   ]
 }
