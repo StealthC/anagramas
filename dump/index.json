@@ -1,9 +1,11 @@
 {
   "anagrams": [
+    "aaaaadrrtx",
     "aaabcdis",
     "aabcdhu",
     "aaccfiipr",
     "aacdmos",
+    "aaclmssu",
     "aaelrrx",
     "aaepqrru",
     "aaginpst",
@@ -111,6 +113,14 @@
     {
       "date": "2023-12-30T00:12:30.187Z",
       "anagram": "aacdmos"
+    },
+    {
+      "date": "2023-12-30T12:04:36.144Z",
+      "anagram": "aaaaadrrtx"
+    },
+    {
+      "date": "2023-12-30T12:04:36.178Z",
+      "anagram": "aaclmssu"
     }
   ]
 }
