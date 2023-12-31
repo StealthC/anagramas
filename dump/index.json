@@ -6,6 +6,7 @@
     "aaaddilp",
     "aaadgimsst",
     "aabcdhu",
+    "aabdnru",
     "aaccfiipr",
     "aacdmos",
     "aaclmssu",
@@ -22,6 +23,7 @@
     "aceiiilnnp",
     "acelru",
     "acfiiiort",
+    "acopr",
     "acoss",
     "adeems",
     "adelrsuux",
@@ -171,6 +173,14 @@
     {
       "date": "2023-12-31T16:04:09.639Z",
       "anagram": "acfiiiort"
+    },
+    {
+      "date": "2023-12-31T20:03:51.007Z",
+      "anagram": "aabdnru"
+    },
+    {
+      "date": "2023-12-31T20:03:51.106Z",
+      "anagram": "acopr"
     }
   ]
 }
