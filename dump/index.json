@@ -3,6 +3,7 @@
     "aaaaadrrtx",
     "aaabcdis",
     "aaaddefgos",
+    "aaaddilp",
     "aabcdhu",
     "aaccfiipr",
     "aacdmos",
@@ -25,6 +26,7 @@
     "afors",
     "aioorssv",
     "beoqssu",
+    "cceennoosv",
     "ceeiimort",
     "eeooprrsss",
     "eiloopsvx"
@@ -141,6 +143,14 @@
     {
       "date": "2023-12-30T20:03:50.835Z",
       "anagram": "aioorssv"
+    },
+    {
+      "date": "2023-12-31T00:14:03.864Z",
+      "anagram": "cceennoosv"
+    },
+    {
+      "date": "2023-12-31T00:14:03.963Z",
+      "anagram": "aaaddilp"
     }
   ]
 }
