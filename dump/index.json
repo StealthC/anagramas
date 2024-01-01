@@ -16,6 +16,7 @@
     "aaepqrru",
     "aaginpst",
     "aaillnno",
+    "aanostv",
     "abddeiot",
     "accdioot",
     "acceiinno",
@@ -32,6 +33,7 @@
     "adelrsuux",
     "aeefilmnnt",
     "aeeijlos",
+    "afimr",
     "afors",
     "aioorssv",
     "alost",
@@ -201,6 +203,14 @@
     {
       "date": "2024-01-01T12:05:01.050Z",
       "anagram": "acefmottu"
+    },
+    {
+      "date": "2024-01-01T16:03:38.651Z",
+      "anagram": "afimr"
+    },
+    {
+      "date": "2024-01-01T16:03:38.714Z",
+      "anagram": "aanostv"
     }
   ]
 }
