@@ -2,6 +2,7 @@
   "anagrams": [
     "aaaaadrrtx",
     "aaabcdis",
+    "aaabdginr",
     "aaaddefgos",
     "aaaddilp",
     "aaadgimsst",
@@ -40,6 +41,7 @@
     "beoqssu",
     "cceennoosv",
     "ceeiimort",
+    "cehstu",
     "eeooprrsss",
     "eiloopsvx"
   ],
@@ -211,6 +213,14 @@
     {
       "date": "2024-01-01T16:03:38.714Z",
       "anagram": "aanostv"
+    },
+    {
+      "date": "2024-01-01T20:03:45.227Z",
+      "anagram": "cehstu"
+    },
+    {
+      "date": "2024-01-01T20:03:45.294Z",
+      "anagram": "aaabdginr"
     }
   ]
 }
