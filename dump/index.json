@@ -7,6 +7,7 @@
     "aaadgimsst",
     "aabcdhu",
     "aabdnru",
+    "aabhinnno",
     "aaccfiipr",
     "aacdmos",
     "aaclmssu",
@@ -31,6 +32,7 @@
     "aeeijlos",
     "afors",
     "aioorssv",
+    "alost",
     "beoqssu",
     "cceennoosv",
     "ceeiimort",
@@ -181,6 +183,14 @@
     {
       "date": "2023-12-31T20:03:51.106Z",
       "anagram": "acopr"
+    },
+    {
+      "date": "2024-01-01T00:14:12.890Z",
+      "anagram": "alost"
+    },
+    {
+      "date": "2024-01-01T00:14:12.976Z",
+      "anagram": "aabhinnno"
     }
   ]
 }
