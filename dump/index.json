@@ -15,12 +15,14 @@
     "aaelrrx",
     "aaepqrru",
     "aaginpst",
+    "aaillnno",
     "abddeiot",
     "accdioot",
     "acceiinno",
     "accilru",
     "aceeilrt",
     "aceelmu",
+    "acefmottu",
     "aceiiilnnp",
     "acelru",
     "acfiiiort",
@@ -191,6 +193,14 @@
     {
       "date": "2024-01-01T00:14:12.976Z",
       "anagram": "aabhinnno"
+    },
+    {
+      "date": "2024-01-01T12:05:00.999Z",
+      "anagram": "aaillnno"
+    },
+    {
+      "date": "2024-01-01T12:05:01.050Z",
+      "anagram": "acefmottu"
     }
   ]
 }
