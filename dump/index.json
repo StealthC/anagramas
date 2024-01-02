@@ -16,6 +16,7 @@
     "aaelrrx",
     "aaepqrru",
     "aafist",
+    "aaflnsu",
     "aagilr",
     "aaginpst",
     "aaillnno",
@@ -48,6 +49,7 @@
     "cceennoosv",
     "ceeiimort",
     "cehstu",
+    "eeilorrt",
     "eeooprrsss",
     "eiloopsvx"
   ],
@@ -251,6 +253,14 @@
     {
       "date": "2024-01-02T16:03:52.691Z",
       "anagram": "abeost"
+    },
+    {
+      "date": "2024-01-02T20:03:52.685Z",
+      "anagram": "eeilorrt"
+    },
+    {
+      "date": "2024-01-02T20:03:52.935Z",
+      "anagram": "aaflnsu"
     }
   ]
 }
