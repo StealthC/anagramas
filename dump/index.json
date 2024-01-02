@@ -22,6 +22,7 @@
     "aaioqrsu",
     "aanostv",
     "abddeiot",
+    "abeost",
     "accdioot",
     "acceiinno",
     "accilru",
@@ -31,6 +32,7 @@
     "aceiiilnnp",
     "acelru",
     "acfiiiort",
+    "aciot",
     "acopr",
     "acoss",
     "adeeinrt",
@@ -241,6 +243,14 @@
     {
       "date": "2024-01-02T12:04:55.992Z",
       "anagram": "adeeinrt"
+    },
+    {
+      "date": "2024-01-02T16:03:52.672Z",
+      "anagram": "aciot"
+    },
+    {
+      "date": "2024-01-02T16:03:52.691Z",
+      "anagram": "abeost"
     }
   ]
 }
