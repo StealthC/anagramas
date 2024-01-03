@@ -1,9 +1,11 @@
 {
   "anagrams": [
     "aaaaadrrtx",
+    "aaaabcdin",
     "aaaaclprr",
     "aaabcdis",
     "aaabdginr",
+    "aaacciirr",
     "aaaddefgos",
     "aaaddilp",
     "aaadgimsst",
@@ -281,6 +283,14 @@
     {
       "date": "2024-01-03T12:04:58.699Z",
       "anagram": "aaaaclprr"
+    },
+    {
+      "date": "2024-01-03T16:03:50.772Z",
+      "anagram": "aaaabcdin"
+    },
+    {
+      "date": "2024-01-03T16:03:51.065Z",
+      "anagram": "aaacciirr"
     }
   ]
 }
