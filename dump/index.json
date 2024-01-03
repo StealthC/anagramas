@@ -37,6 +37,7 @@
     "acopr",
     "acoss",
     "adeeinrt",
+    "adeejosss",
     "adeems",
     "adelrsuux",
     "aeefilmnnt",
@@ -51,7 +52,8 @@
     "cehstu",
     "eeilorrt",
     "eeooprrsss",
-    "eiloopsvx"
+    "eiloopsvx",
+    "elmooss"
   ],
   "byDate": [
     {
@@ -261,6 +263,14 @@
     {
       "date": "2024-01-02T20:03:52.935Z",
       "anagram": "aaflnsu"
+    },
+    {
+      "date": "2024-01-03T00:12:35.220Z",
+      "anagram": "adeejosss"
+    },
+    {
+      "date": "2024-01-03T00:12:35.385Z",
+      "anagram": "elmooss"
     }
   ]
 }
