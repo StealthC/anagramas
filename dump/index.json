@@ -1,6 +1,7 @@
 {
   "anagrams": [
     "aaaaadrrtx",
+    "aaaaclprr",
     "aaabcdis",
     "aaabdginr",
     "aaaddefgos",
@@ -46,6 +47,7 @@
     "afors",
     "aioorssv",
     "alost",
+    "aorst",
     "beoqssu",
     "cceennoosv",
     "ceeiimort",
@@ -271,6 +273,14 @@
     {
       "date": "2024-01-03T00:12:35.385Z",
       "anagram": "elmooss"
+    },
+    {
+      "date": "2024-01-03T12:04:58.595Z",
+      "anagram": "aorst"
+    },
+    {
+      "date": "2024-01-03T12:04:58.699Z",
+      "anagram": "aaaaclprr"
     }
   ]
 }
