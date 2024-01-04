@@ -9,6 +9,7 @@
     "aaaddefgos",
     "aaaddilp",
     "aaadgimsst",
+    "aaaloprv",
     "aaapruv",
     "aabcdhu",
     "aabdnru",
@@ -39,6 +40,7 @@
     "acelru",
     "acfiiiort",
     "aciot",
+    "aclrru",
     "acopr",
     "acoss",
     "adeeinrt",
@@ -301,6 +303,14 @@
     {
       "date": "2024-01-03T20:04:02.835Z",
       "anagram": "aaapruv"
+    },
+    {
+      "date": "2024-01-04T00:12:57.147Z",
+      "anagram": "aclrru"
+    },
+    {
+      "date": "2024-01-04T00:12:57.193Z",
+      "anagram": "aaaloprv"
     }
   ]
 }
