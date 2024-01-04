@@ -19,6 +19,8 @@
     "aacdmos",
     "aacefls",
     "aaclmssu",
+    "aadeil",
+    "aadessv",
     "aadmors",
     "aaelrrx",
     "aaepqrru",
@@ -331,6 +333,14 @@
     {
       "date": "2024-01-04T16:04:02.574Z",
       "anagram": "cdgioos"
+    },
+    {
+      "date": "2024-01-04T20:03:57.992Z",
+      "anagram": "aadessv"
+    },
+    {
+      "date": "2024-01-04T20:03:58.029Z",
+      "anagram": "aadeil"
     }
   ]
 }
