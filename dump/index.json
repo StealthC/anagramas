@@ -49,6 +49,7 @@
     "acopr",
     "acoss",
     "addeenorv",
+    "addehilr",
     "adeeinrt",
     "adeejosss",
     "adeems",
@@ -61,6 +62,7 @@
     "afimr",
     "afors",
     "aioorssv",
+    "alnoptu",
     "alost",
     "anosst",
     "aorst",
@@ -371,6 +373,14 @@
     {
       "date": "2024-01-05T16:03:57.124Z",
       "anagram": "aelnssu"
+    },
+    {
+      "date": "2024-01-05T20:03:36.831Z",
+      "anagram": "alnoptu"
+    },
+    {
+      "date": "2024-01-05T20:03:36.960Z",
+      "anagram": "addehilr"
     }
   ]
 }
