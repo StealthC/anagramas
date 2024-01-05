@@ -57,10 +57,12 @@
     "aeeijlos",
     "aefilsv",
     "aegmmnot",
+    "aelnssu",
     "afimr",
     "afors",
     "aioorssv",
     "alost",
+    "anosst",
     "aorst",
     "beoqssu",
     "cceennoosv",
@@ -361,6 +363,14 @@
     {
       "date": "2024-01-05T12:05:13.409Z",
       "anagram": "aaadddeors"
+    },
+    {
+      "date": "2024-01-05T16:03:56.802Z",
+      "anagram": "anosst"
+    },
+    {
+      "date": "2024-01-05T16:03:57.124Z",
+      "anagram": "aelnssu"
     }
   ]
 }
