@@ -54,6 +54,7 @@
     "adelrsuux",
     "aeefilmnnt",
     "aeeijlos",
+    "aefilsv",
     "afimr",
     "afors",
     "aioorssv",
@@ -66,6 +67,7 @@
     "cehstu",
     "eeilorrt",
     "eeooprrsss",
+    "efiinnoosv",
     "eiloopsvx",
     "elmooss"
   ],
@@ -341,6 +343,14 @@
     {
       "date": "2024-01-04T20:03:58.029Z",
       "anagram": "aadeil"
+    },
+    {
+      "date": "2024-01-05T00:12:45.170Z",
+      "anagram": "efiinnoosv"
+    },
+    {
+      "date": "2024-01-05T00:12:45.219Z",
+      "anagram": "aefilsv"
     }
   ]
 }
