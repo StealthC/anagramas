@@ -20,6 +20,7 @@
     "aacdmos",
     "aacefls",
     "aaclmssu",
+    "aaddfors",
     "aadeil",
     "aadessv",
     "aadmors",
@@ -70,6 +71,7 @@
     "cceennoosv",
     "cdgioos",
     "ceeiimort",
+    "ceemru",
     "cehstu",
     "eeilorrt",
     "eeooprrsss",
@@ -381,6 +383,14 @@
     {
       "date": "2024-01-05T20:03:36.960Z",
       "anagram": "addehilr"
+    },
+    {
+      "date": "2024-01-06T00:12:38.709Z",
+      "anagram": "ceemru"
+    },
+    {
+      "date": "2024-01-06T00:12:38.730Z",
+      "anagram": "aaddfors"
     }
   ]
 }
