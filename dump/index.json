@@ -17,8 +17,10 @@
     "aabhinnno",
     "aaccfiipr",
     "aacddeis",
+    "aacdefho",
     "aacdmos",
     "aacefls",
+    "aacehnrs",
     "aaclmssu",
     "aaddfors",
     "aadeil",
@@ -401,6 +403,14 @@
     {
       "date": "2024-01-06T12:04:56.080Z",
       "anagram": "abcir"
+    },
+    {
+      "date": "2024-01-06T16:03:36.720Z",
+      "anagram": "aacdefho"
+    },
+    {
+      "date": "2024-01-06T16:03:36.740Z",
+      "anagram": "aacehnrs"
     }
   ]
 }
