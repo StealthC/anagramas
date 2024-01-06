@@ -33,6 +33,7 @@
     "aaillnno",
     "aaioqrsu",
     "aanostv",
+    "abcir",
     "abddeiot",
     "abeost",
     "accdioot",
@@ -55,6 +56,7 @@
     "adeejosss",
     "adeems",
     "adelrsuux",
+    "adeopr",
     "aeefilmnnt",
     "aeeijlos",
     "aefilsv",
@@ -391,6 +393,14 @@
     {
       "date": "2024-01-06T00:12:38.730Z",
       "anagram": "aaddfors"
+    },
+    {
+      "date": "2024-01-06T12:04:56.046Z",
+      "anagram": "adeopr"
+    },
+    {
+      "date": "2024-01-06T12:04:56.080Z",
+      "anagram": "abcir"
     }
   ]
 }
