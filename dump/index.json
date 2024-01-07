@@ -2,6 +2,8 @@
   "anagrams": [
     "aaacrt",
     "aaccdos",
+    "addeiosx",
+    "adepr",
     "deenost",
     "eimoorrs"
   ],
@@ -21,6 +23,14 @@
     {
       "date": "2024-01-07T12:04:57.347Z",
       "anagram": "eimoorrs"
+    },
+    {
+      "date": "2024-01-07T16:03:52.256Z",
+      "anagram": "addeiosx"
+    },
+    {
+      "date": "2024-01-07T16:03:52.400Z",
+      "anagram": "adepr"
     }
   ]
 }
