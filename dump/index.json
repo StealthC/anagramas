@@ -2,9 +2,11 @@
   "anagrams": [
     "aaacrt",
     "aaccdos",
+    "aanps",
     "addeiosx",
     "adepr",
     "deenost",
+    "efinoopt",
     "eimoorrs"
   ],
   "byDate": [
@@ -31,6 +33,14 @@
     {
       "date": "2024-01-07T16:03:52.400Z",
       "anagram": "adepr"
+    },
+    {
+      "date": "2024-01-07T20:03:45.122Z",
+      "anagram": "efinoopt"
+    },
+    {
+      "date": "2024-01-07T20:03:45.272Z",
+      "anagram": "aanps"
     }
   ]
 }
