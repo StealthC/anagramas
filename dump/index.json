@@ -6,6 +6,8 @@
     "addeiosx",
     "adepr",
     "aeeinrrtz",
+    "ailopt",
+    "beinosst",
     "cdeinov",
     "deenost",
     "efinoopt",
@@ -51,6 +53,14 @@
     {
       "date": "2024-01-08T00:13:17.906Z",
       "anagram": "aeeinrrtz"
+    },
+    {
+      "date": "2024-01-08T12:05:11.023Z",
+      "anagram": "ailopt"
+    },
+    {
+      "date": "2024-01-08T12:05:11.162Z",
+      "anagram": "beinosst"
     }
   ]
 }
