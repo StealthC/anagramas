@@ -1,7 +1,9 @@
 {
   "anagrams": [
+    "aaacdrsv",
     "aaacrt",
     "aaccdos",
+    "aacgr",
     "aanps",
     "abbdeeeir",
     "addeiosx",
@@ -71,6 +73,14 @@
     {
       "date": "2024-01-08T16:04:00.546Z",
       "anagram": "addeirsuz"
+    },
+    {
+      "date": "2024-01-08T20:04:08.822Z",
+      "anagram": "aacgr"
+    },
+    {
+      "date": "2024-01-08T20:04:08.845Z",
+      "anagram": "aaacdrsv"
     }
   ]
 }
