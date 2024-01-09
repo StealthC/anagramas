@@ -5,9 +5,11 @@
     "aaacrt",
     "aaccdos",
     "aacgr",
+    "aagirttu",
     "aaippss",
     "aanps",
     "abbdeeeir",
+    "acdddeii",
     "addeiosx",
     "addeirsuz",
     "adepr",
@@ -101,6 +103,14 @@
     {
       "date": "2024-01-09T12:05:04.925Z",
       "anagram": "aaippss"
+    },
+    {
+      "date": "2024-01-09T16:03:44.777Z",
+      "anagram": "acdddeii"
+    },
+    {
+      "date": "2024-01-09T16:03:44.820Z",
+      "anagram": "aagirttu"
     }
   ]
 }
