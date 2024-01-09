@@ -14,11 +14,13 @@
     "addeirsuz",
     "adepr",
     "adoosv",
+    "aeehirss",
     "aeeinrrtz",
     "ailopt",
     "beinosst",
     "cdeinov",
     "deenost",
+    "eeeiimnprt",
     "efinoopt",
     "eimoorrs",
     "ersttu"
@@ -111,6 +113,14 @@
     {
       "date": "2024-01-09T16:03:44.820Z",
       "anagram": "aagirttu"
+    },
+    {
+      "date": "2024-01-09T20:03:42.693Z",
+      "anagram": "eeeiimnprt"
+    },
+    {
+      "date": "2024-01-09T20:03:42.798Z",
+      "anagram": "aeehirss"
     }
   ]
 }
