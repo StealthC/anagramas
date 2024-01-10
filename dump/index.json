@@ -7,6 +7,7 @@
     "aacgr",
     "aaeosv",
     "aagirttu",
+    "aaimorr",
     "aaippss",
     "aanps",
     "abbdeeeir",
@@ -19,6 +20,7 @@
     "aeehirss",
     "aeeinrrtz",
     "aeilsv",
+    "agmnoor",
     "ailopt",
     "beinosst",
     "cddiinos",
@@ -151,6 +153,14 @@
     {
       "date": "2024-01-10T16:03:59.662Z",
       "anagram": "aaeosv"
+    },
+    {
+      "date": "2024-01-10T20:03:56.082Z",
+      "anagram": "aaimorr"
+    },
+    {
+      "date": "2024-01-10T20:03:56.135Z",
+      "anagram": "agmnoor"
     }
   ]
 }
