@@ -5,11 +5,13 @@
     "aaacrt",
     "aaccdos",
     "aacgr",
+    "aaeosv",
     "aagirttu",
     "aaippss",
     "aanps",
     "abbdeeeir",
     "acdddeii",
+    "aceeflno",
     "addeiosx",
     "addeirsuz",
     "adepr",
@@ -141,6 +143,14 @@
     {
       "date": "2024-01-10T12:05:12.908Z",
       "anagram": "cddiinos"
+    },
+    {
+      "date": "2024-01-10T16:03:59.549Z",
+      "anagram": "aceeflno"
+    },
+    {
+      "date": "2024-01-10T16:03:59.662Z",
+      "anagram": "aaeosv"
     }
   ]
 }
