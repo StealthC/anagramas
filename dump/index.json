@@ -19,9 +19,11 @@
     "aeilsv",
     "ailopt",
     "beinosst",
+    "cddiinos",
     "cdeinov",
     "deenost",
     "eeeiimnprt",
+    "eerst",
     "efinoopt",
     "eforst",
     "eimoorrs",
@@ -131,6 +133,14 @@
     {
       "date": "2024-01-10T00:12:38.009Z",
       "anagram": "eforst"
+    },
+    {
+      "date": "2024-01-10T12:05:12.886Z",
+      "anagram": "eerst"
+    },
+    {
+      "date": "2024-01-10T12:05:12.908Z",
+      "anagram": "cddiinos"
     }
   ]
 }
