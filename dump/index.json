@@ -5,6 +5,7 @@
     "aaacrt",
     "aabdgnouv",
     "aaccdos",
+    "aacems",
     "aacgr",
     "aaeosv",
     "aagirttu",
@@ -13,6 +14,7 @@
     "aanps",
     "abbdeeeir",
     "acdddeii",
+    "acdios",
     "aceeflno",
     "addeiosx",
     "addeirsuz",
@@ -171,6 +173,14 @@
     {
       "date": "2024-01-11T00:12:50.800Z",
       "anagram": "cegoorr"
+    },
+    {
+      "date": "2024-01-11T12:04:58.408Z",
+      "anagram": "aacems"
+    },
+    {
+      "date": "2024-01-11T12:04:58.461Z",
+      "anagram": "acdios"
     }
   ]
 }
