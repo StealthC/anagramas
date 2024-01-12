@@ -3,10 +3,12 @@
     "aaaadprt",
     "aaacdrsv",
     "aaacrt",
+    "aaadiops",
     "aabdgnouv",
     "aaccdos",
     "aacems",
     "aacgr",
+    "aaegnpr",
     "aaeosv",
     "aagirttu",
     "aaimorr",
@@ -211,6 +213,14 @@
     {
       "date": "2024-01-12T00:12:50.458Z",
       "anagram": "aeiillnovv"
+    },
+    {
+      "date": "2024-01-12T12:05:03.102Z",
+      "anagram": "aaadiops"
+    },
+    {
+      "date": "2024-01-12T12:05:03.201Z",
+      "anagram": "aaegnpr"
     }
   ]
 }
