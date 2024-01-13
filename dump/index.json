@@ -15,6 +15,7 @@
     "aagirttu",
     "aaimorr",
     "aaippss",
+    "aamnoost",
     "aanps",
     "abbdeeeir",
     "abdhiiirrz",
@@ -28,6 +29,7 @@
     "adenprr",
     "adepr",
     "adfgiiu",
+    "adgiou",
     "adoosv",
     "aeehirss",
     "aeeinrrtz",
@@ -241,6 +243,14 @@
     {
       "date": "2024-01-12T20:03:54.510Z",
       "anagram": "aabdooot"
+    },
+    {
+      "date": "2024-01-13T00:12:49.662Z",
+      "anagram": "adgiou"
+    },
+    {
+      "date": "2024-01-13T00:12:49.691Z",
+      "anagram": "aamnoost"
     }
   ]
 }
