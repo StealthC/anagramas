@@ -2,6 +2,8 @@
   "anagrams": [
     "aaabcil",
     "aemorr",
+    "aoortv",
+    "deenprssu",
     "glooopr"
   ],
   "byDate": [
@@ -16,6 +18,14 @@
     {
       "date": "2024-01-14T00:14:17.855Z",
       "anagram": "aemorr"
+    },
+    {
+      "date": "2024-01-14T12:04:45.020Z",
+      "anagram": "aoortv"
+    },
+    {
+      "date": "2024-01-14T12:04:45.130Z",
+      "anagram": "deenprssu"
     }
   ]
 }
