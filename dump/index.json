@@ -1,11 +1,21 @@
 {
   "anagrams": [
+    "aaabcil",
+    "aemorr",
     "glooopr"
   ],
   "byDate": [
     {
       "date": "2024-01-13T20:03:58.214Z",
       "anagram": "glooopr"
+    },
+    {
+      "date": "2024-01-14T00:14:17.809Z",
+      "anagram": "aaabcil"
+    },
+    {
+      "date": "2024-01-14T00:14:17.855Z",
+      "anagram": "aemorr"
     }
   ]
 }
