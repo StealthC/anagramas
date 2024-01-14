@@ -1,6 +1,8 @@
 {
   "anagrams": [
     "aaabcil",
+    "aaaemmnrt",
+    "aciprsuu",
     "aemorr",
     "aoortv",
     "deenprssu",
@@ -26,6 +28,14 @@
     {
       "date": "2024-01-14T12:04:45.130Z",
       "anagram": "deenprssu"
+    },
+    {
+      "date": "2024-01-14T16:03:53.528Z",
+      "anagram": "aciprsuu"
+    },
+    {
+      "date": "2024-01-14T16:03:53.598Z",
+      "anagram": "aaaemmnrt"
     }
   ]
 }
