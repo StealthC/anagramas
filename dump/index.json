@@ -1,7 +1,9 @@
 {
   "anagrams": [
     "aaabcil",
+    "aaacdels",
     "aaaemmnrt",
+    "aacehims",
     "aciprsuu",
     "aemorr",
     "aoortv",
@@ -36,6 +38,14 @@
     {
       "date": "2024-01-14T16:03:53.598Z",
       "anagram": "aaaemmnrt"
+    },
+    {
+      "date": "2024-01-14T20:04:21.685Z",
+      "anagram": "aaacdels"
+    },
+    {
+      "date": "2024-01-14T20:04:21.706Z",
+      "anagram": "aacehims"
     }
   ]
 }
