@@ -5,9 +5,11 @@
     "aaaemmnrt",
     "aacehims",
     "aciprsuu",
+    "adeims",
     "aemorr",
     "aoortv",
     "deenprssu",
+    "eimorss",
     "glooopr"
   ],
   "byDate": [
@@ -46,6 +48,14 @@
     {
       "date": "2024-01-14T20:04:21.706Z",
       "anagram": "aacehims"
+    },
+    {
+      "date": "2024-01-15T00:13:32.067Z",
+      "anagram": "adeims"
+    },
+    {
+      "date": "2024-01-15T00:13:32.157Z",
+      "anagram": "eimorss"
     }
   ]
 }
