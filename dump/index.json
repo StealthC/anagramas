@@ -5,6 +5,8 @@
     "aaacdels",
     "aaaemmnrt",
     "aacehims",
+    "aaentv",
+    "abgoors",
     "aciprsuu",
     "adeims",
     "aemorr",
@@ -66,6 +68,14 @@
     {
       "date": "2024-01-15T12:05:15.838Z",
       "anagram": "aaabchnrru"
+    },
+    {
+      "date": "2024-01-15T16:03:54.199Z",
+      "anagram": "abgoors"
+    },
+    {
+      "date": "2024-01-15T16:03:54.216Z",
+      "anagram": "aaentv"
     }
   ]
 }
