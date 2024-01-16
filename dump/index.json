@@ -9,6 +9,7 @@
     "aahmnop",
     "abgoors",
     "aceoss",
+    "achoors",
     "acillnoo",
     "aciprsuu",
     "adeims",
@@ -22,6 +23,7 @@
     "deenprssu",
     "defnostu",
     "eimorss",
+    "eiooprtvx",
     "glooopr"
   ],
   "byDate": [
@@ -116,6 +118,14 @@
     {
       "date": "2024-01-16T16:04:00.942Z",
       "anagram": "ddeeioorrs"
+    },
+    {
+      "date": "2024-01-16T20:03:47.840Z",
+      "anagram": "achoors"
+    },
+    {
+      "date": "2024-01-16T20:03:47.882Z",
+      "anagram": "eiooprtvx"
     }
   ]
 }
