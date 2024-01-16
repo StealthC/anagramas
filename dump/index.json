@@ -14,9 +14,11 @@
     "adeims",
     "adeorrss",
     "aeeeprstz",
+    "aefgoos",
     "aemorr",
     "aoortv",
     "ddeeenprrs",
+    "ddeeioorrs",
     "deenprssu",
     "defnostu",
     "eimorss",
@@ -106,6 +108,14 @@
     {
       "date": "2024-01-16T12:05:01.962Z",
       "anagram": "acillnoo"
+    },
+    {
+      "date": "2024-01-16T16:04:00.883Z",
+      "anagram": "aefgoos"
+    },
+    {
+      "date": "2024-01-16T16:04:00.942Z",
+      "anagram": "ddeeioorrs"
     }
   ]
 }
