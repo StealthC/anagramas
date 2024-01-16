@@ -7,6 +7,7 @@
     "aacehims",
     "aaentv",
     "abgoors",
+    "aceoss",
     "aciprsuu",
     "adeims",
     "adeorrss",
@@ -15,6 +16,7 @@
     "aoortv",
     "ddeeenprrs",
     "deenprssu",
+    "defnostu",
     "eimorss",
     "glooopr"
   ],
@@ -86,6 +88,14 @@
     {
       "date": "2024-01-15T20:03:43.930Z",
       "anagram": "adeorrss"
+    },
+    {
+      "date": "2024-01-16T00:12:42.105Z",
+      "anagram": "defnostu"
+    },
+    {
+      "date": "2024-01-16T00:12:42.145Z",
+      "anagram": "aceoss"
     }
   ]
 }
