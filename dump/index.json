@@ -20,6 +20,7 @@
     "aeeeprstz",
     "aefgoos",
     "aemorr",
+    "afiiimnsss",
     "aoortv",
     "ddeeenprrs",
     "ddeeioorrs",
@@ -27,6 +28,7 @@
     "defnostu",
     "eimorss",
     "eiooprtvx",
+    "eioprrs",
     "finosu",
     "glooopr"
   ],
@@ -146,6 +148,14 @@
     {
       "date": "2024-01-17T12:05:10.850Z",
       "anagram": "aaaddfrs"
+    },
+    {
+      "date": "2024-01-17T16:03:51.163Z",
+      "anagram": "eioprrs"
+    },
+    {
+      "date": "2024-01-17T16:03:51.178Z",
+      "anagram": "afiiimnsss"
     }
   ]
 }
