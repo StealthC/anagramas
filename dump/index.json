@@ -3,6 +3,7 @@
     "aaabchnrru",
     "aaabcil",
     "aaacdels",
+    "aaaddfrs",
     "aaaemmnrt",
     "aacehims",
     "aadhiv",
@@ -10,6 +11,7 @@
     "aahmnop",
     "abgoors",
     "aceoss",
+    "achiips",
     "achoors",
     "acillnoo",
     "aciprsuu",
@@ -136,6 +138,14 @@
     {
       "date": "2024-01-17T00:12:50.401Z",
       "anagram": "aadhiv"
+    },
+    {
+      "date": "2024-01-17T12:05:10.832Z",
+      "anagram": "achiips"
+    },
+    {
+      "date": "2024-01-17T12:05:10.850Z",
+      "anagram": "aaaddfrs"
     }
   ]
 }
