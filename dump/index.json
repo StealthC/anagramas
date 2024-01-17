@@ -5,6 +5,7 @@
     "aaacdels",
     "aaaemmnrt",
     "aacehims",
+    "aadhiv",
     "aaentv",
     "aahmnop",
     "abgoors",
@@ -24,6 +25,7 @@
     "defnostu",
     "eimorss",
     "eiooprtvx",
+    "finosu",
     "glooopr"
   ],
   "byDate": [
@@ -126,6 +128,14 @@
     {
       "date": "2024-01-16T20:03:47.882Z",
       "anagram": "eiooprtvx"
+    },
+    {
+      "date": "2024-01-17T00:12:50.354Z",
+      "anagram": "finosu"
+    },
+    {
+      "date": "2024-01-17T00:12:50.401Z",
+      "anagram": "aadhiv"
     }
   ]
 }
