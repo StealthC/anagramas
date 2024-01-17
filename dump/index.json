@@ -6,6 +6,7 @@
     "aaaddfrs",
     "aaaemmnrt",
     "aacehims",
+    "aacelmrx",
     "aadhiv",
     "aaentv",
     "aahmnop",
@@ -22,6 +23,7 @@
     "aemorr",
     "afiiimnsss",
     "aoortv",
+    "cdinoot",
     "ddeeenprrs",
     "ddeeioorrs",
     "deenprssu",
@@ -156,6 +158,14 @@
     {
       "date": "2024-01-17T16:03:51.178Z",
       "anagram": "afiiimnsss"
+    },
+    {
+      "date": "2024-01-17T20:04:08.803Z",
+      "anagram": "cdinoot"
+    },
+    {
+      "date": "2024-01-17T20:04:08.827Z",
+      "anagram": "aacelmrx"
     }
   ]
 }
