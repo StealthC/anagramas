@@ -17,6 +17,7 @@
     "achoors",
     "acillnoo",
     "aciprsuu",
+    "adeefinr",
     "adeims",
     "adeorrss",
     "aeeeprstz",
@@ -30,6 +31,7 @@
     "ddeeioorrs",
     "deenprssu",
     "defnostu",
+    "deiiort",
     "eimorss",
     "eiooprtvx",
     "eioprrs",
@@ -186,6 +188,14 @@
     {
       "date": "2024-01-18T12:05:12.295Z",
       "anagram": "abgossu"
+    },
+    {
+      "date": "2024-01-18T16:04:02.976Z",
+      "anagram": "deiiort"
+    },
+    {
+      "date": "2024-01-18T16:04:03.171Z",
+      "anagram": "adeefinr"
     }
   ]
 }
