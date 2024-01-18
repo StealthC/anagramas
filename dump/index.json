@@ -31,8 +31,10 @@
     "eimorss",
     "eiooprtvx",
     "eioprrs",
+    "eiorsstt",
     "finosu",
-    "glooopr"
+    "glooopr",
+    "inoosv"
   ],
   "byDate": [
     {
@@ -166,6 +168,14 @@
     {
       "date": "2024-01-17T20:04:08.827Z",
       "anagram": "aacelmrx"
+    },
+    {
+      "date": "2024-01-18T00:12:46.757Z",
+      "anagram": "inoosv"
+    },
+    {
+      "date": "2024-01-18T00:12:46.780Z",
+      "anagram": "eiorsstt"
     }
   ]
 }
