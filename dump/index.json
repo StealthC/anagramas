@@ -27,11 +27,13 @@
     "afiiimnsss",
     "aoortv",
     "cdinoot",
+    "ceeiostuvx",
     "ddeeenprrs",
     "ddeeioorrs",
     "deenprssu",
     "defnostu",
     "deiiort",
+    "ehoorrrs",
     "eimorss",
     "eiooprtvx",
     "eioprrs",
@@ -196,6 +198,14 @@
     {
       "date": "2024-01-18T16:04:03.171Z",
       "anagram": "adeefinr"
+    },
+    {
+      "date": "2024-01-18T20:03:54.645Z",
+      "anagram": "ehoorrrs"
+    },
+    {
+      "date": "2024-01-18T20:03:54.680Z",
+      "anagram": "ceeiostuvx"
     }
   ]
 }
