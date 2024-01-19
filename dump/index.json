@@ -11,6 +11,7 @@
     "aaehil",
     "aaentv",
     "aahmnop",
+    "aahmnos",
     "abdor",
     "abgoors",
     "abgossu",
@@ -22,6 +23,7 @@
     "adeefinr",
     "adeims",
     "adeorrss",
+    "adfirssuuu",
     "aeeeprstz",
     "aeeprrs",
     "aefgoos",
@@ -216,6 +218,14 @@
     {
       "date": "2024-01-19T00:12:51.629Z",
       "anagram": "abdor"
+    },
+    {
+      "date": "2024-01-19T12:05:00.676Z",
+      "anagram": "aahmnos"
+    },
+    {
+      "date": "2024-01-19T12:05:00.717Z",
+      "anagram": "adfirssuuu"
     }
   ]
 }
