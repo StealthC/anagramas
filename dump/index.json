@@ -30,7 +30,9 @@
     "aefgoos",
     "aemorr",
     "afiiimnsss",
+    "aloruv",
     "aoortv",
+    "belnooort",
     "cdinoot",
     "ceeiostuvx",
     "ddeeenprrs",
@@ -236,6 +238,14 @@
     {
       "date": "2024-01-19T16:04:00.662Z",
       "anagram": "aaceimn"
+    },
+    {
+      "date": "2024-01-19T20:04:06.977Z",
+      "anagram": "aloruv"
+    },
+    {
+      "date": "2024-01-19T20:04:06.993Z",
+      "anagram": "belnooort"
     }
   ]
 }
