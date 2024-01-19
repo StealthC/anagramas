@@ -8,8 +8,10 @@
     "aacehims",
     "aacelmrx",
     "aadhiv",
+    "aaehil",
     "aaentv",
     "aahmnop",
+    "abdor",
     "abgoors",
     "abgossu",
     "aceoss",
@@ -206,6 +208,14 @@
     {
       "date": "2024-01-18T20:03:54.680Z",
       "anagram": "ceeiostuvx"
+    },
+    {
+      "date": "2024-01-19T00:12:51.604Z",
+      "anagram": "aaehil"
+    },
+    {
+      "date": "2024-01-19T00:12:51.629Z",
+      "anagram": "abdor"
     }
   ]
 }
