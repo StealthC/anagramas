@@ -6,6 +6,7 @@
     "aaaddfrs",
     "aaaemmnrt",
     "aacehims",
+    "aaceimn",
     "aacelmrx",
     "aadhiv",
     "aaehil",
@@ -37,6 +38,7 @@
     "deenprssu",
     "defnostu",
     "deiiort",
+    "dinosv",
     "ehoorrrs",
     "eimorss",
     "eiooprtvx",
@@ -226,6 +228,14 @@
     {
       "date": "2024-01-19T12:05:00.717Z",
       "anagram": "adfirssuuu"
+    },
+    {
+      "date": "2024-01-19T16:04:00.637Z",
+      "anagram": "dinosv"
+    },
+    {
+      "date": "2024-01-19T16:04:00.662Z",
+      "anagram": "aaceimn"
     }
   ]
 }
