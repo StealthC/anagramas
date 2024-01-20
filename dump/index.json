@@ -40,9 +40,11 @@
     "belnooort",
     "cdinoot",
     "ceeiostuvx",
+    "ciiilost",
     "ddeeenprrs",
     "ddeeioorrs",
     "deenprssu",
+    "deflopsu",
     "defnostu",
     "deiiort",
     "dinosv",
@@ -276,6 +278,14 @@
     {
       "date": "2024-01-20T16:04:16.777Z",
       "anagram": "aacegmno"
+    },
+    {
+      "date": "2024-01-20T20:03:58.975Z",
+      "anagram": "ciiilost"
+    },
+    {
+      "date": "2024-01-20T20:03:59.219Z",
+      "anagram": "deflopsu"
     }
   ]
 }
