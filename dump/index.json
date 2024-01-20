@@ -5,6 +5,7 @@
     "aaacdels",
     "aaaddfrs",
     "aaaemmnrt",
+    "aacegmno",
     "aacehims",
     "aaceimn",
     "aacelmrx",
@@ -16,6 +17,7 @@
     "abdor",
     "abgoors",
     "abgossu",
+    "abrrsu",
     "acdelsu",
     "aceegnss",
     "aceoss",
@@ -266,6 +268,14 @@
     {
       "date": "2024-01-20T12:04:42.220Z",
       "anagram": "acdelsu"
+    },
+    {
+      "date": "2024-01-20T16:04:16.745Z",
+      "anagram": "abrrsu"
+    },
+    {
+      "date": "2024-01-20T16:04:16.777Z",
+      "anagram": "aacegmno"
     }
   ]
 }
