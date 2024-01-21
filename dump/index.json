@@ -32,8 +32,10 @@
     "aeeeprstz",
     "aeeprrs",
     "aefgoos",
+    "aegipss",
     "aemorr",
     "afiiimnsss",
+    "ahinopuz",
     "aloruv",
     "aoortv",
     "bciilmoos",
@@ -286,6 +288,14 @@
     {
       "date": "2024-01-20T20:03:59.219Z",
       "anagram": "deflopsu"
+    },
+    {
+      "date": "2024-01-21T00:14:10.508Z",
+      "anagram": "ahinopuz"
+    },
+    {
+      "date": "2024-01-21T00:14:10.544Z",
+      "anagram": "aegipss"
     }
   ]
 }
