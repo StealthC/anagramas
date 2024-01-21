@@ -8,6 +8,7 @@
     "aacegmno",
     "aacehims",
     "aaceimn",
+    "aaceipru",
     "aacelmrx",
     "aadhiv",
     "aaehil",
@@ -43,6 +44,7 @@
     "bciilmoos",
     "belnooort",
     "cdinoot",
+    "ceeilps",
     "ceeiostuvx",
     "ciiilost",
     "ddeeenprrs",
@@ -306,6 +308,14 @@
     {
       "date": "2024-01-21T12:05:08.091Z",
       "anagram": "acfoorss"
+    },
+    {
+      "date": "2024-01-21T16:03:39.798Z",
+      "anagram": "ceeilps"
+    },
+    {
+      "date": "2024-01-21T16:03:39.852Z",
+      "anagram": "aaceipru"
     }
   ]
 }
