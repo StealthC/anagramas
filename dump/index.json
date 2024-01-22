@@ -11,6 +11,7 @@
     "aaceimn",
     "aaceipru",
     "aacelmrx",
+    "aacioos",
     "aaddiosx",
     "aadhiv",
     "aaehil",
@@ -50,6 +51,7 @@
     "ceeilps",
     "ceeiostuvx",
     "ciiilost",
+    "cioqrsu",
     "ddeeenprrs",
     "ddeeioorrs",
     "deenprssu",
@@ -336,6 +338,14 @@
     {
       "date": "2024-01-22T00:13:28.105Z",
       "anagram": "filostu"
+    },
+    {
+      "date": "2024-01-22T12:05:11.010Z",
+      "anagram": "cioqrsu"
+    },
+    {
+      "date": "2024-01-22T12:05:11.156Z",
+      "anagram": "aacioos"
     }
   ]
 }
