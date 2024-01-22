@@ -3,6 +3,7 @@
     "aaabchnrru",
     "aaabcil",
     "aaacdels",
+    "aaaclop",
     "aaaddfrs",
     "aaaemmnrt",
     "aacegmno",
@@ -24,6 +25,7 @@
     "abrrsu",
     "acdelsu",
     "aceegnss",
+    "acefnrs",
     "aceoss",
     "acfoorss",
     "achiips",
@@ -346,6 +348,14 @@
     {
       "date": "2024-01-22T12:05:11.156Z",
       "anagram": "aacioos"
+    },
+    {
+      "date": "2024-01-22T16:04:00.877Z",
+      "anagram": "acefnrs"
+    },
+    {
+      "date": "2024-01-22T16:04:00.936Z",
+      "anagram": "aaaclop"
     }
   ]
 }
