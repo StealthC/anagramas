@@ -49,10 +49,12 @@
     "aoortv",
     "bciilmoos",
     "belnooort",
+    "cddiinos",
     "cdinoot",
     "ceeilps",
     "ceeiostuvx",
     "ciiilost",
+    "ciootx",
     "cioqrsu",
     "ddeeenprrs",
     "ddeeioorrs",
@@ -356,6 +358,14 @@
     {
       "date": "2024-01-22T16:04:00.936Z",
       "anagram": "aaaclop"
+    },
+    {
+      "date": "2024-01-22T20:03:53.393Z",
+      "anagram": "cddiinos"
+    },
+    {
+      "date": "2024-01-22T20:03:53.406Z",
+      "anagram": "ciootx"
     }
   ]
 }
