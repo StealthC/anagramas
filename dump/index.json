@@ -38,6 +38,7 @@
     "adeefinr",
     "adeims",
     "adeorrss",
+    "adeoss",
     "adfirssuuu",
     "adfnru",
     "adiiosst",
@@ -47,6 +48,7 @@
     "aegipss",
     "aemorr",
     "afiiimnsss",
+    "afort",
     "ahinopuz",
     "aijlnos",
     "aijnors",
@@ -396,6 +398,14 @@
     {
       "date": "2024-01-23T16:03:46.898Z",
       "anagram": "aceiorr"
+    },
+    {
+      "date": "2024-01-23T20:03:42.195Z",
+      "anagram": "afort"
+    },
+    {
+      "date": "2024-01-23T20:03:42.259Z",
+      "anagram": "adeoss"
     }
   ]
 }
