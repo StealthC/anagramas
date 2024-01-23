@@ -12,6 +12,7 @@
     "aaceimn",
     "aaceipru",
     "aacelmrx",
+    "aachhru",
     "aacioos",
     "aaddiosx",
     "aadhiv",
@@ -20,6 +21,7 @@
     "aahmnop",
     "aahmnos",
     "abdor",
+    "abeelst",
     "abgoors",
     "abgossu",
     "abrrsu",
@@ -376,6 +378,14 @@
     {
       "date": "2024-01-23T00:13:00.777Z",
       "anagram": "ailotv"
+    },
+    {
+      "date": "2024-01-23T12:05:05.706Z",
+      "anagram": "abeelst"
+    },
+    {
+      "date": "2024-01-23T12:05:05.817Z",
+      "anagram": "aachhru"
     }
   ]
 }
