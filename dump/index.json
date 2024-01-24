@@ -16,11 +16,13 @@
     "aachhru",
     "aacioos",
     "aaddiosx",
+    "aadenrt",
     "aadhiv",
     "aaehil",
     "aaentv",
     "aahmnop",
     "aahmnos",
+    "aaiiprszz",
     "abdor",
     "abeelst",
     "abgoors",
@@ -431,6 +433,14 @@
     {
       "date": "2024-01-24T16:04:18.769Z",
       "anagram": "beijostuv"
+    },
+    {
+      "date": "2024-01-24T20:03:54.652Z",
+      "anagram": "aaiiprszz"
+    },
+    {
+      "date": "2024-01-24T20:03:54.666Z",
+      "anagram": "aadenrt"
     }
   ]
 }
