@@ -5,6 +5,7 @@
     "aaacdels",
     "aaaclop",
     "aaaddfrs",
+    "aaadoprr",
     "aaaemmnrt",
     "aacegmno",
     "aacegnrr",
@@ -79,6 +80,7 @@
     "eiooprtvx",
     "eioprrs",
     "eiorsstt",
+    "eopprrssu",
     "filostu",
     "finosu",
     "glooopr",
@@ -416,6 +418,14 @@
     {
       "date": "2024-01-24T00:14:11.625Z",
       "anagram": "almort"
+    },
+    {
+      "date": "2024-01-24T12:05:18.706Z",
+      "anagram": "eopprrssu"
+    },
+    {
+      "date": "2024-01-24T12:05:18.743Z",
+      "anagram": "aaadoprr"
     }
   ]
 }
