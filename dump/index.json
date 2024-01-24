@@ -53,11 +53,13 @@
     "aijlnos",
     "aijnors",
     "ailotv",
+    "almort",
     "aloruv",
     "aoortv",
     "bciilmoos",
     "belnooort",
     "cddiinos",
+    "cddinooo",
     "cdinoot",
     "ceeilps",
     "ceeiostuvx",
@@ -406,6 +408,14 @@
     {
       "date": "2024-01-23T20:03:42.259Z",
       "anagram": "adeoss"
+    },
+    {
+      "date": "2024-01-24T00:14:11.378Z",
+      "anagram": "cddinooo"
+    },
+    {
+      "date": "2024-01-24T00:14:11.625Z",
+      "anagram": "almort"
     }
   ]
 }
