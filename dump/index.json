@@ -58,6 +58,7 @@
     "aloruv",
     "aoortv",
     "bciilmoos",
+    "beijostuv",
     "belnooort",
     "cddiinos",
     "cddinooo",
@@ -426,6 +427,10 @@
     {
       "date": "2024-01-24T12:05:18.743Z",
       "anagram": "aaadoprr"
+    },
+    {
+      "date": "2024-01-24T16:04:18.769Z",
+      "anagram": "beijostuv"
     }
   ]
 }
