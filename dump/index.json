@@ -5,6 +5,7 @@
     "aaacdels",
     "aaaclop",
     "aaaddfrs",
+    "aaadjmor",
     "aaadoprr",
     "aaaemmnrt",
     "aacegmno",
@@ -27,6 +28,7 @@
     "abeelst",
     "abgoors",
     "abgossu",
+    "abimos",
     "abrrsu",
     "acdelsu",
     "aceegnss",
@@ -441,6 +443,14 @@
     {
       "date": "2024-01-24T20:03:54.666Z",
       "anagram": "aadenrt"
+    },
+    {
+      "date": "2024-01-25T00:12:47.728Z",
+      "anagram": "abimos"
+    },
+    {
+      "date": "2024-01-25T00:12:47.792Z",
+      "anagram": "aaadjmor"
     }
   ]
 }
