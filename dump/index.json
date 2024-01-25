@@ -41,6 +41,7 @@
     "acillnoo",
     "aciprsuu",
     "adeefinr",
+    "adefhnnoo",
     "adeims",
     "adeorrss",
     "adeoss",
@@ -65,6 +66,7 @@
     "bciilmoos",
     "beijostuv",
     "belnooort",
+    "boosstu",
     "cddiinos",
     "cddinooo",
     "cdinoot",
@@ -461,6 +463,14 @@
     {
       "date": "2024-01-25T12:05:05.630Z",
       "anagram": "efiloor"
+    },
+    {
+      "date": "2024-01-25T16:03:58.854Z",
+      "anagram": "boosstu"
+    },
+    {
+      "date": "2024-01-25T16:03:58.926Z",
+      "anagram": "adefhnnoo"
     }
   ]
 }
