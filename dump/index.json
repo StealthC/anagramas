@@ -21,6 +21,7 @@
     "aadhiv",
     "aaehil",
     "aaentv",
+    "aaestx",
     "aahmnop",
     "aahmnos",
     "aaiiprszz",
@@ -40,6 +41,7 @@
     "achoors",
     "acillnoo",
     "aciprsuu",
+    "acmoopsss",
     "adeefinr",
     "adefhnnoo",
     "adeims",
@@ -471,6 +473,14 @@
     {
       "date": "2024-01-25T16:03:58.926Z",
       "anagram": "adefhnnoo"
+    },
+    {
+      "date": "2024-01-25T20:03:53.199Z",
+      "anagram": "aaestx"
+    },
+    {
+      "date": "2024-01-25T20:03:53.297Z",
+      "anagram": "acmoopsss"
     }
   ]
 }
