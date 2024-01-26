@@ -29,6 +29,7 @@
     "abeelst",
     "abgoors",
     "abgossu",
+    "abimmort",
     "abimos",
     "abrrsu",
     "acdelsu",
@@ -51,6 +52,7 @@
     "adfnru",
     "adiiosst",
     "aeeeprstz",
+    "aeenpqsu",
     "aeeprrs",
     "aefgoos",
     "aegipss",
@@ -481,6 +483,14 @@
     {
       "date": "2024-01-25T20:03:53.297Z",
       "anagram": "acmoopsss"
+    },
+    {
+      "date": "2024-01-26T00:12:20.079Z",
+      "anagram": "aeenpqsu"
+    },
+    {
+      "date": "2024-01-26T00:12:20.132Z",
+      "anagram": "abimmort"
     }
   ]
 }
