@@ -29,6 +29,7 @@
     "abeelst",
     "abgoors",
     "abgossu",
+    "abiiilnoor",
     "abimmort",
     "abimos",
     "abrrsu",
@@ -60,6 +61,7 @@
     "aemorr",
     "afiiimnsss",
     "afort",
+    "aglno",
     "ahinopuz",
     "aijlnos",
     "aijnors",
@@ -501,6 +503,14 @@
     {
       "date": "2024-01-26T12:04:43.630Z",
       "anagram": "ceeemnoptt"
+    },
+    {
+      "date": "2024-01-26T16:03:50.201Z",
+      "anagram": "aglno"
+    },
+    {
+      "date": "2024-01-26T16:03:50.258Z",
+      "anagram": "abiiilnoor"
     }
   ]
 }
