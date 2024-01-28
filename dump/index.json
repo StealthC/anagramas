@@ -1,7 +1,9 @@
 {
   "anagrams": [
     "accor",
+    "acdeer",
     "achot",
+    "adeemnrt",
     "deiost"
   ],
   "byDate": [
@@ -16,6 +18,14 @@
     {
       "date": "2024-01-28T12:04:05.255Z",
       "anagram": "accor"
+    },
+    {
+      "date": "2024-01-28T16:03:49.039Z",
+      "anagram": "acdeer"
+    },
+    {
+      "date": "2024-01-28T16:03:49.088Z",
+      "anagram": "adeemnrt"
     }
   ]
 }
