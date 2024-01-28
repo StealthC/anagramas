@@ -1,5 +1,7 @@
 {
   "anagrams": [
+    "aabeirt",
+    "aaccr",
     "accor",
     "acdeer",
     "achot",
@@ -26,6 +28,14 @@
     {
       "date": "2024-01-28T16:03:49.088Z",
       "anagram": "adeemnrt"
+    },
+    {
+      "date": "2024-01-28T20:03:35.692Z",
+      "anagram": "aaccr"
+    },
+    {
+      "date": "2024-01-28T20:03:35.781Z",
+      "anagram": "aabeirt"
     }
   ]
 }
