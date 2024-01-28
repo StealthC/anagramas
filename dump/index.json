@@ -1,11 +1,21 @@
 {
   "anagrams": [
-    "achot"
+    "accor",
+    "achot",
+    "deiost"
   ],
   "byDate": [
     {
       "date": "2024-01-28T08:04:47.535Z",
       "anagram": "achot"
+    },
+    {
+      "date": "2024-01-28T12:04:05.176Z",
+      "anagram": "deiost"
+    },
+    {
+      "date": "2024-01-28T12:04:05.255Z",
+      "anagram": "accor"
     }
   ]
 }
