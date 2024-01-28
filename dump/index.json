@@ -46,6 +46,7 @@
     "acfoorss",
     "achiips",
     "achoors",
+    "achot",
     "acillnoo",
     "aciprsuu",
     "acmoopsss",
@@ -90,6 +91,7 @@
     "cehioors",
     "ceiinorz",
     "ceiorstt",
+    "celor",
     "ciiilost",
     "ciootx",
     "cioqrsu",
@@ -561,6 +563,14 @@
     {
       "date": "2024-01-27T20:03:26.400Z",
       "anagram": "cehioors"
+    },
+    {
+      "date": "2024-01-28T00:13:22.869Z",
+      "anagram": "celor"
+    },
+    {
+      "date": "2024-01-28T00:13:22.910Z",
+      "anagram": "achot"
     }
   ]
 }
