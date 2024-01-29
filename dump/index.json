@@ -2,10 +2,12 @@
   "anagrams": [
     "aabeirt",
     "aaccr",
+    "abrrtu",
     "accor",
     "acdeer",
     "achot",
     "adeemnrt",
+    "amooorss",
     "deiost"
   ],
   "byDate": [
@@ -36,6 +38,14 @@
     {
       "date": "2024-01-28T20:03:35.781Z",
       "anagram": "aabeirt"
+    },
+    {
+      "date": "2024-01-29T00:12:23.039Z",
+      "anagram": "abrrtu"
+    },
+    {
+      "date": "2024-01-29T00:12:23.203Z",
+      "anagram": "amooorss"
     }
   ]
 }
