@@ -7,7 +7,9 @@
     "acdeer",
     "achot",
     "adeemnrt",
+    "aegost",
     "amooorss",
+    "cceeiiosx",
     "deiost"
   ],
   "byDate": [
@@ -46,6 +48,14 @@
     {
       "date": "2024-01-29T00:12:23.203Z",
       "anagram": "amooorss"
+    },
+    {
+      "date": "2024-01-29T12:04:35.763Z",
+      "anagram": "cceeiiosx"
+    },
+    {
+      "date": "2024-01-29T12:04:35.776Z",
+      "anagram": "aegost"
     }
   ]
 }
