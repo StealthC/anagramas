@@ -8,9 +8,11 @@
     "achot",
     "adeemnrt",
     "aegost",
+    "agiiorv",
     "amooorss",
     "cceeiiosx",
-    "deiost"
+    "deiost",
+    "eennosv"
   ],
   "byDate": [
     {
@@ -56,6 +58,14 @@
     {
       "date": "2024-01-29T12:04:35.776Z",
       "anagram": "aegost"
+    },
+    {
+      "date": "2024-01-29T16:03:59.495Z",
+      "anagram": "eennosv"
+    },
+    {
+      "date": "2024-01-29T16:03:59.758Z",
+      "anagram": "agiiorv"
     }
   ]
 }
