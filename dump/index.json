@@ -1,7 +1,9 @@
 {
   "anagrams": [
+    "aaailmr",
     "aabeirt",
     "aaccr",
+    "aacersv",
     "abrrtu",
     "accor",
     "acdeer",
@@ -76,6 +78,14 @@
     {
       "date": "2024-01-29T20:03:45.657Z",
       "anagram": "aeflnopt"
+    },
+    {
+      "date": "2024-01-30T00:12:00.275Z",
+      "anagram": "aaailmr"
+    },
+    {
+      "date": "2024-01-30T00:12:00.288Z",
+      "anagram": "aacersv"
     }
   ]
 }
