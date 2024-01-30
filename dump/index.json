@@ -5,12 +5,14 @@
     "aabeirt",
     "aaccr",
     "aacersv",
+    "abbdeeeirs",
     "abrrtu",
     "accor",
     "acdeer",
     "achot",
     "adeemnrt",
     "adios",
+    "adossu",
     "aeflnopt",
     "aegost",
     "agiiorv",
@@ -96,6 +98,14 @@
     {
       "date": "2024-01-30T12:04:27.787Z",
       "anagram": "aaacclot"
+    },
+    {
+      "date": "2024-01-30T16:03:37.818Z",
+      "anagram": "adossu"
+    },
+    {
+      "date": "2024-01-30T16:03:37.855Z",
+      "anagram": "abbdeeeirs"
     }
   ]
 }
