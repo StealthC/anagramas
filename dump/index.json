@@ -9,6 +9,7 @@
     "abrrtu",
     "accor",
     "acdeer",
+    "acdoort",
     "achot",
     "adeemnrt",
     "adios",
@@ -19,6 +20,7 @@
     "amooorss",
     "cceehilst",
     "cceeiiosx",
+    "degiiorssv",
     "deiost",
     "eennosv"
   ],
@@ -106,6 +108,14 @@
     {
       "date": "2024-01-30T16:03:37.855Z",
       "anagram": "abbdeeeirs"
+    },
+    {
+      "date": "2024-01-30T20:03:42.657Z",
+      "anagram": "degiiorssv"
+    },
+    {
+      "date": "2024-01-30T20:03:42.704Z",
+      "anagram": "acdoort"
     }
   ]
 }
