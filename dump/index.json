@@ -17,9 +17,11 @@
     "aeflnopt",
     "aegost",
     "agiiorv",
+    "aglnooprr",
     "amooorss",
     "cceehilst",
     "cceeiiosx",
+    "cdeeiinnst",
     "degiiorssv",
     "deiost",
     "eennosv"
@@ -116,6 +118,14 @@
     {
       "date": "2024-01-30T20:03:42.704Z",
       "anagram": "acdoort"
+    },
+    {
+      "date": "2024-01-31T00:12:10.373Z",
+      "anagram": "cdeeiinnst"
+    },
+    {
+      "date": "2024-01-31T00:12:10.445Z",
+      "anagram": "aglnooprr"
     }
   ]
 }
