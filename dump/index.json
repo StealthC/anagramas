@@ -5,6 +5,8 @@
     "aabeirt",
     "aaccr",
     "aacersv",
+    "aaefrt",
+    "aafiilnrz",
     "abbdeeeirs",
     "abrrtu",
     "accor",
@@ -126,6 +128,14 @@
     {
       "date": "2024-01-31T00:12:10.445Z",
       "anagram": "aglnooprr"
+    },
+    {
+      "date": "2024-01-31T12:04:40.734Z",
+      "anagram": "aafiilnrz"
+    },
+    {
+      "date": "2024-01-31T12:04:40.774Z",
+      "anagram": "aaefrt"
     }
   ]
 }
