@@ -1,11 +1,13 @@
 {
   "anagrams": [
     "aaacclot",
+    "aaacmrrs",
     "aaailmr",
     "aabeirt",
     "aaccr",
     "aacersv",
     "aaefrt",
+    "aaegruv",
     "aafiilnrz",
     "abbdeeeirs",
     "abrrtu",
@@ -146,6 +148,14 @@
     {
       "date": "2024-01-31T16:03:52.415Z",
       "anagram": "cdefiiio"
+    },
+    {
+      "date": "2024-01-31T20:03:27.810Z",
+      "anagram": "aaegruv"
+    },
+    {
+      "date": "2024-01-31T20:03:27.911Z",
+      "anagram": "aaacmrrs"
     }
   ]
 }
