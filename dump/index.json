@@ -16,6 +16,7 @@
     "adeemnrt",
     "adios",
     "adossu",
+    "aeemrss",
     "aeflnopt",
     "aegost",
     "agiiorv",
@@ -24,6 +25,7 @@
     "cceehilst",
     "cceeiiosx",
     "cdeeiinnst",
+    "cdefiiio",
     "degiiorssv",
     "deiost",
     "eennosv"
@@ -136,6 +138,14 @@
     {
       "date": "2024-01-31T12:04:40.774Z",
       "anagram": "aaefrt"
+    },
+    {
+      "date": "2024-01-31T16:03:52.193Z",
+      "anagram": "aeemrss"
+    },
+    {
+      "date": "2024-01-31T16:03:52.415Z",
+      "anagram": "cdefiiio"
     }
   ]
 }
