@@ -8,6 +8,7 @@
     "aacersv",
     "aaefrt",
     "aaegruv",
+    "aaerrrst",
     "aafiilnrz",
     "abbdeeeirs",
     "abrrtu",
@@ -21,6 +22,7 @@
     "adossu",
     "aeemrss",
     "aeflnopt",
+    "aefnoossx",
     "aegost",
     "aeilrrtt",
     "agiiorv",
@@ -166,6 +168,14 @@
     {
       "date": "2024-02-01T00:12:41.567Z",
       "anagram": "aeilrrtt"
+    },
+    {
+      "date": "2024-02-01T12:04:46.828Z",
+      "anagram": "aefnoossx"
+    },
+    {
+      "date": "2024-02-01T12:04:47.298Z",
+      "anagram": "aaerrrst"
     }
   ]
 }
