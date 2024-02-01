@@ -17,6 +17,7 @@
     "acdoort",
     "acepsuz",
     "achot",
+    "aclotu",
     "adeemnrt",
     "adios",
     "adossu",
@@ -34,7 +35,8 @@
     "cdefiiio",
     "degiiorssv",
     "deiost",
-    "eennosv"
+    "eennosv",
+    "eirrsv"
   ],
   "byDate": [
     {
@@ -176,6 +178,14 @@
     {
       "date": "2024-02-01T12:04:47.298Z",
       "anagram": "aaerrrst"
+    },
+    {
+      "date": "2024-02-01T16:03:49.567Z",
+      "anagram": "eirrsv"
+    },
+    {
+      "date": "2024-02-01T16:03:49.663Z",
+      "anagram": "aclotu"
     }
   ]
 }
