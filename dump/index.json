@@ -1,7 +1,9 @@
 {
   "anagrams": [
     "aaacclot",
+    "aaachinrr",
     "aaacmrrs",
+    "aaadmrst",
     "aaailmr",
     "aabeirt",
     "aaccr",
@@ -226,6 +228,14 @@
     {
       "date": "2024-02-02T16:03:27.039Z",
       "anagram": "acdeins"
+    },
+    {
+      "date": "2024-02-02T20:03:34.044Z",
+      "anagram": "aaadmrst"
+    },
+    {
+      "date": "2024-02-02T20:03:34.086Z",
+      "anagram": "aaachinrr"
     }
   ]
 }
