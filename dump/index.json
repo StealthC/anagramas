@@ -27,11 +27,13 @@
     "aeflnopt",
     "aefnoossx",
     "aegost",
+    "aehnorss",
     "aeilrrtt",
     "agiiorv",
     "aginot",
     "aglnooprr",
     "amooorss",
+    "bdfhiooor",
     "cceehilst",
     "cceeiiosx",
     "cdeeiinnst",
@@ -206,6 +208,14 @@
     {
       "date": "2024-02-02T00:12:08.776Z",
       "anagram": "cdemoopr"
+    },
+    {
+      "date": "2024-02-02T12:04:31.635Z",
+      "anagram": "bdfhiooor"
+    },
+    {
+      "date": "2024-02-02T12:04:31.787Z",
+      "anagram": "aehnorss"
     }
   ]
 }
