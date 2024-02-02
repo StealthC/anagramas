@@ -19,6 +19,7 @@
     "achot",
     "aclotu",
     "adeemnrt",
+    "ademoop",
     "adios",
     "adossu",
     "aeeghmnoo",
@@ -35,6 +36,7 @@
     "cceeiiosx",
     "cdeeiinnst",
     "cdefiiio",
+    "cdemoopr",
     "degiiorssv",
     "deiost",
     "eennosv",
@@ -196,6 +198,14 @@
     {
       "date": "2024-02-01T20:03:30.299Z",
       "anagram": "aginot"
+    },
+    {
+      "date": "2024-02-02T00:12:08.750Z",
+      "anagram": "ademoop"
+    },
+    {
+      "date": "2024-02-02T00:12:08.776Z",
+      "anagram": "cdemoopr"
     }
   ]
 }
