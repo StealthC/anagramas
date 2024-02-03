@@ -5,6 +5,7 @@
     "aaacmrrs",
     "aaadmrst",
     "aaailmr",
+    "aabdoort",
     "aabeirt",
     "aaccr",
     "aacdiimn",
@@ -16,6 +17,7 @@
     "aaerrrst",
     "aafiilnrz",
     "abbdeeeirs",
+    "abderrru",
     "abrrtu",
     "accor",
     "acdeer",
@@ -266,6 +268,14 @@
     {
       "date": "2024-02-03T16:05:09.873Z",
       "anagram": "adeorsv"
+    },
+    {
+      "date": "2024-02-03T20:04:05.067Z",
+      "anagram": "abderrru"
+    },
+    {
+      "date": "2024-02-03T20:04:05.123Z",
+      "anagram": "aabdoort"
     }
   ]
 }
