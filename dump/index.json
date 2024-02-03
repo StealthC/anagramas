@@ -12,6 +12,7 @@
     "aadegm",
     "aaefrt",
     "aaegruv",
+    "aaelpt",
     "aaerrrst",
     "aafiilnrz",
     "abbdeeeirs",
@@ -25,6 +26,7 @@
     "aclotu",
     "adeemnrt",
     "ademoop",
+    "adeorsv",
     "adios",
     "adossu",
     "aeeghmnoo",
@@ -256,6 +258,14 @@
     {
       "date": "2024-02-03T12:05:43.033Z",
       "anagram": "ceelost"
+    },
+    {
+      "date": "2024-02-03T16:05:09.631Z",
+      "anagram": "aaelpt"
+    },
+    {
+      "date": "2024-02-03T16:05:09.873Z",
+      "anagram": "adeorsv"
     }
   ]
 }
