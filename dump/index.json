@@ -7,6 +7,7 @@
     "aaailmr",
     "aabeirt",
     "aaccr",
+    "aacdiimn",
     "aacersv",
     "aaefrt",
     "aaegruv",
@@ -46,7 +47,8 @@
     "degiiorssv",
     "deiost",
     "eennosv",
-    "eirrsv"
+    "eirrsv",
+    "eopprr"
   ],
   "byDate": [
     {
@@ -236,6 +238,14 @@
     {
       "date": "2024-02-02T20:03:34.086Z",
       "anagram": "aaachinrr"
+    },
+    {
+      "date": "2024-02-03T00:12:25.517Z",
+      "anagram": "eopprr"
+    },
+    {
+      "date": "2024-02-03T00:12:25.564Z",
+      "anagram": "aacdiimn"
     }
   ]
 }
