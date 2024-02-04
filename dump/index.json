@@ -42,9 +42,11 @@
     "aegost",
     "aehnorss",
     "aeilrrtt",
+    "aejortt",
     "agiiorv",
     "aginot",
     "aglnooprr",
+    "airtz",
     "amooorss",
     "bdfhiooor",
     "cceehilst",
@@ -306,6 +308,14 @@
     {
       "date": "2024-02-04T16:03:39.467Z",
       "anagram": "ejooprt"
+    },
+    {
+      "date": "2024-02-04T20:03:57.696Z",
+      "anagram": "airtz"
+    },
+    {
+      "date": "2024-02-04T20:03:57.711Z",
+      "anagram": "aejortt"
     }
   ]
 }
