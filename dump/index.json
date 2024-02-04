@@ -5,11 +5,13 @@
     "aaacmrrs",
     "aaadmrst",
     "aaailmr",
+    "aabdiss",
     "aabdoort",
     "aabeirt",
     "aaccr",
     "aacdiimn",
     "aacersv",
+    "aadefgllo",
     "aadegm",
     "aaefrt",
     "aaegruv",
@@ -276,6 +278,14 @@
     {
       "date": "2024-02-03T20:04:05.123Z",
       "anagram": "aabdoort"
+    },
+    {
+      "date": "2024-02-04T00:13:34.876Z",
+      "anagram": "aadefgllo"
+    },
+    {
+      "date": "2024-02-04T00:13:34.892Z",
+      "anagram": "aabdiss"
     }
   ]
 }
