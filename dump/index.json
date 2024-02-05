@@ -22,6 +22,7 @@
     "aahiinoovz",
     "abbdeeeirs",
     "abderrru",
+    "abeehirs",
     "abrrtu",
     "accor",
     "acdeer",
@@ -47,6 +48,7 @@
     "agiiorv",
     "aginot",
     "aglnooprr",
+    "ailooss",
     "airtz",
     "amooorss",
     "bdfhiooor",
@@ -336,6 +338,14 @@
     {
       "date": "2024-02-05T12:05:02.894Z",
       "anagram": "iiloprtu"
+    },
+    {
+      "date": "2024-02-05T16:03:38.903Z",
+      "anagram": "abeehirs"
+    },
+    {
+      "date": "2024-02-05T16:03:38.919Z",
+      "anagram": "ailooss"
     }
   ]
 }
