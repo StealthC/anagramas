@@ -58,12 +58,14 @@
     "cdemoopr",
     "ceelost",
     "degiiorssv",
+    "dehilmu",
     "deiloorvv",
     "deiost",
     "eennosv",
     "eirrsv",
     "ejooprt",
     "eopprr",
+    "iiloprtu",
     "iimort"
   ],
   "byDate": [
@@ -326,6 +328,14 @@
     {
       "date": "2024-02-05T04:03:39.868Z",
       "anagram": "deiloorvv"
+    },
+    {
+      "date": "2024-02-05T12:05:02.870Z",
+      "anagram": "dehilmu"
+    },
+    {
+      "date": "2024-02-05T12:05:02.894Z",
+      "anagram": "iiloprtu"
     }
   ]
 }
