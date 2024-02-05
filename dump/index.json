@@ -58,6 +58,7 @@
     "cdemoopr",
     "ceelost",
     "degiiorssv",
+    "deiloorvv",
     "deiost",
     "eennosv",
     "eirrsv",
@@ -321,6 +322,10 @@
     {
       "date": "2024-02-05T00:12:54.305Z",
       "anagram": "adeorrr"
+    },
+    {
+      "date": "2024-02-05T04:03:39.868Z",
+      "anagram": "deiloorvv"
     }
   ]
 }
