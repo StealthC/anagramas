@@ -38,6 +38,7 @@
     "adios",
     "adossu",
     "aeeghmnoo",
+    "aeejnot",
     "aeemrss",
     "aeflnopt",
     "aefnoossx",
@@ -70,7 +71,8 @@
     "eopprr",
     "iiloprtu",
     "iimnnoos",
-    "iimort"
+    "iimort",
+    "imoprsu"
   ],
   "byDate": [
     {
@@ -356,6 +358,14 @@
     {
       "date": "2024-02-05T20:03:36.303Z",
       "anagram": "iimnnoos"
+    },
+    {
+      "date": "2024-02-06T00:12:10.789Z",
+      "anagram": "aeejnot"
+    },
+    {
+      "date": "2024-02-06T00:12:10.902Z",
+      "anagram": "imoprsu"
     }
   ]
 }
