@@ -23,7 +23,9 @@
     "aaemnrrs",
     "aaerrrst",
     "aafiilnrz",
+    "aafrrtu",
     "aahiinoovz",
+    "aaiilrux",
     "abbdeeeirs",
     "abccdehhou",
     "abderrru",
@@ -406,6 +408,14 @@
     {
       "date": "2024-02-07T00:11:46.116Z",
       "anagram": "aaacilmr"
+    },
+    {
+      "date": "2024-02-07T12:04:37.079Z",
+      "anagram": "aaiilrux"
+    },
+    {
+      "date": "2024-02-07T12:04:37.095Z",
+      "anagram": "aafrrtu"
     }
   ]
 }
