@@ -17,6 +17,7 @@
     "aacistv",
     "aadefgllo",
     "aadegm",
+    "aadeil",
     "aaefrt",
     "aaegruv",
     "aaelpt",
@@ -39,6 +40,7 @@
     "achot",
     "acloort",
     "aclotu",
+    "addenssu",
     "adeemnrt",
     "ademoop",
     "adeorrr",
@@ -416,6 +418,14 @@
     {
       "date": "2024-02-07T12:04:37.095Z",
       "anagram": "aafrrtu"
+    },
+    {
+      "date": "2024-02-07T16:04:42.264Z",
+      "anagram": "aadeil"
+    },
+    {
+      "date": "2024-02-07T16:04:42.325Z",
+      "anagram": "addenssu"
     }
   ]
 }
