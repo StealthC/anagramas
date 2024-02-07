@@ -18,6 +18,7 @@
     "aadefgllo",
     "aadegm",
     "aadeil",
+    "aadhnors",
     "aaefrt",
     "aaegruv",
     "aaelpt",
@@ -72,6 +73,7 @@
     "cdemoopr",
     "ceelost",
     "cfooors",
+    "deemnort",
     "degiiorssv",
     "dehilmu",
     "deiloorvv",
@@ -426,6 +428,14 @@
     {
       "date": "2024-02-07T16:04:42.325Z",
       "anagram": "addenssu"
+    },
+    {
+      "date": "2024-02-07T20:03:35.804Z",
+      "anagram": "aadhnors"
+    },
+    {
+      "date": "2024-02-07T20:03:35.887Z",
+      "anagram": "deemnort"
     }
   ]
 }
