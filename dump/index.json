@@ -54,6 +54,7 @@
     "aeflnopt",
     "aefnoossx",
     "aegiirrtu",
+    "aegilnss",
     "aegost",
     "aehnorss",
     "aeilrrtt",
@@ -70,6 +71,7 @@
     "cceehilst",
     "cceeiiosx",
     "cciilnoos",
+    "cdeeenst",
     "cdeeiinnst",
     "cdefiiio",
     "cdemoopr",
@@ -456,6 +458,14 @@
     {
       "date": "2024-02-08T12:04:54.607Z",
       "anagram": "deefgiioru"
+    },
+    {
+      "date": "2024-02-08T16:06:12.133Z",
+      "anagram": "cdeeenst"
+    },
+    {
+      "date": "2024-02-08T16:06:16.483Z",
+      "anagram": "aegilnss"
     }
   ]
 }
