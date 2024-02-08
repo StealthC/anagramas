@@ -6,6 +6,7 @@
     "aaacmrrs",
     "aaadmrst",
     "aaailmr",
+    "aabdeir",
     "aabdiss",
     "aabdoort",
     "aabeirt",
@@ -85,6 +86,7 @@
     "deiloorvv",
     "deiost",
     "eennosv",
+    "eiinorss",
     "eirrsv",
     "ejooprt",
     "enopst",
@@ -466,6 +468,14 @@
     {
       "date": "2024-02-08T16:06:16.483Z",
       "anagram": "aegilnss"
+    },
+    {
+      "date": "2024-02-08T20:03:28.276Z",
+      "anagram": "aabdeir"
+    },
+    {
+      "date": "2024-02-08T20:03:28.280Z",
+      "anagram": "eiinorss"
     }
   ]
 }
