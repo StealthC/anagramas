@@ -56,6 +56,7 @@
     "aegost",
     "aehnorss",
     "aeilrrtt",
+    "aeirstv",
     "aejortt",
     "agiiorv",
     "aginot",
@@ -72,6 +73,7 @@
     "cdefiiio",
     "cdemoopr",
     "ceelost",
+    "ceimoprt",
     "cfooors",
     "deemnort",
     "degiiorssv",
@@ -436,6 +438,14 @@
     {
       "date": "2024-02-07T20:03:35.887Z",
       "anagram": "deemnort"
+    },
+    {
+      "date": "2024-02-08T00:12:01.860Z",
+      "anagram": "aeirstv"
+    },
+    {
+      "date": "2024-02-08T00:12:01.916Z",
+      "anagram": "ceimoprt"
     }
   ]
 }
