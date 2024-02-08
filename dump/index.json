@@ -53,6 +53,7 @@
     "aeemrss",
     "aeflnopt",
     "aefnoossx",
+    "aegiirrtu",
     "aegost",
     "aehnorss",
     "aeilrrtt",
@@ -75,6 +76,7 @@
     "ceelost",
     "ceimoprt",
     "cfooors",
+    "deefgiioru",
     "deemnort",
     "degiiorssv",
     "dehilmu",
@@ -446,6 +448,14 @@
     {
       "date": "2024-02-08T00:12:01.916Z",
       "anagram": "ceimoprt"
+    },
+    {
+      "date": "2024-02-08T12:04:54.579Z",
+      "anagram": "aegiirrtu"
+    },
+    {
+      "date": "2024-02-08T12:04:54.607Z",
+      "anagram": "deefgiioru"
     }
   ]
 }
