@@ -20,8 +20,10 @@
     "aadegm",
     "aadeil",
     "aadhnors",
+    "aadosv",
     "aaefrt",
     "aaegruv",
+    "aaeiinsssv",
     "aaelpt",
     "aaemnrrs",
     "aaerrrst",
@@ -476,6 +478,14 @@
     {
       "date": "2024-02-08T20:03:28.280Z",
       "anagram": "eiinorss"
+    },
+    {
+      "date": "2024-02-09T00:11:57.312Z",
+      "anagram": "aadosv"
+    },
+    {
+      "date": "2024-02-09T00:11:57.445Z",
+      "anagram": "aaeiinsssv"
     }
   ]
 }
