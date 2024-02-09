@@ -41,6 +41,7 @@
     "acdeins",
     "acdoort",
     "acepsuz",
+    "acgiilrtu",
     "achot",
     "acloort",
     "aclotu",
@@ -70,6 +71,7 @@
     "aimosssv",
     "airtz",
     "amooorss",
+    "ansu",
     "bdfhiooor",
     "cceehilst",
     "cceeiiosx",
@@ -486,6 +488,14 @@
     {
       "date": "2024-02-09T00:11:57.445Z",
       "anagram": "aaeiinsssv"
+    },
+    {
+      "date": "2024-02-09T12:04:42.374Z",
+      "anagram": "ansu"
+    },
+    {
+      "date": "2024-02-09T12:04:42.535Z",
+      "anagram": "acgiilrtu"
     }
   ]
 }
