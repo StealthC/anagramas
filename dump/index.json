@@ -1,11 +1,21 @@
 {
   "anagrams": [
-    "acinrrt"
+    "acinrrt",
+    "ceehimnnot",
+    "eeflnstu"
   ],
   "byDate": [
     {
       "date": "2024-02-09T16:03:42.572Z",
       "anagram": "acinrrt"
+    },
+    {
+      "date": "2024-02-09T20:03:32.702Z",
+      "anagram": "eeflnstu"
+    },
+    {
+      "date": "2024-02-09T20:03:32.888Z",
+      "anagram": "ceehimnnot"
     }
   ]
 }
