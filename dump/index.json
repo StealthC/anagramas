@@ -1,8 +1,10 @@
 {
   "anagrams": [
+    "aaaddilps",
     "aadefhnno",
     "acinrrt",
     "adiiinsv",
+    "bcddeeioos",
     "ceehimnnot",
     "cefhiinorr",
     "deostu",
@@ -36,6 +38,14 @@
     {
       "date": "2024-02-10T12:04:37.628Z",
       "anagram": "cefhiinorr"
+    },
+    {
+      "date": "2024-02-10T16:04:40.381Z",
+      "anagram": "aaaddilps"
+    },
+    {
+      "date": "2024-02-10T16:04:40.426Z",
+      "anagram": "bcddeeioos"
     }
   ]
 }
