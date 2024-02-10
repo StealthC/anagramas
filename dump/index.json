@@ -8,7 +8,9 @@
     "ceehimnnot",
     "cefhiinorr",
     "deostu",
-    "eeflnstu"
+    "eeflnstu",
+    "eioqstu",
+    "emnos"
   ],
   "byDate": [
     {
@@ -46,6 +48,14 @@
     {
       "date": "2024-02-10T16:04:40.426Z",
       "anagram": "bcddeeioos"
+    },
+    {
+      "date": "2024-02-10T20:03:35.273Z",
+      "anagram": "emnos"
+    },
+    {
+      "date": "2024-02-10T20:03:35.293Z",
+      "anagram": "eioqstu"
     }
   ]
 }
