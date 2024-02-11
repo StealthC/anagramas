@@ -1,6 +1,7 @@
 {
   "anagrams": [
     "aaaddilps",
+    "aacerss",
     "aacinrs",
     "aadefhnno",
     "aadiopr",
@@ -14,7 +15,8 @@
     "deostu",
     "eeflnstu",
     "eioqstu",
-    "emnos"
+    "emnos",
+    "ilossv"
   ],
   "byDate": [
     {
@@ -76,6 +78,14 @@
     {
       "date": "2024-02-11T12:04:16.138Z",
       "anagram": "aadiopr"
+    },
+    {
+      "date": "2024-02-11T16:04:29.987Z",
+      "anagram": "ilossv"
+    },
+    {
+      "date": "2024-02-11T16:04:30.055Z",
+      "anagram": "aacerss"
     }
   ]
 }
