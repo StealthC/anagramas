@@ -5,6 +5,7 @@
     "aacinrs",
     "aadefhnno",
     "aadiopr",
+    "aairsstu",
     "abeimor",
     "acinrrt",
     "adiiinsv",
@@ -86,6 +87,10 @@
     {
       "date": "2024-02-11T16:04:30.055Z",
       "anagram": "aacerss"
+    },
+    {
+      "date": "2024-02-11T20:03:31.256Z",
+      "anagram": "aairsstu"
     }
   ]
 }
