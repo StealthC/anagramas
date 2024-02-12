@@ -2,6 +2,7 @@
   "anagrams": [
     "aaabins",
     "aaaddilps",
+    "aaccdelss",
     "aacerss",
     "aacinrs",
     "aadefhnno",
@@ -11,6 +12,7 @@
     "acinrrt",
     "adiiinsv",
     "aeefnnrrt",
+    "aioprrs",
     "anors",
     "bcddeeioos",
     "ceehimnnot",
@@ -101,6 +103,14 @@
     {
       "date": "2024-02-12T00:12:42.768Z",
       "anagram": "anors"
+    },
+    {
+      "date": "2024-02-12T12:04:52.544Z",
+      "anagram": "aaccdelss"
+    },
+    {
+      "date": "2024-02-12T12:04:52.615Z",
+      "anagram": "aioprrs"
     }
   ]
 }
