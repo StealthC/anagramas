@@ -4,6 +4,7 @@
     "aaaddilps",
     "aaccdelss",
     "aacerss",
+    "aacfiinnr",
     "aacinrs",
     "aaciprr",
     "aaclov",
@@ -14,6 +15,7 @@
     "aailrs",
     "aairsstu",
     "abeimor",
+    "acchlos",
     "acinrrt",
     "adiiinsv",
     "aeefnnrrt",
@@ -151,6 +153,14 @@
     {
       "date": "2024-02-13T12:05:18.378Z",
       "anagram": "aailmsst"
+    },
+    {
+      "date": "2024-02-13T16:04:39.803Z",
+      "anagram": "aacfiinnr"
+    },
+    {
+      "date": "2024-02-13T16:04:39.945Z",
+      "anagram": "acchlos"
     }
   ]
 }
