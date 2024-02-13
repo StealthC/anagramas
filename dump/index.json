@@ -7,8 +7,10 @@
     "aacinrs",
     "aaciprr",
     "aaclov",
+    "aaddit",
     "aadefhnno",
     "aadiopr",
+    "aailmsst",
     "aailrs",
     "aairsstu",
     "abeimor",
@@ -141,6 +143,14 @@
     {
       "date": "2024-02-13T00:12:40.110Z",
       "anagram": "aaciprr"
+    },
+    {
+      "date": "2024-02-13T12:05:18.337Z",
+      "anagram": "aaddit"
+    },
+    {
+      "date": "2024-02-13T12:05:18.378Z",
+      "anagram": "aailmsst"
     }
   ]
 }
