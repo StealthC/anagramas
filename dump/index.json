@@ -5,6 +5,7 @@
     "aaccdelss",
     "aacerss",
     "aacinrs",
+    "aaciprr",
     "aaclov",
     "aadefhnno",
     "aadiopr",
@@ -16,6 +17,7 @@
     "aeefnnrrt",
     "aeegnort",
     "aeipqsssu",
+    "agisu",
     "aioprrs",
     "anors",
     "bcddeeioos",
@@ -131,6 +133,14 @@
     {
       "date": "2024-02-12T20:03:45.831Z",
       "anagram": "aeipqsssu"
+    },
+    {
+      "date": "2024-02-13T00:12:37.917Z",
+      "anagram": "agisu"
+    },
+    {
+      "date": "2024-02-13T00:12:40.110Z",
+      "anagram": "aaciprr"
     }
   ]
 }
