@@ -3,6 +3,7 @@
     "aaaaginpr",
     "aaabins",
     "aaaddilps",
+    "aabjmnu",
     "aaccdelss",
     "aacerss",
     "aacfiinnr",
@@ -13,6 +14,7 @@
     "aaddit",
     "aadefhnno",
     "aadiopr",
+    "aaers",
     "aailmsst",
     "aailrs",
     "aairsstu",
@@ -201,6 +203,14 @@
     {
       "date": "2024-02-14T16:03:49.842Z",
       "anagram": "cehimoor"
+    },
+    {
+      "date": "2024-02-14T20:03:49.689Z",
+      "anagram": "aabjmnu"
+    },
+    {
+      "date": "2024-02-14T20:03:49.709Z",
+      "anagram": "aaers"
     }
   ]
 }
