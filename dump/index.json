@@ -9,6 +9,7 @@
     "aacinrs",
     "aaciprr",
     "aaclov",
+    "aacps",
     "aaddit",
     "aadefhnno",
     "aadiopr",
@@ -17,6 +18,7 @@
     "aairsstu",
     "abeimor",
     "acchlos",
+    "aceeginr",
     "acinrrt",
     "adiiinsv",
     "aeefnnrrt",
@@ -171,6 +173,14 @@
     {
       "date": "2024-02-13T20:03:49.633Z",
       "anagram": "aaaaginpr"
+    },
+    {
+      "date": "2024-02-14T00:12:06.937Z",
+      "anagram": "aceeginr"
+    },
+    {
+      "date": "2024-02-14T00:12:06.951Z",
+      "anagram": "aacps"
     }
   ]
 }
