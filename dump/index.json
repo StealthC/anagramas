@@ -32,9 +32,11 @@
     "bcddeeioos",
     "ceehimnnot",
     "cefhiinorr",
+    "cehimoor",
     "ddeinor",
     "deostu",
     "eeflnstu",
+    "eeforsst",
     "eioqstu",
     "emnos",
     "ilossv"
@@ -191,6 +193,14 @@
     {
       "date": "2024-02-14T12:04:49.381Z",
       "anagram": "abbino"
+    },
+    {
+      "date": "2024-02-14T16:03:49.726Z",
+      "anagram": "eeforsst"
+    },
+    {
+      "date": "2024-02-14T16:03:49.842Z",
+      "anagram": "cehimoor"
     }
   ]
 }
