@@ -25,10 +25,12 @@
     "acinrrt",
     "addgiiirs",
     "adiiinsv",
+    "adilo",
     "aeefnnrrt",
     "aeegnort",
     "aeipqsssu",
     "agisu",
+    "aioort",
     "aioprrs",
     "anors",
     "bcddeeioos",
@@ -221,6 +223,14 @@
     {
       "date": "2024-02-15T00:12:20.679Z",
       "anagram": "ceefior"
+    },
+    {
+      "date": "2024-02-15T12:04:38.643Z",
+      "anagram": "aioort"
+    },
+    {
+      "date": "2024-02-15T12:04:38.744Z",
+      "anagram": "adilo"
     }
   ]
 }
