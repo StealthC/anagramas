@@ -3,6 +3,7 @@
     "aaaaginpr",
     "aaabins",
     "aaaddilps",
+    "aaadirt",
     "aabjmnu",
     "aaccdelss",
     "aacerss",
@@ -29,6 +30,7 @@
     "adilo",
     "aeefnnrrt",
     "aeegnort",
+    "aeglopr",
     "aeipqsssu",
     "aeprrssu",
     "agisu",
@@ -241,6 +243,14 @@
     {
       "date": "2024-02-15T16:03:47.432Z",
       "anagram": "adginoor"
+    },
+    {
+      "date": "2024-02-15T20:03:30.695Z",
+      "anagram": "aaadirt"
+    },
+    {
+      "date": "2024-02-15T20:03:34.324Z",
+      "anagram": "aeglopr"
     }
   ]
 }
