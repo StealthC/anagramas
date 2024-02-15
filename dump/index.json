@@ -32,9 +32,11 @@
     "aioprrs",
     "anors",
     "bcddeeioos",
+    "ceefior",
     "ceehimnnot",
     "cefhiinorr",
     "cehimoor",
+    "ciinooprt",
     "ddeinor",
     "deostu",
     "eeflnstu",
@@ -211,6 +213,14 @@
     {
       "date": "2024-02-14T20:03:49.709Z",
       "anagram": "aaers"
+    },
+    {
+      "date": "2024-02-15T00:12:20.642Z",
+      "anagram": "ciinooprt"
+    },
+    {
+      "date": "2024-02-15T00:12:20.679Z",
+      "anagram": "ceefior"
     }
   ]
 }
