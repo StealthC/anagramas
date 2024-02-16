@@ -24,11 +24,13 @@
     "abeimor",
     "acchlos",
     "aceeginr",
+    "aceghrs",
     "achloo",
     "acinrrt",
     "addgiiirs",
     "adginoor",
     "adiiinsv",
+    "adilmnr",
     "adilo",
     "aeefnnrrt",
     "aeegnort",
@@ -271,6 +273,14 @@
     {
       "date": "2024-02-16T12:04:49.591Z",
       "anagram": "dghinorsu"
+    },
+    {
+      "date": "2024-02-16T16:03:58.257Z",
+      "anagram": "adilmnr"
+    },
+    {
+      "date": "2024-02-16T16:03:58.326Z",
+      "anagram": "aceghrs"
     }
   ]
 }
