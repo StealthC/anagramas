@@ -11,6 +11,7 @@
     "aacfiinnr",
     "aacinrs",
     "aaciprr",
+    "aaclmp",
     "aaclov",
     "aacps",
     "aaddit",
@@ -281,6 +282,10 @@
     {
       "date": "2024-02-16T16:03:58.326Z",
       "anagram": "aceghrs"
+    },
+    {
+      "date": "2024-02-16T20:03:36.668Z",
+      "anagram": "aaclmp"
     }
   ]
 }
