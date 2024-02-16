@@ -36,6 +36,7 @@
     "aeipqsssu",
     "aeprrssu",
     "agisu",
+    "ainsu",
     "aioort",
     "aioprrs",
     "anors",
@@ -47,6 +48,7 @@
     "ciinooprt",
     "ddeinor",
     "deostu",
+    "dghinorsu",
     "eeflnstu",
     "eeforsst",
     "eioqstu",
@@ -261,6 +263,14 @@
     {
       "date": "2024-02-16T00:12:06.096Z",
       "anagram": "aaaccijnt"
+    },
+    {
+      "date": "2024-02-16T12:04:49.563Z",
+      "anagram": "ainsu"
+    },
+    {
+      "date": "2024-02-16T12:04:49.591Z",
+      "anagram": "dghinorsu"
     }
   ]
 }
