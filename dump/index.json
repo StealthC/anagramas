@@ -2,6 +2,7 @@
   "anagrams": [
     "aaaaginpr",
     "aaabins",
+    "aaaccijnt",
     "aaaddilps",
     "aaadirt",
     "aabjmnu",
@@ -23,6 +24,7 @@
     "abeimor",
     "acchlos",
     "aceeginr",
+    "achloo",
     "acinrrt",
     "addgiiirs",
     "adginoor",
@@ -251,6 +253,14 @@
     {
       "date": "2024-02-15T20:03:34.324Z",
       "anagram": "aeglopr"
+    },
+    {
+      "date": "2024-02-16T00:12:05.910Z",
+      "anagram": "achloo"
+    },
+    {
+      "date": "2024-02-16T00:12:06.096Z",
+      "anagram": "aaaccijnt"
     }
   ]
 }
