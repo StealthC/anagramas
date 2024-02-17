@@ -33,10 +33,12 @@
     "adiiinsv",
     "adilmnr",
     "adilo",
+    "adloos",
     "aeefnnrrt",
     "aeegnort",
     "aeglopr",
     "aeipqsssu",
+    "aemrrt",
     "aeprrssu",
     "agisu",
     "ainsu",
@@ -286,6 +288,14 @@
     {
       "date": "2024-02-16T20:03:36.668Z",
       "anagram": "aaclmp"
+    },
+    {
+      "date": "2024-02-17T00:11:56.916Z",
+      "anagram": "adloos"
+    },
+    {
+      "date": "2024-02-17T00:11:56.947Z",
+      "anagram": "aemrrt"
     }
   ]
 }
