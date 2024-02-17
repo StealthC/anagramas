@@ -21,11 +21,13 @@
     "aailmsst",
     "aailrs",
     "aairsstu",
+    "aalrv",
     "abbino",
     "abeimor",
     "acchlos",
     "aceeginr",
     "aceghrs",
+    "acfos",
     "achloo",
     "acinrrt",
     "addgiiirs",
@@ -296,6 +298,14 @@
     {
       "date": "2024-02-17T00:11:56.947Z",
       "anagram": "aemrrt"
+    },
+    {
+      "date": "2024-02-17T12:04:14.153Z",
+      "anagram": "aalrv"
+    },
+    {
+      "date": "2024-02-17T12:04:14.171Z",
+      "anagram": "acfos"
     }
   ]
 }
