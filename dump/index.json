@@ -1,11 +1,21 @@
 {
   "anagrams": [
+    "aaaacilnp",
+    "aaacdms",
     "aagglru"
   ],
   "byDate": [
     {
       "date": "2024-02-17T16:04:27.484Z",
       "anagram": "aagglru"
+    },
+    {
+      "date": "2024-02-17T20:04:09.409Z",
+      "anagram": "aaacdms"
+    },
+    {
+      "date": "2024-02-17T20:04:09.494Z",
+      "anagram": "aaaacilnp"
     }
   ]
 }
