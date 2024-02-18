@@ -3,9 +3,11 @@
     "aaaacilnp",
     "aaacdms",
     "aaacnrrr",
+    "aabddiilru",
     "aaddenos",
     "aagglru",
     "aalort",
+    "aiimostt",
     "noorst"
   ],
   "byDate": [
@@ -36,6 +38,14 @@
     {
       "date": "2024-02-18T12:04:21.997Z",
       "anagram": "aaddenos"
+    },
+    {
+      "date": "2024-02-18T16:03:35.608Z",
+      "anagram": "aiimostt"
+    },
+    {
+      "date": "2024-02-18T16:03:35.831Z",
+      "anagram": "aabddiilru"
     }
   ]
 }
