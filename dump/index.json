@@ -4,9 +4,11 @@
     "aaacdms",
     "aaacnrrr",
     "aabddiilru",
+    "aacfr",
     "aaddenos",
     "aagglru",
     "aalort",
+    "acmos",
     "aiimostt",
     "noorst"
   ],
@@ -46,6 +48,14 @@
     {
       "date": "2024-02-18T16:03:35.831Z",
       "anagram": "aabddiilru"
+    },
+    {
+      "date": "2024-02-18T20:04:04.485Z",
+      "anagram": "acmos"
+    },
+    {
+      "date": "2024-02-18T20:04:04.513Z",
+      "anagram": "aacfr"
     }
   ]
 }
