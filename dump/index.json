@@ -2,6 +2,8 @@
   "anagrams": [
     "aaaacilnp",
     "aaacdms",
+    "aaacnrrr",
+    "aaddenos",
     "aagglru",
     "aalort",
     "noorst"
@@ -26,6 +28,14 @@
     {
       "date": "2024-02-18T00:13:07.154Z",
       "anagram": "aalort"
+    },
+    {
+      "date": "2024-02-18T12:04:21.970Z",
+      "anagram": "aaacnrrr"
+    },
+    {
+      "date": "2024-02-18T12:04:21.997Z",
+      "anagram": "aaddenos"
     }
   ]
 }
