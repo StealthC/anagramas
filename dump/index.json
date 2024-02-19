@@ -5,6 +5,7 @@
     "aaacnrrr",
     "aabddiilru",
     "aacfr",
+    "aacitv",
     "aaddenos",
     "aaegnnoss",
     "aagglru",
@@ -14,6 +15,7 @@
     "aemnoooptv",
     "aeopprrs",
     "aiimostt",
+    "eginorsss",
     "noorst"
   ],
   "byDate": [
@@ -76,6 +78,14 @@
     {
       "date": "2024-02-19T12:05:03.202Z",
       "anagram": "aaegnnoss"
+    },
+    {
+      "date": "2024-02-19T16:03:41.252Z",
+      "anagram": "aacitv"
+    },
+    {
+      "date": "2024-02-19T16:03:41.350Z",
+      "anagram": "eginorsss"
     }
   ]
 }
