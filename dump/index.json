@@ -9,6 +9,8 @@
     "aagglru",
     "aalort",
     "acmos",
+    "aemnoooptv",
+    "aeopprrs",
     "aiimostt",
     "noorst"
   ],
@@ -56,6 +58,14 @@
     {
       "date": "2024-02-18T20:04:04.513Z",
       "anagram": "aacfr"
+    },
+    {
+      "date": "2024-02-19T00:12:45.544Z",
+      "anagram": "aeopprrs"
+    },
+    {
+      "date": "2024-02-19T00:12:45.561Z",
+      "anagram": "aemnoooptv"
     }
   ]
 }
