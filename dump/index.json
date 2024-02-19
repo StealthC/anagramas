@@ -11,10 +11,12 @@
     "aagglru",
     "aalort",
     "acmos",
+    "adeopr",
     "aegrsv",
     "aemnoooptv",
     "aeopprrs",
     "aiimostt",
+    "aiort",
     "eginorsss",
     "noorst"
   ],
@@ -86,6 +88,14 @@
     {
       "date": "2024-02-19T16:03:41.350Z",
       "anagram": "eginorsss"
+    },
+    {
+      "date": "2024-02-19T20:03:30.254Z",
+      "anagram": "adeopr"
+    },
+    {
+      "date": "2024-02-19T20:03:30.312Z",
+      "anagram": "aiort"
     }
   ]
 }
