@@ -16,8 +16,10 @@
     "aegrsv",
     "aemnoooptv",
     "aeopprrs",
+    "afjotu",
     "aiimostt",
     "aiort",
+    "cdenootu",
     "eelsst",
     "eginorsss",
     "fiimnor",
@@ -111,6 +113,14 @@
     {
       "date": "2024-02-20T12:04:40.598Z",
       "anagram": "eelsst"
+    },
+    {
+      "date": "2024-02-20T16:03:53.405Z",
+      "anagram": "cdenootu"
+    },
+    {
+      "date": "2024-02-20T16:03:53.422Z",
+      "anagram": "afjotu"
     }
   ]
 }
