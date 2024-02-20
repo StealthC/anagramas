@@ -7,6 +7,7 @@
     "aacfr",
     "aacitv",
     "aaddenos",
+    "aadiotv",
     "aaegnnoss",
     "aagglru",
     "aalort",
@@ -18,6 +19,7 @@
     "aiimostt",
     "aiort",
     "eginorsss",
+    "fiimnor",
     "noorst"
   ],
   "byDate": [
@@ -96,6 +98,14 @@
     {
       "date": "2024-02-19T20:03:30.312Z",
       "anagram": "aiort"
+    },
+    {
+      "date": "2024-02-20T00:11:50.907Z",
+      "anagram": "fiimnor"
+    },
+    {
+      "date": "2024-02-20T00:11:50.932Z",
+      "anagram": "aadiotv"
     }
   ]
 }
