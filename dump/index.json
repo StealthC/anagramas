@@ -18,6 +18,7 @@
     "aeopprrs",
     "aiimostt",
     "aiort",
+    "eelsst",
     "eginorsss",
     "fiimnor",
     "noorst"
@@ -106,6 +107,10 @@
     {
       "date": "2024-02-20T00:11:50.932Z",
       "anagram": "aadiotv"
+    },
+    {
+      "date": "2024-02-20T12:04:40.598Z",
+      "anagram": "eelsst"
     }
   ]
 }
