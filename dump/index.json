@@ -4,6 +4,7 @@
     "aaacdms",
     "aaacnrrr",
     "aabddiilru",
+    "aabirrr",
     "aaceist",
     "aacfr",
     "aacitv",
@@ -23,6 +24,7 @@
     "aiort",
     "ajrsu",
     "bdimoors",
+    "ccimoo",
     "cdenootu",
     "eelsst",
     "eginorsss",
@@ -141,6 +143,14 @@
     {
       "date": "2024-02-21T00:11:59.384Z",
       "anagram": "aaceist"
+    },
+    {
+      "date": "2024-02-21T12:04:44.449Z",
+      "anagram": "ccimoo"
+    },
+    {
+      "date": "2024-02-21T12:04:44.525Z",
+      "anagram": "aabirrr"
     }
   ]
 }
