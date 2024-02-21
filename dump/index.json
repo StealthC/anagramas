@@ -13,6 +13,7 @@
     "aaegnnoss",
     "aagglru",
     "aalort",
+    "acdeio",
     "acmos",
     "adeopr",
     "aegrsv",
@@ -20,6 +21,7 @@
     "aeopprrs",
     "afjotu",
     "ahimnnoss",
+    "aiilnotu",
     "aiimostt",
     "aiort",
     "ajrsu",
@@ -151,6 +153,14 @@
     {
       "date": "2024-02-21T12:04:44.525Z",
       "anagram": "aabirrr"
+    },
+    {
+      "date": "2024-02-21T16:04:53.124Z",
+      "anagram": "acdeio"
+    },
+    {
+      "date": "2024-02-21T16:04:53.230Z",
+      "anagram": "aiilnotu"
     }
   ]
 }
