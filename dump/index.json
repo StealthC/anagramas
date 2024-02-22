@@ -1,6 +1,7 @@
 {
   "anagrams": [
     "aaaacilnp",
+    "aaacdhm",
     "aaacdms",
     "aaacnrrr",
     "aabddiilru",
@@ -35,6 +36,7 @@
     "bdimoors",
     "ccimoo",
     "cdenootu",
+    "ddioorss",
     "eelsst",
     "egiiosstv",
     "eginorsss",
@@ -201,6 +203,14 @@
     {
       "date": "2024-02-22T16:03:46.840Z",
       "anagram": "aacchino"
+    },
+    {
+      "date": "2024-02-22T20:03:26.810Z",
+      "anagram": "aaacdhm"
+    },
+    {
+      "date": "2024-02-22T20:03:26.827Z",
+      "anagram": "ddioorss"
     }
   ]
 }
