@@ -8,6 +8,7 @@
     "aacdioox",
     "aaceist",
     "aacfr",
+    "aachinpr",
     "aacitv",
     "aaddenos",
     "aadiinnop",
@@ -16,6 +17,7 @@
     "aaehmmost",
     "aagglru",
     "aalort",
+    "ablors",
     "acdeio",
     "acmos",
     "adeopr",
@@ -181,6 +183,14 @@
     {
       "date": "2024-02-22T00:11:57.018Z",
       "anagram": "egiiosstv"
+    },
+    {
+      "date": "2024-02-22T12:04:38.117Z",
+      "anagram": "ablors"
+    },
+    {
+      "date": "2024-02-22T12:04:38.163Z",
+      "anagram": "aachinpr"
     }
   ]
 }
