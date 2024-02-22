@@ -13,6 +13,7 @@
     "aadiinnop",
     "aadiotv",
     "aaegnnoss",
+    "aaehmmost",
     "aagglru",
     "aalort",
     "acdeio",
@@ -31,6 +32,7 @@
     "ccimoo",
     "cdenootu",
     "eelsst",
+    "egiiosstv",
     "eginorsss",
     "fiimnor",
     "noorst"
@@ -171,6 +173,14 @@
     {
       "date": "2024-02-21T20:03:35.255Z",
       "anagram": "aacdioox"
+    },
+    {
+      "date": "2024-02-22T00:11:56.982Z",
+      "anagram": "aaehmmost"
+    },
+    {
+      "date": "2024-02-22T00:11:57.018Z",
+      "anagram": "egiiosstv"
     }
   ]
 }
