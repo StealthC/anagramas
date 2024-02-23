@@ -25,7 +25,9 @@
     "acdeio",
     "acmos",
     "adeopr",
+    "aeepst",
     "aegrsv",
+    "aelrs",
     "aemnoooptv",
     "aeopprrs",
     "afjotu",
@@ -221,6 +223,14 @@
     {
       "date": "2024-02-23T00:11:34.844Z",
       "anagram": "eloooss"
+    },
+    {
+      "date": "2024-02-23T12:05:14.780Z",
+      "anagram": "aeepst"
+    },
+    {
+      "date": "2024-02-23T12:05:14.794Z",
+      "anagram": "aelrs"
     }
   ]
 }
