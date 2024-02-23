@@ -22,6 +22,7 @@
     "abcdoos",
     "abilr",
     "ablors",
+    "acceeoss",
     "acdeio",
     "acmos",
     "adeopr",
@@ -44,6 +45,7 @@
     "egiiosstv",
     "eginorsss",
     "eloooss",
+    "eopqru",
     "fiimnor",
     "noorst"
   ],
@@ -231,6 +233,14 @@
     {
       "date": "2024-02-23T12:05:14.794Z",
       "anagram": "aelrs"
+    },
+    {
+      "date": "2024-02-23T16:03:36.024Z",
+      "anagram": "acceeoss"
+    },
+    {
+      "date": "2024-02-23T16:03:36.039Z",
+      "anagram": "eopqru"
     }
   ]
 }
