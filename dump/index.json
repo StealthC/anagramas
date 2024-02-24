@@ -12,6 +12,7 @@
     "aacfr",
     "aachinpr",
     "aacitv",
+    "aacls",
     "aaddenos",
     "aadiinnop",
     "aadiotv",
@@ -46,6 +47,7 @@
     "ajrsu",
     "bceilooss",
     "bdimoors",
+    "bilmoos",
     "ccimoo",
     "cdenootu",
     "ddioorss",
@@ -281,6 +283,14 @@
     {
       "date": "2024-02-24T16:03:38.562Z",
       "anagram": "aceimnoo"
+    },
+    {
+      "date": "2024-02-24T20:03:53.646Z",
+      "anagram": "bilmoos"
+    },
+    {
+      "date": "2024-02-24T20:03:53.690Z",
+      "anagram": "aacls"
     }
   ]
 }
