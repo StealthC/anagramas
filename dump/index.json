@@ -25,6 +25,7 @@
     "ablors",
     "acceeoss",
     "acdeio",
+    "acegiinsv",
     "acmos",
     "adeopr",
     "aeepst",
@@ -35,6 +36,7 @@
     "afjotu",
     "ahimnnoss",
     "ahimnor",
+    "aiiiorrrs",
     "aiilnotu",
     "aiimostt",
     "aiort",
@@ -251,6 +253,14 @@
     {
       "date": "2024-02-23T20:03:44.713Z",
       "anagram": "abgoors"
+    },
+    {
+      "date": "2024-02-24T00:11:25.038Z",
+      "anagram": "aiiiorrrs"
+    },
+    {
+      "date": "2024-02-24T00:11:25.071Z",
+      "anagram": "acegiinsv"
     }
   ]
 }
