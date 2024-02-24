@@ -33,6 +33,7 @@
     "aelrs",
     "aemnoooptv",
     "aeopprrs",
+    "aeorst",
     "afjotu",
     "ahimnnoss",
     "ahimnor",
@@ -41,6 +42,7 @@
     "aiimostt",
     "aiort",
     "ajrsu",
+    "bceilooss",
     "bdimoors",
     "ccimoo",
     "cdenootu",
@@ -261,6 +263,14 @@
     {
       "date": "2024-02-24T00:11:25.071Z",
       "anagram": "acegiinsv"
+    },
+    {
+      "date": "2024-02-24T12:04:20.459Z",
+      "anagram": "aeorst"
+    },
+    {
+      "date": "2024-02-24T12:04:20.545Z",
+      "anagram": "bceilooss"
     }
   ]
 }
