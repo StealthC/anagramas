@@ -31,6 +31,7 @@
     "aceimnoo",
     "acfiinos",
     "acmos",
+    "acorr",
     "adeopr",
     "aeepst",
     "aegrsv",
@@ -52,6 +53,7 @@
     "bilmoos",
     "ccimoo",
     "cdenootu",
+    "ceeeefrrsv",
     "ddioorss",
     "eelsst",
     "egiiosstv",
@@ -301,6 +303,14 @@
     {
       "date": "2024-02-25T00:13:23.252Z",
       "anagram": "abceejnstu"
+    },
+    {
+      "date": "2024-02-25T12:04:35.361Z",
+      "anagram": "acorr"
+    },
+    {
+      "date": "2024-02-25T12:04:35.378Z",
+      "anagram": "ceeeefrrsv"
     }
   ]
 }
