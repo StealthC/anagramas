@@ -1,11 +1,21 @@
 {
   "anagrams": [
+    "aaceoqu",
+    "aacot",
     "adeimuz"
   ],
   "byDate": [
     {
       "date": "2024-02-26T12:04:58.089Z",
       "anagram": "adeimuz"
+    },
+    {
+      "date": "2024-02-26T16:03:50.033Z",
+      "anagram": "aacot"
+    },
+    {
+      "date": "2024-02-26T16:03:50.047Z",
+      "anagram": "aaceoqu"
     }
   ]
 }
