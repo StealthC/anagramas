@@ -20,6 +20,7 @@
     "aadiotv",
     "aaegnnoss",
     "aaehmmost",
+    "aafirss",
     "aagglru",
     "aalort",
     "abcdoos",
@@ -53,6 +54,7 @@
     "aiort",
     "ajrsu",
     "bceilooss",
+    "bciopsu",
     "bdimoors",
     "bilmoos",
     "ccimoo",
@@ -331,6 +333,14 @@
     {
       "date": "2024-02-25T20:03:49.097Z",
       "anagram": "afirssttu"
+    },
+    {
+      "date": "2024-02-26T00:12:18.784Z",
+      "anagram": "bciopsu"
+    },
+    {
+      "date": "2024-02-26T00:12:18.825Z",
+      "anagram": "aafirss"
     }
   ]
 }
