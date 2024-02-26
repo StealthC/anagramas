@@ -2,6 +2,8 @@
   "anagrams": [
     "aaceoqu",
     "aacot",
+    "abdiops",
+    "accirs",
     "adeimuz"
   ],
   "byDate": [
@@ -16,6 +18,14 @@
     {
       "date": "2024-02-26T16:03:50.047Z",
       "anagram": "aaceoqu"
+    },
+    {
+      "date": "2024-02-26T20:03:39.776Z",
+      "anagram": "accirs"
+    },
+    {
+      "date": "2024-02-26T20:03:40.040Z",
+      "anagram": "abdiops"
     }
   ]
 }
