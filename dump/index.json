@@ -1,6 +1,8 @@
 {
   "anagrams": [
+    "aacdiilnn",
     "aaceoqu",
+    "aaciipt",
     "aacot",
     "aadoss",
     "abdiops",
@@ -46,6 +48,14 @@
     {
       "date": "2024-02-27T12:04:39.129Z",
       "anagram": "aceeiinstx"
+    },
+    {
+      "date": "2024-02-27T16:04:00.063Z",
+      "anagram": "aaciipt"
+    },
+    {
+      "date": "2024-02-27T16:04:00.307Z",
+      "anagram": "aacdiilnn"
     }
   ]
 }
