@@ -6,7 +6,9 @@
     "abdiops",
     "accirs",
     "acddefiio",
-    "adeimuz"
+    "aceeiinstx",
+    "adeimuz",
+    "ciossu"
   ],
   "byDate": [
     {
@@ -36,6 +38,14 @@
     {
       "date": "2024-02-27T00:12:16.927Z",
       "anagram": "acddefiio"
+    },
+    {
+      "date": "2024-02-27T12:04:39.056Z",
+      "anagram": "ciossu"
+    },
+    {
+      "date": "2024-02-27T12:04:39.129Z",
+      "anagram": "aceeiinstx"
     }
   ]
 }
