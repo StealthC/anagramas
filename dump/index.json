@@ -1,5 +1,6 @@
 {
   "anagrams": [
+    "aaadelrt",
     "aacdiilnn",
     "aaceoqu",
     "aaciipt",
@@ -10,6 +11,7 @@
     "acddefiio",
     "aceeiinstx",
     "adeimuz",
+    "aeinrrt",
     "ciossu"
   ],
   "byDate": [
@@ -56,6 +58,14 @@
     {
       "date": "2024-02-27T16:04:00.307Z",
       "anagram": "aacdiilnn"
+    },
+    {
+      "date": "2024-02-27T20:03:54.370Z",
+      "anagram": "aeinrrt"
+    },
+    {
+      "date": "2024-02-27T20:03:54.388Z",
+      "anagram": "aaadelrt"
     }
   ]
 }
