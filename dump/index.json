@@ -9,6 +9,8 @@
     "abdiops",
     "accirs",
     "acddefiio",
+    "acdfgiiinr",
+    "aceeiilppt",
     "aceeiinstx",
     "adeimuz",
     "aeinrrt",
@@ -66,6 +68,14 @@
     {
       "date": "2024-02-27T20:03:54.388Z",
       "anagram": "aaadelrt"
+    },
+    {
+      "date": "2024-02-28T00:11:38.310Z",
+      "anagram": "aceeiilppt"
+    },
+    {
+      "date": "2024-02-28T00:11:38.373Z",
+      "anagram": "acdfgiiinr"
     }
   ]
 }
