@@ -13,10 +13,12 @@
     "aceeiilppt",
     "aceeiinstx",
     "adeimuz",
+    "adimnor",
     "aeinrrt",
     "afiorttu",
     "beilooqu",
-    "ciossu"
+    "ciossu",
+    "deeoqrsu"
   ],
   "byDate": [
     {
@@ -86,6 +88,14 @@
     {
       "date": "2024-02-28T12:04:45.293Z",
       "anagram": "afiorttu"
+    },
+    {
+      "date": "2024-02-28T16:04:15.394Z",
+      "anagram": "deeoqrsu"
+    },
+    {
+      "date": "2024-02-28T16:04:15.469Z",
+      "anagram": "adimnor"
     }
   ]
 }
