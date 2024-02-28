@@ -14,6 +14,8 @@
     "aceeiinstx",
     "adeimuz",
     "aeinrrt",
+    "afiorttu",
+    "beilooqu",
     "ciossu"
   ],
   "byDate": [
@@ -76,6 +78,14 @@
     {
       "date": "2024-02-28T00:11:38.373Z",
       "anagram": "acdfgiiinr"
+    },
+    {
+      "date": "2024-02-28T12:04:45.124Z",
+      "anagram": "beilooqu"
+    },
+    {
+      "date": "2024-02-28T12:04:45.293Z",
+      "anagram": "afiorttu"
     }
   ]
 }
