@@ -6,6 +6,7 @@
     "aaciipt",
     "aacot",
     "aadoss",
+    "aaiilmsst",
     "abdiops",
     "accirs",
     "acddefiio",
@@ -17,6 +18,7 @@
     "aeinrrt",
     "afiorttu",
     "beilooqu",
+    "ciiopt",
     "ciossu",
     "deeoqrsu"
   ],
@@ -96,6 +98,14 @@
     {
       "date": "2024-02-28T16:04:15.469Z",
       "anagram": "adimnor"
+    },
+    {
+      "date": "2024-02-28T20:07:42.144Z",
+      "anagram": "ciiopt"
+    },
+    {
+      "date": "2024-02-28T20:07:42.253Z",
+      "anagram": "aaiilmsst"
     }
   ]
 }
