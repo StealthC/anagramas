@@ -6,6 +6,7 @@
     "aaciipt",
     "aacot",
     "aadoss",
+    "aaeghlnox",
     "aaiilmsst",
     "abdiops",
     "accirs",
@@ -20,6 +21,7 @@
     "beilooqu",
     "ciiopt",
     "ciossu",
+    "corsux",
     "deeoqrsu"
   ],
   "byDate": [
@@ -106,6 +108,14 @@
     {
       "date": "2024-02-28T20:07:42.253Z",
       "anagram": "aaiilmsst"
+    },
+    {
+      "date": "2024-02-29T00:11:41.956Z",
+      "anagram": "corsux"
+    },
+    {
+      "date": "2024-02-29T00:11:42.061Z",
+      "anagram": "aaeghlnox"
     }
   ]
 }
