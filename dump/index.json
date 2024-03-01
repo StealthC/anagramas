@@ -27,12 +27,14 @@
     "aeenorr",
     "aeinrrt",
     "afiorttu",
+    "amnoor",
     "beilooqu",
     "cdiilnosu",
     "ciiopt",
     "ciossu",
     "corsux",
-    "deeoqrsu"
+    "deeoqrsu",
+    "egiossu"
   ],
   "byDate": [
     {
@@ -166,6 +168,14 @@
     {
       "date": "2024-03-01T12:04:43.677Z",
       "anagram": "abiosv"
+    },
+    {
+      "date": "2024-03-01T16:03:35.557Z",
+      "anagram": "egiossu"
+    },
+    {
+      "date": "2024-03-01T16:03:35.561Z",
+      "anagram": "amnoor"
     }
   ]
 }
