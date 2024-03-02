@@ -6,6 +6,7 @@
     "aaadejqrtu",
     "aaadelrt",
     "aabgio",
+    "aacdev",
     "aacdiilnn",
     "aaceoqu",
     "aacgimn",
@@ -18,6 +19,7 @@
     "aaiilmsst",
     "abdiops",
     "abiosv",
+    "acciloov",
     "accirs",
     "acddefiio",
     "acdeiinv",
@@ -196,6 +198,14 @@
     {
       "date": "2024-03-02T00:11:37.453Z",
       "anagram": "aioqrsuv"
+    },
+    {
+      "date": "2024-03-02T12:04:46.872Z",
+      "anagram": "acciloov"
+    },
+    {
+      "date": "2024-03-02T12:04:46.878Z",
+      "anagram": "aacdev"
     }
   ]
 }
