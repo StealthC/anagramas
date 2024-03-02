@@ -13,6 +13,7 @@
     "aaciipt",
     "aacot",
     "aaddeit",
+    "aadeorrt",
     "aadoss",
     "aaeghlnox",
     "aafnor",
@@ -31,6 +32,7 @@
     "aeelnqsu",
     "aeenorr",
     "aeinrrt",
+    "aenqtu",
     "afiorttu",
     "aioqrsuv",
     "amnoor",
@@ -206,6 +208,14 @@
     {
       "date": "2024-03-02T12:04:46.878Z",
       "anagram": "aacdev"
+    },
+    {
+      "date": "2024-03-02T16:04:16.724Z",
+      "anagram": "aenqtu"
+    },
+    {
+      "date": "2024-03-02T16:04:16.837Z",
+      "anagram": "aadeorrt"
     }
   ]
 }
