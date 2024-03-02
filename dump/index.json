@@ -6,6 +6,7 @@
     "aaadejqrtu",
     "aaadelrt",
     "aabgio",
+    "aacceerrt",
     "aacdev",
     "aacdiilnn",
     "aaceoqu",
@@ -38,6 +39,7 @@
     "amnoor",
     "beilooqu",
     "cdiilnosu",
+    "ceeeforr",
     "ciiopt",
     "ciossu",
     "corsux",
@@ -216,6 +218,14 @@
     {
       "date": "2024-03-02T16:04:16.837Z",
       "anagram": "aadeorrt"
+    },
+    {
+      "date": "2024-03-02T20:03:27.593Z",
+      "anagram": "ceeeforr"
+    },
+    {
+      "date": "2024-03-02T20:03:31.264Z",
+      "anagram": "aacceerrt"
     }
   ]
 }
