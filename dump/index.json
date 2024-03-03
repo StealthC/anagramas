@@ -20,6 +20,7 @@
     "aadeorrt",
     "aadoss",
     "aaeghlnox",
+    "aaeglm",
     "aafnor",
     "aagiirsu",
     "aaiilmsst",
@@ -33,6 +34,7 @@
     "acdfgiiinr",
     "aceeiilppt",
     "aceeiinstx",
+    "addfinnou",
     "adeimuz",
     "adimnor",
     "aeelnqsu",
@@ -256,6 +258,14 @@
     {
       "date": "2024-03-03T16:03:40.013Z",
       "anagram": "aagiirsu"
+    },
+    {
+      "date": "2024-03-03T20:03:32.006Z",
+      "anagram": "aaeglm"
+    },
+    {
+      "date": "2024-03-03T20:03:32.121Z",
+      "anagram": "addfinnou"
     }
   ]
 }
