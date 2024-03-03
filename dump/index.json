@@ -13,6 +13,7 @@
     "aaceoqu",
     "aacgimn",
     "aaciipt",
+    "aacms",
     "aacot",
     "aaddeit",
     "aadeorrt",
@@ -37,6 +38,7 @@
     "aeinrrt",
     "aenqtu",
     "afiorttu",
+    "aiinorru",
     "aioqrsuv",
     "amnoor",
     "beilooqu",
@@ -236,6 +238,14 @@
     {
       "date": "2024-03-03T00:13:06.586Z",
       "anagram": "aaacdeps"
+    },
+    {
+      "date": "2024-03-03T12:05:07.981Z",
+      "anagram": "aacms"
+    },
+    {
+      "date": "2024-03-03T12:05:08.397Z",
+      "anagram": "aiinorru"
     }
   ]
 }
