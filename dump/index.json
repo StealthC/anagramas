@@ -1,6 +1,7 @@
 {
   "anagrams": [
     "aaabdgirr",
+    "aaacdeps",
     "aaaddessv",
     "aaadefflss",
     "aaadejqrtu",
@@ -21,6 +22,7 @@
     "aaiilmsst",
     "abdiops",
     "abiosv",
+    "accciilo",
     "acciloov",
     "accirs",
     "acddefiio",
@@ -226,6 +228,14 @@
     {
       "date": "2024-03-02T20:03:31.264Z",
       "anagram": "aacceerrt"
+    },
+    {
+      "date": "2024-03-03T00:13:06.569Z",
+      "anagram": "accciilo"
+    },
+    {
+      "date": "2024-03-03T00:13:06.586Z",
+      "anagram": "aaacdeps"
     }
   ]
 }
