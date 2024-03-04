@@ -1,7 +1,9 @@
 {
   "anagrams": [
+    "aaabcns",
     "aaabdgirr",
     "aaacdeps",
+    "aaaddensst",
     "aaaddessv",
     "aaadefflss",
     "aaadegps",
@@ -286,6 +288,14 @@
     {
       "date": "2024-03-04T12:09:19.258Z",
       "anagram": "aaadmosss"
+    },
+    {
+      "date": "2024-03-04T16:04:25.785Z",
+      "anagram": "aaabcns"
+    },
+    {
+      "date": "2024-03-04T16:04:25.814Z",
+      "anagram": "aaaddensst"
     }
   ]
 }
