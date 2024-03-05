@@ -45,10 +45,12 @@
     "adimnor",
     "aeelnqsu",
     "aeenorr",
+    "aefimmor",
     "aegimv",
     "aeinrrt",
     "aenqtu",
     "afiorttu",
+    "agijns",
     "aiinorru",
     "aioqrsuv",
     "amnoor",
@@ -316,6 +318,14 @@
     {
       "date": "2024-03-05T00:11:58.013Z",
       "anagram": "eeopruu"
+    },
+    {
+      "date": "2024-03-05T12:04:52.534Z",
+      "anagram": "agijns"
+    },
+    {
+      "date": "2024-03-05T12:04:52.647Z",
+      "anagram": "aefimmor"
     }
   ]
 }
