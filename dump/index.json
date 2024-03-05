@@ -28,6 +28,7 @@
     "aaeglm",
     "aafnor",
     "aagiirsu",
+    "aahillnps",
     "aaiilmsst",
     "abdiops",
     "abiosv",
@@ -49,6 +50,7 @@
     "aegimv",
     "aeinrrt",
     "aenqtu",
+    "afgiru",
     "afiorttu",
     "agijns",
     "aiinorru",
@@ -326,6 +328,14 @@
     {
       "date": "2024-03-05T12:04:52.647Z",
       "anagram": "aefimmor"
+    },
+    {
+      "date": "2024-03-05T16:03:44.505Z",
+      "anagram": "afgiru"
+    },
+    {
+      "date": "2024-03-05T16:03:44.576Z",
+      "anagram": "aahillnps"
     }
   ]
 }
