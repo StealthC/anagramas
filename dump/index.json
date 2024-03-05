@@ -53,12 +53,14 @@
     "aioqrsuv",
     "amnoor",
     "beilooqu",
+    "cciiosv",
     "cdiilnosu",
     "ceeeforr",
     "ciiopt",
     "ciossu",
     "corsux",
     "deeoqrsu",
+    "eeopruu",
     "egiossu",
     "hiilmnoos"
   ],
@@ -306,6 +308,14 @@
     {
       "date": "2024-03-04T20:03:42.396Z",
       "anagram": "hiilmnoos"
+    },
+    {
+      "date": "2024-03-05T00:11:57.956Z",
+      "anagram": "cciiosv"
+    },
+    {
+      "date": "2024-03-05T00:11:58.013Z",
+      "anagram": "eeopruu"
     }
   ]
 }
