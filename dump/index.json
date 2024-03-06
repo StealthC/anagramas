@@ -23,6 +23,7 @@
     "aaddeit",
     "aadeorrt",
     "aadgorv",
+    "aadilttu",
     "aadoss",
     "aaeghlnox",
     "aaeglm",
@@ -62,6 +63,7 @@
     "cciiosv",
     "cdiilnosu",
     "ceeeforr",
+    "ceeginors",
     "ciiopt",
     "ciossu",
     "corsux",
@@ -346,6 +348,14 @@
     {
       "date": "2024-03-05T20:03:47.883Z",
       "anagram": "aagmoprr"
+    },
+    {
+      "date": "2024-03-06T00:12:26.589Z",
+      "anagram": "aadilttu"
+    },
+    {
+      "date": "2024-03-06T00:12:26.637Z",
+      "anagram": "ceeginors"
     }
   ]
 }
