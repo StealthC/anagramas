@@ -13,6 +13,7 @@
     "aabgio",
     "aacceerrt",
     "aacdev",
+    "aacdhmos",
     "aacdiilnn",
     "aaceoqu",
     "aacgimn",
@@ -55,6 +56,7 @@
     "aenqtu",
     "afgiru",
     "afiorttu",
+    "afmoor",
     "agijns",
     "aiinorru",
     "aioqrsuv",
@@ -356,6 +358,14 @@
     {
       "date": "2024-03-06T00:12:26.637Z",
       "anagram": "ceeginors"
+    },
+    {
+      "date": "2024-03-06T12:05:40.874Z",
+      "anagram": "afmoor"
+    },
+    {
+      "date": "2024-03-06T12:05:40.902Z",
+      "anagram": "aacdhmos"
     }
   ]
 }
