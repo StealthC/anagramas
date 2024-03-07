@@ -20,6 +20,7 @@
     "aaceoqu",
     "aacgimn",
     "aaciipt",
+    "aacilr",
     "aacms",
     "aacot",
     "aaddefiiln",
@@ -81,6 +82,7 @@
     "corsux",
     "deeoqrsu",
     "eeopruu",
+    "eginnou",
     "egiossu",
     "hiilmnoos"
   ],
@@ -416,6 +418,14 @@
     {
       "date": "2024-03-07T16:03:46.192Z",
       "anagram": "afgooorrss"
+    },
+    {
+      "date": "2024-03-07T20:03:31.730Z",
+      "anagram": "eginnou"
+    },
+    {
+      "date": "2024-03-07T20:03:32.249Z",
+      "anagram": "aacilr"
     }
   ]
 }
