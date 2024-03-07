@@ -37,6 +37,7 @@
     "abdiops",
     "abiosv",
     "accciilo",
+    "acceint",
     "acciloov",
     "accirs",
     "acddefiio",
@@ -49,6 +50,7 @@
     "adeeijnot",
     "adeimuz",
     "adeorsss",
+    "adiiotuv",
     "adimnor",
     "aeelnqsu",
     "aeenorr",
@@ -386,6 +388,14 @@
     {
       "date": "2024-03-06T20:03:33.975Z",
       "anagram": "aeioprr"
+    },
+    {
+      "date": "2024-03-07T00:10:14.092Z",
+      "anagram": "adiiotuv"
+    },
+    {
+      "date": "2024-03-07T00:10:14.194Z",
+      "anagram": "acceint"
     }
   ]
 }
