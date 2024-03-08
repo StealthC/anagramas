@@ -41,6 +41,7 @@
     "abdiops",
     "abiosv",
     "accciilo",
+    "accehnot",
     "acceint",
     "acciloov",
     "accirs",
@@ -52,6 +53,7 @@
     "acloors",
     "acnos",
     "addfinnou",
+    "addioos",
     "adeefmoos",
     "adeeijnot",
     "adeimuz",
@@ -446,6 +448,14 @@
     {
       "date": "2024-03-08T12:04:30.052Z",
       "anagram": "acloors"
+    },
+    {
+      "date": "2024-03-08T16:03:36.549Z",
+      "anagram": "addioos"
+    },
+    {
+      "date": "2024-03-08T16:03:36.594Z",
+      "anagram": "accehnot"
     }
   ]
 }
