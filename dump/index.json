@@ -31,6 +31,7 @@
     "aadoss",
     "aaeghlnox",
     "aaeglm",
+    "aaelrt",
     "aafnor",
     "aagiirsu",
     "aagmoprr",
@@ -50,6 +51,7 @@
     "aceeiinstx",
     "acnos",
     "addfinnou",
+    "adeefmoos",
     "adeeijnot",
     "adeimuz",
     "adeorsss",
@@ -426,6 +428,14 @@
     {
       "date": "2024-03-07T20:03:32.249Z",
       "anagram": "aacilr"
+    },
+    {
+      "date": "2024-03-08T00:12:29.664Z",
+      "anagram": "aaelrt"
+    },
+    {
+      "date": "2024-03-08T00:12:29.801Z",
+      "anagram": "adeefmoos"
     }
   ]
 }
