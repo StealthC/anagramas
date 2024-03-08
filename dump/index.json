@@ -49,11 +49,13 @@
     "acdfgiiinr",
     "aceeiilppt",
     "aceeiinstx",
+    "acloors",
     "acnos",
     "addfinnou",
     "adeefmoos",
     "adeeijnot",
     "adeimuz",
+    "ademnoo",
     "adeorsss",
     "adiiotuv",
     "adimnor",
@@ -436,6 +438,14 @@
     {
       "date": "2024-03-08T00:12:29.801Z",
       "anagram": "adeefmoos"
+    },
+    {
+      "date": "2024-03-08T12:04:30.003Z",
+      "anagram": "ademnoo"
+    },
+    {
+      "date": "2024-03-08T12:04:30.052Z",
+      "anagram": "acloors"
     }
   ]
 }
