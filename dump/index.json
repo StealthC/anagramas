@@ -79,6 +79,7 @@
     "amnoor",
     "bciooort",
     "beilooqu",
+    "ccciilos",
     "cciiosv",
     "cdiilnosu",
     "ceeeforr",
@@ -90,6 +91,7 @@
     "eeopruu",
     "eginnou",
     "egiossu",
+    "ehinops",
     "hiilmnoos"
   ],
   "byDate": [
@@ -456,6 +458,14 @@
     {
       "date": "2024-03-08T16:03:36.594Z",
       "anagram": "accehnot"
+    },
+    {
+      "date": "2024-03-08T20:03:30.708Z",
+      "anagram": "ccciilos"
+    },
+    {
+      "date": "2024-03-08T20:03:32.488Z",
+      "anagram": "ehinops"
     }
   ]
 }
