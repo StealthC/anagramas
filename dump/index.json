@@ -25,6 +25,7 @@
     "aacot",
     "aaddefiiln",
     "aaddeit",
+    "aadejntu",
     "aadeorrt",
     "aadgorv",
     "aadilttu",
@@ -79,6 +80,7 @@
     "afmoor",
     "agijns",
     "aiinorru",
+    "ailtt",
     "aimrr",
     "aioqrsuv",
     "amnoor",
@@ -496,6 +498,14 @@
     {
       "date": "2024-03-09T16:03:48.457Z",
       "anagram": "chnoops"
+    },
+    {
+      "date": "2024-03-09T20:03:38.708Z",
+      "anagram": "ailtt"
+    },
+    {
+      "date": "2024-03-09T20:03:38.724Z",
+      "anagram": "aadejntu"
     }
   ]
 }
