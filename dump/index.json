@@ -90,6 +90,7 @@
     "aiotv",
     "amnoor",
     "bciooort",
+    "beenort",
     "beilooqu",
     "ccciilos",
     "cciiosv",
@@ -99,6 +100,7 @@
     "chnoops",
     "ciiopt",
     "ciossu",
+    "coopr",
     "corsux",
     "deeoqrsu",
     "eeopruu",
@@ -536,6 +538,14 @@
     {
       "date": "2024-03-10T16:03:50.230Z",
       "anagram": "aiotv"
+    },
+    {
+      "date": "2024-03-10T20:03:46.492Z",
+      "anagram": "beenort"
+    },
+    {
+      "date": "2024-03-10T20:03:47.006Z",
+      "anagram": "coopr"
     }
   ]
 }
