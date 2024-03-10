@@ -54,6 +54,7 @@
     "aceeiilppt",
     "aceeiinstx",
     "acloors",
+    "acnort",
     "acnos",
     "addfinnou",
     "addioos",
@@ -100,7 +101,8 @@
     "eginnou",
     "egiossu",
     "ehinops",
-    "hiilmnoos"
+    "hiilmnoos",
+    "norstu"
   ],
   "byDate": [
     {
@@ -506,6 +508,14 @@
     {
       "date": "2024-03-09T20:03:38.724Z",
       "anagram": "aadejntu"
+    },
+    {
+      "date": "2024-03-10T00:13:21.132Z",
+      "anagram": "norstu"
+    },
+    {
+      "date": "2024-03-10T00:13:21.389Z",
+      "anagram": "acnort"
     }
   ]
 }
