@@ -1,5 +1,6 @@
 {
   "anagrams": [
+    "aaaadjnrr",
     "aaabcns",
     "aaabdgirr",
     "aaacdeps",
@@ -69,6 +70,7 @@
     "adeorsss",
     "adiiotuv",
     "adimnor",
+    "admoru",
     "aeefgirrrr",
     "aeelnqsu",
     "aeenorr",
@@ -546,6 +548,14 @@
     {
       "date": "2024-03-10T20:03:47.006Z",
       "anagram": "coopr"
+    },
+    {
+      "date": "2024-03-11T00:12:13.695Z",
+      "anagram": "aaaadjnrr"
+    },
+    {
+      "date": "2024-03-11T00:12:13.740Z",
+      "anagram": "admoru"
     }
   ]
 }
