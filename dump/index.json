@@ -48,6 +48,7 @@
     "aagsstuu",
     "aahillnps",
     "aahinnr",
+    "aahmnu",
     "aaiilmsst",
     "aaiilrtvz",
     "abdiops",
@@ -101,6 +102,7 @@
     "amnoor",
     "bciooort",
     "bdhiiimors",
+    "bdioot",
     "beenort",
     "beilooqu",
     "ccciilos",
@@ -606,6 +608,14 @@
     {
       "date": "2024-03-12T12:04:38.954Z",
       "anagram": "aaeprt"
+    },
+    {
+      "date": "2024-03-12T16:04:32.200Z",
+      "anagram": "aahmnu"
+    },
+    {
+      "date": "2024-03-12T16:04:32.318Z",
+      "anagram": "bdioot"
     }
   ]
 }
