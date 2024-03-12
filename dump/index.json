@@ -27,6 +27,7 @@
     "aacilr",
     "aacms",
     "aacot",
+    "aacprt",
     "aaddefiiln",
     "aaddeit",
     "aadejntu",
@@ -35,6 +36,7 @@
     "aadilttu",
     "aadoss",
     "aadosv",
+    "aaeejmnrr",
     "aaeghlnox",
     "aaeglm",
     "aaeimnqtu",
@@ -586,6 +588,14 @@
     {
       "date": "2024-03-11T20:03:31.127Z",
       "anagram": "aabfgior"
+    },
+    {
+      "date": "2024-03-12T00:11:43.444Z",
+      "anagram": "aaeejmnrr"
+    },
+    {
+      "date": "2024-03-12T00:11:43.461Z",
+      "anagram": "aacprt"
     }
   ]
 }
