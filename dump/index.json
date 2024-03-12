@@ -4,6 +4,7 @@
     "aaabcns",
     "aaabdgirr",
     "aaacdeps",
+    "aaacdis",
     "aaacdnp",
     "aaaddensst",
     "aaaddessv",
@@ -95,6 +96,7 @@
     "afmoor",
     "agijns",
     "aiinorru",
+    "ailppu",
     "ailtt",
     "aimrr",
     "aioqrsuv",
@@ -616,6 +618,14 @@
     {
       "date": "2024-03-12T16:04:32.318Z",
       "anagram": "bdioot"
+    },
+    {
+      "date": "2024-03-12T20:03:41.753Z",
+      "anagram": "ailppu"
+    },
+    {
+      "date": "2024-03-12T20:03:41.804Z",
+      "anagram": "aaacdis"
     }
   ]
 }
