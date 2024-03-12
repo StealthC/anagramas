@@ -41,6 +41,7 @@
     "aaeglm",
     "aaeimnqtu",
     "aaelrt",
+    "aaeprt",
     "aafnor",
     "aagiirsu",
     "aagmoprr",
@@ -113,6 +114,7 @@
     "coopr",
     "corsux",
     "deeoqrsu",
+    "dgioopr",
     "eeopruu",
     "eginnou",
     "egiossu",
@@ -596,6 +598,14 @@
     {
       "date": "2024-03-12T00:11:43.461Z",
       "anagram": "aacprt"
+    },
+    {
+      "date": "2024-03-12T12:04:38.935Z",
+      "anagram": "dgioopr"
+    },
+    {
+      "date": "2024-03-12T12:04:38.954Z",
+      "anagram": "aaeprt"
     }
   ]
 }
