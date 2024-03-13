@@ -29,6 +29,7 @@
     "aacms",
     "aacot",
     "aacprt",
+    "aacrt",
     "aaddefiiln",
     "aaddeit",
     "aadejntu",
@@ -99,6 +100,7 @@
     "afiorttu",
     "afmoor",
     "agijns",
+    "ahnoors",
     "aiinorru",
     "ailppu",
     "ailtt",
@@ -646,6 +648,14 @@
     {
       "date": "2024-03-13T12:05:39.215Z",
       "anagram": "aceefiiprr"
+    },
+    {
+      "date": "2024-03-13T16:10:24.463Z",
+      "anagram": "ahnoors"
+    },
+    {
+      "date": "2024-03-13T16:10:24.518Z",
+      "anagram": "aacrt"
     }
   ]
 }
