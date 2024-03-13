@@ -123,12 +123,14 @@
     "ciossu",
     "coopr",
     "corsux",
+    "deeegmoprs",
     "deeoqrsu",
     "dgioopr",
     "eeopruu",
     "eginnou",
     "egiossu",
     "ehinops",
+    "einoosstv",
     "hiilmnoos",
     "norstu"
   ],
@@ -656,6 +658,14 @@
     {
       "date": "2024-03-13T16:10:24.518Z",
       "anagram": "aacrt"
+    },
+    {
+      "date": "2024-03-13T20:03:27.645Z",
+      "anagram": "deeegmoprs"
+    },
+    {
+      "date": "2024-03-13T20:03:27.665Z",
+      "anagram": "einoosstv"
     }
   ]
 }
