@@ -60,6 +60,7 @@
     "acciloov",
     "accirs",
     "acddefiio",
+    "acddeis",
     "acdeiinv",
     "acdeirz",
     "acdfgiiinr",
@@ -74,6 +75,7 @@
     "adeefmoos",
     "adeeijnot",
     "adeertt",
+    "adeilp",
     "adeimuz",
     "ademnoo",
     "adenprr",
@@ -626,6 +628,14 @@
     {
       "date": "2024-03-12T20:03:41.804Z",
       "anagram": "aaacdis"
+    },
+    {
+      "date": "2024-03-13T00:12:00.656Z",
+      "anagram": "adeilp"
+    },
+    {
+      "date": "2024-03-13T00:12:00.795Z",
+      "anagram": "acddeis"
     }
   ]
 }
