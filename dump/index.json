@@ -64,8 +64,10 @@
     "acdeiinv",
     "acdeirz",
     "acdfgiiinr",
+    "aceefiiprr",
     "aceeiilppt",
     "aceeiinstx",
+    "acehnoqu",
     "aciirr",
     "acloors",
     "acnort",
@@ -636,6 +638,14 @@
     {
       "date": "2024-03-13T00:12:00.795Z",
       "anagram": "acddeis"
+    },
+    {
+      "date": "2024-03-13T12:05:39.106Z",
+      "anagram": "acehnoqu"
+    },
+    {
+      "date": "2024-03-13T12:05:39.215Z",
+      "anagram": "aceefiiprr"
     }
   ]
 }
