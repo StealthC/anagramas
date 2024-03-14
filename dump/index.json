@@ -118,6 +118,7 @@
     "beilooqu",
     "ccciilos",
     "cciiosv",
+    "cdehiloor",
     "cdiilnosu",
     "ceeeforr",
     "ceeginors",
@@ -129,6 +130,7 @@
     "deeegmoprs",
     "deeoqrsu",
     "dgioopr",
+    "eeginstu",
     "eeopruu",
     "eginnou",
     "egiossu",
@@ -686,6 +688,14 @@
     {
       "date": "2024-03-14T12:05:43.354Z",
       "anagram": "aegiln"
+    },
+    {
+      "date": "2024-03-14T16:04:15.014Z",
+      "anagram": "eeginstu"
+    },
+    {
+      "date": "2024-03-14T16:04:15.212Z",
+      "anagram": "cdehiloor"
     }
   ]
 }
