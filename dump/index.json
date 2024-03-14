@@ -55,6 +55,7 @@
     "aaiilrtvz",
     "abdiops",
     "abiosv",
+    "abjosu",
     "accciilo",
     "accehnot",
     "acceint",
@@ -131,6 +132,7 @@
     "egiossu",
     "ehinops",
     "einoosstv",
+    "elopruv",
     "hiilmnoos",
     "norstu"
   ],
@@ -666,6 +668,14 @@
     {
       "date": "2024-03-13T20:03:27.665Z",
       "anagram": "einoosstv"
+    },
+    {
+      "date": "2024-03-14T00:11:52.588Z",
+      "anagram": "abjosu"
+    },
+    {
+      "date": "2024-03-14T00:11:52.604Z",
+      "anagram": "elopruv"
     }
   ]
 }
