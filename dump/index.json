@@ -91,6 +91,7 @@
     "aeelnqsu",
     "aeenorr",
     "aefimmor",
+    "aegiln",
     "aegimv",
     "aeglor",
     "aeinrrt",
@@ -100,6 +101,7 @@
     "afgooorrss",
     "afiorttu",
     "afmoor",
+    "afotu",
     "agijns",
     "ahnoors",
     "aiinorru",
@@ -676,6 +678,14 @@
     {
       "date": "2024-03-14T00:11:52.604Z",
       "anagram": "elopruv"
+    },
+    {
+      "date": "2024-03-14T12:05:43.146Z",
+      "anagram": "afotu"
+    },
+    {
+      "date": "2024-03-14T12:05:43.354Z",
+      "anagram": "aegiln"
     }
   ]
 }
