@@ -43,6 +43,7 @@
     "aaeghlnox",
     "aaeglm",
     "aaeimnqtu",
+    "aaelnrs",
     "aaelrt",
     "aaenrtuz",
     "aaeprt",
@@ -135,6 +136,7 @@
     "deeoqrsu",
     "dgioopr",
     "eeginstu",
+    "eenqstu",
     "eeopruu",
     "eginnou",
     "egiossu",
@@ -716,6 +718,14 @@
     {
       "date": "2024-03-15T00:11:58.402Z",
       "anagram": "aadegnru"
+    },
+    {
+      "date": "2024-03-15T12:04:31.971Z",
+      "anagram": "eenqstu"
+    },
+    {
+      "date": "2024-03-15T12:04:32.015Z",
+      "anagram": "aaelnrs"
     }
   ]
 }
