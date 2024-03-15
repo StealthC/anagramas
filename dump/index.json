@@ -66,6 +66,7 @@
     "accirs",
     "acddefiio",
     "acddeis",
+    "acddiou",
     "acdeiinv",
     "acdeirz",
     "acdfgiiinr",
@@ -120,6 +121,7 @@
     "bdioot",
     "beenort",
     "beilooqu",
+    "bimosssu",
     "ccciilos",
     "cciiosv",
     "cdehiloor",
@@ -726,6 +728,14 @@
     {
       "date": "2024-03-15T12:04:32.015Z",
       "anagram": "aaelnrs"
+    },
+    {
+      "date": "2024-03-15T16:04:28.584Z",
+      "anagram": "acddiou"
+    },
+    {
+      "date": "2024-03-15T16:04:28.643Z",
+      "anagram": "bimosssu"
     }
   ]
 }
