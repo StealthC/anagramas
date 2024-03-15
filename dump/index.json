@@ -32,6 +32,7 @@
     "aacrt",
     "aaddefiiln",
     "aaddeit",
+    "aadegnru",
     "aadejntu",
     "aadeorrt",
     "aadgorv",
@@ -75,6 +76,7 @@
     "acloors",
     "acnort",
     "acnos",
+    "acoor",
     "addfinnou",
     "addioos",
     "adeefmoos",
@@ -706,6 +708,14 @@
     {
       "date": "2024-03-14T20:03:33.717Z",
       "anagram": "cnnooorst"
+    },
+    {
+      "date": "2024-03-15T00:11:58.294Z",
+      "anagram": "acoor"
+    },
+    {
+      "date": "2024-03-15T00:11:58.402Z",
+      "anagram": "aadegnru"
     }
   ]
 }
