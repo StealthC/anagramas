@@ -13,6 +13,7 @@
     "aaadejqrtu",
     "aaadelrt",
     "aaadmosss",
+    "aaadopsst",
     "aabcdhu",
     "aabfgior",
     "aabgio",
@@ -105,6 +106,7 @@
     "aeglor",
     "aeinrrt",
     "aeioprr",
+    "aeiprs",
     "aenqtu",
     "afgiru",
     "afgooorrss",
@@ -766,6 +768,14 @@
     {
       "date": "2024-03-16T16:03:44.726Z",
       "anagram": "aaeelmnntu"
+    },
+    {
+      "date": "2024-03-16T20:03:35.579Z",
+      "anagram": "aaadopsst"
+    },
+    {
+      "date": "2024-03-16T20:03:35.597Z",
+      "anagram": "aeiprs"
     }
   ]
 }
