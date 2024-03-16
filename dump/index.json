@@ -38,9 +38,11 @@
     "aadeorrt",
     "aadgorv",
     "aadilttu",
+    "aadiprv",
     "aadoss",
     "aadosv",
     "aaeejmnrr",
+    "aaeelmnntu",
     "aaeghlnox",
     "aaeglm",
     "aaeimnqtu",
@@ -756,6 +758,14 @@
     {
       "date": "2024-03-16T12:05:13.376Z",
       "anagram": "einnorst"
+    },
+    {
+      "date": "2024-03-16T16:03:44.621Z",
+      "anagram": "aadiprv"
+    },
+    {
+      "date": "2024-03-16T16:03:44.726Z",
+      "anagram": "aaeelmnntu"
     }
   ]
 }
