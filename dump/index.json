@@ -18,6 +18,7 @@
     "aabgio",
     "aacceerrt",
     "aacceert",
+    "aacdefot",
     "aacdev",
     "aacdhmos",
     "aacdiilnn",
@@ -117,6 +118,7 @@
     "aiotv",
     "amnoor",
     "bciooort",
+    "bciorru",
     "bdhiiimors",
     "bdioot",
     "beenort",
@@ -736,6 +738,14 @@
     {
       "date": "2024-03-15T16:04:28.643Z",
       "anagram": "bimosssu"
+    },
+    {
+      "date": "2024-03-16T00:11:27.321Z",
+      "anagram": "bciorru"
+    },
+    {
+      "date": "2024-03-16T00:11:27.539Z",
+      "anagram": "aacdefot"
     }
   ]
 }
