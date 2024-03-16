@@ -58,6 +58,7 @@
     "aaiilmsst",
     "aaiilrtvz",
     "abdiops",
+    "abenostt",
     "abiosv",
     "abjosu",
     "accciilo",
@@ -145,6 +146,7 @@
     "eginnou",
     "egiossu",
     "ehinops",
+    "einnorst",
     "einoosstv",
     "elopruv",
     "hiilmnoos",
@@ -746,6 +748,14 @@
     {
       "date": "2024-03-16T00:11:27.539Z",
       "anagram": "aacdefot"
+    },
+    {
+      "date": "2024-03-16T12:05:13.264Z",
+      "anagram": "abenostt"
+    },
+    {
+      "date": "2024-03-16T12:05:13.376Z",
+      "anagram": "einnorst"
     }
   ]
 }
