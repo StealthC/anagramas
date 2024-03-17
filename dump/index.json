@@ -1,6 +1,8 @@
 {
   "anagrams": [
     "aacdeghs",
+    "aijlost",
+    "aimot",
     "aooprs",
     "deioops"
   ],
@@ -16,6 +18,14 @@
     {
       "date": "2024-03-17T16:03:43.349Z",
       "anagram": "aooprs"
+    },
+    {
+      "date": "2024-03-17T20:03:41.266Z",
+      "anagram": "aimot"
+    },
+    {
+      "date": "2024-03-17T20:03:41.397Z",
+      "anagram": "aijlost"
     }
   ]
 }
