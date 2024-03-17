@@ -130,11 +130,13 @@
     "beilooqu",
     "bimosssu",
     "ccciilos",
+    "cceiopst",
     "cciiosv",
     "cdehiloor",
     "cdiilnosu",
     "ceeeforr",
     "ceeginors",
+    "ceiloort",
     "chnoops",
     "ciiopt",
     "ciossu",
@@ -776,6 +778,14 @@
     {
       "date": "2024-03-16T20:03:35.597Z",
       "anagram": "aeiprs"
+    },
+    {
+      "date": "2024-03-17T00:13:28.038Z",
+      "anagram": "cceiopst"
+    },
+    {
+      "date": "2024-03-17T00:13:28.206Z",
+      "anagram": "ceiloort"
     }
   ]
 }
