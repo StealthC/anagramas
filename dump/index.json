@@ -1,11 +1,21 @@
 {
   "anagrams": [
+    "aacdeghs",
+    "aooprs",
     "deioops"
   ],
   "byDate": [
     {
       "date": "2024-03-17T12:06:27.957Z",
       "anagram": "deioops"
+    },
+    {
+      "date": "2024-03-17T16:03:43.282Z",
+      "anagram": "aacdeghs"
+    },
+    {
+      "date": "2024-03-17T16:03:43.349Z",
+      "anagram": "aooprs"
     }
   ]
 }
