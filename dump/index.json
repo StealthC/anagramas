@@ -2,7 +2,9 @@
   "anagrams": [
     "aacdeghs",
     "aagil",
+    "abiossv",
     "aceeeijrrv",
+    "adfhinor",
     "aijlost",
     "aimot",
     "aooprs",
@@ -46,6 +48,14 @@
     {
       "date": "2024-03-18T12:05:01.206Z",
       "anagram": "eiiorrsttv"
+    },
+    {
+      "date": "2024-03-18T16:03:39.922Z",
+      "anagram": "abiossv"
+    },
+    {
+      "date": "2024-03-18T16:03:39.990Z",
+      "anagram": "adfhinor"
     }
   ]
 }
