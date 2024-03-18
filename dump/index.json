@@ -6,7 +6,9 @@
     "aijlost",
     "aimot",
     "aooprs",
-    "deioops"
+    "ceeginor",
+    "deioops",
+    "eiiorrsttv"
   ],
   "byDate": [
     {
@@ -36,6 +38,14 @@
     {
       "date": "2024-03-18T00:13:18.023Z",
       "anagram": "aagil"
+    },
+    {
+      "date": "2024-03-18T12:05:01.153Z",
+      "anagram": "ceeginor"
+    },
+    {
+      "date": "2024-03-18T12:05:01.206Z",
+      "anagram": "eiiorrsttv"
     }
   ]
 }
