@@ -1,6 +1,8 @@
 {
   "anagrams": [
     "aacdeghs",
+    "aagil",
+    "aceeeijrrv",
     "aijlost",
     "aimot",
     "aooprs",
@@ -26,6 +28,14 @@
     {
       "date": "2024-03-17T20:03:41.397Z",
       "anagram": "aijlost"
+    },
+    {
+      "date": "2024-03-18T00:13:18.008Z",
+      "anagram": "aceeeijrrv"
+    },
+    {
+      "date": "2024-03-18T00:13:18.023Z",
+      "anagram": "aagil"
     }
   ]
 }
