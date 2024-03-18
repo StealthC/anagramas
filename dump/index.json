@@ -1,5 +1,6 @@
 {
   "anagrams": [
+    "aaaegmrss",
     "aacdeghs",
     "aagil",
     "abiossv",
@@ -10,7 +11,8 @@
     "aooprs",
     "ceeginor",
     "deioops",
-    "eiiorrsttv"
+    "eiiorrsttv",
+    "eooprs"
   ],
   "byDate": [
     {
@@ -56,6 +58,14 @@
     {
       "date": "2024-03-18T16:03:39.990Z",
       "anagram": "adfhinor"
+    },
+    {
+      "date": "2024-03-18T20:03:33.312Z",
+      "anagram": "eooprs"
+    },
+    {
+      "date": "2024-03-18T20:03:33.349Z",
+      "anagram": "aaaegmrss"
     }
   ]
 }
