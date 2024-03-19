@@ -12,11 +12,13 @@
     "adfhinor",
     "adiiinrvz",
     "aegrrr",
+    "afirst",
     "aijlost",
     "aimot",
     "aooprs",
     "ceeginor",
     "deioops",
+    "eelnst",
     "eiiorrsttv",
     "eooprs"
   ],
@@ -96,6 +98,14 @@
     {
       "date": "2024-03-19T16:03:45.997Z",
       "anagram": "aacdhops"
+    },
+    {
+      "date": "2024-03-19T20:04:01.468Z",
+      "anagram": "afirst"
+    },
+    {
+      "date": "2024-03-19T20:04:01.516Z",
+      "anagram": "eelnst"
     }
   ]
 }
