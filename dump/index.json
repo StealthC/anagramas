@@ -3,8 +3,10 @@
     "aaaadmprs",
     "aaaegmrss",
     "aacdeghs",
+    "aacdhops",
     "aaeeemnttx",
     "aagil",
+    "aaiprst",
     "abiossv",
     "aceeeijrrv",
     "adfhinor",
@@ -86,6 +88,14 @@
     {
       "date": "2024-03-19T12:05:16.440Z",
       "anagram": "aaeeemnttx"
+    },
+    {
+      "date": "2024-03-19T16:03:45.971Z",
+      "anagram": "aaiprst"
+    },
+    {
+      "date": "2024-03-19T16:03:45.997Z",
+      "anagram": "aacdhops"
     }
   ]
 }
