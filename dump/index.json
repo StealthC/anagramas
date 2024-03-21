@@ -24,6 +24,7 @@
     "afirst",
     "agilr",
     "aiiimnnoss",
+    "aiilosv",
     "aijlost",
     "aimot",
     "aooprs",
@@ -31,6 +32,7 @@
     "deioops",
     "eelnst",
     "eenstu",
+    "efghiiloor",
     "eiiorrsttv",
     "eooprs"
   ],
@@ -166,6 +168,14 @@
     {
       "date": "2024-03-21T12:04:40.912Z",
       "anagram": "aabboors"
+    },
+    {
+      "date": "2024-03-21T16:03:52.949Z",
+      "anagram": "aiilosv"
+    },
+    {
+      "date": "2024-03-21T16:03:52.988Z",
+      "anagram": "efghiiloor"
     }
   ]
 }
