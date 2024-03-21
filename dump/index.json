@@ -2,9 +2,11 @@
   "anagrams": [
     "aaaadmprs",
     "aaaegmrss",
+    "aabboors",
     "aaccoopu",
     "aacdeghs",
     "aacdhops",
+    "aaciss",
     "aacissu",
     "aaeeemnttx",
     "aagil",
@@ -156,6 +158,14 @@
     {
       "date": "2024-03-21T00:12:57.276Z",
       "anagram": "aacissu"
+    },
+    {
+      "date": "2024-03-21T12:04:40.605Z",
+      "anagram": "aaciss"
+    },
+    {
+      "date": "2024-03-21T12:04:40.912Z",
+      "anagram": "aabboors"
     }
   ]
 }
