@@ -3,6 +3,7 @@
     "aaaadmprs",
     "aaaegmrss",
     "aabboors",
+    "aabhlor",
     "aaccoopu",
     "aacdeghs",
     "aacdhops",
@@ -29,6 +30,7 @@
     "aimot",
     "aooprs",
     "ceeginor",
+    "ciimnoosu",
     "deioops",
     "eelnst",
     "eenstu",
@@ -176,6 +178,14 @@
     {
       "date": "2024-03-21T16:03:52.988Z",
       "anagram": "efghiiloor"
+    },
+    {
+      "date": "2024-03-21T20:04:03.544Z",
+      "anagram": "ciimnoosu"
+    },
+    {
+      "date": "2024-03-21T20:04:03.591Z",
+      "anagram": "aabhlor"
     }
   ]
 }
