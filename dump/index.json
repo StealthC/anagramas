@@ -11,6 +11,7 @@
     "aacdhops",
     "aaciss",
     "aacissu",
+    "aaddeenps",
     "aaeeemnttx",
     "aagil",
     "aaiprst",
@@ -32,6 +33,7 @@
     "aimot",
     "aooprs",
     "ceeginor",
+    "ceiilot",
     "ciimnoosu",
     "deioops",
     "eelnst",
@@ -196,6 +198,14 @@
     {
       "date": "2024-03-22T00:11:52.435Z",
       "anagram": "aabeehilr"
+    },
+    {
+      "date": "2024-03-22T12:05:26.352Z",
+      "anagram": "ceiilot"
+    },
+    {
+      "date": "2024-03-22T12:05:26.380Z",
+      "anagram": "aaddeenps"
     }
   ]
 }
