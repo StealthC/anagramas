@@ -9,6 +9,7 @@
     "aaccoopu",
     "aacdeghs",
     "aacdhops",
+    "aacfio",
     "aacgin",
     "aaciss",
     "aacissu",
@@ -19,6 +20,7 @@
     "aaiprst",
     "abcilpru",
     "abiossv",
+    "accceiiln",
     "aceeeijrrv",
     "aciimst",
     "acinovv",
@@ -246,6 +248,14 @@
     {
       "date": "2024-03-23T12:05:07.423Z",
       "anagram": "aeoprrs"
+    },
+    {
+      "date": "2024-03-23T16:03:32.877Z",
+      "anagram": "aacfio"
+    },
+    {
+      "date": "2024-03-23T16:03:32.892Z",
+      "anagram": "accceiiln"
     }
   ]
 }
