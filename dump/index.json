@@ -45,6 +45,8 @@
     "aiops",
     "aooprs",
     "ceeginor",
+    "ceeilosss",
+    "ceeinoss",
     "ceiilot",
     "cgiiloost",
     "ciimnoosu",
@@ -276,6 +278,14 @@
     {
       "date": "2024-03-24T00:13:54.740Z",
       "anagram": "aiops"
+    },
+    {
+      "date": "2024-03-24T12:04:55.134Z",
+      "anagram": "ceeinoss"
+    },
+    {
+      "date": "2024-03-24T12:04:55.165Z",
+      "anagram": "ceeilosss"
     }
   ]
 }
