@@ -23,6 +23,7 @@
     "abiossv",
     "accceiiln",
     "aceeeijrrv",
+    "acgno",
     "aciimst",
     "aciintv",
     "acinovv",
@@ -42,6 +43,7 @@
     "aiilosv",
     "aijlost",
     "aimot",
+    "aiooorrtt",
     "aiops",
     "aooprs",
     "ceeginor",
@@ -286,6 +288,14 @@
     {
       "date": "2024-03-24T12:04:55.165Z",
       "anagram": "ceeilosss"
+    },
+    {
+      "date": "2024-03-24T16:03:47.233Z",
+      "anagram": "acgno"
+    },
+    {
+      "date": "2024-03-24T16:03:47.276Z",
+      "anagram": "aiooorrtt"
     }
   ]
 }
