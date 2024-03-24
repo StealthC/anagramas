@@ -37,6 +37,7 @@
     "aefmnstu",
     "aegrrr",
     "aeoprrs",
+    "afimmr",
     "afirst",
     "agilr",
     "aiiimnnoss",
@@ -296,6 +297,10 @@
     {
       "date": "2024-03-24T16:03:47.276Z",
       "anagram": "aiooorrtt"
+    },
+    {
+      "date": "2024-03-24T20:05:00.162Z",
+      "anagram": "afimmr"
     }
   ]
 }
