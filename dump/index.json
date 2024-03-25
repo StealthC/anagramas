@@ -60,7 +60,8 @@
     "efghiiloor",
     "efloprsuu",
     "eiiorrsttv",
-    "eooprs"
+    "eooprs",
+    "hiimnopr"
   ],
   "byDate": [
     {
@@ -306,6 +307,10 @@
     {
       "date": "2024-03-25T00:12:55.909Z",
       "anagram": "aabbnos"
+    },
+    {
+      "date": "2024-03-25T12:04:49.575Z",
+      "anagram": "hiimnopr"
     }
   ]
 }
