@@ -22,6 +22,7 @@
     "aagil",
     "aaiprst",
     "abcilpru",
+    "abiinnotz",
     "abiossv",
     "accceiiln",
     "aceeeijrrv",
@@ -316,6 +317,10 @@
     {
       "date": "2024-03-25T16:03:37.387Z",
       "anagram": "aafiinrt"
+    },
+    {
+      "date": "2024-03-25T20:03:45.388Z",
+      "anagram": "abiinnotz"
     }
   ]
 }
