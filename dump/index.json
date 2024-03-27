@@ -2,6 +2,7 @@
   "anagrams": [
     "aaaadmprs",
     "aaadeijls",
+    "aaademns",
     "aaadgrss",
     "aaaegmrss",
     "aabbnos",
@@ -356,6 +357,10 @@
     {
       "date": "2024-03-27T16:04:25.921Z",
       "anagram": "aegiilnntv"
+    },
+    {
+      "date": "2024-03-27T20:03:33.444Z",
+      "anagram": "aaademns"
     }
   ]
 }
