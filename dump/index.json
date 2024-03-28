@@ -46,6 +46,7 @@
     "aefmnstu",
     "aegiilnntv",
     "aegrrr",
+    "aenrstu",
     "aeoprrs",
     "afimmr",
     "afirst",
@@ -371,6 +372,10 @@
     {
       "date": "2024-03-28T12:06:19.533Z",
       "anagram": "ginoss"
+    },
+    {
+      "date": "2024-03-28T16:03:42.737Z",
+      "anagram": "aenrstu"
     }
   ]
 }
