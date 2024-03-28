@@ -34,6 +34,7 @@
     "aciimst",
     "aciintv",
     "acinovv",
+    "acloop",
     "addeenprru",
     "adeegnnos",
     "adelopr",
@@ -361,6 +362,10 @@
     {
       "date": "2024-03-27T20:03:33.444Z",
       "anagram": "aaademns"
+    },
+    {
+      "date": "2024-03-28T00:12:21.301Z",
+      "anagram": "acloop"
     }
   ]
 }
