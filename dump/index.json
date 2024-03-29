@@ -1,6 +1,7 @@
 {
   "anagrams": [
     "aaaadmprs",
+    "aaacijmno",
     "aaadeijls",
     "aaademns",
     "aaadgrss",
@@ -396,6 +397,10 @@
     {
       "date": "2024-03-29T16:03:45.519Z",
       "anagram": "cdimooosv"
+    },
+    {
+      "date": "2024-03-29T20:04:03.953Z",
+      "anagram": "aaacijmno"
     }
   ]
 }
