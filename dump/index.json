@@ -62,6 +62,7 @@
     "amnnooot",
     "aooprs",
     "biiiinoort",
+    "cdimooosv",
     "ceeginor",
     "ceeilosss",
     "ceeinoss",
@@ -391,6 +392,10 @@
     {
       "date": "2024-03-29T12:04:44.025Z",
       "anagram": "amnnooot"
+    },
+    {
+      "date": "2024-03-29T16:03:45.519Z",
+      "anagram": "cdimooosv"
     }
   ]
 }
