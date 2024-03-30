@@ -4,6 +4,7 @@
     "aaacijmno",
     "aaadeijls",
     "aaademns",
+    "aaadfin",
     "aaadgrss",
     "aaaegmrss",
     "aabbnos",
@@ -401,6 +402,10 @@
     {
       "date": "2024-03-29T20:04:03.953Z",
       "anagram": "aaacijmno"
+    },
+    {
+      "date": "2024-03-30T00:11:31.175Z",
+      "anagram": "aaadfin"
     }
   ]
 }
