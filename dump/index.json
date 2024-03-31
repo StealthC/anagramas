@@ -15,6 +15,7 @@
     "aaccoopu",
     "aacdeghs",
     "aacdgho",
+    "aacdgiiot",
     "aacdhops",
     "aacfio",
     "aacgin",
@@ -436,6 +437,10 @@
     {
       "date": "2024-03-31T16:05:21.619Z",
       "anagram": "aadefnr"
+    },
+    {
+      "date": "2024-03-31T20:03:37.834Z",
+      "anagram": "aacdgiiot"
     }
   ]
 }
