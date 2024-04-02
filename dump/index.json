@@ -68,6 +68,7 @@
     "aijlost",
     "aimot",
     "aiooorrtt",
+    "aioort",
     "aiops",
     "amnnooot",
     "aooprs",
@@ -466,6 +467,10 @@
     {
       "date": "2024-04-02T00:12:16.706Z",
       "anagram": "ceossu"
+    },
+    {
+      "date": "2024-04-02T12:05:45.842Z",
+      "anagram": "aioort"
     }
   ]
 }
