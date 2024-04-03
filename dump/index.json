@@ -38,6 +38,7 @@
     "abiossv",
     "accceiiln",
     "aceeeijrrv",
+    "aceeenrrs",
     "acflo",
     "acghnos",
     "acgno",
@@ -481,6 +482,10 @@
     {
       "date": "2024-04-02T20:03:35.204Z",
       "anagram": "aaforr"
+    },
+    {
+      "date": "2024-04-03T00:12:35.785Z",
+      "anagram": "aceeenrrs"
     }
   ]
 }
