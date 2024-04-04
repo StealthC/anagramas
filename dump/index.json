@@ -63,6 +63,7 @@
     "aefmnstu",
     "aegiilnntv",
     "aegrrr",
+    "aeilssv",
     "aeippst",
     "aenrstu",
     "aeoprrs",
@@ -516,6 +517,10 @@
     {
       "date": "2024-04-04T16:03:55.377Z",
       "anagram": "aacchins"
+    },
+    {
+      "date": "2024-04-04T20:03:35.937Z",
+      "anagram": "aeilssv"
     }
   ]
 }
