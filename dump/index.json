@@ -52,6 +52,7 @@
     "addgiiirs",
     "adeegnnos",
     "adeimsuz",
+    "adeiopt",
     "adelopr",
     "adfhinor",
     "adgiossu",
@@ -526,6 +527,10 @@
     {
       "date": "2024-04-05T00:12:36.622Z",
       "anagram": "aeeprstz"
+    },
+    {
+      "date": "2024-04-05T12:05:03.506Z",
+      "anagram": "adeiopt"
     }
   ]
 }
