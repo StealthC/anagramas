@@ -51,6 +51,7 @@
     "acloop",
     "addeenprru",
     "addgiiirs",
+    "addior",
     "adeegnnos",
     "adeimsuz",
     "adeiopt",
@@ -536,6 +537,10 @@
     {
       "date": "2024-04-05T16:04:20.333Z",
       "anagram": "aajnrtu"
+    },
+    {
+      "date": "2024-04-05T20:04:24.708Z",
+      "anagram": "addior"
     }
   ]
 }
