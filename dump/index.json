@@ -78,6 +78,7 @@
     "aiilosv",
     "aijlost",
     "aimot",
+    "aimoz",
     "ainosz",
     "aiooorrtt",
     "aioort",
@@ -546,6 +547,10 @@
     {
       "date": "2024-04-06T00:11:45.315Z",
       "anagram": "aoprt"
+    },
+    {
+      "date": "2024-04-06T12:05:07.215Z",
+      "anagram": "aimoz"
     }
   ]
 }
