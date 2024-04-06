@@ -65,6 +65,7 @@
     "aeegils",
     "aeegms",
     "aeeprstz",
+    "aefgort",
     "aefmnstu",
     "aegiilnntv",
     "aegrrr",
@@ -556,6 +557,10 @@
     {
       "date": "2024-04-06T16:03:48.712Z",
       "anagram": "abostu"
+    },
+    {
+      "date": "2024-04-06T20:06:32.456Z",
+      "anagram": "aefgort"
     }
   ]
 }
