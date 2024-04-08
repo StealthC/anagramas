@@ -63,6 +63,7 @@
     "adiiinrvz",
     "adinopt",
     "aeegils",
+    "aeegiort",
     "aeegms",
     "aeeprstz",
     "aefgort",
@@ -576,6 +577,10 @@
     {
       "date": "2024-04-07T20:03:32.469Z",
       "anagram": "aenpssssu"
+    },
+    {
+      "date": "2024-04-08T00:12:36.190Z",
+      "anagram": "aeegiort"
     }
   ]
 }
