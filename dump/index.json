@@ -107,6 +107,7 @@
     "ceossu",
     "cgiiloost",
     "ciimnoosu",
+    "defiossu",
     "deioops",
     "deioors",
     "eelnst",
@@ -606,6 +607,10 @@
     {
       "date": "2024-04-09T12:05:41.688Z",
       "anagram": "eimosv"
+    },
+    {
+      "date": "2024-04-09T16:03:30.431Z",
+      "anagram": "defiossu"
     }
   ]
 }
