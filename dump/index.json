@@ -24,6 +24,7 @@
     "aacgin",
     "aaciss",
     "aacissu",
+    "aacrs",
     "aaddeenps",
     "aaddeinqtu",
     "aaddeopr",
@@ -596,6 +597,10 @@
     {
       "date": "2024-04-08T20:03:36.756Z",
       "anagram": "acllrtuu"
+    },
+    {
+      "date": "2024-04-09T00:12:47.624Z",
+      "anagram": "aacrs"
     }
   ]
 }
