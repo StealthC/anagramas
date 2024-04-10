@@ -105,6 +105,7 @@
     "ceeilosss",
     "ceeinoss",
     "ceiilot",
+    "ceilosttu",
     "ceorsv",
     "ceossu",
     "cgiiloost",
@@ -626,6 +627,10 @@
     {
       "date": "2024-04-10T12:04:56.890Z",
       "anagram": "abceorr"
+    },
+    {
+      "date": "2024-04-10T16:03:51.630Z",
+      "anagram": "ceilosttu"
     }
   ]
 }
