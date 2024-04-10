@@ -121,6 +121,7 @@
     "eimosv",
     "emoorrss",
     "eooprs",
+    "eoorrst",
     "ginoss",
     "hiimnopr"
   ],
@@ -616,6 +617,10 @@
     {
       "date": "2024-04-09T20:03:39.163Z",
       "anagram": "abeglor"
+    },
+    {
+      "date": "2024-04-10T00:12:30.949Z",
+      "anagram": "eoorrst"
     }
   ]
 }
