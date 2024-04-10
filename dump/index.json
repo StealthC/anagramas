@@ -37,6 +37,7 @@
     "aagil",
     "aaiprst",
     "aajnrtu",
+    "abceorr",
     "abcilpru",
     "abeglor",
     "abiinnotz",
@@ -621,6 +622,10 @@
     {
       "date": "2024-04-10T00:12:30.949Z",
       "anagram": "eoorrst"
+    },
+    {
+      "date": "2024-04-10T12:04:56.890Z",
+      "anagram": "abceorr"
     }
   ]
 }
