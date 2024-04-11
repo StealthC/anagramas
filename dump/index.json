@@ -20,6 +20,7 @@
     "aacdgho",
     "aacdgiiot",
     "aacdhops",
+    "aacdo",
     "aacfio",
     "aacgin",
     "aaciss",
@@ -636,6 +637,10 @@
     {
       "date": "2024-04-10T20:03:36.415Z",
       "anagram": "ceiimoqru"
+    },
+    {
+      "date": "2024-04-11T00:12:38.235Z",
+      "anagram": "aacdo"
     }
   ]
 }
