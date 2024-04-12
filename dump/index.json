@@ -100,6 +100,7 @@
     "aioort",
     "aiops",
     "amnnooot",
+    "anost",
     "aooprs",
     "aoostt",
     "aoprt",
@@ -661,6 +662,10 @@
     {
       "date": "2024-04-12T00:12:23.008Z",
       "anagram": "abimrr"
+    },
+    {
+      "date": "2024-04-12T12:04:50.530Z",
+      "anagram": "anost"
     }
   ]
 }
