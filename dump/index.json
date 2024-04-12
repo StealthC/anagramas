@@ -107,6 +107,7 @@
     "aoprt",
     "biiiinoort",
     "cdimooosv",
+    "ceeejoprv",
     "ceeginor",
     "ceeilosss",
     "ceeinoss",
@@ -671,6 +672,10 @@
     {
       "date": "2024-04-12T16:03:41.578Z",
       "anagram": "acdfhirsu"
+    },
+    {
+      "date": "2024-04-12T20:04:00.400Z",
+      "anagram": "ceeejoprv"
     }
   ]
 }
