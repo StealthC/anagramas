@@ -87,6 +87,7 @@
     "aenpssssu",
     "aenrstu",
     "aeoprrs",
+    "afilot",
     "afimmr",
     "afirst",
     "afjnou",
@@ -681,6 +682,10 @@
     {
       "date": "2024-04-13T00:11:24.342Z",
       "anagram": "abeiijrtu"
+    },
+    {
+      "date": "2024-04-13T12:04:42.260Z",
+      "anagram": "afilot"
     }
   ]
 }
