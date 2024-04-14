@@ -75,6 +75,7 @@
     "adiiimmprs",
     "adiiinrvz",
     "adinopt",
+    "adloors",
     "aeegils",
     "aeegiort",
     "aeegms",
@@ -711,6 +712,10 @@
     {
       "date": "2024-04-14T18:18:06.480Z",
       "anagram": "deiilor"
+    },
+    {
+      "date": "2024-04-14T22:15:07.578Z",
+      "anagram": "adloors"
     }
   ]
 }
