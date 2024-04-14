@@ -59,6 +59,7 @@
     "aciimst",
     "aciintv",
     "acinovv",
+    "acirst",
     "acllrtuu",
     "acloop",
     "addeenprru",
@@ -701,6 +702,10 @@
     {
       "date": "2024-04-14T04:11:06.023Z",
       "anagram": "aaiknnost"
+    },
+    {
+      "date": "2024-04-14T14:06:58.545Z",
+      "anagram": "acirst"
     }
   ]
 }
