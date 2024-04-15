@@ -38,6 +38,7 @@
     "aafiinrt",
     "aaforr",
     "aagil",
+    "aahmnoss",
     "aaiknnost",
     "aaiprst",
     "aajnrtu",
@@ -716,6 +717,10 @@
     {
       "date": "2024-04-14T22:15:07.578Z",
       "anagram": "adloors"
+    },
+    {
+      "date": "2024-04-15T02:30:27.349Z",
+      "anagram": "aahmnoss"
     }
   ]
 }
