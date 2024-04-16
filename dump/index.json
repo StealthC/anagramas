@@ -102,6 +102,7 @@
     "afirst",
     "afjnou",
     "agilr",
+    "aglor",
     "aiiimnnoss",
     "aiilmrt",
     "aiilosv",
@@ -746,6 +747,10 @@
     {
       "date": "2024-04-16T12:04:50.477Z",
       "anagram": "cehiilqu"
+    },
+    {
+      "date": "2024-04-16T16:04:41.499Z",
+      "anagram": "aglor"
     }
   ]
 }
