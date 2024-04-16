@@ -46,6 +46,7 @@
     "aajnrtu",
     "abceorr",
     "abcilpru",
+    "abcors",
     "abeglor",
     "abeiijrtu",
     "abiinnotz",
@@ -736,6 +737,10 @@
     {
       "date": "2024-04-15T20:03:39.877Z",
       "anagram": "aciootv"
+    },
+    {
+      "date": "2024-04-16T00:12:06.465Z",
+      "anagram": "abcors"
     }
   ]
 }
