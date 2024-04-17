@@ -41,6 +41,7 @@
     "aafiinrt",
     "aaforr",
     "aagil",
+    "aagilrs",
     "aahmnoss",
     "aaiknnost",
     "aaiprst",
@@ -771,6 +772,10 @@
     {
       "date": "2024-04-17T16:04:22.435Z",
       "anagram": "aadjsu"
+    },
+    {
+      "date": "2024-04-17T20:03:30.697Z",
+      "anagram": "aagilrs"
     }
   ]
 }
