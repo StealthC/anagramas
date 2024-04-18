@@ -79,6 +79,7 @@
     "adeiopt",
     "adelopr",
     "adfhinor",
+    "adfiosu",
     "adgiossu",
     "adiiimmprs",
     "adiiinrvz",
@@ -781,6 +782,10 @@
     {
       "date": "2024-04-18T00:12:34.044Z",
       "anagram": "aflrtuu"
+    },
+    {
+      "date": "2024-04-18T12:04:50.862Z",
+      "anagram": "adfiosu"
     }
   ]
 }
