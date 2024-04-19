@@ -137,6 +137,7 @@
     "ceiilot",
     "ceiimoqru",
     "ceilosttu",
+    "ceimot",
     "ceorsv",
     "ceossu",
     "cgiiloost",
@@ -796,6 +797,10 @@
     {
       "date": "2024-04-19T00:12:23.636Z",
       "anagram": "acehmnsu"
+    },
+    {
+      "date": "2024-04-19T12:05:06.252Z",
+      "anagram": "ceimot"
     }
   ]
 }
