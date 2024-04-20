@@ -18,6 +18,7 @@
     "aabis",
     "aacchins",
     "aaccoopu",
+    "aaccosv",
     "aaccou",
     "aacdeghs",
     "aacdgho",
@@ -826,6 +827,10 @@
     {
       "date": "2024-04-20T16:03:40.846Z",
       "anagram": "aeemnnotv"
+    },
+    {
+      "date": "2024-04-20T20:03:40.143Z",
+      "anagram": "aaccosv"
     }
   ]
 }
