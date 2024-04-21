@@ -52,6 +52,7 @@
     "abceorr",
     "abcilpru",
     "abcors",
+    "abeeenrtux",
     "abeglor",
     "abeiijrtu",
     "abiinnotz",
@@ -841,6 +842,10 @@
     {
       "date": "2024-04-21T12:05:43.933Z",
       "anagram": "aaddfinnsu"
+    },
+    {
+      "date": "2024-04-21T16:06:00.253Z",
+      "anagram": "abeeenrtux"
     }
   ]
 }
