@@ -33,6 +33,7 @@
     "aaddeenps",
     "aaddeinqtu",
     "aaddeopr",
+    "aaddfinnsu",
     "aaddirtu",
     "aadefnr",
     "aadfgis",
@@ -836,6 +837,10 @@
     {
       "date": "2024-04-21T00:13:59.623Z",
       "anagram": "celnos"
+    },
+    {
+      "date": "2024-04-21T12:05:43.933Z",
+      "anagram": "aaddfinnsu"
     }
   ]
 }
