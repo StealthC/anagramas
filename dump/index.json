@@ -147,6 +147,7 @@
     "ceiimoqru",
     "ceilosttu",
     "ceimot",
+    "ceiopst",
     "celnos",
     "ceorsv",
     "ceossu",
@@ -851,6 +852,10 @@
     {
       "date": "2024-04-21T20:04:32.728Z",
       "anagram": "abceirs"
+    },
+    {
+      "date": "2024-04-22T00:13:25.391Z",
+      "anagram": "ceiopst"
     }
   ]
 }
