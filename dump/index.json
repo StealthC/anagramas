@@ -105,6 +105,7 @@
     "aefmnstu",
     "aegiilnntv",
     "aegiilntv",
+    "aegimm",
     "aegrrr",
     "aeijnrv",
     "aeilssv",
@@ -886,6 +887,10 @@
     {
       "date": "2024-04-23T16:03:46.768Z",
       "anagram": "deioprt"
+    },
+    {
+      "date": "2024-04-23T20:03:50.623Z",
+      "anagram": "aegimm"
     }
   ]
 }
