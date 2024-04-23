@@ -161,6 +161,7 @@
     "deiilor",
     "deioops",
     "deioors",
+    "deioprt",
     "eeiilprsvv",
     "eelnst",
     "eenstu",
@@ -881,6 +882,10 @@
     {
       "date": "2024-04-23T12:05:25.827Z",
       "anagram": "deesstu"
+    },
+    {
+      "date": "2024-04-23T16:03:46.768Z",
+      "anagram": "deioprt"
     }
   ]
 }
