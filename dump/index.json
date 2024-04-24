@@ -102,6 +102,7 @@
     "aeemnnotv",
     "aeeprstz",
     "aefgort",
+    "aeflors",
     "aefmnstu",
     "aegiilnntv",
     "aegiilntv",
@@ -891,6 +892,10 @@
     {
       "date": "2024-04-23T20:03:50.623Z",
       "anagram": "aegimm"
+    },
+    {
+      "date": "2024-04-24T00:13:16.472Z",
+      "anagram": "aeflors"
     }
   ]
 }
