@@ -139,6 +139,7 @@
     "aooprs",
     "aoostt",
     "aoprt",
+    "bciinorrtu",
     "biiiinoort",
     "cdimooosv",
     "cdioss",
@@ -896,6 +897,10 @@
     {
       "date": "2024-04-24T00:13:16.472Z",
       "anagram": "aeflors"
+    },
+    {
+      "date": "2024-04-24T12:05:36.524Z",
+      "anagram": "bciinorrtu"
     }
   ]
 }
