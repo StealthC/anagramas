@@ -52,6 +52,7 @@
     "aahmnoss",
     "aaiknnost",
     "aaiprst",
+    "aairrtt",
     "aajnrtu",
     "abceirs",
     "abceorr",
@@ -926,6 +927,10 @@
     {
       "date": "2024-04-25T16:04:10.160Z",
       "anagram": "aaelrrx"
+    },
+    {
+      "date": "2024-04-25T20:04:06.403Z",
+      "anagram": "aairrtt"
     }
   ]
 }
