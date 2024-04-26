@@ -120,6 +120,7 @@
     "aeilssv",
     "aeinps",
     "aeippst",
+    "aelmru",
     "aemqrsu",
     "aenpssssu",
     "aenrstu",
@@ -946,6 +947,10 @@
     {
       "date": "2024-04-26T16:03:59.749Z",
       "anagram": "aadgru"
+    },
+    {
+      "date": "2024-04-26T20:03:41.852Z",
+      "anagram": "aelmru"
     }
   ]
 }
