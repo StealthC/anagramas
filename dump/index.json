@@ -40,6 +40,7 @@
     "aadefost",
     "aaderssv",
     "aadfgis",
+    "aadgru",
     "aadjsu",
     "aadorss",
     "aaeeemnttx",
@@ -941,6 +942,10 @@
     {
       "date": "2024-04-26T12:05:16.356Z",
       "anagram": "aaderssv"
+    },
+    {
+      "date": "2024-04-26T16:03:59.749Z",
+      "anagram": "aadgru"
     }
   ]
 }
