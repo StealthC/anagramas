@@ -38,6 +38,7 @@
     "aaddirtu",
     "aadefnr",
     "aadefost",
+    "aaderssv",
     "aadfgis",
     "aadjsu",
     "aadorss",
@@ -936,6 +937,10 @@
     {
       "date": "2024-04-26T00:12:27.781Z",
       "anagram": "acelsss"
+    },
+    {
+      "date": "2024-04-26T12:05:16.356Z",
+      "anagram": "aaderssv"
     }
   ]
 }
