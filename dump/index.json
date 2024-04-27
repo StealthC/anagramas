@@ -188,6 +188,7 @@
     "eilossv",
     "eimosv",
     "emoorrss",
+    "emorst",
     "eooprs",
     "eoorrst",
     "fgiors",
@@ -966,6 +967,10 @@
     {
       "date": "2024-04-27T16:03:59.640Z",
       "anagram": "aagpr"
+    },
+    {
+      "date": "2024-04-27T20:03:31.076Z",
+      "anagram": "emorst"
     }
   ]
 }
