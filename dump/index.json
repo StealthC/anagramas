@@ -172,6 +172,7 @@
     "ceiopst",
     "celnos",
     "ceorsv",
+    "ceort",
     "ceossu",
     "cgiiloost",
     "ciimnoosu",
@@ -986,6 +987,10 @@
     {
       "date": "2024-04-28T16:04:00.560Z",
       "anagram": "aaiknnot"
+    },
+    {
+      "date": "2024-04-28T20:04:54.228Z",
+      "anagram": "ceort"
     }
   ]
 }
