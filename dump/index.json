@@ -55,6 +55,7 @@
     "aagpr",
     "aahmnoss",
     "aaiknnost",
+    "aaiknnot",
     "aaiprst",
     "aairrtt",
     "aajnrtu",
@@ -981,6 +982,10 @@
     {
       "date": "2024-04-28T12:05:04.605Z",
       "anagram": "acceist"
+    },
+    {
+      "date": "2024-04-28T16:04:00.560Z",
+      "anagram": "aaiknnot"
     }
   ]
 }
