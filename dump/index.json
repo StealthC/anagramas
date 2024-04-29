@@ -73,6 +73,7 @@
     "abostu",
     "accceiiln",
     "acceist",
+    "accios",
     "acdeeinps",
     "acdeinsv",
     "acdfhirsu",
@@ -996,6 +997,10 @@
     {
       "date": "2024-04-29T00:12:40.519Z",
       "anagram": "acghno"
+    },
+    {
+      "date": "2024-04-29T12:05:17.516Z",
+      "anagram": "accios"
     }
   ]
 }
