@@ -114,6 +114,7 @@
     "aeegms",
     "aeegprrsss",
     "aeemnnotv",
+    "aeemnsx",
     "aeennossv",
     "aeeprstz",
     "aefgort",
@@ -1001,6 +1002,10 @@
     {
       "date": "2024-04-29T12:05:17.516Z",
       "anagram": "accios"
+    },
+    {
+      "date": "2024-04-29T16:04:03.780Z",
+      "anagram": "aeemnsx"
     }
   ]
 }
