@@ -76,6 +76,7 @@
     "accios",
     "acdeeinps",
     "acdeinsv",
+    "acdeoru",
     "acdfhirsu",
     "aceeeijrrv",
     "aceeenrrs",
@@ -1006,6 +1007,10 @@
     {
       "date": "2024-04-29T16:04:03.780Z",
       "anagram": "aeemnsx"
+    },
+    {
+      "date": "2024-04-29T20:03:34.503Z",
+      "anagram": "acdeoru"
     }
   ]
 }
