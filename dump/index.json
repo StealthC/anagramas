@@ -29,6 +29,7 @@
     "aacgin",
     "aaciss",
     "aacissu",
+    "aaclmruu",
     "aacrs",
     "aaddeemn",
     "aaddeenps",
@@ -1026,6 +1027,10 @@
     {
       "date": "2024-04-30T16:04:39.313Z",
       "anagram": "adgirssu"
+    },
+    {
+      "date": "2024-04-30T20:03:37.804Z",
+      "anagram": "aaclmruu"
     }
   ]
 }
