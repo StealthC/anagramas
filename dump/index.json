@@ -131,6 +131,7 @@
     "aeinps",
     "aeippst",
     "aelmru",
+    "aemptu",
     "aemqrsu",
     "aenpssssu",
     "aenrstu",
@@ -1011,6 +1012,10 @@
     {
       "date": "2024-04-29T20:03:34.503Z",
       "anagram": "acdeoru"
+    },
+    {
+      "date": "2024-04-30T00:12:05.685Z",
+      "anagram": "aemptu"
     }
   ]
 }
