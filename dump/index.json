@@ -94,6 +94,7 @@
     "acirst",
     "acllrtuu",
     "acloop",
+    "addeenoorr",
     "addeenprru",
     "addgiiirs",
     "addior",
@@ -1016,6 +1017,10 @@
     {
       "date": "2024-04-30T00:12:05.685Z",
       "anagram": "aemptu"
+    },
+    {
+      "date": "2024-04-30T12:04:39.794Z",
+      "anagram": "addeenoorr"
     }
   ]
 }
