@@ -79,6 +79,7 @@
     "acdeinsv",
     "acdeoru",
     "acdfhirsu",
+    "acdiimno",
     "acdirrssu",
     "aceeeijrrv",
     "aceeenrrs",
@@ -1041,6 +1042,10 @@
     {
       "date": "2024-05-01T12:04:56.790Z",
       "anagram": "adeorrs"
+    },
+    {
+      "date": "2024-05-01T16:03:43.335Z",
+      "anagram": "acdiimno"
     }
   ]
 }
