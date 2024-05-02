@@ -25,6 +25,7 @@
     "aacdgho",
     "aacdgiiot",
     "aacdhops",
+    "aacdins",
     "aacdo",
     "aacfio",
     "aacgin",
@@ -1056,6 +1057,10 @@
     {
       "date": "2024-05-02T00:12:33.534Z",
       "anagram": "aaabcdeno"
+    },
+    {
+      "date": "2024-05-02T12:05:42.928Z",
+      "anagram": "aacdins"
     }
   ]
 }
