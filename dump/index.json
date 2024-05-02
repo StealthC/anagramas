@@ -100,6 +100,7 @@
     "acirst",
     "acllrtuu",
     "acloop",
+    "adddenoos",
     "addeenoorr",
     "addeenprru",
     "addgiiirs",
@@ -1061,6 +1062,10 @@
     {
       "date": "2024-05-02T12:05:42.928Z",
       "anagram": "aacdins"
+    },
+    {
+      "date": "2024-05-02T16:03:42.723Z",
+      "anagram": "adddenoos"
     }
   ]
 }
