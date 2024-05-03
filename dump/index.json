@@ -111,6 +111,7 @@
     "adeimsuz",
     "adeiopt",
     "adelopr",
+    "adeopss",
     "adeorrs",
     "adfhinor",
     "adfiosu",
@@ -1076,6 +1077,10 @@
     {
       "date": "2024-05-03T00:12:42.136Z",
       "anagram": "ahlnpu"
+    },
+    {
+      "date": "2024-05-03T12:04:48.982Z",
+      "anagram": "adeopss"
     }
   ]
 }
