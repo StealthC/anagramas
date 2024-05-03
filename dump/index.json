@@ -105,6 +105,7 @@
     "addeenprru",
     "addgiiirs",
     "addior",
+    "addiost",
     "adeeehnrrs",
     "adeegnnos",
     "adegiinns",
@@ -1086,6 +1087,10 @@
     {
       "date": "2024-05-03T16:03:39.962Z",
       "anagram": "aehlnrtu"
+    },
+    {
+      "date": "2024-05-03T20:04:24.970Z",
+      "anagram": "addiost"
     }
   ]
 }
