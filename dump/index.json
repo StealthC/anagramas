@@ -118,6 +118,7 @@
     "adfiosu",
     "adgiossu",
     "adgirssu",
+    "adhor",
     "adiiimmprs",
     "adiiinrvz",
     "adinopt",
@@ -1106,6 +1107,10 @@
     {
       "date": "2024-05-04T16:03:51.624Z",
       "anagram": "agioorrs"
+    },
+    {
+      "date": "2024-05-04T20:04:45.392Z",
+      "anagram": "adhor"
     }
   ]
 }
