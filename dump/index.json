@@ -143,6 +143,7 @@
     "aeijnrv",
     "aeilssv",
     "aeimnru",
+    "aeimrs",
     "aeinps",
     "aeippst",
     "aelmru",
@@ -1096,6 +1097,10 @@
     {
       "date": "2024-05-04T00:12:18.031Z",
       "anagram": "aeenpstt"
+    },
+    {
+      "date": "2024-05-04T12:04:40.691Z",
+      "anagram": "aeimrs"
     }
   ]
 }
