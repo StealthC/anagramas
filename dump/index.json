@@ -157,6 +157,7 @@
     "aeoprrs",
     "aeopsss",
     "aeorrt",
+    "afgoooprt",
     "afilot",
     "afimmr",
     "afirst",
@@ -1121,6 +1122,10 @@
     {
       "date": "2024-05-05T12:04:51.814Z",
       "anagram": "adfgiu"
+    },
+    {
+      "date": "2024-05-05T16:04:01.018Z",
+      "anagram": "afgoooprt"
     }
   ]
 }
