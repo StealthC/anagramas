@@ -83,6 +83,7 @@
     "acdeoru",
     "acdfhirsu",
     "acdiimno",
+    "acdiop",
     "acdirrssu",
     "aceeeijrrv",
     "aceeenrrs",
@@ -1136,6 +1137,10 @@
     {
       "date": "2024-05-06T00:12:55.612Z",
       "anagram": "adeiorr"
+    },
+    {
+      "date": "2024-05-06T12:05:13.084Z",
+      "anagram": "acdiop"
     }
   ]
 }
