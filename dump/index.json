@@ -59,6 +59,7 @@
     "aagilrs",
     "aagpr",
     "aahmnoss",
+    "aaijrv",
     "aaiknnost",
     "aaiknnot",
     "aaiprst",
@@ -1156,6 +1157,10 @@
     {
       "date": "2024-05-07T00:12:30.750Z",
       "anagram": "adehnorr"
+    },
+    {
+      "date": "2024-05-07T12:04:55.462Z",
+      "anagram": "aaijrv"
     }
   ]
 }
