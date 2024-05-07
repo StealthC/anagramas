@@ -130,6 +130,7 @@
     "adiiimmprs",
     "adiiinrvz",
     "adinopt",
+    "adiopr",
     "adloors",
     "aeegils",
     "aeegiort",
@@ -1166,6 +1167,10 @@
     {
       "date": "2024-05-07T16:04:05.840Z",
       "anagram": "bceenossuv"
+    },
+    {
+      "date": "2024-05-07T20:03:31.642Z",
+      "anagram": "adiopr"
     }
   ]
 }
