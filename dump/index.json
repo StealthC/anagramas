@@ -43,6 +43,7 @@
     "aaddirtu",
     "aadefnr",
     "aadefost",
+    "aadegn",
     "aaderssv",
     "aadfgis",
     "aadgru",
@@ -1186,6 +1187,10 @@
     {
       "date": "2024-05-08T16:03:54.660Z",
       "anagram": "aejnpstu"
+    },
+    {
+      "date": "2024-05-08T20:03:40.416Z",
+      "anagram": "aadegn"
     }
   ]
 }
