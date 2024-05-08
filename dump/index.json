@@ -30,6 +30,7 @@
     "aacdo",
     "aacfio",
     "aacgin",
+    "aaciimot",
     "aaciss",
     "aacissu",
     "aaclmruu",
@@ -1171,6 +1172,10 @@
     {
       "date": "2024-05-07T20:03:31.642Z",
       "anagram": "adiopr"
+    },
+    {
+      "date": "2024-05-08T00:10:56.649Z",
+      "anagram": "aaciimot"
     }
   ]
 }
