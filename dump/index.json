@@ -158,6 +158,7 @@
     "aeimrs",
     "aeinps",
     "aeippst",
+    "aejnpstu",
     "aelmru",
     "aemptu",
     "aemqrsu",
@@ -1181,6 +1182,10 @@
     {
       "date": "2024-05-08T12:05:00.364Z",
       "anagram": "aaestux"
+    },
+    {
+      "date": "2024-05-08T16:03:54.660Z",
+      "anagram": "aejnpstu"
     }
   ]
 }
