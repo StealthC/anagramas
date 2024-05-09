@@ -169,6 +169,7 @@
     "aeopsss",
     "aeorrt",
     "afgoooprt",
+    "afilnr",
     "afilot",
     "afimmr",
     "afirst",
@@ -1191,6 +1192,10 @@
     {
       "date": "2024-05-08T20:03:40.416Z",
       "anagram": "aadegn"
+    },
+    {
+      "date": "2024-05-09T00:12:46.882Z",
+      "anagram": "afilnr"
     }
   ]
 }
