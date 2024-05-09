@@ -130,6 +130,7 @@
     "adgiossu",
     "adgirssu",
     "adhor",
+    "adiiimmpr",
     "adiiimmprs",
     "adiiinrvz",
     "adinopt",
@@ -1201,6 +1202,10 @@
     {
       "date": "2024-05-09T12:05:06.572Z",
       "anagram": "efgilmu"
+    },
+    {
+      "date": "2024-05-09T16:03:34.971Z",
+      "anagram": "adiiimmpr"
     }
   ]
 }
