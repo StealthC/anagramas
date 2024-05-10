@@ -82,6 +82,7 @@
     "abiossv",
     "abostu",
     "accceiiln",
+    "acceipst",
     "acceist",
     "accios",
     "acdeeinps",
@@ -1216,6 +1217,10 @@
     {
       "date": "2024-05-10T00:12:56.287Z",
       "anagram": "acost"
+    },
+    {
+      "date": "2024-05-10T12:04:51.741Z",
+      "anagram": "acceipst"
     }
   ]
 }
