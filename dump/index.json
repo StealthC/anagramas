@@ -188,6 +188,7 @@
     "aiiimnnoss",
     "aiilmrt",
     "aiilosv",
+    "aiirst",
     "aijlost",
     "aimot",
     "aimoz",
@@ -1236,6 +1237,10 @@
     {
       "date": "2024-05-11T00:12:40.886Z",
       "anagram": "acinor"
+    },
+    {
+      "date": "2024-05-11T12:04:34.345Z",
+      "anagram": "aiirst"
     }
   ]
 }
