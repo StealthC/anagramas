@@ -105,6 +105,7 @@
     "acgno",
     "aciimst",
     "aciintv",
+    "acinor",
     "acinovv",
     "aciootv",
     "aciotx",
@@ -1231,6 +1232,10 @@
     {
       "date": "2024-05-10T20:03:40.606Z",
       "anagram": "eiimnors"
+    },
+    {
+      "date": "2024-05-11T00:12:40.886Z",
+      "anagram": "acinor"
     }
   ]
 }
