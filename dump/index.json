@@ -43,6 +43,7 @@
     "aaddeopr",
     "aaddfinnsu",
     "aaddirtu",
+    "aadeennrv",
     "aadefnr",
     "aadefost",
     "aadegn",
@@ -1256,6 +1257,10 @@
     {
       "date": "2024-05-12T00:14:00.307Z",
       "anagram": "aacdiiprr"
+    },
+    {
+      "date": "2024-05-12T12:04:46.153Z",
+      "anagram": "aadeennrv"
     }
   ]
 }
