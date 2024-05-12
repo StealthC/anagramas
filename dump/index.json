@@ -227,6 +227,7 @@
     "ceossu",
     "cgiiloost",
     "ciimnoosu",
+    "ciinooosst",
     "cimnoo",
     "deesstu",
     "defiossu",
@@ -1266,6 +1267,10 @@
     {
       "date": "2024-05-12T16:04:18.366Z",
       "anagram": "aaaglrt"
+    },
+    {
+      "date": "2024-05-12T20:03:45.425Z",
+      "anagram": "ciinooosst"
     }
   ]
 }
