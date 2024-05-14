@@ -33,6 +33,7 @@
     "aacdiiprr",
     "aacdins",
     "aacdo",
+    "aacelss",
     "aacfio",
     "aacgin",
     "aaciimot",
@@ -1296,6 +1297,10 @@
     {
       "date": "2024-05-14T00:12:53.003Z",
       "anagram": "cdeeeorrrt"
+    },
+    {
+      "date": "2024-05-14T12:05:10.487Z",
+      "anagram": "aacelss"
     }
   ]
 }
