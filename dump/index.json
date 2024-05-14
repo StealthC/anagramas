@@ -211,6 +211,7 @@
     "bceenossuv",
     "bciinorrtu",
     "biiiinoort",
+    "cdeeeorrrt",
     "cdeefiinos",
     "cdimooosv",
     "cdioss",
@@ -1291,6 +1292,10 @@
     {
       "date": "2024-05-13T20:03:42.552Z",
       "anagram": "addeeenorv"
+    },
+    {
+      "date": "2024-05-14T00:12:53.003Z",
+      "anagram": "cdeeeorrrt"
     }
   ]
 }
