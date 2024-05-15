@@ -41,6 +41,7 @@
     "aaciss",
     "aacissu",
     "aaclmruu",
+    "aacopt",
     "aacrs",
     "aaddeemn",
     "aaddeenps",
@@ -1311,6 +1312,10 @@
     {
       "date": "2024-05-14T20:04:32.332Z",
       "anagram": "aabehls"
+    },
+    {
+      "date": "2024-05-15T00:13:01.288Z",
+      "anagram": "aacopt"
     }
   ]
 }
