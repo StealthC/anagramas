@@ -14,6 +14,7 @@
     "aaadgrss",
     "aaaegmrss",
     "aaaglrt",
+    "aaapstv",
     "aabbnos",
     "aabboors",
     "aabeehilr",
@@ -1326,6 +1327,10 @@
     {
       "date": "2024-05-15T16:03:42.941Z",
       "anagram": "enoostv"
+    },
+    {
+      "date": "2024-05-15T20:04:38.601Z",
+      "anagram": "aaapstv"
     }
   ]
 }
