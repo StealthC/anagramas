@@ -59,6 +59,7 @@
     "aadgru",
     "aadjsu",
     "aadlosv",
+    "aadors",
     "aadorss",
     "aaeeemnttx",
     "aaeglruz",
@@ -1316,6 +1317,10 @@
     {
       "date": "2024-05-15T00:13:01.288Z",
       "anagram": "aacopt"
+    },
+    {
+      "date": "2024-05-15T12:06:05.840Z",
+      "anagram": "aadors"
     }
   ]
 }
