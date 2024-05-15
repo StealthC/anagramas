@@ -259,6 +259,7 @@
     "eimosv",
     "emoorrss",
     "emorst",
+    "enoostv",
     "eooprs",
     "eoorrst",
     "fgiors",
@@ -1321,6 +1322,10 @@
     {
       "date": "2024-05-15T12:06:05.840Z",
       "anagram": "aadors"
+    },
+    {
+      "date": "2024-05-15T16:03:42.941Z",
+      "anagram": "enoostv"
     }
   ]
 }
