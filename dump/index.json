@@ -218,6 +218,7 @@
     "aoprt",
     "bceenossuv",
     "bciinorrtu",
+    "beginnos",
     "biiiinoort",
     "cdeeeorrrt",
     "cdeefiinos",
@@ -1341,6 +1342,10 @@
     {
       "date": "2024-05-16T12:05:28.371Z",
       "anagram": "aadgrr"
+    },
+    {
+      "date": "2024-05-16T16:03:42.107Z",
+      "anagram": "beginnos"
     }
   ]
 }
