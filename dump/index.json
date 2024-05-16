@@ -57,6 +57,7 @@
     "aaderssv",
     "aadfgils",
     "aadfgis",
+    "aadgrr",
     "aadgru",
     "aadjsu",
     "aadlosv",
@@ -1336,6 +1337,10 @@
     {
       "date": "2024-05-16T00:12:21.189Z",
       "anagram": "adils"
+    },
+    {
+      "date": "2024-05-16T12:05:28.371Z",
+      "anagram": "aadgrr"
     }
   ]
 }
