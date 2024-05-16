@@ -150,6 +150,7 @@
     "adiiimmpr",
     "adiiimmprs",
     "adiiinrvz",
+    "adils",
     "adinopt",
     "adiopr",
     "adloors",
@@ -1331,6 +1332,10 @@
     {
       "date": "2024-05-15T20:04:38.601Z",
       "anagram": "aaapstv"
+    },
+    {
+      "date": "2024-05-16T00:12:21.189Z",
+      "anagram": "adils"
     }
   ]
 }
