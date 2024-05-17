@@ -14,6 +14,7 @@
     "aaadgrss",
     "aaaegmrss",
     "aaaglrt",
+    "aaaiinnrs",
     "aaapstv",
     "aabbnos",
     "aabboors",
@@ -1366,6 +1367,10 @@
     {
       "date": "2024-05-17T16:03:51.340Z",
       "anagram": "aademruz"
+    },
+    {
+      "date": "2024-05-17T20:04:21.993Z",
+      "anagram": "aaaiinnrs"
     }
   ]
 }
