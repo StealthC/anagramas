@@ -124,6 +124,7 @@
     "acirst",
     "acllrtuu",
     "acloop",
+    "acnorr",
     "acost",
     "adddenoos",
     "addeeenorv",
@@ -1351,6 +1352,10 @@
     {
       "date": "2024-05-16T20:03:40.463Z",
       "anagram": "aaceiimnn"
+    },
+    {
+      "date": "2024-05-17T00:12:54.644Z",
+      "anagram": "acnorr"
     }
   ]
 }
