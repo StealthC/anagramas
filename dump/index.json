@@ -274,7 +274,8 @@
     "eoorrst",
     "fgiors",
     "ginoss",
-    "hiimnopr"
+    "hiimnopr",
+    "imosst"
   ],
   "byDate": [
     {
@@ -1376,6 +1377,10 @@
     {
       "date": "2024-05-18T00:12:43.298Z",
       "anagram": "agost"
+    },
+    {
+      "date": "2024-05-18T12:05:28.927Z",
+      "anagram": "imosst"
     }
   ]
 }
