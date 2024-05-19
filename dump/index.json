@@ -130,6 +130,7 @@
     "acmo",
     "acnorr",
     "acost",
+    "acrrsuu",
     "adddenoos",
     "addeeenorv",
     "addeenoorr",
@@ -1406,6 +1407,10 @@
     {
       "date": "2024-05-19T16:04:08.846Z",
       "anagram": "cdghooru"
+    },
+    {
+      "date": "2024-05-19T20:04:21.370Z",
+      "anagram": "acrrsuu"
     }
   ]
 }
