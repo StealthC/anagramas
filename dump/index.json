@@ -160,6 +160,7 @@
     "adinopt",
     "adiopr",
     "adloors",
+    "adorr",
     "aeegils",
     "aeegiort",
     "aeegms",
@@ -1391,6 +1392,10 @@
     {
       "date": "2024-05-18T20:04:36.446Z",
       "anagram": "chiiops"
+    },
+    {
+      "date": "2024-05-19T00:14:02.110Z",
+      "anagram": "adorr"
     }
   ]
 }
