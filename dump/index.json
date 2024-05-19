@@ -231,6 +231,7 @@
     "biiiinoort",
     "cdeeeorrrt",
     "cdeefiinos",
+    "cdghooru",
     "cdimooosv",
     "cdioss",
     "cdnootu",
@@ -1401,6 +1402,10 @@
     {
       "date": "2024-05-19T12:04:51.566Z",
       "anagram": "acmo"
+    },
+    {
+      "date": "2024-05-19T16:04:08.846Z",
+      "anagram": "cdghooru"
     }
   ]
 }
