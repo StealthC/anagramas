@@ -184,6 +184,7 @@
     "aehlnrtu",
     "aeijnrv",
     "aeilssv",
+    "aeiltv",
     "aeimnru",
     "aeimrs",
     "aeinps",
@@ -1416,6 +1417,10 @@
     {
       "date": "2024-05-20T00:12:59.549Z",
       "anagram": "addoost"
+    },
+    {
+      "date": "2024-05-20T12:06:29.056Z",
+      "anagram": "aeiltv"
     }
   ]
 }
