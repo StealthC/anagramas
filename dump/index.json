@@ -189,6 +189,7 @@
     "aeijnrv",
     "aeilssv",
     "aeiltv",
+    "aeimnrt",
     "aeimnru",
     "aeimrs",
     "aeinps",
@@ -1446,6 +1447,10 @@
     {
       "date": "2024-05-21T16:03:52.888Z",
       "anagram": "ablmmosu"
+    },
+    {
+      "date": "2024-05-21T20:04:30.443Z",
+      "anagram": "aeimnrt"
     }
   ]
 }
