@@ -150,6 +150,7 @@
     "adeiopt",
     "adeiorr",
     "adelopr",
+    "adelotuv",
     "adeopss",
     "adeorrs",
     "adfgiu",
@@ -1431,6 +1432,10 @@
     {
       "date": "2024-05-20T20:03:36.679Z",
       "anagram": "aaaabddnr"
+    },
+    {
+      "date": "2024-05-21T00:12:55.513Z",
+      "anagram": "adelotuv"
     }
   ]
 }
