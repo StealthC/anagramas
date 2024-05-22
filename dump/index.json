@@ -193,6 +193,7 @@
     "aeimnru",
     "aeimrs",
     "aeinps",
+    "aeinrsu",
     "aeippst",
     "aejnpstu",
     "aelmru",
@@ -1461,6 +1462,10 @@
     {
       "date": "2024-05-22T12:05:29.482Z",
       "anagram": "diost"
+    },
+    {
+      "date": "2024-05-22T16:03:39.326Z",
+      "anagram": "aeinrsu"
     }
   ]
 }
