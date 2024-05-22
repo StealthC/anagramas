@@ -269,6 +269,7 @@
     "deioops",
     "deioors",
     "deioprt",
+    "diost",
     "eeiilprsvv",
     "eelnst",
     "eenstu",
@@ -1456,6 +1457,10 @@
     {
       "date": "2024-05-22T00:12:34.493Z",
       "anagram": "iimnoostx"
+    },
+    {
+      "date": "2024-05-22T12:05:29.482Z",
+      "anagram": "diost"
     }
   ]
 }
