@@ -179,6 +179,7 @@
     "aeennossv",
     "aeenpstt",
     "aeeprstz",
+    "aefglnor",
     "aefgort",
     "aeflors",
     "aefmnstu",
@@ -1476,6 +1477,10 @@
     {
       "date": "2024-05-23T00:12:45.530Z",
       "anagram": "achlooppu"
+    },
+    {
+      "date": "2024-05-23T12:05:12.866Z",
+      "anagram": "aefglnor"
     }
   ]
 }
