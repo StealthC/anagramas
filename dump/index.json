@@ -14,6 +14,7 @@
     "aaademns",
     "aaadfin",
     "aaadgrss",
+    "aaadprrsu",
     "aaaegmrss",
     "aaaglrt",
     "aaaiinnrs",
@@ -1501,6 +1502,10 @@
     {
       "date": "2024-05-24T12:05:29.227Z",
       "anagram": "aaaacdmp"
+    },
+    {
+      "date": "2024-05-24T16:03:53.699Z",
+      "anagram": "aaadprrsu"
     }
   ]
 }
