@@ -33,6 +33,7 @@
     "aaccoopu",
     "aaccosv",
     "aaccou",
+    "aacddissu",
     "aacdeghs",
     "aacdfino",
     "aacdgho",
@@ -1506,6 +1507,10 @@
     {
       "date": "2024-05-24T16:03:53.699Z",
       "anagram": "aaadprrsu"
+    },
+    {
+      "date": "2024-05-24T20:03:45.100Z",
+      "anagram": "aacddissu"
     }
   ]
 }
