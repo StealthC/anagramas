@@ -3,6 +3,7 @@
     "aaaabbnrst",
     "aaaabddnr",
     "aaaacceor",
+    "aaaacdmp",
     "aaaadmprs",
     "aaabcdeno",
     "aaacciiloz",
@@ -1496,6 +1497,10 @@
     {
       "date": "2024-05-24T00:13:15.723Z",
       "anagram": "aaeprs"
+    },
+    {
+      "date": "2024-05-24T12:05:29.227Z",
+      "anagram": "aaaacdmp"
     }
   ]
 }
