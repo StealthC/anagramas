@@ -232,6 +232,7 @@
     "aiilosv",
     "aiirst",
     "aijlost",
+    "aimmoss",
     "aimot",
     "aimoz",
     "ainosz",
@@ -1511,6 +1512,10 @@
     {
       "date": "2024-05-24T20:03:45.100Z",
       "anagram": "aacddissu"
+    },
+    {
+      "date": "2024-05-25T00:12:22.950Z",
+      "anagram": "aimmoss"
     }
   ]
 }
