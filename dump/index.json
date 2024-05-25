@@ -274,6 +274,7 @@
     "ciimnoosu",
     "ciinooosst",
     "cimnoo",
+    "ddeeinnost",
     "deesstu",
     "defiossu",
     "deiilor",
@@ -1526,6 +1527,10 @@
     {
       "date": "2024-05-25T16:03:36.958Z",
       "anagram": "eemprs"
+    },
+    {
+      "date": "2024-05-25T20:03:40.515Z",
+      "anagram": "ddeeinnost"
     }
   ]
 }
