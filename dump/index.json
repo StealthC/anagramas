@@ -283,6 +283,7 @@
     "diost",
     "eeiilprsvv",
     "eelnst",
+    "eemprs",
     "eenstu",
     "efghiiloor",
     "efgilmu",
@@ -1521,6 +1522,10 @@
     {
       "date": "2024-05-25T12:04:40.640Z",
       "anagram": "eiloss"
+    },
+    {
+      "date": "2024-05-25T16:03:36.958Z",
+      "anagram": "eemprs"
     }
   ]
 }
