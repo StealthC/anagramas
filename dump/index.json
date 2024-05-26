@@ -111,6 +111,7 @@
     "acceipst",
     "acceist",
     "accios",
+    "acclo",
     "acdeeinps",
     "acdeinsv",
     "acdeoru",
@@ -1541,6 +1542,10 @@
     {
       "date": "2024-05-26T12:04:57.016Z",
       "anagram": "aadenrrr"
+    },
+    {
+      "date": "2024-05-26T16:03:48.573Z",
+      "anagram": "acclo"
     }
   ]
 }
