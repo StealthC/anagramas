@@ -243,6 +243,7 @@
     "aiooorrtt",
     "aioort",
     "aiops",
+    "aiopt",
     "ajnrtu",
     "amnnooot",
     "anosstu",
@@ -1556,6 +1557,10 @@
     {
       "date": "2024-05-27T00:13:19.649Z",
       "anagram": "aaefrrr"
+    },
+    {
+      "date": "2024-05-27T12:05:21.284Z",
+      "anagram": "aiopt"
     }
   ]
 }
