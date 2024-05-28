@@ -226,6 +226,7 @@
     "afirst",
     "afjnou",
     "aflrtuu",
+    "afrstu",
     "agilr",
     "agioorrs",
     "aglor",
@@ -1571,6 +1572,10 @@
     {
       "date": "2024-05-27T20:03:38.263Z",
       "anagram": "ceefhilor"
+    },
+    {
+      "date": "2024-05-28T00:13:10.797Z",
+      "anagram": "afrstu"
     }
   ]
 }
