@@ -162,6 +162,7 @@
     "adehnorr",
     "adeiinrtt",
     "adeimsuz",
+    "adeimsx",
     "adeiopt",
     "adeiorr",
     "adelopr",
@@ -1591,6 +1592,10 @@
     {
       "date": "2024-05-28T20:03:39.356Z",
       "anagram": "aeeghnnoss"
+    },
+    {
+      "date": "2024-05-29T00:13:53.400Z",
+      "anagram": "adeimsx"
     }
   ]
 }
