@@ -44,6 +44,7 @@
     "aacdiiprr",
     "aacdins",
     "aacdo",
+    "aaceelmmnt",
     "aaceiimnn",
     "aacelss",
     "aacfio",
@@ -1601,6 +1602,10 @@
     {
       "date": "2024-05-29T12:05:21.092Z",
       "anagram": "aaclpr"
+    },
+    {
+      "date": "2024-05-29T16:04:14.440Z",
+      "anagram": "aaceelmmnt"
     }
   ]
 }
