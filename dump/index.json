@@ -52,6 +52,7 @@
     "aaciss",
     "aacissu",
     "aaclmruu",
+    "aaclpr",
     "aacopt",
     "aacrs",
     "aaddeemn",
@@ -1596,6 +1597,10 @@
     {
       "date": "2024-05-29T00:13:53.400Z",
       "anagram": "adeimsx"
+    },
+    {
+      "date": "2024-05-29T12:05:21.092Z",
+      "anagram": "aaclpr"
     }
   ]
 }
