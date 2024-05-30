@@ -17,6 +17,7 @@
     "aaadprrsu",
     "aaaegmrss",
     "aaaglrt",
+    "aaagnrsu",
     "aaaiinnrs",
     "aaaprr",
     "aaapstv",
@@ -1611,6 +1612,10 @@
     {
       "date": "2024-05-29T20:03:39.352Z",
       "anagram": "deeooprrsv"
+    },
+    {
+      "date": "2024-05-30T00:13:36.070Z",
+      "anagram": "aaagnrsu"
     }
   ]
 }
