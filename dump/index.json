@@ -175,6 +175,7 @@
     "adeorrs",
     "adfgiu",
     "adfhinor",
+    "adfiort",
     "adfiosu",
     "adgiossu",
     "adgirssu",
@@ -1626,6 +1627,10 @@
     {
       "date": "2024-05-30T16:03:41.258Z",
       "anagram": "aabdejns"
+    },
+    {
+      "date": "2024-05-30T20:03:34.531Z",
+      "anagram": "adfiort"
     }
   ]
 }
