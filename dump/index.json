@@ -49,6 +49,7 @@
     "aaceelmmnt",
     "aaceiimnn",
     "aacelss",
+    "aacfil",
     "aacfio",
     "aacgin",
     "aaciimot",
@@ -1631,6 +1632,10 @@
     {
       "date": "2024-05-30T20:03:34.531Z",
       "anagram": "adfiort"
+    },
+    {
+      "date": "2024-05-31T00:12:43.709Z",
+      "anagram": "aacfil"
     }
   ]
 }
