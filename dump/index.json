@@ -103,6 +103,7 @@
     "aaiprst",
     "aairrtt",
     "aajnrtu",
+    "aarst",
     "abceirs",
     "abceorr",
     "abcilpru",
@@ -1646,6 +1647,10 @@
     {
       "date": "2024-05-31T16:04:06.259Z",
       "anagram": "aeiprtu"
+    },
+    {
+      "date": "2024-05-31T20:03:40.470Z",
+      "anagram": "aarst"
     }
   ]
 }
