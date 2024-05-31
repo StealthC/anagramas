@@ -119,6 +119,7 @@
     "accceiiln",
     "acceipst",
     "acceist",
+    "acchnoov",
     "accios",
     "acclo",
     "acdeeinps",
@@ -1636,6 +1637,10 @@
     {
       "date": "2024-05-31T00:12:43.709Z",
       "anagram": "aacfil"
+    },
+    {
+      "date": "2024-05-31T12:05:20.485Z",
+      "anagram": "acchnoov"
     }
   ]
 }
