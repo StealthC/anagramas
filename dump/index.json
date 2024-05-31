@@ -220,6 +220,7 @@
     "aeinps",
     "aeinrsu",
     "aeippst",
+    "aeiprtu",
     "aejnpstu",
     "aelmru",
     "aelsv",
@@ -1641,6 +1642,10 @@
     {
       "date": "2024-05-31T12:05:20.485Z",
       "anagram": "acchnoov"
+    },
+    {
+      "date": "2024-05-31T16:04:06.259Z",
+      "anagram": "aeiprtu"
     }
   ]
 }
