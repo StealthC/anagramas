@@ -134,6 +134,7 @@
     "aceeenrrs",
     "acehlns",
     "acehmnsu",
+    "aceinnru",
     "acellru",
     "acelsss",
     "acflo",
@@ -1656,6 +1657,10 @@
     {
       "date": "2024-06-01T00:13:58.805Z",
       "anagram": "ddiiloru"
+    },
+    {
+      "date": "2024-06-01T12:04:51.679Z",
+      "anagram": "aceinnru"
     }
   ]
 }
