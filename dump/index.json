@@ -165,6 +165,7 @@
     "addiost",
     "addoost",
     "adeeehnrrs",
+    "adeefirs",
     "adeegnnos",
     "adegiinns",
     "adehnorr",
@@ -1686,6 +1687,10 @@
     {
       "date": "2024-06-02T16:03:29.603Z",
       "anagram": "cioot"
+    },
+    {
+      "date": "2024-06-02T20:04:01.653Z",
+      "anagram": "adeefirs"
     }
   ]
 }
