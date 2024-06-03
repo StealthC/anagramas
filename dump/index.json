@@ -184,6 +184,7 @@
     "adfhinor",
     "adfiort",
     "adfiosu",
+    "adfmnoor",
     "adgiossu",
     "adgirssu",
     "adhor",
@@ -1706,6 +1707,10 @@
     {
       "date": "2024-06-03T16:03:48.573Z",
       "anagram": "aghlorru"
+    },
+    {
+      "date": "2024-06-03T20:03:50.726Z",
+      "anagram": "adfmnoor"
     }
   ]
 }
