@@ -343,6 +343,7 @@
     "ginoss",
     "hiimnopr",
     "iimnoostx",
+    "iinrrstu",
     "imosst"
   ],
   "byDate": [
@@ -1721,6 +1722,10 @@
     {
       "date": "2024-06-04T12:05:18.307Z",
       "anagram": "acddeiinu"
+    },
+    {
+      "date": "2024-06-04T16:03:44.567Z",
+      "anagram": "iinrrstu"
     }
   ]
 }
