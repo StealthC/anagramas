@@ -200,6 +200,7 @@
     "adiopr",
     "adloors",
     "adorr",
+    "aeeelmnntt",
     "aeeghnnoss",
     "aeegils",
     "aeegiort",
@@ -1711,6 +1712,10 @@
     {
       "date": "2024-06-03T20:03:50.726Z",
       "anagram": "adfmnoor"
+    },
+    {
+      "date": "2024-06-04T00:13:03.551Z",
+      "anagram": "aeeelmnntt"
     }
   ]
 }
