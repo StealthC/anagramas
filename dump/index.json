@@ -39,6 +39,7 @@
     "aaccou",
     "aacddissu",
     "aacdeghs",
+    "aacdegip",
     "aacdfino",
     "aacdgho",
     "aacdgiiot",
@@ -1726,6 +1727,10 @@
     {
       "date": "2024-06-04T16:03:44.567Z",
       "anagram": "iinrrstu"
+    },
+    {
+      "date": "2024-06-04T20:03:38.594Z",
+      "anagram": "aacdegip"
     }
   ]
 }
