@@ -110,6 +110,7 @@
     "abceorr",
     "abcilpru",
     "abcors",
+    "abdinrr",
     "abeeenrtux",
     "abeglor",
     "abeiijrtu",
@@ -1746,6 +1747,10 @@
     {
       "date": "2024-06-05T16:03:41.587Z",
       "anagram": "eehmnosttu"
+    },
+    {
+      "date": "2024-06-05T20:03:50.334Z",
+      "anagram": "abdinrr"
     }
   ]
 }
