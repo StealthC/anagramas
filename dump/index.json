@@ -212,6 +212,7 @@
     "aeegils",
     "aeegiort",
     "aeegms",
+    "aeegnrrt",
     "aeegprrsss",
     "aeemnnotv",
     "aeemnsx",
@@ -1761,6 +1762,10 @@
     {
       "date": "2024-06-06T12:05:47.282Z",
       "anagram": "abbegmo"
+    },
+    {
+      "date": "2024-06-06T16:03:45.309Z",
+      "anagram": "aeegnrrt"
     }
   ]
 }
