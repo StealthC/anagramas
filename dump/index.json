@@ -274,6 +274,7 @@
     "aimot",
     "aimoz",
     "ainosz",
+    "aiooorrt",
     "aiooorrtt",
     "aioort",
     "aiops",
@@ -1766,6 +1767,10 @@
     {
       "date": "2024-06-06T16:03:45.309Z",
       "anagram": "aeegnrrt"
+    },
+    {
+      "date": "2024-06-06T20:04:10.867Z",
+      "anagram": "aiooorrt"
     }
   ]
 }
