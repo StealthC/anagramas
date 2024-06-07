@@ -96,6 +96,7 @@
     "aaforr",
     "aagil",
     "aagilrs",
+    "aaginrrt",
     "aagpr",
     "aahmnoss",
     "aaijrv",
@@ -1771,6 +1772,10 @@
     {
       "date": "2024-06-06T20:04:10.867Z",
       "anagram": "aiooorrt"
+    },
+    {
+      "date": "2024-06-07T00:13:24.358Z",
+      "anagram": "aaginrrt"
     }
   ]
 }
