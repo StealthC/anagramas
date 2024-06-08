@@ -325,6 +325,7 @@
     "cioot",
     "ddeeinnost",
     "ddiiloru",
+    "deeeilnstv",
     "deeiilops",
     "deeooprrsv",
     "deesstu",
@@ -1806,6 +1807,10 @@
     {
       "date": "2024-06-08T16:03:44.381Z",
       "anagram": "eimoprs"
+    },
+    {
+      "date": "2024-06-08T20:04:01.870Z",
+      "anagram": "deeeilnstv"
     }
   ]
 }
