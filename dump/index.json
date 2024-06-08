@@ -68,6 +68,7 @@
     "aaddfinnsu",
     "aaddirtu",
     "aadeennrv",
+    "aadefmsu",
     "aadefnr",
     "aadefost",
     "aadegn",
@@ -1796,6 +1797,10 @@
     {
       "date": "2024-06-08T00:13:45.668Z",
       "anagram": "aadiprs"
+    },
+    {
+      "date": "2024-06-08T12:04:41.225Z",
+      "anagram": "aadefmsu"
     }
   ]
 }
