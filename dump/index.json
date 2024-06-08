@@ -347,6 +347,7 @@
     "eiiorrsttv",
     "eiloss",
     "eilossv",
+    "eimoprs",
     "eimost",
     "eimosv",
     "emoorrss",
@@ -1801,6 +1802,10 @@
     {
       "date": "2024-06-08T12:04:41.225Z",
       "anagram": "aadefmsu"
+    },
+    {
+      "date": "2024-06-08T16:03:44.381Z",
+      "anagram": "eimoprs"
     }
   ]
 }
