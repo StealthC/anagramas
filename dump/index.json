@@ -317,6 +317,7 @@
     "ceimot",
     "ceiopst",
     "celnos",
+    "ceorsu",
     "ceorsv",
     "ceort",
     "ceossu",
@@ -1826,6 +1827,10 @@
     {
       "date": "2024-06-09T16:03:54.770Z",
       "anagram": "alot"
+    },
+    {
+      "date": "2024-06-09T20:03:56.045Z",
+      "anagram": "ceorsu"
     }
   ]
 }
