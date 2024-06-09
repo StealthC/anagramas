@@ -6,6 +6,7 @@
     "aaaacdmp",
     "aaaadmprs",
     "aaabcdeno",
+    "aaabcor",
     "aaacciiloz",
     "aaacijmno",
     "aaacmrrss",
@@ -1811,6 +1812,10 @@
     {
       "date": "2024-06-08T20:04:01.870Z",
       "anagram": "deeeilnstv"
+    },
+    {
+      "date": "2024-06-09T00:15:21.092Z",
+      "anagram": "aaabcor"
     }
   ]
 }
