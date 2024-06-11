@@ -320,6 +320,7 @@
     "ceilosttu",
     "ceimot",
     "ceiopst",
+    "ceirss",
     "celnos",
     "ceorsu",
     "ceorsv",
@@ -1851,6 +1852,10 @@
     {
       "date": "2024-06-10T20:03:38.475Z",
       "anagram": "aabcefiit"
+    },
+    {
+      "date": "2024-06-11T00:13:16.969Z",
+      "anagram": "ceirss"
     }
   ]
 }
