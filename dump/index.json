@@ -58,6 +58,7 @@
     "aacfio",
     "aacgin",
     "aaciimot",
+    "aaciinooz",
     "aaciss",
     "aacissu",
     "aaclmruu",
@@ -1861,6 +1862,10 @@
     {
       "date": "2024-06-11T12:05:20.598Z",
       "anagram": "aopst"
+    },
+    {
+      "date": "2024-06-11T16:03:41.390Z",
+      "anagram": "aaciinooz"
     }
   ]
 }
