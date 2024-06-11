@@ -299,6 +299,7 @@
     "aooprs",
     "aoostt",
     "aoprt",
+    "aopst",
     "bceenossuv",
     "bciinorrtu",
     "beginnos",
@@ -1856,6 +1857,10 @@
     {
       "date": "2024-06-11T00:13:16.969Z",
       "anagram": "ceirss"
+    },
+    {
+      "date": "2024-06-11T12:05:20.598Z",
+      "anagram": "aopst"
     }
   ]
 }
