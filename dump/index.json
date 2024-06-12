@@ -48,6 +48,7 @@
     "aacdgho",
     "aacdgiiot",
     "aacdhops",
+    "aacdi",
     "aacdiiins",
     "aacdiiprr",
     "aacdins",
@@ -1876,6 +1877,10 @@
     {
       "date": "2024-06-12T00:13:22.243Z",
       "anagram": "aaaccm"
+    },
+    {
+      "date": "2024-06-12T12:05:16.463Z",
+      "anagram": "aacdi"
     }
   ]
 }
