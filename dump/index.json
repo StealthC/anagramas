@@ -8,6 +8,7 @@
     "aaabcdeno",
     "aaabcor",
     "aaacciiloz",
+    "aaaccm",
     "aaacijmno",
     "aaaclrr",
     "aaacmrrss",
@@ -1871,6 +1872,10 @@
     {
       "date": "2024-06-11T20:03:43.404Z",
       "anagram": "aaaclrr"
+    },
+    {
+      "date": "2024-06-12T00:13:22.243Z",
+      "anagram": "aaaccm"
     }
   ]
 }
