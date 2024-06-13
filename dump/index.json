@@ -309,6 +309,7 @@
     "bciinorrtu",
     "beginnos",
     "biiiinoort",
+    "ccenoorrt",
     "cdeeeorrrt",
     "cdeefiinos",
     "cdghooru",
@@ -1891,6 +1892,10 @@
     {
       "date": "2024-06-12T20:03:30.400Z",
       "anagram": "deeimnoss"
+    },
+    {
+      "date": "2024-06-13T00:13:41.883Z",
+      "anagram": "ccenoorrt"
     }
   ]
 }
