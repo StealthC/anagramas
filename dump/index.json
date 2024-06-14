@@ -309,6 +309,7 @@
     "aopst",
     "bceenossuv",
     "bciinorrtu",
+    "beenort",
     "beginnos",
     "biiiinoort",
     "ccenoorrt",
@@ -1911,6 +1912,10 @@
     {
       "date": "2024-06-13T20:03:35.091Z",
       "anagram": "aeiinsttv"
+    },
+    {
+      "date": "2024-06-14T00:13:13.551Z",
+      "anagram": "beenort"
     }
   ]
 }
