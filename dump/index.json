@@ -176,6 +176,7 @@
     "acirst",
     "acllrtuu",
     "acloop",
+    "acloops",
     "acloosu",
     "acmo",
     "acnorr",
@@ -1936,6 +1937,10 @@
     {
       "date": "2024-06-15T00:13:16.609Z",
       "anagram": "aainrt"
+    },
+    {
+      "date": "2024-06-15T12:05:35.672Z",
+      "anagram": "acloops"
     }
   ]
 }
