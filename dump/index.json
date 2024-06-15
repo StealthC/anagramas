@@ -116,6 +116,7 @@
     "aaiknnost",
     "aaiknnot",
     "aailmmx",
+    "aainrt",
     "aaiprst",
     "aairrtt",
     "aajnrtu",
@@ -1931,6 +1932,10 @@
     {
       "date": "2024-06-14T20:03:47.399Z",
       "anagram": "aaadelnt"
+    },
+    {
+      "date": "2024-06-15T00:13:16.609Z",
+      "anagram": "aainrt"
     }
   ]
 }
