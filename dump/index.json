@@ -317,6 +317,7 @@
     "beenort",
     "beginnos",
     "biiiinoort",
+    "bimostu",
     "ccenoorrt",
     "cdeeeorrrt",
     "cdeefiinos",
@@ -1941,6 +1942,10 @@
     {
       "date": "2024-06-15T12:05:35.672Z",
       "anagram": "acloops"
+    },
+    {
+      "date": "2024-06-15T16:03:51.722Z",
+      "anagram": "bimostu"
     }
   ]
 }
