@@ -259,6 +259,7 @@
     "aeimrs",
     "aeinps",
     "aeinrsu",
+    "aeiorrt",
     "aeippst",
     "aeiprtu",
     "aejnpstu",
@@ -1951,6 +1952,10 @@
     {
       "date": "2024-06-15T20:03:39.207Z",
       "anagram": "fgiiotuv"
+    },
+    {
+      "date": "2024-06-16T00:14:31.469Z",
+      "anagram": "aeiorrt"
     }
   ]
 }
