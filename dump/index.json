@@ -390,6 +390,7 @@
     "fgiors",
     "ginoss",
     "hiimnopr",
+    "hilort",
     "iimnoostx",
     "iinrrstu",
     "imosst"
@@ -1966,6 +1967,10 @@
     {
       "date": "2024-06-16T16:03:47.401Z",
       "anagram": "aaadistv"
+    },
+    {
+      "date": "2024-06-16T20:03:36.965Z",
+      "anagram": "hilort"
     }
   ]
 }
