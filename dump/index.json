@@ -28,6 +28,7 @@
     "aaaglrt",
     "aaagnrsu",
     "aaaiinnrs",
+    "aaanpr",
     "aaaprr",
     "aaapstv",
     "aabbnos",
@@ -2001,6 +2002,10 @@
     {
       "date": "2024-06-18T12:05:22.539Z",
       "anagram": "aaadgops"
+    },
+    {
+      "date": "2024-06-18T16:03:41.635Z",
+      "anagram": "aaanpr"
     }
   ]
 }
