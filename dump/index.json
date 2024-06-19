@@ -96,6 +96,7 @@
     "aadgru",
     "aadgsu",
     "aadiprs",
+    "aadjloo",
     "aadjsu",
     "aadlosv",
     "aadors",
@@ -2021,6 +2022,10 @@
     {
       "date": "2024-06-19T12:05:23.378Z",
       "anagram": "iilmnooop"
+    },
+    {
+      "date": "2024-06-19T16:03:48.443Z",
+      "anagram": "aadjloo"
     }
   ]
 }
