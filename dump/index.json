@@ -220,6 +220,7 @@
     "adfmnoor",
     "adgiossu",
     "adgirssu",
+    "adgor",
     "adhor",
     "adiiimmpr",
     "adiiimmprs",
@@ -2011,6 +2012,10 @@
     {
       "date": "2024-06-18T20:03:39.867Z",
       "anagram": "accddfiioo"
+    },
+    {
+      "date": "2024-06-19T00:13:07.628Z",
+      "anagram": "adgor"
     }
   ]
 }
