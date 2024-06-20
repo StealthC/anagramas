@@ -376,6 +376,7 @@
     "diost",
     "eehmnosttu",
     "eeiilprsvv",
+    "eeinoprtvv",
     "eelnst",
     "eemprs",
     "eenstu",
@@ -2036,6 +2037,10 @@
     {
       "date": "2024-06-20T00:12:49.435Z",
       "anagram": "acdefiir"
+    },
+    {
+      "date": "2024-06-20T12:05:38.643Z",
+      "anagram": "eeinoprtvv"
     }
   ]
 }
