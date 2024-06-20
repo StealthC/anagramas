@@ -152,6 +152,7 @@
     "acclo",
     "acddeiinu",
     "acdeeinps",
+    "acdefiir",
     "acdeinsv",
     "acdeoru",
     "acdfhirsu",
@@ -2031,6 +2032,10 @@
     {
       "date": "2024-06-19T20:03:31.808Z",
       "anagram": "beiirrrtu"
+    },
+    {
+      "date": "2024-06-20T00:12:49.435Z",
+      "anagram": "acdefiir"
     }
   ]
 }
