@@ -179,6 +179,7 @@
     "achlooppu",
     "aciimst",
     "aciintv",
+    "acilnt",
     "acinor",
     "acinovv",
     "aciootv",
@@ -2046,6 +2047,10 @@
     {
       "date": "2024-06-20T16:04:04.690Z",
       "anagram": "aaaacdmr"
+    },
+    {
+      "date": "2024-06-20T20:04:18.704Z",
+      "anagram": "acilnt"
     }
   ]
 }
