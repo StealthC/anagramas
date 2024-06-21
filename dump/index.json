@@ -213,6 +213,7 @@
     "adeimsx",
     "adeiopt",
     "adeiorr",
+    "adeirtu",
     "adelopr",
     "adelotuv",
     "adeoopr",
@@ -2056,6 +2057,10 @@
     {
       "date": "2024-06-21T00:13:08.869Z",
       "anagram": "achmsu"
+    },
+    {
+      "date": "2024-06-21T12:05:08.138Z",
+      "anagram": "adeirtu"
     }
   ]
 }
