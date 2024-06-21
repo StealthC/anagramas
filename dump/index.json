@@ -177,6 +177,7 @@
     "acghnos",
     "acgno",
     "achlooppu",
+    "achmsu",
     "aciimst",
     "aciintv",
     "acilnt",
@@ -2051,6 +2052,10 @@
     {
       "date": "2024-06-20T20:04:18.704Z",
       "anagram": "acilnt"
+    },
+    {
+      "date": "2024-06-21T00:13:08.869Z",
+      "anagram": "achmsu"
     }
   ]
 }
