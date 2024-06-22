@@ -413,7 +413,8 @@
     "iilmnooop",
     "iimnoostx",
     "iinrrstu",
-    "imosst"
+    "imosst",
+    "ooopprsst"
   ],
   "byDate": [
     {
@@ -2071,6 +2072,10 @@
     {
       "date": "2024-06-21T20:03:48.084Z",
       "anagram": "addelmoo"
+    },
+    {
+      "date": "2024-06-22T00:13:09.494Z",
+      "anagram": "ooopprsst"
     }
   ]
 }
