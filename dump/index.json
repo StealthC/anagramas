@@ -115,6 +115,7 @@
     "aaforr",
     "aagil",
     "aagilrs",
+    "aagils",
     "aaginrrt",
     "aagisttuv",
     "aagpr",
@@ -2081,6 +2082,10 @@
     {
       "date": "2024-06-22T12:05:09.593Z",
       "anagram": "deooprt"
+    },
+    {
+      "date": "2024-06-22T16:03:33.249Z",
+      "anagram": "aagils"
     }
   ]
 }
