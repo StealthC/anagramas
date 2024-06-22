@@ -245,6 +245,7 @@
     "adloors",
     "adorr",
     "aeeelmnntt",
+    "aeefnrt",
     "aeeghnnoss",
     "aeegils",
     "aeegiort",
@@ -2086,6 +2087,10 @@
     {
       "date": "2024-06-22T16:03:33.249Z",
       "anagram": "aagils"
+    },
+    {
+      "date": "2024-06-22T20:03:44.370Z",
+      "anagram": "aeefnrt"
     }
   ]
 }
