@@ -83,6 +83,7 @@
     "aaddeopr",
     "aaddeost",
     "aaddfinnsu",
+    "aaddfnosu",
     "aaddirtu",
     "aadeennrv",
     "aadefmsu",
@@ -2121,6 +2122,10 @@
     {
       "date": "2024-06-24T12:05:32.564Z",
       "anagram": "aaabddnor"
+    },
+    {
+      "date": "2024-06-24T16:03:46.577Z",
+      "anagram": "aaddfnosu"
     }
   ]
 }
