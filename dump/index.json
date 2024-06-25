@@ -214,6 +214,7 @@
     "adeeehnrrs",
     "adeefirs",
     "adeegnnos",
+    "adeforr",
     "adegiinns",
     "adehnorr",
     "adeiinrtt",
@@ -2131,6 +2132,10 @@
     {
       "date": "2024-06-24T20:03:45.750Z",
       "anagram": "aceefirs"
+    },
+    {
+      "date": "2024-06-25T00:13:05.506Z",
+      "anagram": "adeforr"
     }
   ]
 }
