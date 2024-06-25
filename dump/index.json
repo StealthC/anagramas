@@ -220,6 +220,7 @@
     "adeiinrtt",
     "adeimsuz",
     "adeimsx",
+    "adeimx",
     "adeiopt",
     "adeiorr",
     "adeirtu",
@@ -2136,6 +2137,10 @@
     {
       "date": "2024-06-25T00:13:05.506Z",
       "anagram": "adeforr"
+    },
+    {
+      "date": "2024-06-25T12:05:23.785Z",
+      "anagram": "adeimx"
     }
   ]
 }
