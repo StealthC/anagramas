@@ -139,6 +139,7 @@
     "abceorr",
     "abcilpru",
     "abcors",
+    "abdilrr",
     "abdinrr",
     "abeeenrtux",
     "abeglor",
@@ -2161,6 +2162,10 @@
     {
       "date": "2024-06-26T12:05:29.465Z",
       "anagram": "aciilrt"
+    },
+    {
+      "date": "2024-06-26T16:03:48.122Z",
+      "anagram": "abdilrr"
     }
   ]
 }
