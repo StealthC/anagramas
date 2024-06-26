@@ -277,6 +277,7 @@
     "aegijorrz",
     "aegimm",
     "aegrrr",
+    "aegrt",
     "aehlnrtu",
     "aeiinsttv",
     "aeijnrv",
@@ -2151,6 +2152,10 @@
     {
       "date": "2024-06-25T20:03:49.356Z",
       "anagram": "acddeiop"
+    },
+    {
+      "date": "2024-06-26T00:13:03.292Z",
+      "anagram": "aegrt"
     }
   ]
 }
