@@ -352,6 +352,7 @@
     "bciinorrtu",
     "beenort",
     "beginnos",
+    "behilos",
     "beiirrrtu",
     "biiiinoort",
     "bimostu",
@@ -2186,6 +2187,10 @@
     {
       "date": "2024-06-27T16:03:51.943Z",
       "anagram": "aaadhinn"
+    },
+    {
+      "date": "2024-06-27T20:03:38.002Z",
+      "anagram": "behilos"
     }
   ]
 }
