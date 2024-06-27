@@ -291,6 +291,7 @@
     "aeimrs",
     "aeinps",
     "aeinrsu",
+    "aeiopss",
     "aeiorrt",
     "aeippst",
     "aeiprtu",
@@ -2176,6 +2177,10 @@
     {
       "date": "2024-06-27T00:13:14.466Z",
       "anagram": "aairsv"
+    },
+    {
+      "date": "2024-06-27T12:05:16.994Z",
+      "anagram": "aeiopss"
     }
   ]
 }
