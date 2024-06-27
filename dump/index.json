@@ -131,6 +131,7 @@
     "aainrt",
     "aaiprst",
     "aairrtt",
+    "aairsv",
     "aajnrtu",
     "aarst",
     "abbdemoo",
@@ -2171,6 +2172,10 @@
     {
       "date": "2024-06-26T20:04:23.281Z",
       "anagram": "cilnooruv"
+    },
+    {
+      "date": "2024-06-27T00:13:14.466Z",
+      "anagram": "aairsv"
     }
   ]
 }
