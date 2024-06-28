@@ -284,6 +284,7 @@
     "aegrt",
     "aehlnrtu",
     "aeiinsttv",
+    "aeiiprss",
     "aeijnrv",
     "aeilssv",
     "aeiltv",
@@ -2191,6 +2192,10 @@
     {
       "date": "2024-06-27T20:03:38.002Z",
       "anagram": "behilos"
+    },
+    {
+      "date": "2024-06-28T00:13:14.406Z",
+      "anagram": "aeiiprss"
     }
   ]
 }
