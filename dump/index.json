@@ -352,6 +352,7 @@
     "aoprt",
     "aopst",
     "bceenossuv",
+    "bcenoos",
     "bciinorrtu",
     "beenort",
     "beginnos",
@@ -2206,6 +2207,10 @@
     {
       "date": "2024-06-28T16:03:50.531Z",
       "anagram": "aaeenrrv"
+    },
+    {
+      "date": "2024-06-28T20:03:37.162Z",
+      "anagram": "bcenoos"
     }
   ]
 }
