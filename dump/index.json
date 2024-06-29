@@ -315,6 +315,7 @@
     "afilnr",
     "afilot",
     "afimmr",
+    "afirrtu",
     "afirst",
     "afjnou",
     "aflrtuu",
@@ -2211,6 +2212,10 @@
     {
       "date": "2024-06-28T20:03:37.162Z",
       "anagram": "bcenoos"
+    },
+    {
+      "date": "2024-06-29T00:12:58.010Z",
+      "anagram": "afirrtu"
     }
   ]
 }
