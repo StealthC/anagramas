@@ -1,5 +1,6 @@
 {
   "anagrams": [
+    "aaaaadjntv",
     "aaaabbnrst",
     "aaaabddnr",
     "aaaacceor",
@@ -2221,6 +2222,10 @@
     {
       "date": "2024-06-29T12:05:09.403Z",
       "anagram": "egiiilmot"
+    },
+    {
+      "date": "2024-06-29T16:04:10.385Z",
+      "anagram": "aaaaadjntv"
     }
   ]
 }
