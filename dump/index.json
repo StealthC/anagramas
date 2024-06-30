@@ -362,6 +362,7 @@
     "beginnos",
     "behilos",
     "beiirrrtu",
+    "beors",
     "biiiinoort",
     "bimostu",
     "ccenoorrt",
@@ -2236,6 +2237,10 @@
     {
       "date": "2024-06-30T00:14:47.856Z",
       "anagram": "adginorv"
+    },
+    {
+      "date": "2024-06-30T12:05:58.357Z",
+      "anagram": "beors"
     }
   ]
 }
