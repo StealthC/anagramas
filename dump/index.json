@@ -399,6 +399,7 @@
     "ddeeinnost",
     "ddefiino",
     "ddiiloru",
+    "deeefinrt",
     "deeeilnstv",
     "deeiilops",
     "deeimnoss",
@@ -2241,6 +2242,10 @@
     {
       "date": "2024-06-30T12:05:58.357Z",
       "anagram": "beors"
+    },
+    {
+      "date": "2024-06-30T16:04:05.506Z",
+      "anagram": "deeefinrt"
     }
   ]
 }
