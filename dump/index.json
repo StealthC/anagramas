@@ -245,6 +245,7 @@
     "adfiort",
     "adfiosu",
     "adfmnoor",
+    "adginorv",
     "adgiossu",
     "adgirssu",
     "adgor",
@@ -2231,6 +2232,10 @@
     {
       "date": "2024-06-29T20:03:48.026Z",
       "anagram": "aaadefintz"
+    },
+    {
+      "date": "2024-06-30T00:14:47.856Z",
+      "anagram": "adginorv"
     }
   ]
 }
