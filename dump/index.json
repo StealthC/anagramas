@@ -118,6 +118,7 @@
     "aaeistv",
     "aaelnrs",
     "aaelrrx",
+    "aaenorss",
     "aaeprs",
     "aaestux",
     "aafiinrt",
@@ -2286,6 +2287,10 @@
     {
       "date": "2024-07-02T16:03:41.518Z",
       "anagram": "accdeenrs"
+    },
+    {
+      "date": "2024-07-02T20:03:38.193Z",
+      "anagram": "aaenorss"
     }
   ]
 }
