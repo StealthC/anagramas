@@ -402,6 +402,7 @@
     "ddeeinnost",
     "ddefiino",
     "ddiiloru",
+    "deeeegnrtt",
     "deeefinrt",
     "deeeilnstv",
     "deeiilops",
@@ -2276,6 +2277,10 @@
     {
       "date": "2024-07-02T00:13:28.386Z",
       "anagram": "aaelnrs"
+    },
+    {
+      "date": "2024-07-02T12:05:19.377Z",
+      "anagram": "deeeegnrtt"
     }
   ]
 }
