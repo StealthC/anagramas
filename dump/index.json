@@ -314,6 +314,7 @@
     "aemqrsu",
     "aenpssssu",
     "aenrstu",
+    "aeooprs",
     "aeoprrs",
     "aeopsss",
     "aeorrt",
@@ -2291,6 +2292,10 @@
     {
       "date": "2024-07-02T20:03:38.193Z",
       "anagram": "aaenorss"
+    },
+    {
+      "date": "2024-07-03T00:13:33.900Z",
+      "anagram": "aeooprs"
     }
   ]
 }
