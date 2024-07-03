@@ -33,6 +33,7 @@
     "aaaegmrss",
     "aaaglrt",
     "aaagnrsu",
+    "aaaiilnt",
     "aaaiinnrs",
     "aaanpr",
     "aaaprr",
@@ -2301,6 +2302,10 @@
     {
       "date": "2024-07-03T12:05:17.999Z",
       "anagram": "aabiimsst"
+    },
+    {
+      "date": "2024-07-03T16:03:47.430Z",
+      "anagram": "aaaiilnt"
     }
   ]
 }
