@@ -203,6 +203,7 @@
     "aciilrt",
     "aciimst",
     "aciintv",
+    "aciioppr",
     "acilnt",
     "acinor",
     "acinovv",
@@ -2321,6 +2322,10 @@
     {
       "date": "2024-07-05T16:03:52.910Z",
       "anagram": "aaadgimpr"
+    },
+    {
+      "date": "2024-07-05T20:03:37.503Z",
+      "anagram": "aciioppr"
     }
   ]
 }
