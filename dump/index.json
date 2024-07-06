@@ -153,6 +153,7 @@
     "abcors",
     "abdilrr",
     "abdinrr",
+    "abdiops",
     "abeeenrtux",
     "abeglor",
     "abeiijrtu",
@@ -2336,6 +2337,10 @@
     {
       "date": "2024-07-06T12:05:00.643Z",
       "anagram": "adilr"
+    },
+    {
+      "date": "2024-07-06T16:04:06.339Z",
+      "anagram": "abdiops"
     }
   ]
 }
