@@ -148,6 +148,7 @@
     "aarst",
     "abbdemoo",
     "abbegmo",
+    "abcdiu",
     "abceirs",
     "abceorr",
     "abcilpru",
@@ -2351,6 +2352,10 @@
     {
       "date": "2024-07-07T00:14:55.883Z",
       "anagram": "aaeelppst"
+    },
+    {
+      "date": "2024-07-07T12:04:44.416Z",
+      "anagram": "abcdiu"
     }
   ]
 }
