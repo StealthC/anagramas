@@ -257,6 +257,7 @@
     "adeopss",
     "adeorrs",
     "adepr",
+    "adeprs",
     "adfgiu",
     "adfhinor",
     "adfiort",
@@ -2396,6 +2397,10 @@
     {
       "date": "2024-07-09T12:05:44.469Z",
       "anagram": "deiimprr"
+    },
+    {
+      "date": "2024-07-09T16:03:53.634Z",
+      "anagram": "adeprs"
     }
   ]
 }
