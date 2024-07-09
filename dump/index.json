@@ -466,6 +466,7 @@
     "eimosv",
     "emoorrss",
     "emorst",
+    "enoosstv",
     "enoostv",
     "eooprs",
     "eoorrst",
@@ -2401,6 +2402,10 @@
     {
       "date": "2024-07-09T16:03:53.634Z",
       "anagram": "adeprs"
+    },
+    {
+      "date": "2024-07-09T20:03:38.665Z",
+      "anagram": "enoosstv"
     }
   ]
 }
