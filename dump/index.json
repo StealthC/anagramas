@@ -94,6 +94,7 @@
     "aaddfinnsu",
     "aaddfnosu",
     "aaddirtu",
+    "aadeejmst",
     "aadeennrv",
     "aadefmsu",
     "aadefnr",
@@ -2426,6 +2427,10 @@
     {
       "date": "2024-07-10T20:03:38.582Z",
       "anagram": "abijtu"
+    },
+    {
+      "date": "2024-07-11T00:14:20.321Z",
+      "anagram": "aadeejmst"
     }
   ]
 }
