@@ -370,6 +370,7 @@
     "aioort",
     "aiops",
     "aiopt",
+    "aiorsv",
     "aiqrtu",
     "ajnrtu",
     "aloru",
@@ -2436,6 +2437,10 @@
     {
       "date": "2024-07-11T12:05:34.218Z",
       "anagram": "eoopsssss"
+    },
+    {
+      "date": "2024-07-11T16:03:50.136Z",
+      "anagram": "aiorsv"
     }
   ]
 }
