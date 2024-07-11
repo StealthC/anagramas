@@ -295,6 +295,7 @@
     "aeegnrrt",
     "aeegprrsss",
     "aeeiistvv",
+    "aeeinnsstz",
     "aeeinorv",
     "aeemnnotv",
     "aeemnsx",
@@ -2441,6 +2442,10 @@
     {
       "date": "2024-07-11T16:03:50.136Z",
       "anagram": "aiorsv"
+    },
+    {
+      "date": "2024-07-11T20:03:45.608Z",
+      "anagram": "aeeinnsstz"
     }
   ]
 }
