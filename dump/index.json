@@ -379,6 +379,7 @@
     "alot",
     "amnnooot",
     "amnooot",
+    "amnoot",
     "anosstu",
     "anost",
     "aooprs",
@@ -2451,6 +2452,10 @@
     {
       "date": "2024-07-12T00:13:37.501Z",
       "anagram": "aaacdelr"
+    },
+    {
+      "date": "2024-07-12T12:05:57.742Z",
+      "anagram": "amnoot"
     }
   ]
 }
