@@ -493,6 +493,7 @@
     "iimnoostx",
     "iinrrstu",
     "imosst",
+    "inosu",
     "ooopprsst"
   ],
   "byDate": [
@@ -2471,6 +2472,10 @@
     {
       "date": "2024-07-13T00:14:50.734Z",
       "anagram": "abeost"
+    },
+    {
+      "date": "2024-07-13T12:04:55.035Z",
+      "anagram": "inosu"
     }
   ]
 }
