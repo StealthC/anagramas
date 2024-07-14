@@ -209,6 +209,7 @@
     "aceinnru",
     "acellru",
     "acelsss",
+    "acert",
     "acflo",
     "acghno",
     "acghnos",
@@ -2486,6 +2487,10 @@
     {
       "date": "2024-07-13T20:04:43.749Z",
       "anagram": "aaaginrr"
+    },
+    {
+      "date": "2024-07-14T00:15:21.875Z",
+      "anagram": "acert"
     }
   ]
 }
