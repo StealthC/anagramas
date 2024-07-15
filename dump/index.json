@@ -418,6 +418,7 @@
     "ceeginor",
     "ceeilosss",
     "ceeinoss",
+    "ceeorrt",
     "cehiilqu",
     "ceiilot",
     "ceiimoqru",
@@ -2516,6 +2517,10 @@
     {
       "date": "2024-07-15T12:05:54.488Z",
       "anagram": "aaaacdhlps"
+    },
+    {
+      "date": "2024-07-15T16:04:10.193Z",
+      "anagram": "ceeorrt"
     }
   ]
 }
