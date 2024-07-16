@@ -144,6 +144,7 @@
     "aaginrrt",
     "aagisttuv",
     "aagpr",
+    "aahinrsv",
     "aahmnoss",
     "aaijrv",
     "aaiknnost",
@@ -2536,6 +2537,10 @@
     {
       "date": "2024-07-16T12:05:44.282Z",
       "anagram": "abbdeeeirs"
+    },
+    {
+      "date": "2024-07-16T16:04:09.287Z",
+      "anagram": "aahinrsv"
     }
   ]
 }
