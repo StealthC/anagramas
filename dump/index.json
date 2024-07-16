@@ -377,6 +377,7 @@
     "aimmoss",
     "aimot",
     "aimoz",
+    "aimpt",
     "ainosz",
     "aiooorrt",
     "aiooorrtt",
@@ -2526,6 +2527,10 @@
     {
       "date": "2024-07-15T20:03:42.288Z",
       "anagram": "abdoors"
+    },
+    {
+      "date": "2024-07-16T00:14:01.690Z",
+      "anagram": "aimpt"
     }
   ]
 }
