@@ -117,6 +117,7 @@
     "aadgrr",
     "aadgru",
     "aadgsu",
+    "aadiopr",
     "aadiprs",
     "aadjloo",
     "aadjsu",
@@ -2581,6 +2582,10 @@
     {
       "date": "2024-07-18T20:03:47.363Z",
       "anagram": "ehiinoprs"
+    },
+    {
+      "date": "2024-07-19T04:04:11.166Z",
+      "anagram": "aadiopr"
     }
   ]
 }
