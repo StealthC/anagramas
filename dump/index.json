@@ -368,6 +368,7 @@
     "afjnou",
     "aflrtuu",
     "afrstu",
+    "afrstuu",
     "aghlorru",
     "agilr",
     "agioorrs",
@@ -2586,6 +2587,10 @@
     {
       "date": "2024-07-19T04:04:11.166Z",
       "anagram": "aadiopr"
+    },
+    {
+      "date": "2024-07-19T12:05:26.133Z",
+      "anagram": "afrstuu"
     }
   ]
 }
