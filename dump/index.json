@@ -422,6 +422,7 @@
     "ccenoorrt",
     "cdeeeorrrt",
     "cdeefiinos",
+    "cdeeiimops",
     "cdghooru",
     "cdimooosv",
     "cdioss",
@@ -2601,6 +2602,10 @@
     {
       "date": "2024-07-19T20:04:04.400Z",
       "anagram": "aanos"
+    },
+    {
+      "date": "2024-07-20T00:13:17.281Z",
+      "anagram": "cdeeiimops"
     }
   ]
 }
