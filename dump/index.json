@@ -522,6 +522,7 @@
     "iinrrstu",
     "imosst",
     "inosu",
+    "moopsstu",
     "ooopprsst"
   ],
   "byDate": [
@@ -2616,6 +2617,10 @@
     {
       "date": "2024-07-20T16:03:54.855Z",
       "anagram": "acehort"
+    },
+    {
+      "date": "2024-07-20T20:03:30.708Z",
+      "anagram": "moopsstu"
     }
   ]
 }
