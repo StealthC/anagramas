@@ -219,6 +219,7 @@
     "aceerrr",
     "acehlns",
     "acehmnsu",
+    "acehmnu",
     "acehort",
     "aceinnru",
     "acellru",
@@ -2621,6 +2622,10 @@
     {
       "date": "2024-07-20T20:03:30.708Z",
       "anagram": "moopsstu"
+    },
+    {
+      "date": "2024-07-21T00:15:17.240Z",
+      "anagram": "acehmnu"
     }
   ]
 }
