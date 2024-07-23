@@ -446,6 +446,7 @@
     "ceiilot",
     "ceiimoqru",
     "ceilosttu",
+    "ceimnot",
     "ceimot",
     "ceiopst",
     "ceirss",
@@ -2661,6 +2662,10 @@
     {
       "date": "2024-07-22T20:03:50.509Z",
       "anagram": "ailrsu"
+    },
+    {
+      "date": "2024-07-23T00:13:46.480Z",
+      "anagram": "ceimnot"
     }
   ]
 }
