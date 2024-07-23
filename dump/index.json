@@ -334,6 +334,7 @@
     "aefgort",
     "aeflors",
     "aefmnstu",
+    "aeghinnt",
     "aegiilnntv",
     "aegiilntv",
     "aegijorrz",
@@ -2676,6 +2677,10 @@
     {
       "date": "2024-07-23T16:04:48.478Z",
       "anagram": "aadjru"
+    },
+    {
+      "date": "2024-07-23T20:03:52.425Z",
+      "anagram": "aeghinnt"
     }
   ]
 }
