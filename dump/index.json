@@ -292,6 +292,7 @@
     "adfiort",
     "adfiosu",
     "adfmnoor",
+    "adgilnou",
     "adginorv",
     "adgiossu",
     "adgirssu",
@@ -2691,6 +2692,10 @@
     {
       "date": "2024-07-24T12:05:25.484Z",
       "anagram": "bceirru"
+    },
+    {
+      "date": "2024-07-24T16:03:47.331Z",
+      "anagram": "adgilnou"
     }
   ]
 }
