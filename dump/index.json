@@ -422,6 +422,7 @@
     "aoprt",
     "aopst",
     "bceenossuv",
+    "bceirru",
     "bcenoos",
     "bciinorrtu",
     "bcilnoou",
@@ -2686,6 +2687,10 @@
     {
       "date": "2024-07-24T00:14:40.317Z",
       "anagram": "aaadempst"
+    },
+    {
+      "date": "2024-07-24T12:05:25.484Z",
+      "anagram": "bceirru"
     }
   ]
 }
