@@ -27,6 +27,7 @@
     "aaadeijls",
     "aaadelnt",
     "aaademns",
+    "aaadempst",
     "aaadfin",
     "aaadgimpr",
     "aaadgops",
@@ -2681,6 +2682,10 @@
     {
       "date": "2024-07-23T20:03:52.425Z",
       "anagram": "aeghinnt"
+    },
+    {
+      "date": "2024-07-24T00:14:40.317Z",
+      "anagram": "aaadempst"
     }
   ]
 }
