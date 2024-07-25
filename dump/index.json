@@ -164,6 +164,7 @@
     "aaiprst",
     "aairrtt",
     "aairsv",
+    "aajmnr",
     "aajnrtu",
     "aanos",
     "aaort",
@@ -2706,6 +2707,10 @@
     {
       "date": "2024-07-25T00:13:42.521Z",
       "anagram": "adfinstu"
+    },
+    {
+      "date": "2024-07-25T12:05:16.210Z",
+      "anagram": "aajmnr"
     }
   ]
 }
