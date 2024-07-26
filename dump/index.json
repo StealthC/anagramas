@@ -66,6 +66,7 @@
     "aaccoopu",
     "aaccosv",
     "aaccou",
+    "aacddeis",
     "aacddissu",
     "aacdeghs",
     "aacdegip",
@@ -2726,6 +2727,10 @@
     {
       "date": "2024-07-26T00:13:21.226Z",
       "anagram": "celooostv"
+    },
+    {
+      "date": "2024-07-26T12:05:13.533Z",
+      "anagram": "aacddeis"
     }
   ]
 }
