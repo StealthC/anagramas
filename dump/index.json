@@ -505,6 +505,7 @@
     "eemprs",
     "eenstu",
     "eeoprt",
+    "eeorstv",
     "efghiiloor",
     "efgilmu",
     "efilrru",
@@ -2736,6 +2737,10 @@
     {
       "date": "2024-07-26T16:03:54.451Z",
       "anagram": "aanotv"
+    },
+    {
+      "date": "2024-07-26T20:05:00.687Z",
+      "anagram": "eeorstv"
     }
   ]
 }
