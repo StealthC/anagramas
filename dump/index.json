@@ -238,6 +238,7 @@
     "acflo",
     "acghno",
     "acghnos",
+    "acgiirru",
     "acgno",
     "achlooppu",
     "achmsu",
@@ -2741,6 +2742,10 @@
     {
       "date": "2024-07-26T20:05:00.687Z",
       "anagram": "eeorstv"
+    },
+    {
+      "date": "2024-07-27T00:13:23.127Z",
+      "anagram": "acgiirru"
     }
   ]
 }
