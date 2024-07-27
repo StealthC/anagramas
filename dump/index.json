@@ -110,6 +110,7 @@
     "aadefnr",
     "aadefost",
     "aadegn",
+    "aadeils",
     "aadelqu",
     "aadelv",
     "aademruz",
@@ -2746,6 +2747,10 @@
     {
       "date": "2024-07-27T00:13:23.127Z",
       "anagram": "acgiirru"
+    },
+    {
+      "date": "2024-07-27T12:06:43.843Z",
+      "anagram": "aadeils"
     }
   ]
 }
