@@ -164,6 +164,7 @@
     "aaiknnot",
     "aailmmx",
     "aainrt",
+    "aaiopttv",
     "aaiprst",
     "aairrtt",
     "aairsv",
@@ -2756,6 +2757,10 @@
     {
       "date": "2024-07-27T16:04:04.563Z",
       "anagram": "acdeilo"
+    },
+    {
+      "date": "2024-07-27T20:03:40.571Z",
+      "anagram": "aaiopttv"
     }
   ]
 }
