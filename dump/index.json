@@ -214,6 +214,7 @@
     "acddeiop",
     "acdeeinps",
     "acdefiir",
+    "acdeilo",
     "acdeinsv",
     "acdeoru",
     "acdfhirsu",
@@ -2751,6 +2752,10 @@
     {
       "date": "2024-07-27T12:06:43.843Z",
       "anagram": "aadeils"
+    },
+    {
+      "date": "2024-07-27T16:04:04.563Z",
+      "anagram": "acdeilo"
     }
   ]
 }
