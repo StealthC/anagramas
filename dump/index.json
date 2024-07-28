@@ -392,6 +392,7 @@
     "afirst",
     "afjnou",
     "aflrtuu",
+    "afmru",
     "afrstu",
     "afrstuu",
     "aghlorru",
@@ -2776,6 +2777,10 @@
     {
       "date": "2024-07-28T16:04:48.476Z",
       "anagram": "aeginrrt"
+    },
+    {
+      "date": "2024-07-28T20:03:35.937Z",
+      "anagram": "afmru"
     }
   ]
 }
