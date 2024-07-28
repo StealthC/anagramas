@@ -238,6 +238,7 @@
     "acellru",
     "acelsss",
     "acert",
+    "acfiinru",
     "acflo",
     "acghno",
     "acghnos",
@@ -2766,6 +2767,10 @@
     {
       "date": "2024-07-28T00:15:41.843Z",
       "anagram": "bblosu"
+    },
+    {
+      "date": "2024-07-28T12:05:08.006Z",
+      "anagram": "acfiinru"
     }
   ]
 }
