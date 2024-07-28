@@ -431,6 +431,7 @@
     "aoostt",
     "aoprt",
     "aopst",
+    "bblosu",
     "bceenossuv",
     "bceirru",
     "bcenoos",
@@ -2761,6 +2762,10 @@
     {
       "date": "2024-07-27T20:03:40.571Z",
       "anagram": "aaiopttv"
+    },
+    {
+      "date": "2024-07-28T00:15:41.843Z",
+      "anagram": "bblosu"
     }
   ]
 }
