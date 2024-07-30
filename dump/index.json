@@ -104,6 +104,7 @@
     "aaddeost",
     "aaddfinnsu",
     "aaddfnosu",
+    "aaddhiinov",
     "aaddirtu",
     "aadeejmst",
     "aadeennrv",
@@ -2801,6 +2802,10 @@
     {
       "date": "2024-07-29T20:03:44.894Z",
       "anagram": "aaacddelm"
+    },
+    {
+      "date": "2024-07-30T00:13:52.038Z",
+      "anagram": "aaddhiinov"
     }
   ]
 }
