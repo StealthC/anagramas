@@ -360,6 +360,7 @@
     "aegrt",
     "aehimns",
     "aehlnrtu",
+    "aeiinrrt",
     "aeiinsttv",
     "aeiiprss",
     "aeijnrv",
@@ -2806,6 +2807,10 @@
     {
       "date": "2024-07-30T00:13:52.038Z",
       "anagram": "aaddhiinov"
+    },
+    {
+      "date": "2024-07-30T12:05:36.313Z",
+      "anagram": "aeiinrrt"
     }
   ]
 }
