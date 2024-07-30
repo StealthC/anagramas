@@ -368,6 +368,7 @@
     "aeiltv",
     "aeimnrt",
     "aeimnru",
+    "aeimpss",
     "aeimrs",
     "aeinps",
     "aeinrsu",
@@ -2811,6 +2812,10 @@
     {
       "date": "2024-07-30T12:05:36.313Z",
       "anagram": "aeiinrrt"
+    },
+    {
+      "date": "2024-07-30T16:03:50.772Z",
+      "anagram": "aeimpss"
     }
   ]
 }
