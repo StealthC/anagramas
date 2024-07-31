@@ -295,6 +295,7 @@
     "adeirtu",
     "adelopr",
     "adelotuv",
+    "adenorv",
     "adeoopr",
     "adeopss",
     "adeorrs",
@@ -2831,6 +2832,10 @@
     {
       "date": "2024-07-31T12:05:46.689Z",
       "anagram": "foorsux"
+    },
+    {
+      "date": "2024-07-31T16:04:06.076Z",
+      "anagram": "adenorv"
     }
   ]
 }
