@@ -429,6 +429,7 @@
     "aiorsv",
     "aiqrtu",
     "ajnrtu",
+    "almotu",
     "aloru",
     "alot",
     "amnnooot",
@@ -2821,6 +2822,10 @@
     {
       "date": "2024-07-30T20:04:20.774Z",
       "anagram": "abinrtu"
+    },
+    {
+      "date": "2024-07-31T00:11:34.751Z",
+      "anagram": "almotu"
     }
   ]
 }
