@@ -456,6 +456,7 @@
     "beors",
     "biiiinoort",
     "bimostu",
+    "cceloosu",
     "ccenoorrt",
     "cddeeiiisv",
     "cdeeeorrrt",
@@ -2836,6 +2837,10 @@
     {
       "date": "2024-07-31T16:04:06.076Z",
       "anagram": "adenorv"
+    },
+    {
+      "date": "2024-07-31T20:03:42.681Z",
+      "anagram": "cceloosu"
     }
   ]
 }
