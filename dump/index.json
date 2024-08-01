@@ -153,6 +153,7 @@
     "aaeprs",
     "aaestux",
     "aafiinrt",
+    "aafimrr",
     "aaforr",
     "aagil",
     "aagilrs",
@@ -2846,6 +2847,10 @@
     {
       "date": "2024-08-01T00:15:25.881Z",
       "anagram": "eeeirsst"
+    },
+    {
+      "date": "2024-08-01T12:05:54.053Z",
+      "anagram": "aafimrr"
     }
   ]
 }
