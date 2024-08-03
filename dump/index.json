@@ -251,6 +251,7 @@
     "acghno",
     "acghnos",
     "acgiirru",
+    "acginru",
     "acgno",
     "achlooppu",
     "achmsu",
@@ -2891,6 +2892,10 @@
     {
       "date": "2024-08-03T12:04:51.617Z",
       "anagram": "belos"
+    },
+    {
+      "date": "2024-08-03T16:04:05.110Z",
+      "anagram": "acginru"
     }
   ]
 }
