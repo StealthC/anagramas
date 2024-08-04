@@ -411,6 +411,7 @@
     "afrstu",
     "afrstuu",
     "aghlorru",
+    "agiilrtu",
     "agilr",
     "agioorrs",
     "aglor",
@@ -2911,6 +2912,10 @@
     {
       "date": "2024-08-04T12:05:47.203Z",
       "anagram": "aeinnrrt"
+    },
+    {
+      "date": "2024-08-04T16:03:37.307Z",
+      "anagram": "agiilrtu"
     }
   ]
 }
