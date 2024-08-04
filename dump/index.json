@@ -378,6 +378,7 @@
     "aeimnru",
     "aeimpss",
     "aeimrs",
+    "aeinnrrt",
     "aeinps",
     "aeinrsu",
     "aeiopss",
@@ -2906,6 +2907,10 @@
     {
       "date": "2024-08-04T00:15:17.909Z",
       "anagram": "aimnnooot"
+    },
+    {
+      "date": "2024-08-04T12:05:47.203Z",
+      "anagram": "aeinnrrt"
     }
   ]
 }
