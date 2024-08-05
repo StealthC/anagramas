@@ -503,6 +503,7 @@
     "ceorsv",
     "ceort",
     "ceossu",
+    "cfiiioors",
     "cgiiloost",
     "chiiops",
     "ciimnoosu",
@@ -2931,6 +2932,10 @@
     {
       "date": "2024-08-05T12:05:50.886Z",
       "anagram": "aceiirsv"
+    },
+    {
+      "date": "2024-08-05T16:03:46.349Z",
+      "anagram": "cfiiioors"
     }
   ]
 }
