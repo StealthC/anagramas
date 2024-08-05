@@ -243,6 +243,7 @@
     "acehmnsu",
     "acehmnu",
     "acehort",
+    "aceiirsv",
     "aceinnru",
     "acellru",
     "acelsss",
@@ -2926,6 +2927,10 @@
     {
       "date": "2024-08-05T00:14:50.254Z",
       "anagram": "alssu"
+    },
+    {
+      "date": "2024-08-05T12:05:50.886Z",
+      "anagram": "aceiirsv"
     }
   ]
 }
