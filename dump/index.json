@@ -541,6 +541,7 @@
     "eeinrss",
     "eelnst",
     "eemprs",
+    "eenrst",
     "eenstu",
     "eeoprt",
     "eeorstv",
@@ -2941,6 +2942,10 @@
     {
       "date": "2024-08-05T20:03:54.975Z",
       "anagram": "aadefnns"
+    },
+    {
+      "date": "2024-08-06T00:13:53.543Z",
+      "anagram": "eenrst"
     }
   ]
 }
