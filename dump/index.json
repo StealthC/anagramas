@@ -340,6 +340,7 @@
     "adinopt",
     "adioorv",
     "adiopr",
+    "adiostu",
     "adloors",
     "adorr",
     "aeeelmnntt",
@@ -2981,6 +2982,10 @@
     {
       "date": "2024-08-07T20:03:39.772Z",
       "anagram": "aiiimmsstu"
+    },
+    {
+      "date": "2024-08-08T00:13:49.232Z",
+      "anagram": "adiostu"
     }
   ]
 }
