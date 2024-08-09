@@ -397,6 +397,7 @@
     "aeiprtu",
     "aejnpstu",
     "aelmru",
+    "aelpr",
     "aelsv",
     "aemptu",
     "aemqrsu",
@@ -3011,6 +3012,10 @@
     {
       "date": "2024-08-09T12:05:30.989Z",
       "anagram": "aeimpsss"
+    },
+    {
+      "date": "2024-08-09T16:04:12.092Z",
+      "anagram": "aelpr"
     }
   ]
 }
