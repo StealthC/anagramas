@@ -385,6 +385,7 @@
     "aeimnrt",
     "aeimnru",
     "aeimpss",
+    "aeimpsss",
     "aeimrs",
     "aeinnrrt",
     "aeinps",
@@ -3006,6 +3007,10 @@
     {
       "date": "2024-08-09T00:14:40.973Z",
       "anagram": "aills"
+    },
+    {
+      "date": "2024-08-09T12:05:30.989Z",
+      "anagram": "aeimpsss"
     }
   ]
 }
