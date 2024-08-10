@@ -538,6 +538,7 @@
     "deeeilnstv",
     "deeiilops",
     "deeimnoss",
+    "deeioprrt",
     "deeooprrsv",
     "deesstu",
     "defiossu",
@@ -3036,6 +3037,10 @@
     {
       "date": "2024-08-10T16:04:28.988Z",
       "anagram": "aeiilltuvz"
+    },
+    {
+      "date": "2024-08-10T20:03:55.901Z",
+      "anagram": "deeioprrt"
     }
   ]
 }
