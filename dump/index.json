@@ -459,6 +459,7 @@
     "ajnrtu",
     "almotu",
     "aloru",
+    "alost",
     "alot",
     "alssu",
     "amnnooot",
@@ -3026,6 +3027,10 @@
     {
       "date": "2024-08-10T00:13:58.565Z",
       "anagram": "aelttux"
+    },
+    {
+      "date": "2024-08-10T12:05:14.347Z",
+      "anagram": "alost"
     }
   ]
 }
