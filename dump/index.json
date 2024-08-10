@@ -377,6 +377,7 @@
     "aegrt",
     "aehimns",
     "aehlnrtu",
+    "aeiilltuvz",
     "aeiinrrt",
     "aeiinsttv",
     "aeiiprss",
@@ -3031,6 +3032,10 @@
     {
       "date": "2024-08-10T12:05:14.347Z",
       "anagram": "alost"
+    },
+    {
+      "date": "2024-08-10T16:04:28.988Z",
+      "anagram": "aeiilltuvz"
     }
   ]
 }
