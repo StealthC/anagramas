@@ -400,6 +400,7 @@
     "aelmru",
     "aelpr",
     "aelsv",
+    "aelttux",
     "aemptu",
     "aemqrsu",
     "aenpssssu",
@@ -3021,6 +3022,10 @@
     {
       "date": "2024-08-09T20:03:53.562Z",
       "anagram": "aaahinov"
+    },
+    {
+      "date": "2024-08-10T00:13:58.565Z",
+      "anagram": "aelttux"
     }
   ]
 }
