@@ -126,6 +126,7 @@
     "aadfgils",
     "aadfgis",
     "aadgilru",
+    "aadgint",
     "aadgoorz",
     "aadgrr",
     "aadgru",
@@ -3081,6 +3082,10 @@
     {
       "date": "2024-08-12T20:03:40.499Z",
       "anagram": "cdeimprrsu"
+    },
+    {
+      "date": "2024-08-13T00:14:56.382Z",
+      "anagram": "aadgint"
     }
   ]
 }
