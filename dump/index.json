@@ -478,6 +478,7 @@
     "aoostt",
     "aoprt",
     "aopst",
+    "aortt",
     "bblosu",
     "bceenossuv",
     "bceirru",
@@ -3096,6 +3097,10 @@
     {
       "date": "2024-08-13T16:03:45.878Z",
       "anagram": "aadoorrs"
+    },
+    {
+      "date": "2024-08-13T20:03:42.679Z",
+      "anagram": "aortt"
     }
   ]
 }
