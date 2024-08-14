@@ -89,6 +89,7 @@
     "aacehims",
     "aaceiimnn",
     "aacelss",
+    "aacerrt",
     "aacfil",
     "aacfio",
     "aacgin",
@@ -3101,6 +3102,10 @@
     {
       "date": "2024-08-13T20:03:42.679Z",
       "anagram": "aortt"
+    },
+    {
+      "date": "2024-08-14T00:14:18.879Z",
+      "anagram": "aacerrt"
     }
   ]
 }
