@@ -277,6 +277,7 @@
     "aciintv",
     "aciioppr",
     "acilnt",
+    "acilo",
     "acinor",
     "acinovv",
     "aciootv",
@@ -3131,6 +3132,10 @@
     {
       "date": "2024-08-15T12:06:11.540Z",
       "anagram": "aadfir"
+    },
+    {
+      "date": "2024-08-15T16:03:53.435Z",
+      "anagram": "acilo"
     }
   ]
 }
