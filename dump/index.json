@@ -435,6 +435,7 @@
     "afmru",
     "afrstu",
     "afrstuu",
+    "aggilnos",
     "aghlorru",
     "agiilrtu",
     "agilr",
@@ -3141,6 +3142,10 @@
     {
       "date": "2024-08-15T20:03:43.506Z",
       "anagram": "aaclp"
+    },
+    {
+      "date": "2024-08-16T00:14:01.337Z",
+      "anagram": "aggilnos"
     }
   ]
 }
