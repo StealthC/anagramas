@@ -115,6 +115,7 @@
     "aaddfinnsu",
     "aaddfnosu",
     "aaddhiinov",
+    "aaddiimsz",
     "aaddirtu",
     "aadeejmst",
     "aadeennrv",
@@ -3166,6 +3167,10 @@
     {
       "date": "2024-08-17T00:13:37.134Z",
       "anagram": "ddeiosuz"
+    },
+    {
+      "date": "2024-08-17T12:04:48.492Z",
+      "anagram": "aaddiimsz"
     }
   ]
 }
