@@ -553,6 +553,7 @@
     "corssu",
     "ddeeinnost",
     "ddefiino",
+    "ddeiosuz",
     "ddiiloru",
     "deeeegnrtt",
     "deeefinrt",
@@ -3161,6 +3162,10 @@
     {
       "date": "2024-08-16T20:03:42.610Z",
       "anagram": "aabcnrru"
+    },
+    {
+      "date": "2024-08-17T00:13:37.134Z",
+      "anagram": "ddeiosuz"
     }
   ]
 }
