@@ -229,6 +229,7 @@
     "abiossv",
     "ablmmosu",
     "ablmmou",
+    "abort",
     "abostu",
     "accceiiln",
     "accddfiioo",
@@ -3176,6 +3177,10 @@
     {
       "date": "2024-08-17T16:03:54.373Z",
       "anagram": "aaccior"
+    },
+    {
+      "date": "2024-08-17T20:04:38.997Z",
+      "anagram": "abort"
     }
   ]
 }
