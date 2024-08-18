@@ -415,6 +415,7 @@
     "aeiorrt",
     "aeippst",
     "aeiprrrs",
+    "aeiprrsz",
     "aeiprtu",
     "aejmnstu",
     "aejnpstu",
@@ -3196,6 +3197,10 @@
     {
       "date": "2024-08-18T16:03:50.941Z",
       "anagram": "aaceimoqu"
+    },
+    {
+      "date": "2024-08-18T20:03:40.026Z",
+      "anagram": "aeiprrsz"
     }
   ]
 }
