@@ -303,6 +303,7 @@
     "addeegrr",
     "addeenoorr",
     "addeenprru",
+    "addeinu",
     "addeinv",
     "addelmoo",
     "addelnou",
@@ -3201,6 +3202,10 @@
     {
       "date": "2024-08-18T20:03:40.026Z",
       "anagram": "aeiprrsz"
+    },
+    {
+      "date": "2024-08-19T00:14:49.733Z",
+      "anagram": "addeinu"
     }
   ]
 }
