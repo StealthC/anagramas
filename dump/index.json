@@ -179,6 +179,7 @@
     "aagilrs",
     "aagils",
     "aaginrrt",
+    "aaginrt",
     "aaginu",
     "aagisttuv",
     "aagpr",
@@ -3211,6 +3212,10 @@
     {
       "date": "2024-08-19T12:05:59.190Z",
       "anagram": "aadmop"
+    },
+    {
+      "date": "2024-08-19T16:03:48.823Z",
+      "anagram": "aaginrt"
     }
   ]
 }
