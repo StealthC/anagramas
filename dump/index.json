@@ -241,6 +241,7 @@
     "acceipst",
     "acceist",
     "acchnoov",
+    "accilr",
     "accinnoos",
     "accios",
     "acclo",
@@ -3226,6 +3227,10 @@
     {
       "date": "2024-08-20T00:14:12.738Z",
       "anagram": "cdefiiio"
+    },
+    {
+      "date": "2024-08-20T12:05:59.278Z",
+      "anagram": "accilr"
     }
   ]
 }
