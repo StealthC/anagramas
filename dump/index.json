@@ -107,6 +107,7 @@
     "aaclp",
     "aaclpr",
     "aacopt",
+    "aacors",
     "aacrs",
     "aadddeegrs",
     "aaddeefrs",
@@ -3246,6 +3247,10 @@
     {
       "date": "2024-08-21T00:13:57.097Z",
       "anagram": "aeinsssu"
+    },
+    {
+      "date": "2024-08-21T12:06:01.323Z",
+      "anagram": "aacors"
     }
   ]
 }
