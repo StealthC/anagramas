@@ -428,6 +428,7 @@
     "aejnpstu",
     "aelmo",
     "aelmru",
+    "aeloss",
     "aelpr",
     "aelsv",
     "aelttux",
@@ -3261,6 +3262,10 @@
     {
       "date": "2024-08-21T20:04:08.559Z",
       "anagram": "aemoostt"
+    },
+    {
+      "date": "2024-08-22T00:14:21.285Z",
+      "anagram": "aeloss"
     }
   ]
 }
