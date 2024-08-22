@@ -25,6 +25,7 @@
     "aaacinrs",
     "aaaclrr",
     "aaacmrrss",
+    "aaacrrt",
     "aaaddestv",
     "aaadeegrx",
     "aaadefintz",
@@ -3266,6 +3267,10 @@
     {
       "date": "2024-08-22T00:14:21.285Z",
       "anagram": "aeloss"
+    },
+    {
+      "date": "2024-08-22T12:05:28.196Z",
+      "anagram": "aaacrrt"
     }
   ]
 }
