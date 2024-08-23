@@ -21,6 +21,7 @@
     "aaacddelm",
     "aaacdelr",
     "aaacdhruv",
+    "aaacdrst",
     "aaacijmno",
     "aaacinrs",
     "aaaclrr",
@@ -3296,6 +3297,10 @@
     {
       "date": "2024-08-23T16:03:46.806Z",
       "anagram": "aaeennsttu"
+    },
+    {
+      "date": "2024-08-23T20:04:02.813Z",
+      "anagram": "aaacdrst"
     }
   ]
 }
