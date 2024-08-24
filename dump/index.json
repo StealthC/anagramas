@@ -431,6 +431,7 @@
     "aeiprrrs",
     "aeiprrsz",
     "aeiprtu",
+    "aeirst",
     "aejmnstu",
     "aejnpstu",
     "aelmo",
@@ -3311,6 +3312,10 @@
     {
       "date": "2024-08-24T12:05:21.407Z",
       "anagram": "ahooorrrs"
+    },
+    {
+      "date": "2024-08-24T16:03:40.616Z",
+      "anagram": "aeirst"
     }
   ]
 }
