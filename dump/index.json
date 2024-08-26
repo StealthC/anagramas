@@ -76,6 +76,7 @@
     "aacchins",
     "aaccior",
     "aaccloopu",
+    "aacclr",
     "aaccoopu",
     "aaccosv",
     "aaccou",
@@ -3356,6 +3357,10 @@
     {
       "date": "2024-08-26T16:05:30.023Z",
       "anagram": "aacefot"
+    },
+    {
+      "date": "2024-08-26T20:04:39.904Z",
+      "anagram": "aacclr"
     }
   ]
 }
