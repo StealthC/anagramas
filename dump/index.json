@@ -604,6 +604,7 @@
     "deioprt",
     "delouv",
     "deooprt",
+    "dginosu",
     "diimnoo",
     "dinooprv",
     "diost",
@@ -3346,6 +3347,10 @@
     {
       "date": "2024-08-26T00:14:23.801Z",
       "anagram": "aehinnqtu"
+    },
+    {
+      "date": "2024-08-26T12:05:55.775Z",
+      "anagram": "dginosu"
     }
   ]
 }
