@@ -314,6 +314,7 @@
     "acloosu",
     "acmo",
     "acnorr",
+    "acors",
     "acost",
     "acrrsuu",
     "adddenoos",
@@ -3371,6 +3372,10 @@
     {
       "date": "2024-08-27T12:05:27.563Z",
       "anagram": "aachm"
+    },
+    {
+      "date": "2024-08-27T16:03:50.666Z",
+      "anagram": "acors"
     }
   ]
 }
