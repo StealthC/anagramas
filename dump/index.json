@@ -83,6 +83,7 @@
     "aaccou",
     "aacddeis",
     "aacddissu",
+    "aacdefhs",
     "aacdeghs",
     "aacdegip",
     "aacdfino",
@@ -3391,6 +3392,10 @@
     {
       "date": "2024-08-28T12:05:52.617Z",
       "anagram": "aabeilns"
+    },
+    {
+      "date": "2024-08-28T16:04:19.606Z",
+      "anagram": "aacdefhs"
     }
   ]
 }
