@@ -272,6 +272,7 @@
     "acdeoru",
     "acdfhirsu",
     "acdfior",
+    "acdiilnno",
     "acdiimno",
     "acdiop",
     "acdirrssu",
@@ -3411,6 +3412,10 @@
     {
       "date": "2024-08-29T12:05:34.470Z",
       "anagram": "aeinpss"
+    },
+    {
+      "date": "2024-08-29T16:03:53.990Z",
+      "anagram": "acdiilnno"
     }
   ]
 }
