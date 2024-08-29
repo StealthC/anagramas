@@ -629,6 +629,7 @@
     "eenrst",
     "eenstu",
     "eeoprt",
+    "eeopsss",
     "eeorstv",
     "efghiiloor",
     "efgilmu",
@@ -3401,6 +3402,10 @@
     {
       "date": "2024-08-28T20:03:56.444Z",
       "anagram": "aacdhloo"
+    },
+    {
+      "date": "2024-08-29T00:14:36.981Z",
+      "anagram": "eeopsss"
     }
   ]
 }
