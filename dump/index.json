@@ -157,6 +157,7 @@
     "aadinno",
     "aadiopr",
     "aadiort",
+    "aadiotv",
     "aadiprs",
     "aadjloo",
     "aadjru",
@@ -3421,6 +3422,10 @@
     {
       "date": "2024-08-29T20:03:42.618Z",
       "anagram": "dfgiiors"
+    },
+    {
+      "date": "2024-08-30T00:14:39.084Z",
+      "anagram": "aadiotv"
     }
   ]
 }
