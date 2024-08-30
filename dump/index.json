@@ -398,6 +398,7 @@
     "aeeghnnoss",
     "aeegils",
     "aeegiort",
+    "aeeglos",
     "aeegms",
     "aeegnrrt",
     "aeegprrsss",
@@ -3436,6 +3437,10 @@
     {
       "date": "2024-08-30T16:03:52.591Z",
       "anagram": "aaagist"
+    },
+    {
+      "date": "2024-08-30T20:04:32.976Z",
+      "anagram": "aeeglos"
     }
   ]
 }
