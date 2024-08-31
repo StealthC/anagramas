@@ -504,6 +504,7 @@
     "aijlost",
     "aills",
     "ailorv",
+    "ailov",
     "ailrsu",
     "aimmoss",
     "aimnnooot",
@@ -3446,6 +3447,10 @@
     {
       "date": "2024-08-31T00:14:29.306Z",
       "anagram": "abeist"
+    },
+    {
+      "date": "2024-08-31T12:05:17.372Z",
+      "anagram": "ailov"
     }
   ]
 }
