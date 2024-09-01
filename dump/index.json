@@ -321,6 +321,7 @@
     "acloop",
     "acloops",
     "acloosu",
+    "aclops",
     "acmo",
     "acnorr",
     "acors",
@@ -3466,6 +3467,10 @@
     {
       "date": "2024-09-01T00:17:44.325Z",
       "anagram": "ceefiinstu"
+    },
+    {
+      "date": "2024-09-01T12:05:04.634Z",
+      "anagram": "aclops"
     }
   ]
 }
