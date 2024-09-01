@@ -307,6 +307,7 @@
     "acgno",
     "achlooppu",
     "achmsu",
+    "aciilnrt",
     "aciilrt",
     "aciimst",
     "aciintv",
@@ -3476,6 +3477,10 @@
     {
       "date": "2024-09-01T16:03:54.482Z",
       "anagram": "aahinoprz"
+    },
+    {
+      "date": "2024-09-01T20:04:28.245Z",
+      "anagram": "aciilnrt"
     }
   ]
 }
