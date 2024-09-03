@@ -646,6 +646,7 @@
     "eeinoprtvv",
     "eeinrss",
     "eelnst",
+    "eemoorstx",
     "eemprs",
     "eenrst",
     "eenstu",
@@ -3511,6 +3512,10 @@
     {
       "date": "2024-09-03T16:04:18.793Z",
       "anagram": "aacciimst"
+    },
+    {
+      "date": "2024-09-03T20:03:53.716Z",
+      "anagram": "eemoorstx"
     }
   ]
 }
