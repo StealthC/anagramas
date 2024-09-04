@@ -154,6 +154,7 @@
     "aadfir",
     "aadgilru",
     "aadgint",
+    "aadgmor",
     "aadgoorz",
     "aadgrr",
     "aadgru",
@@ -3516,6 +3517,10 @@
     {
       "date": "2024-09-03T20:03:53.716Z",
       "anagram": "eemoorstx"
+    },
+    {
+      "date": "2024-09-04T00:14:35.278Z",
+      "anagram": "aadgmor"
     }
   ]
 }
