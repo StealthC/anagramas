@@ -306,6 +306,7 @@
     "aceiirsv",
     "aceinnru",
     "acellru",
+    "acelot",
     "acelsss",
     "acert",
     "acfiinru",
@@ -3571,6 +3572,10 @@
     {
       "date": "2024-09-06T16:03:55.549Z",
       "anagram": "aahinpr"
+    },
+    {
+      "date": "2024-09-06T20:03:44.478Z",
+      "anagram": "acelot"
     }
   ]
 }
