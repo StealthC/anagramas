@@ -644,6 +644,7 @@
     "deioorr",
     "deioors",
     "deioprt",
+    "deirsuz",
     "delouv",
     "deooprt",
     "dfgiiors",
@@ -3591,6 +3592,10 @@
     {
       "date": "2024-09-07T16:03:57.206Z",
       "anagram": "acos"
+    },
+    {
+      "date": "2024-09-07T20:03:55.355Z",
+      "anagram": "deirsuz"
     }
   ]
 }
