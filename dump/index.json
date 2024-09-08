@@ -113,6 +113,7 @@
     "aacfil",
     "aacfio",
     "aacgin",
+    "aacginns",
     "aachm",
     "aaciimot",
     "aaciinooz",
@@ -3601,6 +3602,10 @@
     {
       "date": "2024-09-08T00:16:15.366Z",
       "anagram": "hnooss"
+    },
+    {
+      "date": "2024-09-08T12:05:16.678Z",
+      "anagram": "aacginns"
     }
   ]
 }
