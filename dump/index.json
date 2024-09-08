@@ -712,6 +712,7 @@
     "gloors",
     "hiimnopr",
     "hilort",
+    "hnooss",
     "iilmnooop",
     "iimnoostx",
     "iinrrstu",
@@ -3596,6 +3597,10 @@
     {
       "date": "2024-09-07T20:03:55.355Z",
       "anagram": "deirsuz"
+    },
+    {
+      "date": "2024-09-08T00:16:15.366Z",
+      "anagram": "hnooss"
     }
   ]
 }
