@@ -488,6 +488,7 @@
     "aenrstu",
     "aeooprs",
     "aeoprrs",
+    "aeoprx",
     "aeopsss",
     "aeorrt",
     "aeprrtu",
@@ -3646,6 +3647,10 @@
     {
       "date": "2024-09-10T16:04:11.463Z",
       "anagram": "aeenrtx"
+    },
+    {
+      "date": "2024-09-10T20:04:13.988Z",
+      "anagram": "aeoprx"
     }
   ]
 }
