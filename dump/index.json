@@ -415,6 +415,7 @@
     "adiopr",
     "adiostu",
     "adloors",
+    "adnoos",
     "adorr",
     "aeeelmnntt",
     "aeefnrt",
@@ -3656,6 +3657,10 @@
     {
       "date": "2024-09-11T00:14:40.624Z",
       "anagram": "adgiiist"
+    },
+    {
+      "date": "2024-09-11T12:05:55.914Z",
+      "anagram": "adnoos"
     }
   ]
 }
