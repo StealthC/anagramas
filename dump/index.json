@@ -390,6 +390,7 @@
     "adfiort",
     "adfiosu",
     "adfmnoor",
+    "adgiiist",
     "adgilnou",
     "adginorv",
     "adgiossu",
@@ -3651,6 +3652,10 @@
     {
       "date": "2024-09-10T20:04:13.988Z",
       "anagram": "aeoprx"
+    },
+    {
+      "date": "2024-09-11T00:14:40.624Z",
+      "anagram": "adgiiist"
     }
   ]
 }
