@@ -735,6 +735,7 @@
     "imosst",
     "inosu",
     "moopsstu",
+    "nnoorstu",
     "ooopprsst"
   ],
   "byDate": [
@@ -3681,6 +3682,10 @@
     {
       "date": "2024-09-12T16:04:03.419Z",
       "anagram": "acdiiil"
+    },
+    {
+      "date": "2024-09-12T20:04:13.002Z",
+      "anagram": "nnoorstu"
     }
   ]
 }
