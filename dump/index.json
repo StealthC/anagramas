@@ -294,6 +294,7 @@
     "acdeoru",
     "acdfhirsu",
     "acdfior",
+    "acdiiil",
     "acdiilnno",
     "acdiimno",
     "acdiop",
@@ -3676,6 +3677,10 @@
     {
       "date": "2024-09-12T12:06:00.644Z",
       "anagram": "aacemp"
+    },
+    {
+      "date": "2024-09-12T16:04:03.419Z",
+      "anagram": "acdiiil"
     }
   ]
 }
