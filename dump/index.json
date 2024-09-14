@@ -242,6 +242,7 @@
     "abbegmo",
     "abcdei",
     "abcdiu",
+    "abceehmot",
     "abceirs",
     "abceorr",
     "abciiilmsu",
@@ -3706,6 +3707,10 @@
     {
       "date": "2024-09-13T20:04:08.713Z",
       "anagram": "aadersv"
+    },
+    {
+      "date": "2024-09-14T00:14:38.305Z",
+      "anagram": "abceehmot"
     }
   ]
 }
