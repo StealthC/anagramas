@@ -493,6 +493,7 @@
     "aemoostt",
     "aemptu",
     "aemqrsu",
+    "aemrsu",
     "aenpssssu",
     "aenrstu",
     "aeooprs",
@@ -3716,6 +3717,10 @@
     {
       "date": "2024-09-14T12:05:11.568Z",
       "anagram": "aceeiimnns"
+    },
+    {
+      "date": "2024-09-14T16:03:46.535Z",
+      "anagram": "aemrsu"
     }
   ]
 }
