@@ -306,6 +306,7 @@
     "aceeelprrv",
     "aceeenrrs",
     "aceefirs",
+    "aceeiimnns",
     "aceeituvx",
     "aceerrr",
     "acehlns",
@@ -3711,6 +3712,10 @@
     {
       "date": "2024-09-14T00:14:38.305Z",
       "anagram": "abceehmot"
+    },
+    {
+      "date": "2024-09-14T12:05:11.568Z",
+      "anagram": "aceeiimnns"
     }
   ]
 }
