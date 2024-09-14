@@ -634,6 +634,7 @@
     "cfiiioors",
     "cgiiloost",
     "cgiiorrr",
+    "cginoot",
     "chiiops",
     "ciimnoosu",
     "ciinooosst",
@@ -3721,6 +3722,10 @@
     {
       "date": "2024-09-14T16:03:46.535Z",
       "anagram": "aemrsu"
+    },
+    {
+      "date": "2024-09-14T20:04:13.169Z",
+      "anagram": "cginoot"
     }
   ]
 }
