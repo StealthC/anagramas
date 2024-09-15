@@ -172,6 +172,7 @@
     "aadiotv",
     "aadiprs",
     "aadjloo",
+    "aadjnor",
     "aadjru",
     "aadjsu",
     "aadlor",
@@ -3731,6 +3732,10 @@
     {
       "date": "2024-09-15T00:16:50.337Z",
       "anagram": "ainortu"
+    },
+    {
+      "date": "2024-09-15T12:05:31.372Z",
+      "anagram": "aadjnor"
     }
   ]
 }
