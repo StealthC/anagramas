@@ -446,6 +446,7 @@
     "aefglnor",
     "aefgort",
     "aeflors",
+    "aeflox",
     "aefmnstu",
     "aeghinnt",
     "aegiilnntv",
@@ -3736,6 +3737,10 @@
     {
       "date": "2024-09-15T12:05:31.372Z",
       "anagram": "aadjnor"
+    },
+    {
+      "date": "2024-09-15T16:03:51.959Z",
+      "anagram": "aeflox"
     }
   ]
 }
