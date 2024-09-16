@@ -301,6 +301,7 @@
     "acdiiil",
     "acdiilnno",
     "acdiimno",
+    "acdimo",
     "acdiop",
     "acdirrssu",
     "acdoov",
@@ -3756,6 +3757,10 @@
     {
       "date": "2024-09-16T12:05:59.377Z",
       "anagram": "deiiorvv"
+    },
+    {
+      "date": "2024-09-16T16:04:18.806Z",
+      "anagram": "acdimo"
     }
   ]
 }
