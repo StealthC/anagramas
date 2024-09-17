@@ -599,6 +599,7 @@
     "biioprr",
     "bimostu",
     "boorsstu",
+    "cceehlost",
     "cceioorv",
     "cceloosu",
     "ccenoorrt",
@@ -3771,6 +3772,10 @@
     {
       "date": "2024-09-17T00:12:56.558Z",
       "anagram": "aadeillo"
+    },
+    {
+      "date": "2024-09-17T12:05:46.530Z",
+      "anagram": "cceehlost"
     }
   ]
 }
