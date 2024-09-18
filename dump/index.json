@@ -27,6 +27,7 @@
     "aaacgorv",
     "aaacijmno",
     "aaacinrs",
+    "aaacipst",
     "aaaclrr",
     "aaacmrrss",
     "aaacrrt",
@@ -3791,6 +3792,10 @@
     {
       "date": "2024-09-18T00:14:53.769Z",
       "anagram": "eimooprs"
+    },
+    {
+      "date": "2024-09-18T12:06:08.724Z",
+      "anagram": "aaacipst"
     }
   ]
 }
