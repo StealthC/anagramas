@@ -721,6 +721,7 @@
     "eiiorrsttv",
     "eiloss",
     "eilossv",
+    "eimooprs",
     "eimoprs",
     "eimost",
     "eimosv",
@@ -3786,6 +3787,10 @@
     {
       "date": "2024-09-17T20:04:06.614Z",
       "anagram": "aacisstu"
+    },
+    {
+      "date": "2024-09-18T00:14:53.769Z",
+      "anagram": "eimooprs"
     }
   ]
 }
