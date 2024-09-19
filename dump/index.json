@@ -64,6 +64,7 @@
     "aabccloou",
     "aabcefiit",
     "aabcfir",
+    "aabchnoo",
     "aabcnrru",
     "aabddenr",
     "aabdeior",
@@ -3811,6 +3812,10 @@
     {
       "date": "2024-09-19T12:05:54.743Z",
       "anagram": "adeltu"
+    },
+    {
+      "date": "2024-09-19T16:04:02.897Z",
+      "anagram": "aabchnoo"
     }
   ]
 }
