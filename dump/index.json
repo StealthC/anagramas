@@ -393,6 +393,7 @@
     "adeirtu",
     "adelopr",
     "adelotuv",
+    "adeltu",
     "adenorv",
     "adeoopr",
     "adeopss",
@@ -3806,6 +3807,10 @@
     {
       "date": "2024-09-18T20:04:04.391Z",
       "anagram": "beijosstuv"
+    },
+    {
+      "date": "2024-09-19T12:05:54.743Z",
+      "anagram": "adeltu"
     }
   ]
 }
