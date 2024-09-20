@@ -297,6 +297,7 @@
     "acclo",
     "acddeiinu",
     "acddeiop",
+    "acdeeenrrt",
     "acdeeinps",
     "acdefiir",
     "acdeilo",
@@ -3821,6 +3822,10 @@
     {
       "date": "2024-09-19T20:04:10.164Z",
       "anagram": "efinoost"
+    },
+    {
+      "date": "2024-09-20T00:15:24.204Z",
+      "anagram": "acdeeenrrt"
     }
   ]
 }
