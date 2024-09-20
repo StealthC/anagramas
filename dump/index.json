@@ -154,6 +154,7 @@
     "aadefnr",
     "aadefost",
     "aadegn",
+    "aadegrsv",
     "aadeillo",
     "aadeils",
     "aadelqu",
@@ -3831,6 +3832,10 @@
     {
       "date": "2024-09-20T12:05:50.461Z",
       "anagram": "aaacimnno"
+    },
+    {
+      "date": "2024-09-20T16:04:43.774Z",
+      "anagram": "aadegrsv"
     }
   ]
 }
