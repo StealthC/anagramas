@@ -129,6 +129,7 @@
     "aacisstu",
     "aacissu",
     "aaclmruu",
+    "aaclmssu",
     "aaclp",
     "aaclpr",
     "aacopt",
@@ -3846,6 +3847,10 @@
     {
       "date": "2024-09-21T00:14:40.228Z",
       "anagram": "deioorrs"
+    },
+    {
+      "date": "2024-09-21T12:05:36.588Z",
+      "anagram": "aaclmssu"
     }
   ]
 }
