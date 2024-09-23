@@ -246,6 +246,7 @@
     "aajnrtu",
     "aaloppu",
     "aamns",
+    "aamst",
     "aanos",
     "aanotv",
     "aaort",
@@ -3871,6 +3872,10 @@
     {
       "date": "2024-09-22T16:03:43.738Z",
       "anagram": "aacden"
+    },
+    {
+      "date": "2024-09-23T00:15:55.967Z",
+      "anagram": "aamst"
     }
   ]
 }
