@@ -68,6 +68,7 @@
     "aabchnoo",
     "aabcnrru",
     "aabddenr",
+    "aabdeeqrru",
     "aabdeior",
     "aabdejns",
     "aabdejoqu",
@@ -3886,6 +3887,10 @@
     {
       "date": "2024-09-23T16:04:17.354Z",
       "anagram": "eiimnor"
+    },
+    {
+      "date": "2024-09-23T20:04:24.726Z",
+      "anagram": "aabdeeqrru"
     }
   ]
 }
