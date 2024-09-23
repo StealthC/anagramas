@@ -170,6 +170,7 @@
     "aadfir",
     "aadgilru",
     "aadgint",
+    "aadgllnu",
     "aadgmor",
     "aadgoorz",
     "aadgrr",
@@ -3876,6 +3877,10 @@
     {
       "date": "2024-09-23T00:15:55.967Z",
       "anagram": "aamst"
+    },
+    {
+      "date": "2024-09-23T12:06:13.456Z",
+      "anagram": "aadgllnu"
     }
   ]
 }
