@@ -574,6 +574,7 @@
     "aimpt",
     "ainortu",
     "ainosz",
+    "ainqtu",
     "aiooorrt",
     "aiooorrtt",
     "aioort",
@@ -3906,6 +3907,10 @@
     {
       "date": "2024-09-24T16:04:26.554Z",
       "anagram": "alpsu"
+    },
+    {
+      "date": "2024-09-24T20:04:11.134Z",
+      "anagram": "ainqtu"
     }
   ]
 }
