@@ -588,6 +588,7 @@
     "aloru",
     "alost",
     "alot",
+    "alpsu",
     "alssu",
     "amnnooot",
     "amnooot",
@@ -3901,6 +3902,10 @@
     {
       "date": "2024-09-24T12:05:52.337Z",
       "anagram": "aacnossu"
+    },
+    {
+      "date": "2024-09-24T16:04:26.554Z",
+      "anagram": "alpsu"
     }
   ]
 }
