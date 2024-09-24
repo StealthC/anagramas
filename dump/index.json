@@ -135,6 +135,7 @@
     "aaclmssu",
     "aaclp",
     "aaclpr",
+    "aacnossu",
     "aacopt",
     "aacorr",
     "aacors",
@@ -3896,6 +3897,10 @@
     {
       "date": "2024-09-24T00:15:40.744Z",
       "anagram": "aacirt"
+    },
+    {
+      "date": "2024-09-24T12:05:52.337Z",
+      "anagram": "aacnossu"
     }
   ]
 }
