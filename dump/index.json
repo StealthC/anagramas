@@ -198,6 +198,7 @@
     "aadorrt",
     "aadors",
     "aadorss",
+    "aadortu",
     "aaeeemnttx",
     "aaeefsstt",
     "aaeelppst",
@@ -3926,6 +3927,10 @@
     {
       "date": "2024-09-25T16:04:33.042Z",
       "anagram": "aabelrt"
+    },
+    {
+      "date": "2024-09-25T20:04:01.131Z",
+      "anagram": "aadortu"
     }
   ]
 }
