@@ -266,6 +266,7 @@
     "abciiilmsu",
     "abcilpru",
     "abcors",
+    "abdeenruz",
     "abdemno",
     "abdilrr",
     "abdinrr",
@@ -3911,6 +3912,10 @@
     {
       "date": "2024-09-24T20:04:11.134Z",
       "anagram": "ainqtu"
+    },
+    {
+      "date": "2024-09-25T00:15:57.013Z",
+      "anagram": "abdeenruz"
     }
   ]
 }
