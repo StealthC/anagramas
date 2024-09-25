@@ -24,6 +24,7 @@
     "aaacdhruv",
     "aaacdnn",
     "aaacdrst",
+    "aaaceirrru",
     "aaacgorv",
     "aaacijmno",
     "aaacimnno",
@@ -3916,6 +3917,10 @@
     {
       "date": "2024-09-25T00:15:57.013Z",
       "anagram": "abdeenruz"
+    },
+    {
+      "date": "2024-09-25T12:06:45.881Z",
+      "anagram": "aaaceirrru"
     }
   ]
 }
