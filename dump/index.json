@@ -190,6 +190,7 @@
     "aadjnor",
     "aadjru",
     "aadjsu",
+    "aadlooppr",
     "aadlor",
     "aadlosv",
     "aadmop",
@@ -3931,6 +3932,10 @@
     {
       "date": "2024-09-25T20:04:01.131Z",
       "anagram": "aadortu"
+    },
+    {
+      "date": "2024-09-26T00:15:03.571Z",
+      "anagram": "aadlooppr"
     }
   ]
 }
