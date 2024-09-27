@@ -182,6 +182,7 @@
     "aadgrr",
     "aadgru",
     "aadgsu",
+    "aadiipst",
     "aadinno",
     "aadiopr",
     "aadiort",
@@ -3956,6 +3957,10 @@
     {
       "date": "2024-09-27T12:06:11.625Z",
       "anagram": "aiiopt"
+    },
+    {
+      "date": "2024-09-27T16:04:26.446Z",
+      "anagram": "aadiipst"
     }
   ]
 }
