@@ -567,6 +567,7 @@
     "aiilmpssst",
     "aiilmrt",
     "aiilosv",
+    "aiiopt",
     "aiirst",
     "aijlost",
     "aills",
@@ -3951,6 +3952,10 @@
     {
       "date": "2024-09-27T00:15:57.623Z",
       "anagram": "dilnostu"
+    },
+    {
+      "date": "2024-09-27T12:06:11.625Z",
+      "anagram": "aiiopt"
     }
   ]
 }
