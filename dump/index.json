@@ -380,6 +380,7 @@
     "acos",
     "acost",
     "acrrsuu",
+    "adddeeins",
     "adddenoos",
     "addeeenorv",
     "addeegrr",
@@ -3961,6 +3962,10 @@
     {
       "date": "2024-09-27T16:04:26.446Z",
       "anagram": "aadiipst"
+    },
+    {
+      "date": "2024-09-27T20:04:01.742Z",
+      "anagram": "adddeeins"
     }
   ]
 }
