@@ -300,6 +300,7 @@
     "abiossv",
     "ablmmosu",
     "ablmmou",
+    "ablor",
     "abort",
     "abostu",
     "accceiiln",
@@ -3981,6 +3982,10 @@
     {
       "date": "2024-09-28T16:04:07.867Z",
       "anagram": "aacrst"
+    },
+    {
+      "date": "2024-09-28T20:04:31.157Z",
+      "anagram": "ablor"
     }
   ]
 }
