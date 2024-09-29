@@ -501,6 +501,7 @@
     "aeiinsttv",
     "aeiiprss",
     "aeijnrv",
+    "aeilss",
     "aeilssv",
     "aeiltv",
     "aeimnrt",
@@ -3996,6 +3997,10 @@
     {
       "date": "2024-09-29T12:05:21.839Z",
       "anagram": "aaceit"
+    },
+    {
+      "date": "2024-09-29T16:03:52.388Z",
+      "anagram": "aeilss"
     }
   ]
 }
