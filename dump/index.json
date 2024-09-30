@@ -550,6 +550,7 @@
     "afirrtu",
     "afirst",
     "afjnou",
+    "aflot",
     "aflrtuu",
     "afmru",
     "afrstu",
@@ -4021,6 +4022,10 @@
     {
       "date": "2024-09-30T16:04:08.295Z",
       "anagram": "cdiinnoot"
+    },
+    {
+      "date": "2024-09-30T20:03:54.528Z",
+      "anagram": "aflot"
     }
   ]
 }
