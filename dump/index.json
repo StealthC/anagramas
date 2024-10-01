@@ -185,6 +185,7 @@
     "aadgrr",
     "aadgru",
     "aadgsu",
+    "aadiiinnst",
     "aadiipst",
     "aadinno",
     "aadiopr",
@@ -4026,6 +4027,10 @@
     {
       "date": "2024-09-30T20:03:54.528Z",
       "anagram": "aflot"
+    },
+    {
+      "date": "2024-10-01T00:17:33.771Z",
+      "anagram": "aadiiinnst"
     }
   ]
 }
