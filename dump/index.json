@@ -127,6 +127,7 @@
     "aacfio",
     "aacgin",
     "aacginns",
+    "aachiimns",
     "aachm",
     "aaciimot",
     "aaciinooz",
@@ -4041,6 +4042,10 @@
     {
       "date": "2024-10-01T16:04:34.214Z",
       "anagram": "aaejmosst"
+    },
+    {
+      "date": "2024-10-01T20:03:59.768Z",
+      "anagram": "aachiimns"
     }
   ]
 }
