@@ -176,6 +176,7 @@
     "aadenrrr",
     "aaderssv",
     "aadersv",
+    "aadessv",
     "aadfgils",
     "aadfgis",
     "aadfir",
@@ -4061,6 +4062,10 @@
     {
       "date": "2024-10-02T16:04:22.678Z",
       "anagram": "beoorssu"
+    },
+    {
+      "date": "2024-10-02T20:04:27.989Z",
+      "anagram": "aadessv"
     }
   ]
 }
