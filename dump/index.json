@@ -161,6 +161,7 @@
     "aaddirtu",
     "aadeejmst",
     "aadeennrv",
+    "aadefijo",
     "aadefmsu",
     "aadefnns",
     "aadefnr",
@@ -4051,6 +4052,10 @@
     {
       "date": "2024-10-02T00:15:41.981Z",
       "anagram": "egimooss"
+    },
+    {
+      "date": "2024-10-02T12:06:30.838Z",
+      "anagram": "aadefijo"
     }
   ]
 }
