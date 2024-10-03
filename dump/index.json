@@ -448,6 +448,7 @@
     "adiiimmpr",
     "adiiimmprs",
     "adiiinrvz",
+    "adiimsz",
     "adiinnos",
     "adiinnosu",
     "adiisvv",
@@ -4066,6 +4067,10 @@
     {
       "date": "2024-10-02T20:04:27.989Z",
       "anagram": "aadessv"
+    },
+    {
+      "date": "2024-10-03T00:15:25.607Z",
+      "anagram": "adiimsz"
     }
   ]
 }
