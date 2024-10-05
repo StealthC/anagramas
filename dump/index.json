@@ -4,6 +4,7 @@
     "aaaaadjntv",
     "aaaabbnrst",
     "aaaabddnr",
+    "aaaaccdlns",
     "aaaacceor",
     "aaaacdhlps",
     "aaaacdmp",
@@ -4106,6 +4107,10 @@
     {
       "date": "2024-10-04T20:03:58.713Z",
       "anagram": "aaadlmor"
+    },
+    {
+      "date": "2024-10-05T00:15:23.968Z",
+      "anagram": "aaaaccdlns"
     }
   ]
 }
