@@ -340,6 +340,7 @@
     "acdiiil",
     "acdiilnno",
     "acdiimno",
+    "acdiinot",
     "acdimo",
     "acdiop",
     "acdirrssu",
@@ -4116,6 +4117,10 @@
     {
       "date": "2024-10-05T12:05:43.426Z",
       "anagram": "aaccoot"
+    },
+    {
+      "date": "2024-10-05T16:04:08.752Z",
+      "anagram": "acdiinot"
     }
   ]
 }
