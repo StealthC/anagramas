@@ -380,6 +380,7 @@
     "acilnt",
     "acilo",
     "acinor",
+    "acinosv",
     "acinovv",
     "aciootv",
     "acios",
@@ -4121,6 +4122,10 @@
     {
       "date": "2024-10-05T16:04:08.752Z",
       "anagram": "acdiinot"
+    },
+    {
+      "date": "2024-10-05T20:04:02.514Z",
+      "anagram": "acinosv"
     }
   ]
 }
