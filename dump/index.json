@@ -95,6 +95,7 @@
     "aaccloopu",
     "aacclr",
     "aaccoopu",
+    "aaccoot",
     "aaccosv",
     "aaccou",
     "aacddeis",
@@ -4111,6 +4112,10 @@
     {
       "date": "2024-10-05T00:15:23.968Z",
       "anagram": "aaaaccdlns"
+    },
+    {
+      "date": "2024-10-05T12:05:43.426Z",
+      "anagram": "aaccoot"
     }
   ]
 }
