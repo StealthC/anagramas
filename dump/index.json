@@ -696,6 +696,7 @@
     "ceirss",
     "celnos",
     "celooostv",
+    "ceoops",
     "ceorsu",
     "ceorsv",
     "ceort",
@@ -4136,6 +4137,10 @@
     {
       "date": "2024-10-06T12:05:58.613Z",
       "anagram": "aaiiprrtvz"
+    },
+    {
+      "date": "2024-10-06T16:03:57.058Z",
+      "anagram": "ceoops"
     }
   ]
 }
