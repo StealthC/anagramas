@@ -254,6 +254,7 @@
     "aahinpr",
     "aahinrsv",
     "aahmnoss",
+    "aaiiprrtvz",
     "aaijrv",
     "aaiknnost",
     "aaiknnot",
@@ -4131,6 +4132,10 @@
     {
       "date": "2024-10-06T00:17:25.093Z",
       "anagram": "dddeeimos"
+    },
+    {
+      "date": "2024-10-06T12:05:58.613Z",
+      "anagram": "aaiiprrtvz"
     }
   ]
 }
