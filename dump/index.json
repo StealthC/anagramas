@@ -67,6 +67,7 @@
     "aabbnos",
     "aabboors",
     "aabccloou",
+    "aabcdhmsu",
     "aabcefiit",
     "aabcfir",
     "aabchnoo",
@@ -4141,6 +4142,10 @@
     {
       "date": "2024-10-06T16:03:57.058Z",
       "anagram": "ceoops"
+    },
+    {
+      "date": "2024-10-07T00:16:47.680Z",
+      "anagram": "aabcdhmsu"
     }
   ]
 }
