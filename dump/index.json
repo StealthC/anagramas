@@ -365,6 +365,7 @@
     "acelot",
     "acelsss",
     "acenssu",
+    "aceopt",
     "acert",
     "acfiinru",
     "acflo",
@@ -4156,6 +4157,10 @@
     {
       "date": "2024-10-07T16:04:22.647Z",
       "anagram": "acilnsu"
+    },
+    {
+      "date": "2024-10-07T20:04:20.456Z",
+      "anagram": "aceopt"
     }
   ]
 }
