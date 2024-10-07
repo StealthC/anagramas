@@ -40,6 +40,7 @@
     "aaadegl",
     "aaadeijls",
     "aaadelnt",
+    "aaadelrt",
     "aaademns",
     "aaadempst",
     "aaadfin",
@@ -4146,6 +4147,10 @@
     {
       "date": "2024-10-07T00:16:47.680Z",
       "anagram": "aabcdhmsu"
+    },
+    {
+      "date": "2024-10-07T12:06:16.664Z",
+      "anagram": "aaadelrt"
     }
   ]
 }
