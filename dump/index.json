@@ -380,6 +380,7 @@
     "aciimst",
     "aciintv",
     "aciioppr",
+    "acilnsu",
     "acilnt",
     "acilo",
     "acinor",
@@ -4151,6 +4152,10 @@
     {
       "date": "2024-10-07T12:06:16.664Z",
       "anagram": "aaadelrt"
+    },
+    {
+      "date": "2024-10-07T16:04:22.647Z",
+      "anagram": "acilnsu"
     }
   ]
 }
