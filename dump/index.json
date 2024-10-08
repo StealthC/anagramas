@@ -238,6 +238,7 @@
     "aaenorss",
     "aaenortz",
     "aaenprt",
+    "aaenrtv",
     "aaeprs",
     "aaestux",
     "aafiinrt",
@@ -4176,6 +4177,10 @@
     {
       "date": "2024-10-08T16:04:39.668Z",
       "anagram": "aaddloss"
+    },
+    {
+      "date": "2024-10-08T20:03:41.944Z",
+      "anagram": "aaenrtv"
     }
   ]
 }
