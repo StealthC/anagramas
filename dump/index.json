@@ -342,6 +342,7 @@
     "acdeoru",
     "acdfhirsu",
     "acdfior",
+    "acdiiijsu",
     "acdiiil",
     "acdiilnno",
     "acdiimno",
@@ -4181,6 +4182,10 @@
     {
       "date": "2024-10-08T20:03:41.944Z",
       "anagram": "aaenrtv"
+    },
+    {
+      "date": "2024-10-09T00:15:43.107Z",
+      "anagram": "acdiiijsu"
     }
   ]
 }
