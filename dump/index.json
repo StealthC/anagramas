@@ -166,6 +166,7 @@
     "aaddiimsz",
     "aaddirtu",
     "aaddloss",
+    "aaddos",
     "aadeejmst",
     "aadeennrv",
     "aadefijo",
@@ -4186,6 +4187,10 @@
     {
       "date": "2024-10-09T00:15:43.107Z",
       "anagram": "acdiiijsu"
+    },
+    {
+      "date": "2024-10-09T12:06:23.062Z",
+      "anagram": "aaddos"
     }
   ]
 }
