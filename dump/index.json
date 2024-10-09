@@ -366,6 +366,7 @@
     "aceiirsv",
     "aceinnru",
     "acellru",
+    "acelns",
     "acelot",
     "acelsss",
     "acenssu",
@@ -4191,6 +4192,10 @@
     {
       "date": "2024-10-09T12:06:23.062Z",
       "anagram": "aaddos"
+    },
+    {
+      "date": "2024-10-09T16:04:09.703Z",
+      "anagram": "acelns"
     }
   ]
 }
