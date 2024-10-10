@@ -69,6 +69,7 @@
     "aabboors",
     "aabccloou",
     "aabcdhmsu",
+    "aabcdos",
     "aabcefiit",
     "aabcfir",
     "aabchnoo",
@@ -4201,6 +4202,10 @@
     {
       "date": "2024-10-09T20:04:15.413Z",
       "anagram": "acegoosz"
+    },
+    {
+      "date": "2024-10-10T12:06:21.339Z",
+      "anagram": "aabcdos"
     }
   ]
 }
