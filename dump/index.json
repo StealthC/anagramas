@@ -737,6 +737,7 @@
     "deeeegnrtt",
     "deeefinrt",
     "deeeilnstv",
+    "deefiiinsv",
     "deeiilops",
     "deeimnoss",
     "deeioprrt",
@@ -4206,6 +4207,10 @@
     {
       "date": "2024-10-10T12:06:21.339Z",
       "anagram": "aabcdos"
+    },
+    {
+      "date": "2024-10-10T16:04:17.324Z",
+      "anagram": "deefiiinsv"
     }
   ]
 }
