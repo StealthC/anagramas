@@ -644,6 +644,7 @@
     "amnooot",
     "amnoot",
     "amorsst",
+    "anoprtu",
     "anosstu",
     "anost",
     "aooprs",
@@ -4221,6 +4222,10 @@
     {
       "date": "2024-10-11T00:15:31.129Z",
       "anagram": "acgimos"
+    },
+    {
+      "date": "2024-10-11T12:06:01.137Z",
+      "anagram": "anoprtu"
     }
   ]
 }
