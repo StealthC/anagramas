@@ -74,6 +74,7 @@
     "aabcfir",
     "aabchnoo",
     "aabcnrru",
+    "aabcnsu",
     "aabddenr",
     "aabdeeqrru",
     "aabdeior",
@@ -4226,6 +4227,10 @@
     {
       "date": "2024-10-11T12:06:01.137Z",
       "anagram": "anoprtu"
+    },
+    {
+      "date": "2024-10-11T16:04:18.995Z",
+      "anagram": "aabcnsu"
     }
   ]
 }
