@@ -379,6 +379,7 @@
     "acghno",
     "acghnos",
     "acgiirru",
+    "acgimos",
     "acginru",
     "acgno",
     "achlooppu",
@@ -4216,6 +4217,10 @@
     {
       "date": "2024-10-10T20:04:11.086Z",
       "anagram": "aepprruu"
+    },
+    {
+      "date": "2024-10-11T00:15:31.129Z",
+      "anagram": "acgimos"
     }
   ]
 }
