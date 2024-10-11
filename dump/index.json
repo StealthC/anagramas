@@ -54,6 +54,7 @@
     "aaadmort",
     "aaadprrsu",
     "aaaegmrss",
+    "aaafilstt",
     "aaaginrr",
     "aaagist",
     "aaaglrt",
@@ -4231,6 +4232,10 @@
     {
       "date": "2024-10-11T16:04:18.995Z",
       "anagram": "aabcnsu"
+    },
+    {
+      "date": "2024-10-11T20:04:22.059Z",
+      "anagram": "aaafilstt"
     }
   ]
 }
