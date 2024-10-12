@@ -13,6 +13,7 @@
     "aaabcdeno",
     "aaabcest",
     "aaabcor",
+    "aaabcrr",
     "aaabddnor",
     "aaabdls",
     "aaabehnrrr",
@@ -4241,6 +4242,10 @@
     {
       "date": "2024-10-12T00:15:11.147Z",
       "anagram": "aacdeehrs"
+    },
+    {
+      "date": "2024-10-12T12:05:31.515Z",
+      "anagram": "aaabcrr"
     }
   ]
 }
