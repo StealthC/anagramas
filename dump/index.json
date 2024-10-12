@@ -105,6 +105,7 @@
     "aaccou",
     "aacddeis",
     "aacddissu",
+    "aacdeehrs",
     "aacdefhs",
     "aacdeghs",
     "aacdegip",
@@ -4236,6 +4237,10 @@
     {
       "date": "2024-10-11T20:04:22.059Z",
       "anagram": "aaafilstt"
+    },
+    {
+      "date": "2024-10-12T00:15:11.147Z",
+      "anagram": "aacdeehrs"
     }
   ]
 }
