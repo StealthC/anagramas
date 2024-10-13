@@ -55,6 +55,7 @@
     "aaadlmor",
     "aaadmort",
     "aaadprrsu",
+    "aaadrtt",
     "aaaegmrss",
     "aaafilstt",
     "aaaginrr",
@@ -4271,6 +4272,10 @@
     {
       "date": "2024-10-13T16:03:37.506Z",
       "anagram": "deiortv"
+    },
+    {
+      "date": "2024-10-13T20:04:02.286Z",
+      "anagram": "aaadrtt"
     }
   ]
 }
