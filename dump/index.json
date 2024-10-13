@@ -455,6 +455,7 @@
     "adenorv",
     "adeoopr",
     "adeopss",
+    "adeoqru",
     "adeorrs",
     "adepr",
     "adeprs",
@@ -4256,6 +4257,10 @@
     {
       "date": "2024-10-12T20:03:58.113Z",
       "anagram": "aaabcinr"
+    },
+    {
+      "date": "2024-10-13T00:17:04.811Z",
+      "anagram": "adeoqru"
     }
   ]
 }
