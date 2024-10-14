@@ -114,6 +114,7 @@
     "aacdeghs",
     "aacdegip",
     "aacden",
+    "aacdfiimmu",
     "aacdfino",
     "aacdgho",
     "aacdgiiot",
@@ -4281,6 +4282,10 @@
     {
       "date": "2024-10-14T00:16:35.908Z",
       "anagram": "aabcios"
+    },
+    {
+      "date": "2024-10-14T12:06:14.082Z",
+      "anagram": "aacdfiimmu"
     }
   ]
 }
