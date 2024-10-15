@@ -658,6 +658,7 @@
     "anoprtu",
     "anosstu",
     "anost",
+    "aoopr",
     "aooprs",
     "aoostt",
     "aoprt",
@@ -4296,6 +4297,10 @@
     {
       "date": "2024-10-15T00:15:41.771Z",
       "anagram": "aacehlnr"
+    },
+    {
+      "date": "2024-10-15T12:06:14.964Z",
+      "anagram": "aoopr"
     }
   ]
 }
