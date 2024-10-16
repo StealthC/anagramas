@@ -716,6 +716,7 @@
     "ceellosu",
     "ceenrst",
     "ceeorrt",
+    "ceginorrv",
     "cehiilqu",
     "ceiilot",
     "ceiimoqru",
@@ -4311,6 +4312,10 @@
     {
       "date": "2024-10-15T20:04:21.085Z",
       "anagram": "adeensttu"
+    },
+    {
+      "date": "2024-10-16T00:15:35.677Z",
+      "anagram": "ceginorrv"
     }
   ]
 }
