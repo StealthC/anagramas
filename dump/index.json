@@ -535,6 +535,7 @@
     "aeginnot",
     "aeginrrt",
     "aeglns",
+    "aegrr",
     "aegrrr",
     "aegrt",
     "aehimns",
@@ -4321,6 +4322,10 @@
     {
       "date": "2024-10-16T12:06:16.903Z",
       "anagram": "aanst"
+    },
+    {
+      "date": "2024-10-16T16:04:10.594Z",
+      "anagram": "aegrr"
     }
   ]
 }
