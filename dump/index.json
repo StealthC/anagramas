@@ -574,6 +574,7 @@
     "aeiprtu",
     "aeirst",
     "aejmnstu",
+    "aejnnot",
     "aejnpstu",
     "aelmo",
     "aelmru",
@@ -4381,6 +4382,10 @@
     {
       "date": "2024-10-19T12:06:00.473Z",
       "anagram": "aacdefhno"
+    },
+    {
+      "date": "2024-10-19T16:03:49.065Z",
+      "anagram": "aejnnot"
     }
   ]
 }
