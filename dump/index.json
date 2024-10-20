@@ -337,6 +337,7 @@
     "ablmmosu",
     "ablmmou",
     "ablor",
+    "aboorrsu",
     "abort",
     "abostu",
     "accceiiln",
@@ -4401,6 +4402,10 @@
     {
       "date": "2024-10-20T12:05:52.425Z",
       "anagram": "ddeiloosvv"
+    },
+    {
+      "date": "2024-10-20T16:03:47.799Z",
+      "anagram": "aboorrsu"
     }
   ]
 }
