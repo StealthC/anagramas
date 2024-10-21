@@ -345,6 +345,7 @@
     "accddfiioo",
     "accdeenrs",
     "accdeirss",
+    "acceest",
     "accehior",
     "acceipst",
     "acceist",
@@ -4421,6 +4422,10 @@
     {
       "date": "2024-10-21T12:06:16.398Z",
       "anagram": "coosst"
+    },
+    {
+      "date": "2024-10-21T16:04:20.790Z",
+      "anagram": "acceest"
     }
   ]
 }
