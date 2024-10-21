@@ -765,6 +765,7 @@
     "cioot",
     "ciops",
     "cnoors",
+    "coosst",
     "corssu",
     "dddeeimos",
     "ddeeinnost",
@@ -4416,6 +4417,10 @@
     {
       "date": "2024-10-21T00:16:25.874Z",
       "anagram": "aacddeep"
+    },
+    {
+      "date": "2024-10-21T12:06:16.398Z",
+      "anagram": "coosst"
     }
   ]
 }
