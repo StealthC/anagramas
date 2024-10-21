@@ -109,6 +109,7 @@
     "aaccoot",
     "aaccosv",
     "aaccou",
+    "aacddeep",
     "aacddeis",
     "aacddins",
     "aacddissu",
@@ -4411,6 +4412,10 @@
     {
       "date": "2024-10-20T20:03:41.742Z",
       "anagram": "agioprr"
+    },
+    {
+      "date": "2024-10-21T00:16:25.874Z",
+      "anagram": "aacddeep"
     }
   ]
 }
