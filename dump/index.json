@@ -880,6 +880,7 @@
     "iilmnooop",
     "iimnoostx",
     "iinrrstu",
+    "imopru",
     "imosst",
     "inosu",
     "moopsstu",
@@ -4426,6 +4427,10 @@
     {
       "date": "2024-10-21T16:04:20.790Z",
       "anagram": "acceest"
+    },
+    {
+      "date": "2024-10-21T20:04:05.888Z",
+      "anagram": "imopru"
     }
   ]
 }
