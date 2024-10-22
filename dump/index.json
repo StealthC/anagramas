@@ -550,6 +550,7 @@
     "aeglns",
     "aegrr",
     "aegrrr",
+    "aegrs",
     "aegrt",
     "aehimns",
     "aehinnqtu",
@@ -4436,6 +4437,10 @@
     {
       "date": "2024-10-22T00:15:40.813Z",
       "anagram": "acort"
+    },
+    {
+      "date": "2024-10-22T12:06:30.613Z",
+      "anagram": "aegrs"
     }
   ]
 }
