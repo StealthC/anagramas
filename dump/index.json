@@ -430,6 +430,7 @@
     "acmo",
     "acnorr",
     "acors",
+    "acort",
     "acos",
     "acost",
     "acrrsuu",
@@ -4431,6 +4432,10 @@
     {
       "date": "2024-10-21T20:04:05.888Z",
       "anagram": "imopru"
+    },
+    {
+      "date": "2024-10-22T00:15:40.813Z",
+      "anagram": "acort"
     }
   ]
 }
