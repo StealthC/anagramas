@@ -644,6 +644,7 @@
     "aiirst",
     "aijlost",
     "aills",
+    "ailoops",
     "ailorv",
     "ailov",
     "ailrsu",
@@ -4451,6 +4452,10 @@
     {
       "date": "2024-10-22T20:04:15.421Z",
       "anagram": "aaddenst"
+    },
+    {
+      "date": "2024-10-23T00:15:41.647Z",
+      "anagram": "ailoops"
     }
   ]
 }
