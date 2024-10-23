@@ -196,6 +196,7 @@
     "aadeillo",
     "aadeils",
     "aadelqu",
+    "aadelsu",
     "aadelv",
     "aademruz",
     "aadenrrr",
@@ -4461,6 +4462,10 @@
     {
       "date": "2024-10-23T12:06:15.005Z",
       "anagram": "aceglos"
+    },
+    {
+      "date": "2024-10-23T16:04:36.133Z",
+      "anagram": "aadelsu"
     }
   ]
 }
