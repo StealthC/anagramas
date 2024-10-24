@@ -114,6 +114,7 @@
     "aacddins",
     "aacddissu",
     "aacdeehrs",
+    "aacdeeisv",
     "aacdefhno",
     "aacdefhs",
     "aacdeghs",
@@ -4486,6 +4487,10 @@
     {
       "date": "2024-10-24T16:04:26.718Z",
       "anagram": "afglruu"
+    },
+    {
+      "date": "2024-10-24T20:04:31.680Z",
+      "anagram": "aacdeeisv"
     }
   ]
 }
