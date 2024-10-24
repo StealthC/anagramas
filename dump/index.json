@@ -291,6 +291,7 @@
     "aajmnr",
     "aajnrtu",
     "aaloppu",
+    "aalorss",
     "aalouz",
     "aamns",
     "aamst",
@@ -4476,6 +4477,10 @@
     {
       "date": "2024-10-24T00:15:46.290Z",
       "anagram": "adeeilno"
+    },
+    {
+      "date": "2024-10-24T12:06:26.310Z",
+      "anagram": "aalorss"
     }
   ]
 }
