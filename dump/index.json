@@ -608,6 +608,7 @@
     "aeorrt",
     "aepprruu",
     "aeprrtu",
+    "afglruu",
     "afgoooprt",
     "afhinoqru",
     "afilnr",
@@ -4481,6 +4482,10 @@
     {
       "date": "2024-10-24T12:06:26.310Z",
       "anagram": "aalorss"
+    },
+    {
+      "date": "2024-10-24T16:04:26.718Z",
+      "anagram": "afglruu"
     }
   ]
 }
