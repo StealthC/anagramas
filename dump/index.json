@@ -182,6 +182,7 @@
     "aaddfnosu",
     "aaddhiinov",
     "aaddiimsz",
+    "aaddilot",
     "aaddirtu",
     "aaddloss",
     "aaddos",
@@ -4506,6 +4507,10 @@
     {
       "date": "2024-10-25T16:04:20.800Z",
       "anagram": "acddeoru"
+    },
+    {
+      "date": "2024-10-25T20:04:39.821Z",
+      "anagram": "aaddilot"
     }
   ]
 }
