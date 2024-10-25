@@ -362,6 +362,7 @@
     "acclo",
     "acddeiinu",
     "acddeiop",
+    "acddeoru",
     "acdeeenrrt",
     "acdeeinps",
     "acdefiir",
@@ -4501,6 +4502,10 @@
     {
       "date": "2024-10-25T12:06:02.929Z",
       "anagram": "abiist"
+    },
+    {
+      "date": "2024-10-25T16:04:20.800Z",
+      "anagram": "acddeoru"
     }
   ]
 }
