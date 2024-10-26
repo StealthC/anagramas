@@ -503,6 +503,7 @@
     "adgirssu",
     "adgor",
     "adgrru",
+    "adhiort",
     "adhor",
     "adiiimmpr",
     "adiiimmprs",
@@ -4516,6 +4517,10 @@
     {
       "date": "2024-10-26T00:15:35.780Z",
       "anagram": "inoprt"
+    },
+    {
+      "date": "2024-10-26T12:06:16.500Z",
+      "anagram": "adhiort"
     }
   ]
 }
