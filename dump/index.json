@@ -652,6 +652,7 @@
     "aiilmpssst",
     "aiilmrt",
     "aiilosv",
+    "aiinprrs",
     "aiiopt",
     "aiirst",
     "aijlost",
@@ -4526,6 +4527,10 @@
     {
       "date": "2024-10-26T16:04:04.424Z",
       "anagram": "aacelntt"
+    },
+    {
+      "date": "2024-10-26T20:03:59.549Z",
+      "anagram": "aiinprrs"
     }
   ]
 }
