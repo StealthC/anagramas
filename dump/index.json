@@ -898,6 +898,7 @@
     "iinrrstu",
     "imopru",
     "imosst",
+    "inoprt",
     "inosu",
     "moopsstu",
     "nnoorstu",
@@ -4511,6 +4512,10 @@
     {
       "date": "2024-10-25T20:04:39.821Z",
       "anagram": "aaddilot"
+    },
+    {
+      "date": "2024-10-26T00:15:35.780Z",
+      "anagram": "inoprt"
     }
   ]
 }
