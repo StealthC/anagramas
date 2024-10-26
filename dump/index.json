@@ -142,6 +142,7 @@
     "aaceiprr",
     "aaceit",
     "aacejrrv",
+    "aacelntt",
     "aacelss",
     "aacemp",
     "aacerrt",
@@ -4521,6 +4522,10 @@
     {
       "date": "2024-10-26T12:06:16.500Z",
       "anagram": "adhiort"
+    },
+    {
+      "date": "2024-10-26T16:04:04.424Z",
+      "anagram": "aacelntt"
     }
   ]
 }
