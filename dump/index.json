@@ -680,6 +680,7 @@
     "aiopt",
     "aiorsv",
     "aiprrt",
+    "aiprs",
     "aiqrtu",
     "ajnrtu",
     "almotu",
@@ -4546,6 +4547,10 @@
     {
       "date": "2024-10-27T16:04:08.922Z",
       "anagram": "aacdhmos"
+    },
+    {
+      "date": "2024-10-27T20:04:07.039Z",
+      "anagram": "aiprs"
     }
   ]
 }
