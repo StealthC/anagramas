@@ -614,6 +614,7 @@
     "aenrstu",
     "aeooprs",
     "aeoprrs",
+    "aeoprsx",
     "aeoprx",
     "aeopsss",
     "aeoqrtuz",
@@ -4561,6 +4562,10 @@
     {
       "date": "2024-10-28T12:06:35.524Z",
       "anagram": "aegiort"
+    },
+    {
+      "date": "2024-10-28T16:04:30.262Z",
+      "anagram": "aeoprsx"
     }
   ]
 }
