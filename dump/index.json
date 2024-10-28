@@ -874,6 +874,7 @@
     "eimoprs",
     "eimost",
     "eimosv",
+    "einnotv",
     "eiooqssu",
     "eloos",
     "elopr",
@@ -4566,6 +4567,10 @@
     {
       "date": "2024-10-28T16:04:30.262Z",
       "anagram": "aeoprsx"
+    },
+    {
+      "date": "2024-10-28T20:04:18.919Z",
+      "anagram": "einnotv"
     }
   ]
 }
