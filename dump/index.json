@@ -414,6 +414,7 @@
     "acflo",
     "acghno",
     "acghnos",
+    "acgiinnot",
     "acgiirru",
     "acgimos",
     "acginru",
@@ -4581,6 +4582,10 @@
     {
       "date": "2024-10-29T12:06:28.703Z",
       "anagram": "bdeemorz"
+    },
+    {
+      "date": "2024-10-29T16:04:30.192Z",
+      "anagram": "acgiinnot"
     }
   ]
 }
