@@ -102,6 +102,7 @@
     "aaccehr",
     "aacchins",
     "aacciimst",
+    "aaccinr",
     "aaccior",
     "aaccloopu",
     "aacclr",
@@ -4591,6 +4592,10 @@
     {
       "date": "2024-10-29T20:04:29.284Z",
       "anagram": "aeempst"
+    },
+    {
+      "date": "2024-10-30T00:16:00.660Z",
+      "anagram": "aaccinr"
     }
   ]
 }
