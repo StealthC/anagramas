@@ -557,6 +557,7 @@
     "aeeprstz",
     "aefglnor",
     "aefgort",
+    "aefiost",
     "aeflors",
     "aeflox",
     "aefmnstu",
@@ -4621,6 +4622,10 @@
     {
       "date": "2024-10-31T12:06:05.785Z",
       "anagram": "aadhnsu"
+    },
+    {
+      "date": "2024-10-31T16:04:36.906Z",
+      "anagram": "aefiost"
     }
   ]
 }
