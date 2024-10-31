@@ -429,6 +429,7 @@
     "aciimst",
     "aciintv",
     "aciioppr",
+    "aciiopsu",
     "acilnsu",
     "acilnt",
     "acilo",
@@ -4626,6 +4627,10 @@
     {
       "date": "2024-10-31T16:04:36.906Z",
       "anagram": "aefiost"
+    },
+    {
+      "date": "2024-10-31T20:04:06.147Z",
+      "anagram": "aciiopsu"
     }
   ]
 }
