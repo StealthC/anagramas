@@ -219,6 +219,7 @@
     "aadgrr",
     "aadgru",
     "aadgsu",
+    "aadhnsu",
     "aadiiinnst",
     "aadiipst",
     "aadinno",
@@ -4616,6 +4617,10 @@
     {
       "date": "2024-10-31T00:15:47.537Z",
       "anagram": "acdeo"
+    },
+    {
+      "date": "2024-10-31T12:06:05.785Z",
+      "anagram": "aadhnsu"
     }
   ]
 }
