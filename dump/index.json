@@ -396,6 +396,7 @@
     "aceeiimnns",
     "aceeituvx",
     "aceeprr",
+    "aceeprrv",
     "aceerrr",
     "aceglos",
     "acegoosz",
@@ -4631,6 +4632,10 @@
     {
       "date": "2024-10-31T20:04:06.147Z",
       "anagram": "aciiopsu"
+    },
+    {
+      "date": "2024-11-01T00:17:39.138Z",
+      "anagram": "aceeprrv"
     }
   ]
 }
