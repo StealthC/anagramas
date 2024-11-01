@@ -34,6 +34,7 @@
     "aaacimnno",
     "aaacinrs",
     "aaacipst",
+    "aaaclmr",
     "aaaclrr",
     "aaacmrrss",
     "aaacrrt",
@@ -4636,6 +4637,10 @@
     {
       "date": "2024-11-01T00:17:39.138Z",
       "anagram": "aceeprrv"
+    },
+    {
+      "date": "2024-11-01T12:06:30.203Z",
+      "anagram": "aaaclmr"
     }
   ]
 }
