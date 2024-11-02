@@ -818,6 +818,7 @@
     "deeeegnrtt",
     "deeefinrt",
     "deeeilnstv",
+    "deeeinprst",
     "deefiiinsv",
     "deeiilops",
     "deeimnoss",
@@ -4666,6 +4667,10 @@
     {
       "date": "2024-11-02T16:04:10.410Z",
       "anagram": "cgimoo"
+    },
+    {
+      "date": "2024-11-02T20:04:46.414Z",
+      "anagram": "deeeinprst"
     }
   ]
 }
