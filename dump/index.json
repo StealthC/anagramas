@@ -596,6 +596,7 @@
     "aeimpss",
     "aeimpsss",
     "aeimrs",
+    "aeimstuz",
     "aeinnrrt",
     "aeinps",
     "aeinpss",
@@ -4651,6 +4652,10 @@
     {
       "date": "2024-11-01T20:04:20.162Z",
       "anagram": "adegirr"
+    },
+    {
+      "date": "2024-11-02T00:15:27.954Z",
+      "anagram": "aeimstuz"
     }
   ]
 }
