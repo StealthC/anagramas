@@ -355,6 +355,7 @@
     "ablmmou",
     "ablor",
     "aboorrsu",
+    "aborrt",
     "abort",
     "abostu",
     "accceiiln",
@@ -4676,6 +4677,10 @@
     {
       "date": "2024-11-03T00:17:37.470Z",
       "anagram": "aadfios"
+    },
+    {
+      "date": "2024-11-03T12:05:33.850Z",
+      "anagram": "aborrt"
     }
   ]
 }
