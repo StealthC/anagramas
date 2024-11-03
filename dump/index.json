@@ -211,6 +211,7 @@
     "aadessv",
     "aadfgils",
     "aadfgis",
+    "aadfios",
     "aadfir",
     "aadgilru",
     "aadgint",
@@ -4671,6 +4672,10 @@
     {
       "date": "2024-11-02T20:04:46.414Z",
       "anagram": "deeeinprst"
+    },
+    {
+      "date": "2024-11-03T00:17:37.470Z",
+      "anagram": "aadfios"
     }
   ]
 }
