@@ -271,6 +271,7 @@
     "aaenprt",
     "aaenrtv",
     "aaeprs",
+    "aaerrr",
     "aaestux",
     "aafiinrt",
     "aafimrr",
@@ -4686,6 +4687,10 @@
     {
       "date": "2024-11-03T16:04:39.033Z",
       "anagram": "aaadrsx"
+    },
+    {
+      "date": "2024-11-03T20:03:47.760Z",
+      "anagram": "aaerrr"
     }
   ]
 }
