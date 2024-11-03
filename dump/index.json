@@ -57,6 +57,7 @@
     "aaadlmor",
     "aaadmort",
     "aaadprrsu",
+    "aaadrsx",
     "aaadrtt",
     "aaaegmrss",
     "aaafilstt",
@@ -4681,6 +4682,10 @@
     {
       "date": "2024-11-03T12:05:33.850Z",
       "anagram": "aborrt"
+    },
+    {
+      "date": "2024-11-03T16:04:39.033Z",
+      "anagram": "aaadrsx"
     }
   ]
 }
