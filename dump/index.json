@@ -693,6 +693,7 @@
     "aimoz",
     "aimpr",
     "aimpt",
+    "ainort",
     "ainortu",
     "ainosz",
     "ainqtu",
@@ -4706,6 +4707,10 @@
     {
       "date": "2024-11-04T16:04:41.094Z",
       "anagram": "ceiimopr"
+    },
+    {
+      "date": "2024-11-04T20:04:05.840Z",
+      "anagram": "ainort"
     }
   ]
 }
