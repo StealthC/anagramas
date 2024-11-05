@@ -942,6 +942,7 @@
     "imosst",
     "inoprt",
     "inosu",
+    "loorsu",
     "moopsstu",
     "nnoorstu",
     "ooopprsst"
@@ -4726,6 +4727,10 @@
     {
       "date": "2024-11-05T16:04:17.069Z",
       "anagram": "dfiloor"
+    },
+    {
+      "date": "2024-11-05T20:04:24.928Z",
+      "anagram": "loorsu"
     }
   ]
 }
