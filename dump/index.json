@@ -299,6 +299,7 @@
     "aailmmx",
     "aainnrszz",
     "aainrt",
+    "aainss",
     "aaiopttv",
     "aaiprst",
     "aairrtt",
@@ -4711,6 +4712,10 @@
     {
       "date": "2024-11-04T20:04:05.840Z",
       "anagram": "ainort"
+    },
+    {
+      "date": "2024-11-05T00:15:29.793Z",
+      "anagram": "aainss"
     }
   ]
 }
