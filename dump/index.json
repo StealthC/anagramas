@@ -623,6 +623,7 @@
     "aejnpstu",
     "aelmo",
     "aelmru",
+    "aelos",
     "aeloss",
     "aelpr",
     "aelsv",
@@ -4736,6 +4737,10 @@
     {
       "date": "2024-11-06T16:04:20.567Z",
       "anagram": "accmoopt"
+    },
+    {
+      "date": "2024-11-06T20:04:20.111Z",
+      "anagram": "aelos"
     }
   ]
 }
