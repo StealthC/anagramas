@@ -877,6 +877,7 @@
     "eeoprt",
     "eeopsss",
     "eeorstv",
+    "eeprss",
     "efghiiloor",
     "efgilmu",
     "efilrru",
@@ -4741,6 +4742,10 @@
     {
       "date": "2024-11-06T20:04:20.111Z",
       "anagram": "aelos"
+    },
+    {
+      "date": "2024-11-07T00:15:45.388Z",
+      "anagram": "eeprss"
     }
   ]
 }
