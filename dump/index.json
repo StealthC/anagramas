@@ -512,6 +512,7 @@
     "adeorrs",
     "adepr",
     "adeprs",
+    "adfgios",
     "adfgiu",
     "adfhinor",
     "adfinstu",
@@ -4746,6 +4747,10 @@
     {
       "date": "2024-11-07T00:15:45.388Z",
       "anagram": "eeprss"
+    },
+    {
+      "date": "2024-11-07T12:06:09.778Z",
+      "anagram": "adfgios"
     }
   ]
 }
