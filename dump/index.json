@@ -405,6 +405,7 @@
     "aceeenrrs",
     "aceefirs",
     "aceeiimnns",
+    "aceeilnss",
     "aceeituvx",
     "aceeprr",
     "aceeprrv",
@@ -4766,6 +4767,10 @@
     {
       "date": "2024-11-08T00:15:29.008Z",
       "anagram": "ceglooo"
+    },
+    {
+      "date": "2024-11-08T12:06:22.862Z",
+      "anagram": "aceeilnss"
     }
   ]
 }
