@@ -862,6 +862,7 @@
     "dfiloor",
     "dginosu",
     "diimnoo",
+    "diinoopsst",
     "dilnostu",
     "dinooprv",
     "diost",
@@ -4786,6 +4787,10 @@
     {
       "date": "2024-11-09T00:15:25.341Z",
       "anagram": "aaddefnos"
+    },
+    {
+      "date": "2024-11-09T12:05:45.680Z",
+      "anagram": "diinoopsst"
     }
   ]
 }
