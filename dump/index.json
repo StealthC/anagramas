@@ -138,6 +138,7 @@
     "aacdins",
     "aacdo",
     "aacdorv",
+    "aacdos",
     "aaceelmmnt",
     "aaceeltv",
     "aacefot",
@@ -4796,6 +4797,10 @@
     {
       "date": "2024-11-09T16:03:50.425Z",
       "anagram": "emort"
+    },
+    {
+      "date": "2024-11-09T20:03:52.435Z",
+      "anagram": "aacdos"
     }
   ]
 }
