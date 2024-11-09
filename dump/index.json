@@ -924,6 +924,7 @@
     "emnort",
     "emoorrss",
     "emorst",
+    "emort",
     "enoosstv",
     "enoostv",
     "eooprs",
@@ -4791,6 +4792,10 @@
     {
       "date": "2024-11-09T12:05:45.680Z",
       "anagram": "diinoopsst"
+    },
+    {
+      "date": "2024-11-09T16:03:50.425Z",
+      "anagram": "emort"
     }
   ]
 }
