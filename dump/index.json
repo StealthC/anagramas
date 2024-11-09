@@ -181,6 +181,7 @@
     "aaddeelsv",
     "aaddeemn",
     "aaddeenps",
+    "aaddefnos",
     "aaddeinqtu",
     "aaddenst",
     "aaddeopr",
@@ -4781,6 +4782,10 @@
     {
       "date": "2024-11-08T20:04:03.782Z",
       "anagram": "aaaorttv"
+    },
+    {
+      "date": "2024-11-09T00:15:25.341Z",
+      "anagram": "aaddefnos"
     }
   ]
 }
