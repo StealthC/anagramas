@@ -275,6 +275,7 @@
     "aaenortz",
     "aaenprt",
     "aaenrtv",
+    "aaentv",
     "aaeprs",
     "aaerrr",
     "aaestux",
@@ -4811,6 +4812,10 @@
     {
       "date": "2024-11-10T12:05:24.539Z",
       "anagram": "emopsux"
+    },
+    {
+      "date": "2024-11-10T16:04:11.821Z",
+      "anagram": "aaentv"
     }
   ]
 }
