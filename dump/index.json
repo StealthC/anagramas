@@ -578,6 +578,7 @@
     "aeeprstz",
     "aefglnor",
     "aefgort",
+    "aefioss",
     "aefiost",
     "aeflors",
     "aeflox",
@@ -4831,6 +4832,10 @@
     {
       "date": "2024-11-11T12:06:35.603Z",
       "anagram": "eelsst"
+    },
+    {
+      "date": "2024-11-11T16:04:03.506Z",
+      "anagram": "aefioss"
     }
   ]
 }
