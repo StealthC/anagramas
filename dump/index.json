@@ -848,6 +848,7 @@
     "deeiilops",
     "deeimnoss",
     "deeioprrt",
+    "deemnor",
     "deenoossst",
     "deeooprrsv",
     "deesstu",
@@ -4856,6 +4857,10 @@
     {
       "date": "2024-11-12T16:04:24.862Z",
       "anagram": "diimnostu"
+    },
+    {
+      "date": "2024-11-12T20:04:01.165Z",
+      "anagram": "deemnor"
     }
   ]
 }
