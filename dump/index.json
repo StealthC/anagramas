@@ -289,6 +289,7 @@
     "aagil",
     "aagilrs",
     "aagils",
+    "aaginpst",
     "aaginrrt",
     "aaginrt",
     "aaginu",
@@ -4871,6 +4872,10 @@
     {
       "date": "2024-11-13T12:06:30.575Z",
       "anagram": "aceeeprr"
+    },
+    {
+      "date": "2024-11-13T16:04:43.285Z",
+      "anagram": "aaginpst"
     }
   ]
 }
