@@ -963,6 +963,7 @@
     "glnoos",
     "gloors",
     "hiimnopr",
+    "hiimnoprs",
     "hilnopu",
     "hilort",
     "hnooss",
@@ -4886,6 +4887,10 @@
     {
       "date": "2024-11-14T00:15:36.620Z",
       "anagram": "cdhiloo"
+    },
+    {
+      "date": "2024-11-14T12:06:31.941Z",
+      "anagram": "hiimnoprs"
     }
   ]
 }
