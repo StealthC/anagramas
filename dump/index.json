@@ -782,6 +782,7 @@
     "cdeimprrsu",
     "cdghooru",
     "cdgioos",
+    "cdhiloo",
     "cdiinnoot",
     "cdimooosv",
     "cdioorrs",
@@ -4881,6 +4882,10 @@
     {
       "date": "2024-11-13T20:04:08.963Z",
       "anagram": "bcdeeiors"
+    },
+    {
+      "date": "2024-11-14T00:15:36.620Z",
+      "anagram": "cdhiloo"
     }
   ]
 }
