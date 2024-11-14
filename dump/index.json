@@ -220,6 +220,7 @@
     "aadfios",
     "aadfir",
     "aadgilru",
+    "aadgils",
     "aadgint",
     "aadgllnu",
     "aadgmor",
@@ -4896,6 +4897,10 @@
     {
       "date": "2024-11-14T16:04:25.615Z",
       "anagram": "ddeeimors"
+    },
+    {
+      "date": "2024-11-14T20:04:19.502Z",
+      "anagram": "aadgils"
     }
   ]
 }
