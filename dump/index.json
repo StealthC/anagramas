@@ -470,6 +470,7 @@
     "acloosu",
     "aclops",
     "acmo",
+    "acno",
     "acnorr",
     "acors",
     "acort",
@@ -4916,6 +4917,10 @@
     {
       "date": "2024-11-15T16:04:17.657Z",
       "anagram": "aaabcl"
+    },
+    {
+      "date": "2024-11-15T20:04:13.788Z",
+      "anagram": "acno"
     }
   ]
 }
