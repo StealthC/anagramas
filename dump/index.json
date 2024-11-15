@@ -13,6 +13,7 @@
     "aaabcdeno",
     "aaabcest",
     "aaabcinr",
+    "aaabcl",
     "aaabcor",
     "aaabcrr",
     "aaabddnor",
@@ -4911,6 +4912,10 @@
     {
       "date": "2024-11-15T12:06:05.683Z",
       "anagram": "ffilooos"
+    },
+    {
+      "date": "2024-11-15T16:04:17.657Z",
+      "anagram": "aaabcl"
     }
   ]
 }
