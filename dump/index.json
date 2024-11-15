@@ -185,6 +185,7 @@
     "aaddeenps",
     "aaddefnos",
     "aaddeinqtu",
+    "aaddelno",
     "aaddenst",
     "aaddeopr",
     "aaddeost",
@@ -4901,6 +4902,10 @@
     {
       "date": "2024-11-14T20:04:19.502Z",
       "anagram": "aadgils"
+    },
+    {
+      "date": "2024-11-15T00:16:52.980Z",
+      "anagram": "aaddelno"
     }
   ]
 }
