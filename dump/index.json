@@ -28,6 +28,7 @@
     "aaacdennr",
     "aaacdhruv",
     "aaacdinv",
+    "aaacdl",
     "aaacdnn",
     "aaacdrst",
     "aaaceirrru",
@@ -4921,6 +4922,10 @@
     {
       "date": "2024-11-15T20:04:13.788Z",
       "anagram": "acno"
+    },
+    {
+      "date": "2024-11-16T00:17:08.610Z",
+      "anagram": "aaacdl"
     }
   ]
 }
