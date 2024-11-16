@@ -46,6 +46,7 @@
     "aaadefintz",
     "aaadegl",
     "aaadeijls",
+    "aaadeiln",
     "aaadelnt",
     "aaadelrt",
     "aaademns",
@@ -4926,6 +4927,10 @@
     {
       "date": "2024-11-16T00:17:08.610Z",
       "anagram": "aaacdl"
+    },
+    {
+      "date": "2024-11-16T12:05:42.118Z",
+      "anagram": "aaadeiln"
     }
   ]
 }
