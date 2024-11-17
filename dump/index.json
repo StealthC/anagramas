@@ -130,6 +130,7 @@
     "aacdegip",
     "aacden",
     "aacdfiimmu",
+    "aacdfiit",
     "aacdfino",
     "aacdgho",
     "aacdgiiot",
@@ -4946,6 +4947,10 @@
     {
       "date": "2024-11-17T00:18:00.039Z",
       "anagram": "fiorstuv"
+    },
+    {
+      "date": "2024-11-17T12:05:42.718Z",
+      "anagram": "aacdfiit"
     }
   ]
 }
