@@ -685,6 +685,7 @@
     "agimopr",
     "agioorrs",
     "agioprr",
+    "aglnotu",
     "aglor",
     "agoorrtu",
     "agorsu",
@@ -4956,6 +4957,10 @@
     {
       "date": "2024-11-17T16:04:09.788Z",
       "anagram": "deioptu"
+    },
+    {
+      "date": "2024-11-17T20:04:19.049Z",
+      "anagram": "aglnotu"
     }
   ]
 }
