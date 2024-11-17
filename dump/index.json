@@ -877,6 +877,7 @@
     "deioorrs",
     "deioors",
     "deioprt",
+    "deioptu",
     "deiortv",
     "deirsuz",
     "delouv",
@@ -4951,6 +4952,10 @@
     {
       "date": "2024-11-17T12:05:42.718Z",
       "anagram": "aacdfiit"
+    },
+    {
+      "date": "2024-11-17T16:04:09.788Z",
+      "anagram": "deioptu"
     }
   ]
 }
