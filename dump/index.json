@@ -605,6 +605,7 @@
     "aeginnot",
     "aeginrrt",
     "aegiort",
+    "aegiosst",
     "aeglns",
     "aegrr",
     "aegrrr",
@@ -4976,6 +4977,10 @@
     {
       "date": "2024-11-18T16:04:45.734Z",
       "anagram": "aacdjnsu"
+    },
+    {
+      "date": "2024-11-18T20:04:24.665Z",
+      "anagram": "aegiosst"
     }
   ]
 }
