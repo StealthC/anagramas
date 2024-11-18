@@ -819,6 +819,7 @@
     "ceilosttu",
     "ceimnot",
     "ceimot",
+    "ceinos",
     "ceiopst",
     "ceirss",
     "celnos",
@@ -4966,6 +4967,10 @@
     {
       "date": "2024-11-18T00:17:23.169Z",
       "anagram": "aabdeirt"
+    },
+    {
+      "date": "2024-11-18T12:06:50.862Z",
+      "anagram": "ceinos"
     }
   ]
 }
