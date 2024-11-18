@@ -142,6 +142,7 @@
     "aacdiiins",
     "aacdiiprr",
     "aacdins",
+    "aacdjnsu",
     "aacdo",
     "aacdorv",
     "aacdos",
@@ -4971,6 +4972,10 @@
     {
       "date": "2024-11-18T12:06:50.862Z",
       "anagram": "ceinos"
+    },
+    {
+      "date": "2024-11-18T16:04:45.734Z",
+      "anagram": "aacdjnsu"
     }
   ]
 }
