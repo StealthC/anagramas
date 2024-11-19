@@ -454,6 +454,7 @@
     "acgno",
     "achlooppu",
     "achmsu",
+    "achnoor",
     "aciilnrt",
     "aciilrt",
     "aciimst",
@@ -4991,6 +4992,10 @@
     {
       "date": "2024-11-19T16:04:50.498Z",
       "anagram": "aeellnruvv"
+    },
+    {
+      "date": "2024-11-19T20:04:21.141Z",
+      "anagram": "achnoor"
     }
   ]
 }
