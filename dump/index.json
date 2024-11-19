@@ -583,6 +583,7 @@
     "aeeiistvv",
     "aeeinnsstz",
     "aeeinorv",
+    "aeellnruvv",
     "aeemnnotv",
     "aeemnsx",
     "aeempst",
@@ -4986,6 +4987,10 @@
     {
       "date": "2024-11-19T12:06:35.782Z",
       "anagram": "aceehrrst"
+    },
+    {
+      "date": "2024-11-19T16:04:50.498Z",
+      "anagram": "aeellnruvv"
     }
   ]
 }
