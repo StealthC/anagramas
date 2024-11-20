@@ -255,6 +255,7 @@
     "aadmop",
     "aadnorr",
     "aadoorrs",
+    "aadoprs",
     "aadorrt",
     "aadors",
     "aadorss",
@@ -5011,6 +5012,10 @@
     {
       "date": "2024-11-20T16:04:33.088Z",
       "anagram": "aacejrrt"
+    },
+    {
+      "date": "2024-11-20T20:04:12.865Z",
+      "anagram": "aadoprs"
     }
   ]
 }
