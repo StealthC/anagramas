@@ -524,6 +524,7 @@
     "adeirtu",
     "adelopr",
     "adelotuv",
+    "adelov",
     "adeltu",
     "ademrs",
     "adenorv",
@@ -5001,6 +5002,10 @@
     {
       "date": "2024-11-20T00:16:40.918Z",
       "anagram": "aelprsu"
+    },
+    {
+      "date": "2024-11-20T12:06:17.665Z",
+      "anagram": "adelov"
     }
   ]
 }
