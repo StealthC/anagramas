@@ -652,6 +652,7 @@
     "aelos",
     "aeloss",
     "aelpr",
+    "aelprsu",
     "aelsv",
     "aelttux",
     "aemoostt",
@@ -4996,6 +4997,10 @@
     {
       "date": "2024-11-19T20:04:21.141Z",
       "anagram": "achnoor"
+    },
+    {
+      "date": "2024-11-20T00:16:40.918Z",
+      "anagram": "aelprsu"
     }
   ]
 }
