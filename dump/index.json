@@ -742,6 +742,7 @@
     "aiprs",
     "aiqrtu",
     "ajnrtu",
+    "ajsstu",
     "almotu",
     "alooprt",
     "aloru",
@@ -5026,6 +5027,10 @@
     {
       "date": "2024-11-21T16:04:29.483Z",
       "anagram": "aaahnorr"
+    },
+    {
+      "date": "2024-11-21T20:04:13.779Z",
+      "anagram": "ajsstu"
     }
   ]
 }
