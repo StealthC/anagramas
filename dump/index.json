@@ -71,6 +71,7 @@
     "aaaglrt",
     "aaagnrsu",
     "aaahinov",
+    "aaahnorr",
     "aaaiilnt",
     "aaaiinnrs",
     "aaaipps",
@@ -5021,6 +5022,10 @@
     {
       "date": "2024-11-21T00:16:48.759Z",
       "anagram": "deosstu"
+    },
+    {
+      "date": "2024-11-21T16:04:29.483Z",
+      "anagram": "aaahnorr"
     }
   ]
 }
