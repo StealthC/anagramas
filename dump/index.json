@@ -873,6 +873,7 @@
     "deeeegnrtt",
     "deeefinrt",
     "deeeilnstv",
+    "deeeimnorr",
     "deeeinprst",
     "deefiiinsv",
     "deeiilops",
@@ -5041,6 +5042,10 @@
     {
       "date": "2024-11-22T16:05:12.875Z",
       "anagram": "acddeis"
+    },
+    {
+      "date": "2024-11-22T20:04:15.667Z",
+      "anagram": "deeeimnorr"
     }
   ]
 }
