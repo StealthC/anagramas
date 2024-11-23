@@ -838,6 +838,7 @@
     "ceirss",
     "celnos",
     "celooostv",
+    "cenoorrsv",
     "ceoops",
     "ceorsu",
     "ceorsv",
@@ -5061,6 +5062,10 @@
     {
       "date": "2024-11-23T16:04:00.260Z",
       "anagram": "ehinorss"
+    },
+    {
+      "date": "2024-11-23T20:03:58.561Z",
+      "anagram": "cenoorrsv"
     }
   ]
 }
