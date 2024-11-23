@@ -7,6 +7,7 @@
     "aaaaccdlns",
     "aaaacceor",
     "aaaacdhlps",
+    "aaaacdlms",
     "aaaacdmp",
     "aaaacdmr",
     "aaaadmprs",
@@ -5051,6 +5052,10 @@
     {
       "date": "2024-11-23T00:17:09.609Z",
       "anagram": "einnostv"
+    },
+    {
+      "date": "2024-11-23T12:06:34.743Z",
+      "anagram": "aaaacdlms"
     }
   ]
 }
