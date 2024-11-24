@@ -10,6 +10,7 @@
     "aaaacdlms",
     "aaaacdmp",
     "aaaacdmr",
+    "aaaadglrs",
     "aaaadmprs",
     "aaabcdeno",
     "aaabcest",
@@ -5076,6 +5077,10 @@
     {
       "date": "2024-11-24T12:05:46.949Z",
       "anagram": "cddeiiopr"
+    },
+    {
+      "date": "2024-11-24T16:03:51.927Z",
+      "anagram": "aaaadglrs"
     }
   ]
 }
