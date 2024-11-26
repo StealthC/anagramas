@@ -1016,6 +1016,7 @@
     "imopru",
     "imosst",
     "inoprt",
+    "inostt",
     "inosu",
     "loorsu",
     "moopsstu",
@@ -5106,6 +5107,10 @@
     {
       "date": "2024-11-25T20:04:23.849Z",
       "anagram": "aeiinopr"
+    },
+    {
+      "date": "2024-11-26T00:17:01.400Z",
+      "anagram": "inostt"
     }
   ]
 }
