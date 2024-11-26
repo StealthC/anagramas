@@ -938,6 +938,7 @@
     "eenstu",
     "eeoprt",
     "eeopsss",
+    "eeorrst",
     "eeorstv",
     "eeprss",
     "efghiiloor",
@@ -5111,6 +5112,10 @@
     {
       "date": "2024-11-26T00:17:01.400Z",
       "anagram": "inostt"
+    },
+    {
+      "date": "2024-11-26T16:05:02.973Z",
+      "anagram": "eeorrst"
     }
   ]
 }
