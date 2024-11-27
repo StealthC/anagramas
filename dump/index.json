@@ -339,6 +339,7 @@
     "aanotv",
     "aanst",
     "aaort",
+    "aaprt",
     "aarst",
     "abbdeeeirs",
     "abbdemoo",
@@ -5121,6 +5122,10 @@
     {
       "date": "2024-11-26T20:04:22.936Z",
       "anagram": "chimoooopt"
+    },
+    {
+      "date": "2024-11-27T00:17:05.087Z",
+      "anagram": "aaprt"
     }
   ]
 }
