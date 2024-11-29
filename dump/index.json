@@ -710,6 +710,7 @@
     "agiilrtu",
     "agilr",
     "agimopr",
+    "agimrr",
     "agioorrs",
     "agioprr",
     "aglnotu",
@@ -5171,6 +5172,10 @@
     {
       "date": "2024-11-29T12:06:13.984Z",
       "anagram": "aceiot"
+    },
+    {
+      "date": "2024-11-29T20:04:20.713Z",
+      "anagram": "agimrr"
     }
   ]
 }
