@@ -449,6 +449,7 @@
     "aceiiinrr",
     "aceiirsv",
     "aceinnru",
+    "aceiot",
     "acellru",
     "acelns",
     "acelot",
@@ -5166,6 +5167,10 @@
     {
       "date": "2024-11-29T00:17:44.129Z",
       "anagram": "aaimsssv"
+    },
+    {
+      "date": "2024-11-29T12:06:13.984Z",
+      "anagram": "aceiot"
     }
   ]
 }
