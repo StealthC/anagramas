@@ -609,6 +609,7 @@
     "aeennossv",
     "aeenpstt",
     "aeenrtx",
+    "aeenstt",
     "aeeprstz",
     "aefglnor",
     "aefgort",
@@ -5181,6 +5182,10 @@
     {
       "date": "2024-11-30T00:16:32.626Z",
       "anagram": "eeiilloors"
+    },
+    {
+      "date": "2024-11-30T12:05:50.399Z",
+      "anagram": "aeenstt"
     }
   ]
 }
