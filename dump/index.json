@@ -88,6 +88,7 @@
     "aabcdhmsu",
     "aabcdos",
     "aabcefiit",
+    "aabcer",
     "aabcfir",
     "aabchnoo",
     "aabcios",
@@ -5186,6 +5187,10 @@
     {
       "date": "2024-11-30T12:05:50.399Z",
       "anagram": "aeenstt"
+    },
+    {
+      "date": "2024-11-30T16:03:55.854Z",
+      "anagram": "aabcer"
     }
   ]
 }
