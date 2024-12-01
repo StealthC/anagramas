@@ -783,6 +783,7 @@
     "aooprs",
     "aoostt",
     "aoprt",
+    "aopssstu",
     "aopst",
     "aortt",
     "bblosu",
@@ -5211,6 +5212,10 @@
     {
       "date": "2024-12-01T16:04:11.323Z",
       "anagram": "egiilmot"
+    },
+    {
+      "date": "2024-12-01T20:04:14.786Z",
+      "anagram": "aopssstu"
     }
   ]
 }
