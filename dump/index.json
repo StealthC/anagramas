@@ -967,6 +967,7 @@
     "efloprsuu",
     "eflors",
     "egiiilmot",
+    "egiilmot",
     "egimooss",
     "egiorrsst",
     "egirst",
@@ -5206,6 +5207,10 @@
     {
       "date": "2024-12-01T12:06:03.161Z",
       "anagram": "aaefortt"
+    },
+    {
+      "date": "2024-12-01T16:04:11.323Z",
+      "anagram": "egiilmot"
     }
   ]
 }
