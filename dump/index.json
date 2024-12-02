@@ -319,6 +319,7 @@
     "aahinpr",
     "aahinrsv",
     "aahmnoss",
+    "aaiilnrsz",
     "aaiiprrtvz",
     "aaijrv",
     "aaiknnost",
@@ -5216,6 +5217,10 @@
     {
       "date": "2024-12-01T20:04:14.786Z",
       "anagram": "aopssstu"
+    },
+    {
+      "date": "2024-12-02T00:17:53.829Z",
+      "anagram": "aaiilnrsz"
     }
   ]
 }
