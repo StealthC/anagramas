@@ -32,6 +32,7 @@
     "aaacdinv",
     "aaacdl",
     "aaacdnn",
+    "aaacdnrt",
     "aaacdrst",
     "aaaceirrru",
     "aaacgorv",
@@ -5221,6 +5222,10 @@
     {
       "date": "2024-12-02T00:17:53.829Z",
       "anagram": "aaiilnrsz"
+    },
+    {
+      "date": "2024-12-02T12:06:59.024Z",
+      "anagram": "aaacdnrt"
     }
   ]
 }
