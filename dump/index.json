@@ -332,6 +332,7 @@
     "aainss",
     "aaiopttv",
     "aaiprst",
+    "aaipt",
     "aairrtt",
     "aairsv",
     "aaisv",
@@ -5226,6 +5227,10 @@
     {
       "date": "2024-12-02T12:06:59.024Z",
       "anagram": "aaacdnrt"
+    },
+    {
+      "date": "2024-12-02T16:04:36.302Z",
+      "anagram": "aaipt"
     }
   ]
 }
