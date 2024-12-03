@@ -515,6 +515,7 @@
     "addeenprru",
     "addeinu",
     "addeinv",
+    "addeist",
     "addelmoo",
     "addelnou",
     "addgiiirs",
@@ -5236,6 +5237,10 @@
     {
       "date": "2024-12-03T00:18:02.555Z",
       "anagram": "cfhinoo"
+    },
+    {
+      "date": "2024-12-03T12:06:40.588Z",
+      "anagram": "addeist"
     }
   ]
 }
