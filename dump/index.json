@@ -177,6 +177,7 @@
     "aaciimot",
     "aaciinooz",
     "aaciiosx",
+    "aacins",
     "aacirt",
     "aaciss",
     "aacisstu",
@@ -5261,6 +5262,10 @@
     {
       "date": "2024-12-04T12:06:39.678Z",
       "anagram": "aaacdemo"
+    },
+    {
+      "date": "2024-12-04T16:04:47.742Z",
+      "anagram": "aacins"
     }
   ]
 }
