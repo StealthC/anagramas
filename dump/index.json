@@ -680,6 +680,7 @@
     "aeiprtu",
     "aeiqrsu",
     "aeirst",
+    "aejlot",
     "aejmnstu",
     "aejnnot",
     "aejnpstu",
@@ -5276,6 +5277,10 @@
     {
       "date": "2024-12-05T00:17:15.411Z",
       "anagram": "aadlmoo"
+    },
+    {
+      "date": "2024-12-05T12:06:50.411Z",
+      "anagram": "aejlot"
     }
   ]
 }
