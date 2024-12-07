@@ -782,6 +782,7 @@
     "ajnrtu",
     "ajsstu",
     "almotu",
+    "alnop",
     "alooprt",
     "aloru",
     "alost",
@@ -5306,6 +5307,10 @@
     {
       "date": "2024-12-06T20:04:33.194Z",
       "anagram": "acdnoor"
+    },
+    {
+      "date": "2024-12-07T00:16:53.556Z",
+      "anagram": "alnop"
     }
   ]
 }
