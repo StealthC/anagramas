@@ -223,6 +223,7 @@
     "aadegrsv",
     "aadeillo",
     "aadeils",
+    "aadelmop",
     "aadelqu",
     "aadelsu",
     "aadelv",
@@ -5311,6 +5312,10 @@
     {
       "date": "2024-12-07T00:16:53.556Z",
       "anagram": "alnop"
+    },
+    {
+      "date": "2024-12-07T12:06:07.050Z",
+      "anagram": "aadelmop"
     }
   ]
 }
