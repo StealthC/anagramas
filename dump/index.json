@@ -402,6 +402,7 @@
     "ablor",
     "aboorrsu",
     "aborrt",
+    "abors",
     "abort",
     "abostu",
     "accceiiln",
@@ -5336,6 +5337,10 @@
     {
       "date": "2024-12-08T12:05:56.629Z",
       "anagram": "eimnpu"
+    },
+    {
+      "date": "2024-12-08T16:04:05.575Z",
+      "anagram": "abors"
     }
   ]
 }
