@@ -1011,6 +1011,7 @@
     "eiloss",
     "eilossv",
     "eimnos",
+    "eimnpu",
     "eimoooqrtu",
     "eimooprs",
     "eimoprs",
@@ -5331,6 +5332,10 @@
     {
       "date": "2024-12-08T00:18:42.006Z",
       "anagram": "egiiostv"
+    },
+    {
+      "date": "2024-12-08T12:05:56.629Z",
+      "anagram": "eimnpu"
     }
   ]
 }
