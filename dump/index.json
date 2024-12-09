@@ -586,6 +586,7 @@
     "adgiossu",
     "adgirssu",
     "adgor",
+    "adgors",
     "adgrru",
     "adhiort",
     "adhnoors",
@@ -5361,6 +5362,10 @@
     {
       "date": "2024-12-09T16:04:41.337Z",
       "anagram": "adeilouv"
+    },
+    {
+      "date": "2024-12-09T20:04:29.876Z",
+      "anagram": "adgors"
     }
   ]
 }
