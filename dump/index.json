@@ -550,6 +550,7 @@
     "adeiilmp",
     "adeiinrtt",
     "adeiirv",
+    "adeilouv",
     "adeilst",
     "adeimsuz",
     "adeimsx",
@@ -5356,6 +5357,10 @@
     {
       "date": "2024-12-09T12:06:59.238Z",
       "anagram": "aaeiqrtu"
+    },
+    {
+      "date": "2024-12-09T16:04:41.337Z",
+      "anagram": "adeilouv"
     }
   ]
 }
