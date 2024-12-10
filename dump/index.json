@@ -639,6 +639,7 @@
     "aeeprstz",
     "aefglnor",
     "aefgort",
+    "aefiln",
     "aefioss",
     "aefiost",
     "aeflors",
@@ -5376,6 +5377,10 @@
     {
       "date": "2024-12-10T12:06:54.222Z",
       "anagram": "aadisstu"
+    },
+    {
+      "date": "2024-12-10T16:04:35.425Z",
+      "anagram": "aefiln"
     }
   ]
 }
