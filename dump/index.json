@@ -255,6 +255,7 @@
     "aadiorv",
     "aadiotv",
     "aadiprs",
+    "aadisstu",
     "aadjloo",
     "aadjnor",
     "aadjru",
@@ -5371,6 +5372,10 @@
     {
       "date": "2024-12-10T00:17:40.062Z",
       "anagram": "abeirr"
+    },
+    {
+      "date": "2024-12-10T12:06:54.222Z",
+      "anagram": "aadisstu"
     }
   ]
 }
