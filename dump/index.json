@@ -813,6 +813,7 @@
     "aopssstu",
     "aopst",
     "aortt",
+    "aosv",
     "bblosu",
     "bcdeeiors",
     "bceenossuv",
@@ -5391,6 +5392,10 @@
     {
       "date": "2024-12-11T00:17:17.300Z",
       "anagram": "aemnt"
+    },
+    {
+      "date": "2024-12-11T12:06:48.720Z",
+      "anagram": "aosv"
     }
   ]
 }
