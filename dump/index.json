@@ -705,6 +705,7 @@
     "aelprsu",
     "aelsv",
     "aelttux",
+    "aemnt",
     "aemoostt",
     "aemptu",
     "aemqrsu",
@@ -5386,6 +5387,10 @@
     {
       "date": "2024-12-10T20:04:23.222Z",
       "anagram": "aaderrstt"
+    },
+    {
+      "date": "2024-12-11T00:17:17.300Z",
+      "anagram": "aemnt"
     }
   ]
 }
