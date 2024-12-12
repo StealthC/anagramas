@@ -889,6 +889,7 @@
     "ceimnot",
     "ceimot",
     "ceinos",
+    "ceioppt",
     "ceiopst",
     "ceirss",
     "celnos",
@@ -5406,6 +5407,10 @@
     {
       "date": "2024-12-11T20:04:25.583Z",
       "anagram": "acinnou"
+    },
+    {
+      "date": "2024-12-12T00:17:00.458Z",
+      "anagram": "ceioppt"
     }
   ]
 }
