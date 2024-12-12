@@ -517,6 +517,7 @@
     "aclops",
     "acmo",
     "acno",
+    "acnoo",
     "acnorr",
     "acors",
     "acort",
@@ -5416,6 +5417,10 @@
     {
       "date": "2024-12-12T12:06:56.188Z",
       "anagram": "acginos"
+    },
+    {
+      "date": "2024-12-12T16:04:31.049Z",
+      "anagram": "acnoo"
     }
   ]
 }
