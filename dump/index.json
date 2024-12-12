@@ -485,6 +485,7 @@
     "acgiinnot",
     "acgiirru",
     "acgimos",
+    "acginos",
     "acginru",
     "acgno",
     "achiips",
@@ -5411,6 +5412,10 @@
     {
       "date": "2024-12-12T00:17:00.458Z",
       "anagram": "ceioppt"
+    },
+    {
+      "date": "2024-12-12T12:06:56.188Z",
+      "anagram": "acginos"
     }
   ]
 }
