@@ -310,6 +310,7 @@
     "aaeprs",
     "aaerrr",
     "aaestux",
+    "aafgiilnr",
     "aafgir",
     "aafiinrt",
     "aafimrr",
@@ -5431,6 +5432,10 @@
     {
       "date": "2024-12-13T00:17:39.898Z",
       "anagram": "ahinopqru"
+    },
+    {
+      "date": "2024-12-13T12:06:39.239Z",
+      "anagram": "aafgiilnr"
     }
   ]
 }
