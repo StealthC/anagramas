@@ -482,6 +482,7 @@
     "acenssu",
     "aceopt",
     "aceoss",
+    "aceprsu",
     "acert",
     "acfiinru",
     "acflo",
@@ -5461,6 +5462,10 @@
     {
       "date": "2024-12-14T16:03:56.873Z",
       "anagram": "efimrr"
+    },
+    {
+      "date": "2024-12-14T20:04:36.691Z",
+      "anagram": "aceprsu"
     }
   ]
 }
