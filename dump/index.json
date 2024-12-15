@@ -598,6 +598,7 @@
     "adgiiist",
     "adgilnou",
     "adginorv",
+    "adginov",
     "adgiossu",
     "adgirssu",
     "adgor",
@@ -5481,6 +5482,10 @@
     {
       "date": "2024-12-15T16:04:10.934Z",
       "anagram": "aciostt"
+    },
+    {
+      "date": "2024-12-15T20:04:26.174Z",
+      "anagram": "adginov"
     }
   ]
 }
