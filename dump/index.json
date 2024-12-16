@@ -486,6 +486,7 @@
     "aceprsu",
     "acert",
     "acfiinru",
+    "acfinnor",
     "acflo",
     "acghno",
     "acghnos",
@@ -5486,6 +5487,10 @@
     {
       "date": "2024-12-15T20:04:26.174Z",
       "anagram": "adginov"
+    },
+    {
+      "date": "2024-12-16T00:18:17.003Z",
+      "anagram": "acfinnor"
     }
   ]
 }
