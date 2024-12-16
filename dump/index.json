@@ -409,6 +409,7 @@
     "abiossv",
     "ablmmosu",
     "ablmmou",
+    "abloost",
     "ablor",
     "aboorrsu",
     "aborrt",
@@ -5491,6 +5492,10 @@
     {
       "date": "2024-12-16T00:18:17.003Z",
       "anagram": "acfinnor"
+    },
+    {
+      "date": "2024-12-16T12:07:01.382Z",
+      "anagram": "abloost"
     }
   ]
 }
