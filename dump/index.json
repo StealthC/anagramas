@@ -482,6 +482,7 @@
     "acelns",
     "acelot",
     "acelsss",
+    "acelsu",
     "acenssu",
     "aceopt",
     "aceoss",
@@ -5516,6 +5517,10 @@
     {
       "date": "2024-12-17T16:04:31.819Z",
       "anagram": "ghinopru"
+    },
+    {
+      "date": "2024-12-17T20:04:36.861Z",
+      "anagram": "acelsu"
     }
   ]
 }
