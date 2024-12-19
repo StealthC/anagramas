@@ -360,6 +360,7 @@
     "aamns",
     "aamst",
     "aanos",
+    "aanot",
     "aanotv",
     "aanst",
     "aaort",
@@ -5546,6 +5547,10 @@
     {
       "date": "2024-12-19T12:06:20.229Z",
       "anagram": "adegopr"
+    },
+    {
+      "date": "2024-12-19T16:04:28.637Z",
+      "anagram": "aanot"
     }
   ]
 }
