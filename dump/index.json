@@ -1100,6 +1100,7 @@
     "hilort",
     "hnooss",
     "iilmnooop",
+    "iilnoosv",
     "iimnoostx",
     "iinrrstu",
     "imopru",
@@ -5556,6 +5557,10 @@
     {
       "date": "2024-12-19T20:04:20.101Z",
       "anagram": "aceenrr"
+    },
+    {
+      "date": "2024-12-20T00:16:00.919Z",
+      "anagram": "iilnoosv"
     }
   ]
 }
