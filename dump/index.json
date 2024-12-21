@@ -1017,6 +1017,7 @@
     "eemoorstx",
     "eemoqstu",
     "eemprs",
+    "eenorst",
     "eenrst",
     "eenstu",
     "eeoprt",
@@ -5571,6 +5572,10 @@
     {
       "date": "2024-12-20T20:04:17.275Z",
       "anagram": "chiioorst"
+    },
+    {
+      "date": "2024-12-21T00:15:35.348Z",
+      "anagram": "eenorst"
     }
   ]
 }
