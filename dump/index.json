@@ -224,6 +224,7 @@
     "aadefnr",
     "aadefost",
     "aadegn",
+    "aadegnpux",
     "aadegrsv",
     "aadeillo",
     "aadeils",
@@ -5591,6 +5592,10 @@
     {
       "date": "2024-12-21T20:04:13.611Z",
       "anagram": "adegiir"
+    },
+    {
+      "date": "2024-12-22T00:17:29.253Z",
+      "anagram": "aadegnpux"
     }
   ]
 }
