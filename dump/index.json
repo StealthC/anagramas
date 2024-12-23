@@ -323,6 +323,7 @@
     "aafgiilnr",
     "aafgir",
     "aafiinrt",
+    "aafim",
     "aafimrr",
     "aaforr",
     "aaghiimnu",
@@ -5621,6 +5622,10 @@
     {
       "date": "2024-12-23T12:06:12.689Z",
       "anagram": "aaamnort"
+    },
+    {
+      "date": "2024-12-23T16:04:22.142Z",
+      "anagram": "aafim"
     }
   ]
 }
