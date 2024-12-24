@@ -68,6 +68,7 @@
     "aaadinuv",
     "aaadistv",
     "aaadlmor",
+    "aaadlost",
     "aaadmort",
     "aaadprrsu",
     "aaadrsx",
@@ -5631,6 +5632,10 @@
     {
       "date": "2024-12-23T20:04:18.735Z",
       "anagram": "aeors"
+    },
+    {
+      "date": "2024-12-24T00:16:03.740Z",
+      "anagram": "aaadlost"
     }
   ]
 }
