@@ -7,6 +7,7 @@
     "aaaaccdlns",
     "aaaacceor",
     "aaaacdhlps",
+    "aaaacdhns",
     "aaaacdlms",
     "aaaacdmp",
     "aaaacdmr",
@@ -5666,6 +5667,10 @@
     {
       "date": "2024-12-25T16:04:11.711Z",
       "anagram": "aadloorr"
+    },
+    {
+      "date": "2024-12-25T20:04:03.820Z",
+      "anagram": "aaaacdhns"
     }
   ]
 }
