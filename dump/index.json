@@ -182,6 +182,7 @@
     "aacgin",
     "aacginns",
     "aachiimns",
+    "aachlnu",
     "aachm",
     "aaciilsv",
     "aaciimot",
@@ -5686,6 +5687,10 @@
     {
       "date": "2024-12-26T16:04:08.625Z",
       "anagram": "aopss"
+    },
+    {
+      "date": "2024-12-26T20:04:59.432Z",
+      "anagram": "aachlnu"
     }
   ]
 }
