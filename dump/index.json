@@ -856,6 +856,7 @@
     "aooprs",
     "aoostt",
     "aoprt",
+    "aopss",
     "aopssstu",
     "aopst",
     "aortt",
@@ -5681,6 +5682,10 @@
     {
       "date": "2024-12-26T12:06:12.848Z",
       "anagram": "eeimrss"
+    },
+    {
+      "date": "2024-12-26T16:04:08.625Z",
+      "anagram": "aopss"
     }
   ]
 }
