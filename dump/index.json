@@ -627,6 +627,7 @@
     "adgiossu",
     "adgirssu",
     "adgor",
+    "adgorru",
     "adgors",
     "adgrru",
     "adhiort",
@@ -5696,6 +5697,10 @@
     {
       "date": "2024-12-27T00:16:01.752Z",
       "anagram": "aaaadelntv"
+    },
+    {
+      "date": "2024-12-27T12:05:59.935Z",
+      "anagram": "adgorru"
     }
   ]
 }
