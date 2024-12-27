@@ -465,6 +465,7 @@
     "acdfior",
     "acdiiijsu",
     "acdiiil",
+    "acdiiinss",
     "acdiilnno",
     "acdiimno",
     "acdiinot",
@@ -5706,6 +5707,10 @@
     {
       "date": "2024-12-27T16:04:22.006Z",
       "anagram": "ceiioostv"
+    },
+    {
+      "date": "2024-12-27T20:03:55.703Z",
+      "anagram": "acdiiinss"
     }
   ]
 }
