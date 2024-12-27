@@ -11,6 +11,7 @@
     "aaaacdlms",
     "aaaacdmp",
     "aaaacdmr",
+    "aaaadelntv",
     "aaaadglrs",
     "aaaadmprs",
     "aaabcdeno",
@@ -5691,6 +5692,10 @@
     {
       "date": "2024-12-26T20:04:59.432Z",
       "anagram": "aachlnu"
+    },
+    {
+      "date": "2024-12-27T00:16:01.752Z",
+      "anagram": "aaaadelntv"
     }
   ]
 }
