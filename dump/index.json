@@ -219,6 +219,7 @@
     "aaddfinnsu",
     "aaddfnosu",
     "aaddhiinov",
+    "aaddiimst",
     "aaddiimsz",
     "aaddilot",
     "aaddirtu",
@@ -5721,6 +5722,10 @@
     {
       "date": "2024-12-28T12:06:03.179Z",
       "anagram": "moort"
+    },
+    {
+      "date": "2024-12-28T16:04:02.699Z",
+      "anagram": "aaddiimst"
     }
   ]
 }
