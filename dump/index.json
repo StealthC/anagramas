@@ -1129,6 +1129,7 @@
     "hilnopu",
     "hilort",
     "hnooss",
+    "iiimoprstv",
     "iilmnooop",
     "iilnoosv",
     "iimnoostx",
@@ -5711,6 +5712,10 @@
     {
       "date": "2024-12-27T20:03:55.703Z",
       "anagram": "acdiiinss"
+    },
+    {
+      "date": "2024-12-28T00:15:35.407Z",
+      "anagram": "iiimoprstv"
     }
   ]
 }
