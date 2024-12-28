@@ -1141,6 +1141,7 @@
     "inosu",
     "loorsu",
     "moopsstu",
+    "moort",
     "nnoorstu",
     "ooopprsst"
   ],
@@ -5716,6 +5717,10 @@
     {
       "date": "2024-12-28T00:15:35.407Z",
       "anagram": "iiimoprstv"
+    },
+    {
+      "date": "2024-12-28T12:06:03.179Z",
+      "anagram": "moort"
     }
   ]
 }
