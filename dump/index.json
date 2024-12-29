@@ -553,6 +553,7 @@
     "acno",
     "acnoo",
     "acnorr",
+    "acorrt",
     "acors",
     "acort",
     "acos",
@@ -5746,6 +5747,10 @@
     {
       "date": "2024-12-29T16:04:46.948Z",
       "anagram": "ahimnnos"
+    },
+    {
+      "date": "2024-12-29T20:04:23.636Z",
+      "anagram": "acorrt"
     }
   ]
 }
