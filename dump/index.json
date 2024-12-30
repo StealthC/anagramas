@@ -449,6 +449,7 @@
     "accilr",
     "accinnoos",
     "accios",
+    "accitu",
     "acclo",
     "accmoopt",
     "acddeiinu",
@@ -5761,6 +5762,10 @@
     {
       "date": "2024-12-30T12:06:19.235Z",
       "anagram": "aemnor"
+    },
+    {
+      "date": "2024-12-30T16:04:27.007Z",
+      "anagram": "accitu"
     }
   ]
 }
