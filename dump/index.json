@@ -375,6 +375,7 @@
     "aaloppu",
     "aalorss",
     "aalouz",
+    "aamnoot",
     "aamns",
     "aamst",
     "aanos",
@@ -5776,6 +5777,10 @@
     {
       "date": "2024-12-31T00:15:42.138Z",
       "anagram": "ciiost"
+    },
+    {
+      "date": "2024-12-31T12:05:58.157Z",
+      "anagram": "aamnoot"
     }
   ]
 }
