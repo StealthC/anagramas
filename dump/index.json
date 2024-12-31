@@ -749,6 +749,7 @@
     "aejmnstu",
     "aejnnot",
     "aejnpstu",
+    "aejorv",
     "aelmo",
     "aelmru",
     "aelos",
@@ -5786,6 +5787,10 @@
     {
       "date": "2024-12-31T16:04:04.879Z",
       "anagram": "abgior"
+    },
+    {
+      "date": "2024-12-31T20:04:02.877Z",
+      "anagram": "aejorv"
     }
   ]
 }
