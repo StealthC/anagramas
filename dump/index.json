@@ -973,6 +973,7 @@
     "ciimnoosu",
     "ciimosv",
     "ciinooosst",
+    "ciiost",
     "cilnooruv",
     "cilnoou",
     "cimnoo",
@@ -5771,6 +5772,10 @@
     {
       "date": "2024-12-30T20:04:38.176Z",
       "anagram": "aaadgorrv"
+    },
+    {
+      "date": "2024-12-31T00:15:42.138Z",
+      "anagram": "ciiost"
     }
   ]
 }
