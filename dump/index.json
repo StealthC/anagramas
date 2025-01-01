@@ -385,6 +385,7 @@
     "aanst",
     "aaort",
     "aaprt",
+    "aarrs",
     "aarst",
     "abbdeeeirs",
     "abbdemoo",
@@ -5801,6 +5802,10 @@
     {
       "date": "2025-01-01T12:06:10.125Z",
       "anagram": "aeeqrtuux"
+    },
+    {
+      "date": "2025-01-01T16:04:10.029Z",
+      "anagram": "aarrs"
     }
   ]
 }
