@@ -697,6 +697,7 @@
     "aefiln",
     "aefioss",
     "aefiost",
+    "aeflor",
     "aeflors",
     "aeflox",
     "aefmnstu",
@@ -5811,6 +5812,10 @@
     {
       "date": "2025-01-01T20:04:04.555Z",
       "anagram": "aachps"
+    },
+    {
+      "date": "2025-01-02T00:15:48.610Z",
+      "anagram": "aeflor"
     }
   ]
 }
