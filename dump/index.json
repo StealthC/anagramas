@@ -1124,6 +1124,7 @@
     "emort",
     "enoosstv",
     "enoostv",
+    "eoopprrs",
     "eooprs",
     "eoopsssss",
     "eoorrst",
@@ -5836,6 +5837,10 @@
     {
       "date": "2025-01-03T00:15:58.183Z",
       "anagram": "cdeeort"
+    },
+    {
+      "date": "2025-01-03T12:06:09.883Z",
+      "anagram": "eoopprrs"
     }
   ]
 }
