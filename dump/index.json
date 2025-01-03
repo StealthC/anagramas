@@ -742,6 +742,7 @@
     "aeinps",
     "aeinpss",
     "aeinrsu",
+    "aeinruvv",
     "aeinsssu",
     "aeiopss",
     "aeiorrt",
@@ -5841,6 +5842,10 @@
     {
       "date": "2025-01-03T12:06:09.883Z",
       "anagram": "eoopprrs"
+    },
+    {
+      "date": "2025-01-03T16:04:20.836Z",
+      "anagram": "aeinruvv"
     }
   ]
 }
