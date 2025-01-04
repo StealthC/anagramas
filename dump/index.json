@@ -256,6 +256,7 @@
     "aadfgis",
     "aadfios",
     "aadfir",
+    "aadgiinst",
     "aadgilru",
     "aadgils",
     "aadgint",
@@ -5866,6 +5867,10 @@
     {
       "date": "2025-01-04T16:03:55.600Z",
       "anagram": "acdeilu"
+    },
+    {
+      "date": "2025-01-04T20:04:37.329Z",
+      "anagram": "aadgiinst"
     }
   ]
 }
