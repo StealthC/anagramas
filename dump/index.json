@@ -470,6 +470,7 @@
     "acdefiir",
     "acdeiimnu",
     "acdeilo",
+    "acdeilu",
     "acdeinsv",
     "acdeo",
     "acdeoru",
@@ -5861,6 +5862,10 @@
     {
       "date": "2025-01-04T12:05:49.665Z",
       "anagram": "aceehirt"
+    },
+    {
+      "date": "2025-01-04T16:03:55.600Z",
+      "anagram": "acdeilu"
     }
   ]
 }
