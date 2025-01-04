@@ -181,6 +181,7 @@
     "aacerrt",
     "aacfil",
     "aacfio",
+    "aacghrru",
     "aacgin",
     "aacginns",
     "aachiimns",
@@ -5851,6 +5852,10 @@
     {
       "date": "2025-01-03T20:04:10.638Z",
       "anagram": "aaddejrr"
+    },
+    {
+      "date": "2025-01-04T00:15:38.416Z",
+      "anagram": "aacghrru"
     }
   ]
 }
