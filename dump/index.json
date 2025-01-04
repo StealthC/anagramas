@@ -491,6 +491,7 @@
     "aceeenrrs",
     "aceeeprr",
     "aceefirs",
+    "aceehirt",
     "aceehrrst",
     "aceehrrt",
     "aceeiimnns",
@@ -5856,6 +5857,10 @@
     {
       "date": "2025-01-04T00:15:38.416Z",
       "anagram": "aacghrru"
+    },
+    {
+      "date": "2025-01-04T12:05:49.665Z",
+      "anagram": "aceehirt"
     }
   ]
 }
