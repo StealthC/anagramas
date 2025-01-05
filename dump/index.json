@@ -1120,6 +1120,7 @@
     "eimosv",
     "einnostv",
     "einnotv",
+    "einopst",
     "eiooqssu",
     "eloos",
     "elopr",
@@ -5876,6 +5877,10 @@
     {
       "date": "2025-01-05T00:17:33.326Z",
       "anagram": "ciloorrt"
+    },
+    {
+      "date": "2025-01-05T12:06:09.477Z",
+      "anagram": "einopst"
     }
   ]
 }
