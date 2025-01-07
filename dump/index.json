@@ -85,6 +85,7 @@
     "aaagnrsu",
     "aaahinov",
     "aaahnorr",
+    "aaahnpr",
     "aaaiilnt",
     "aaaiinnrs",
     "aaaipps",
@@ -5916,6 +5917,10 @@
     {
       "date": "2025-01-07T16:17:01.589Z",
       "anagram": "iopst"
+    },
+    {
+      "date": "2025-01-07T20:04:14.861Z",
+      "anagram": "aaahnpr"
     }
   ]
 }
