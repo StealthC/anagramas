@@ -1177,6 +1177,7 @@
     "inoprt",
     "inostt",
     "inosu",
+    "iopst",
     "loorsu",
     "moopsstu",
     "moort",
@@ -5911,6 +5912,10 @@
     {
       "date": "2025-01-07T12:06:12.542Z",
       "anagram": "eelorrsv"
+    },
+    {
+      "date": "2025-01-07T16:17:01.589Z",
+      "anagram": "iopst"
     }
   ]
 }
