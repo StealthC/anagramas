@@ -1186,7 +1186,8 @@
     "moopsstu",
     "moort",
     "nnoorstu",
-    "ooopprsst"
+    "ooopprsst",
+    "ooprss"
   ],
   "byDate": [
     {
@@ -5936,6 +5937,10 @@
     {
       "date": "2025-01-08T16:04:33.848Z",
       "anagram": "ciimnoooss"
+    },
+    {
+      "date": "2025-01-08T20:04:15.618Z",
+      "anagram": "ooprss"
     }
   ]
 }
