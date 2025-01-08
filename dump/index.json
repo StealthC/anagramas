@@ -37,6 +37,7 @@
     "aaacdinv",
     "aaacdl",
     "aaacdnn",
+    "aaacdnps",
     "aaacdnrt",
     "aaacdrst",
     "aaacdss",
@@ -5926,6 +5927,10 @@
     {
       "date": "2025-01-08T00:15:59.745Z",
       "anagram": "iimnost"
+    },
+    {
+      "date": "2025-01-08T12:06:19.370Z",
+      "anagram": "aaacdnps"
     }
   ]
 }
