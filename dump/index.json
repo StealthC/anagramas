@@ -1172,6 +1172,7 @@
     "iilmnooop",
     "iilnoosv",
     "iimnoostx",
+    "iimnost",
     "iinrrstu",
     "imopru",
     "imosst",
@@ -5921,6 +5922,10 @@
     {
       "date": "2025-01-07T20:04:14.861Z",
       "anagram": "aaahnpr"
+    },
+    {
+      "date": "2025-01-08T00:15:59.745Z",
+      "anagram": "iimnost"
     }
   ]
 }
