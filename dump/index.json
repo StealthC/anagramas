@@ -222,6 +222,7 @@
     "aaddenst",
     "aaddeopr",
     "aaddeost",
+    "aaddesv",
     "aaddfinnsu",
     "aaddfnosu",
     "aaddhiinov",
@@ -5941,6 +5942,10 @@
     {
       "date": "2025-01-08T20:04:15.618Z",
       "anagram": "ooprss"
+    },
+    {
+      "date": "2025-01-09T00:16:05.681Z",
+      "anagram": "aaddesv"
     }
   ]
 }
