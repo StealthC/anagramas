@@ -685,6 +685,7 @@
     "aeeghnnoss",
     "aeegils",
     "aeegiort",
+    "aeeglmr",
     "aeeglos",
     "aeegms",
     "aeegnrrt",
@@ -5956,6 +5957,10 @@
     {
       "date": "2025-01-09T16:04:27.857Z",
       "anagram": "aacfirs"
+    },
+    {
+      "date": "2025-01-09T20:04:15.657Z",
+      "anagram": "aeeglmr"
     }
   ]
 }
