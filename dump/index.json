@@ -901,6 +901,7 @@
     "aopst",
     "aortt",
     "aosv",
+    "bbdeeimo",
     "bblosu",
     "bcdeeiors",
     "bceenossuv",
@@ -5986,6 +5987,10 @@
     {
       "date": "2025-01-11T00:16:11.907Z",
       "anagram": "ddeeimost"
+    },
+    {
+      "date": "2025-01-11T12:05:34.549Z",
+      "anagram": "bbdeeimo"
     }
   ]
 }
