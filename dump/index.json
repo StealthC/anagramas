@@ -166,6 +166,7 @@
     "aacdo",
     "aacdorv",
     "aacdos",
+    "aacdrsuv",
     "aaceelmmnt",
     "aaceeltv",
     "aacefot",
@@ -5991,6 +5992,10 @@
     {
       "date": "2025-01-11T12:05:34.549Z",
       "anagram": "bbdeeimo"
+    },
+    {
+      "date": "2025-01-11T16:04:49.272Z",
+      "anagram": "aacdrsuv"
     }
   ]
 }
