@@ -1019,6 +1019,7 @@
     "corssu",
     "dddeeimos",
     "ddeeimors",
+    "ddeeimost",
     "ddeeinnost",
     "ddefiino",
     "ddefiinos",
@@ -5981,6 +5982,10 @@
     {
       "date": "2025-01-10T20:04:20.119Z",
       "anagram": "aadiilnoqu"
+    },
+    {
+      "date": "2025-01-11T00:16:11.907Z",
+      "anagram": "ddeeimost"
     }
   ]
 }
