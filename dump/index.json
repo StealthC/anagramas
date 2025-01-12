@@ -489,6 +489,7 @@
     "acdiiil",
     "acdiiinss",
     "acdiilnno",
+    "acdiilru",
     "acdiimno",
     "acdiinot",
     "acdimo",
@@ -6001,6 +6002,10 @@
     {
       "date": "2025-01-11T20:04:52.725Z",
       "anagram": "einost"
+    },
+    {
+      "date": "2025-01-12T00:17:53.588Z",
+      "anagram": "acdiilru"
     }
   ]
 }
