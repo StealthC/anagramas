@@ -1138,6 +1138,7 @@
     "eimnpu",
     "eimoooqrtu",
     "eimooprs",
+    "eimoost",
     "eimoprs",
     "eimost",
     "eimosv",
@@ -6021,6 +6022,10 @@
     {
       "date": "2025-01-12T20:04:42.684Z",
       "anagram": "aachrs"
+    },
+    {
+      "date": "2025-01-13T00:17:37.185Z",
+      "anagram": "eimoost"
     }
   ]
 }
