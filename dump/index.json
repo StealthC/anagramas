@@ -1094,6 +1094,7 @@
     "eeinoprtvv",
     "eeinprrv",
     "eeinrss",
+    "eelmors",
     "eelnst",
     "eelorrsv",
     "eelsst",
@@ -6051,6 +6052,10 @@
     {
       "date": "2025-01-14T16:04:22.967Z",
       "anagram": "abinot"
+    },
+    {
+      "date": "2025-01-14T20:04:20.813Z",
+      "anagram": "eelmors"
     }
   ]
 }
