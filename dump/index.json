@@ -443,6 +443,7 @@
     "abiist",
     "abijtu",
     "abimrr",
+    "abinot",
     "abinrtu",
     "abiors",
     "abiossv",
@@ -6046,6 +6047,10 @@
     {
       "date": "2025-01-14T12:06:00.439Z",
       "anagram": "ddeeorv"
+    },
+    {
+      "date": "2025-01-14T16:04:22.967Z",
+      "anagram": "abinot"
     }
   ]
 }
