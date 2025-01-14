@@ -1028,6 +1028,7 @@
     "ddeeimors",
     "ddeeimost",
     "ddeeinnost",
+    "ddeeorv",
     "ddefiino",
     "ddefiinos",
     "ddeiloosvv",
@@ -6041,6 +6042,10 @@
     {
       "date": "2025-01-14T04:04:33.516Z",
       "anagram": "diooss"
+    },
+    {
+      "date": "2025-01-14T12:06:00.439Z",
+      "anagram": "ddeeorv"
     }
   ]
 }
