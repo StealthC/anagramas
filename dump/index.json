@@ -195,6 +195,7 @@
     "aachm",
     "aachps",
     "aachrs",
+    "aacht",
     "aaciilsv",
     "aaciimot",
     "aaciinooz",
@@ -6071,6 +6072,10 @@
     {
       "date": "2025-01-15T16:04:11.992Z",
       "anagram": "aaailrst"
+    },
+    {
+      "date": "2025-01-15T20:04:03.938Z",
+      "anagram": "aacht"
     }
   ]
 }
