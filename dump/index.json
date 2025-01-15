@@ -607,6 +607,7 @@
     "adeegnnos",
     "adeeilno",
     "adeeinrtt",
+    "adeenstt",
     "adeensttu",
     "adeeorrss",
     "adeepss",
@@ -6061,6 +6062,10 @@
     {
       "date": "2025-01-15T00:15:40.452Z",
       "anagram": "aaacntt"
+    },
+    {
+      "date": "2025-01-15T12:05:59.672Z",
+      "anagram": "adeenstt"
     }
   ]
 }
