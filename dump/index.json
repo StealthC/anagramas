@@ -51,6 +51,7 @@
     "aaaclmr",
     "aaaclrr",
     "aaacmrrss",
+    "aaacntt",
     "aaacrrt",
     "aaaddestv",
     "aaadeegrx",
@@ -6056,6 +6057,10 @@
     {
       "date": "2025-01-14T20:04:20.813Z",
       "anagram": "eelmors"
+    },
+    {
+      "date": "2025-01-15T00:15:40.452Z",
+      "anagram": "aaacntt"
     }
   ]
 }
