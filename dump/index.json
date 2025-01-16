@@ -943,6 +943,7 @@
     "bnosu",
     "boorsstu",
     "ccdeehnoor",
+    "ccdeenor",
     "ccdilnoou",
     "cceehlost",
     "cceioorv",
@@ -6091,6 +6092,10 @@
     {
       "date": "2025-01-16T16:04:23.866Z",
       "anagram": "aaddehimnu"
+    },
+    {
+      "date": "2025-01-16T20:04:01.776Z",
+      "anagram": "ccdeenor"
     }
   ]
 }
