@@ -1047,6 +1047,7 @@
     "deeeimnorr",
     "deeeinprst",
     "deefiiinsv",
+    "deehnoss",
     "deeiilops",
     "deeimnoss",
     "deeioprrt",
@@ -6081,6 +6082,10 @@
     {
       "date": "2025-01-16T00:15:37.792Z",
       "anagram": "aaaabcds"
+    },
+    {
+      "date": "2025-01-16T12:05:57.714Z",
+      "anagram": "deehnoss"
     }
   ]
 }
