@@ -1072,6 +1072,7 @@
     "deioprt",
     "deioptu",
     "deiortv",
+    "deioss",
     "deirsuz",
     "delmoos",
     "delouv",
@@ -6111,6 +6112,10 @@
     {
       "date": "2025-01-17T16:04:13.781Z",
       "anagram": "eimnooors"
+    },
+    {
+      "date": "2025-01-17T20:04:07.210Z",
+      "anagram": "deioss"
     }
   ]
 }
