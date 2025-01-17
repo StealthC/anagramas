@@ -1150,6 +1150,7 @@
     "eiiorrsttv",
     "eiloss",
     "eilossv",
+    "eimnooors",
     "eimnos",
     "eimnpu",
     "eimoooqrtu",
@@ -6106,6 +6107,10 @@
     {
       "date": "2025-01-17T12:06:02.284Z",
       "anagram": "cmooptu"
+    },
+    {
+      "date": "2025-01-17T16:04:13.781Z",
+      "anagram": "eimnooors"
     }
   ]
 }
