@@ -48,6 +48,7 @@
     "aaacijmno",
     "aaacimnno",
     "aaacinrs",
+    "aaacinstv",
     "aaacipst",
     "aaaclmr",
     "aaaclrr",
@@ -6141,6 +6142,10 @@
     {
       "date": "2025-01-19T00:17:00.699Z",
       "anagram": "adiiooorrv"
+    },
+    {
+      "date": "2025-01-19T12:05:36.161Z",
+      "anagram": "aaacinstv"
     }
   ]
 }
