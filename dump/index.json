@@ -1176,6 +1176,7 @@
     "elopr",
     "eloprs",
     "emnort",
+    "emnost",
     "emoorrss",
     "emopsux",
     "emorst",
@@ -6151,6 +6152,10 @@
     {
       "date": "2025-01-19T16:04:53.187Z",
       "anagram": "addeims"
+    },
+    {
+      "date": "2025-01-19T20:05:13.599Z",
+      "anagram": "emnost"
     }
   ]
 }
