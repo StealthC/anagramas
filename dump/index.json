@@ -679,6 +679,7 @@
     "adiimsz",
     "adiinnos",
     "adiinnosu",
+    "adiiooorrv",
     "adiisvv",
     "adilovv",
     "adilr",
@@ -6136,6 +6137,10 @@
     {
       "date": "2025-01-18T20:05:16.319Z",
       "anagram": "emssuu"
+    },
+    {
+      "date": "2025-01-19T00:17:00.699Z",
+      "anagram": "adiiooorrv"
     }
   ]
 }
