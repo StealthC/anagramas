@@ -600,6 +600,7 @@
     "addeegrr",
     "addeenoorr",
     "addeenprru",
+    "addeims",
     "addeinu",
     "addeinv",
     "addeist",
@@ -6146,6 +6147,10 @@
     {
       "date": "2025-01-19T12:05:36.161Z",
       "anagram": "aaacinstv"
+    },
+    {
+      "date": "2025-01-19T16:04:53.187Z",
+      "anagram": "addeims"
     }
   ]
 }
