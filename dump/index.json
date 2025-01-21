@@ -987,6 +987,7 @@
     "ceefiinstu",
     "ceeginor",
     "ceeilosss",
+    "ceeilsstuv",
     "ceeinoss",
     "ceellosu",
     "ceenrst",
@@ -6181,6 +6182,10 @@
     {
       "date": "2025-01-21T12:06:14.930Z",
       "anagram": "aeeelnrvv"
+    },
+    {
+      "date": "2025-01-21T16:04:19.351Z",
+      "anagram": "ceeilsstuv"
     }
   ]
 }
