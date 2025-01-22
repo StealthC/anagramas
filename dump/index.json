@@ -643,6 +643,7 @@
     "adeiopt",
     "adeiorr",
     "adeirsv",
+    "adeirt",
     "adeirtu",
     "adelopr",
     "adelotuv",
@@ -6206,6 +6207,10 @@
     {
       "date": "2025-01-22T16:04:26.361Z",
       "anagram": "aeiijntv"
+    },
+    {
+      "date": "2025-01-22T20:04:16.994Z",
+      "anagram": "adeirt"
     }
   ]
 }
