@@ -532,6 +532,7 @@
     "acehmnu",
     "acehort",
     "aceiiinrr",
+    "aceiinp",
     "aceiirsv",
     "aceinnru",
     "aceiot",
@@ -6191,6 +6192,10 @@
     {
       "date": "2025-01-21T20:04:09.981Z",
       "anagram": "aacdost"
+    },
+    {
+      "date": "2025-01-22T00:15:54.910Z",
+      "anagram": "aceiinp"
     }
   ]
 }
