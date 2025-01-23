@@ -951,6 +951,7 @@
     "beoorssu",
     "beors",
     "bhilnoos",
+    "bhinorrsu",
     "biiiinoort",
     "biioprr",
     "bimostu",
@@ -6216,6 +6217,10 @@
     {
       "date": "2025-01-23T00:15:40.926Z",
       "anagram": "aacfo"
+    },
+    {
+      "date": "2025-01-23T12:05:58.553Z",
+      "anagram": "bhinorrsu"
     }
   ]
 }
