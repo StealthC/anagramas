@@ -1069,6 +1069,7 @@
     "deeeimnorr",
     "deeeinprst",
     "deefiiinsv",
+    "deehilnosv",
     "deehnoss",
     "deeiilops",
     "deeimnoss",
@@ -6241,6 +6242,10 @@
     {
       "date": "2025-01-24T12:06:01.588Z",
       "anagram": "cdiorstu"
+    },
+    {
+      "date": "2025-01-24T16:04:08.041Z",
+      "anagram": "deehilnosv"
     }
   ]
 }
