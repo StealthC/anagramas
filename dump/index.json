@@ -200,6 +200,7 @@
     "aachlnu",
     "aachm",
     "aachps",
+    "aachrr",
     "aachrs",
     "aacht",
     "aaciilsv",
@@ -6246,6 +6247,10 @@
     {
       "date": "2025-01-24T16:04:08.041Z",
       "anagram": "deehilnosv"
+    },
+    {
+      "date": "2025-01-24T20:04:09.384Z",
+      "anagram": "aachrr"
     }
   ]
 }
