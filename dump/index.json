@@ -403,6 +403,7 @@
     "aalouz",
     "aamnoot",
     "aamns",
+    "aampr",
     "aamst",
     "aanos",
     "aanot",
@@ -6231,6 +6232,10 @@
     {
       "date": "2025-01-23T20:04:03.769Z",
       "anagram": "eeghnnooss"
+    },
+    {
+      "date": "2025-01-24T00:15:33.536Z",
+      "anagram": "aampr"
     }
   ]
 }
