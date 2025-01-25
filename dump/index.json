@@ -106,6 +106,7 @@
     "aabccloou",
     "aabcdhmsu",
     "aabcdos",
+    "aabceelnt",
     "aabcefiit",
     "aabcer",
     "aabcfir",
@@ -6251,6 +6252,10 @@
     {
       "date": "2025-01-24T20:04:09.384Z",
       "anagram": "aachrr"
+    },
+    {
+      "date": "2025-01-25T00:15:07.662Z",
+      "anagram": "aabceelnt"
     }
   ]
 }
