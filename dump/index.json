@@ -501,6 +501,7 @@
     "acdeilo",
     "acdeilu",
     "acdeinsv",
+    "acdemno",
     "acdeo",
     "acdeoru",
     "acdfhirsu",
@@ -6301,6 +6302,10 @@
     {
       "date": "2025-01-27T12:06:34.471Z",
       "anagram": "aeimnnu"
+    },
+    {
+      "date": "2025-01-27T16:04:29.767Z",
+      "anagram": "acdemno"
     }
   ]
 }
