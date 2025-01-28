@@ -794,6 +794,7 @@
     "aeinsssu",
     "aeiopss",
     "aeiorrt",
+    "aeiosv",
     "aeippst",
     "aeiprrrs",
     "aeiprrsz",
@@ -6311,6 +6312,10 @@
     {
       "date": "2025-01-27T20:04:20.860Z",
       "anagram": "ceiilnsuv"
+    },
+    {
+      "date": "2025-01-28T00:16:04.942Z",
+      "anagram": "aeiosv"
     }
   ]
 }
