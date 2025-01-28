@@ -1188,6 +1188,7 @@
     "eiinooprs",
     "eiinorss",
     "eiiorrsttv",
+    "eilorsuz",
     "eiloss",
     "eilossv",
     "eimnooors",
@@ -6321,6 +6322,10 @@
     {
       "date": "2025-01-28T12:06:07.888Z",
       "anagram": "aaagirrs"
+    },
+    {
+      "date": "2025-01-28T16:04:24.645Z",
+      "anagram": "eilorsuz"
     }
   ]
 }
