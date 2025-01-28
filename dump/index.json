@@ -84,6 +84,7 @@
     "aaafilstt",
     "aaafnors",
     "aaaginrr",
+    "aaagirrs",
     "aaagist",
     "aaaglrt",
     "aaagnrsu",
@@ -6316,6 +6317,10 @@
     {
       "date": "2025-01-28T00:16:04.942Z",
       "anagram": "aeiosv"
+    },
+    {
+      "date": "2025-01-28T12:06:07.888Z",
+      "anagram": "aaagirrs"
     }
   ]
 }
