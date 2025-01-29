@@ -256,6 +256,7 @@
     "aadefnns",
     "aadefnr",
     "aadefost",
+    "aadeglru",
     "aadegn",
     "aadegnpux",
     "aadegrsv",
@@ -6331,6 +6332,10 @@
     {
       "date": "2025-01-28T20:04:06.419Z",
       "anagram": "aaimrtuu"
+    },
+    {
+      "date": "2025-01-29T00:15:29.285Z",
+      "anagram": "aadeglru"
     }
   ]
 }
