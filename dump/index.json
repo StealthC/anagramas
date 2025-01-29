@@ -1025,6 +1025,7 @@
     "ceilosttu",
     "ceimnot",
     "ceimot",
+    "ceinopss",
     "ceinos",
     "ceioppt",
     "ceiopst",
@@ -6336,6 +6337,10 @@
     {
       "date": "2025-01-29T00:15:29.285Z",
       "anagram": "aadeglru"
+    },
+    {
+      "date": "2025-01-29T12:05:58.739Z",
+      "anagram": "ceinopss"
     }
   ]
 }
