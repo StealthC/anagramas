@@ -1213,6 +1213,7 @@
     "einost",
     "eiooprsss",
     "eiooqssu",
+    "eiqssuu",
     "eloos",
     "elopr",
     "eloprs",
@@ -6361,6 +6362,10 @@
     {
       "date": "2025-01-30T12:06:14.260Z",
       "anagram": "abiov"
+    },
+    {
+      "date": "2025-01-30T16:04:21.056Z",
+      "anagram": "eiqssuu"
     }
   ]
 }
