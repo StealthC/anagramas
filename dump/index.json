@@ -467,6 +467,7 @@
     "abinrtu",
     "abiors",
     "abiossv",
+    "abiov",
     "ablmmosu",
     "ablmmou",
     "abloost",
@@ -6356,6 +6357,10 @@
     {
       "date": "2025-01-30T00:15:27.187Z",
       "anagram": "adeemopr"
+    },
+    {
+      "date": "2025-01-30T12:06:14.260Z",
+      "anagram": "abiov"
     }
   ]
 }
