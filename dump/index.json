@@ -630,6 +630,7 @@
     "adeegnnos",
     "adeeilno",
     "adeeinrtt",
+    "adeemopr",
     "adeenstt",
     "adeensttu",
     "adeeorrss",
@@ -6351,6 +6352,10 @@
     {
       "date": "2025-01-29T20:04:05.069Z",
       "anagram": "adeefnor"
+    },
+    {
+      "date": "2025-01-30T00:15:27.187Z",
+      "anagram": "adeemopr"
     }
   ]
 }
