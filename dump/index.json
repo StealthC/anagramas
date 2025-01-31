@@ -98,6 +98,7 @@
     "aaajmr",
     "aaamnort",
     "aaanpr",
+    "aaanssv",
     "aaaorttv",
     "aaaprr",
     "aaapstv",
@@ -6381,6 +6382,10 @@
     {
       "date": "2025-01-31T12:06:23.005Z",
       "anagram": "agiinoss"
+    },
+    {
+      "date": "2025-01-31T16:04:16.197Z",
+      "anagram": "aaanssv"
     }
   ]
 }
