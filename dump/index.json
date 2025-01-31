@@ -861,6 +861,7 @@
     "aghilor",
     "aghlorru",
     "agiilrtu",
+    "agiinoss",
     "agilr",
     "agimopr",
     "agimrr",
@@ -6376,6 +6377,10 @@
     {
       "date": "2025-01-31T00:15:39.543Z",
       "anagram": "iilnoopst"
+    },
+    {
+      "date": "2025-01-31T12:06:23.005Z",
+      "anagram": "agiinoss"
     }
   ]
 }
