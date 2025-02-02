@@ -999,6 +999,7 @@
     "cdeeort",
     "cdefiiio",
     "cdeiioosss",
+    "cdeimos",
     "cdeimprrsu",
     "cdeoorrr",
     "cdghooru",
@@ -6416,6 +6417,10 @@
     {
       "date": "2025-02-02T00:16:56.308Z",
       "anagram": "aadprsuu"
+    },
+    {
+      "date": "2025-02-02T12:05:28.225Z",
+      "anagram": "cdeimos"
     }
   ]
 }
