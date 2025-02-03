@@ -993,6 +993,7 @@
     "cceioorv",
     "cceloosu",
     "ccenoorrt",
+    "ccinoopssu",
     "cddeeiiisv",
     "cddeiiopr",
     "cdeeeorrrt",
@@ -6436,6 +6437,10 @@
     {
       "date": "2025-02-03T00:16:23.775Z",
       "anagram": "aceiinvv"
+    },
+    {
+      "date": "2025-02-03T12:06:04.925Z",
+      "anagram": "ccinoopssu"
     }
   ]
 }
