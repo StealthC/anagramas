@@ -413,6 +413,7 @@
     "aajnrtu",
     "aalmnor",
     "aaloppu",
+    "aalorru",
     "aalorss",
     "aalouz",
     "aamnoot",
@@ -6451,6 +6452,10 @@
     {
       "date": "2025-02-03T20:04:09.973Z",
       "anagram": "abeorr"
+    },
+    {
+      "date": "2025-02-04T00:15:46.288Z",
+      "anagram": "aalorru"
     }
   ]
 }
