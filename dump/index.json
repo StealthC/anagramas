@@ -1055,6 +1055,7 @@
     "celnos",
     "celooostv",
     "cenoorrsv",
+    "cenoos",
     "ceoops",
     "ceorsu",
     "ceorsv",
@@ -6476,6 +6477,10 @@
     {
       "date": "2025-02-05T00:15:57.939Z",
       "anagram": "aaopr"
+    },
+    {
+      "date": "2025-02-05T12:06:09.845Z",
+      "anagram": "cenoos"
     }
   ]
 }
