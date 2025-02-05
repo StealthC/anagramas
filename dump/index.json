@@ -425,6 +425,7 @@
     "aanot",
     "aanotv",
     "aanst",
+    "aaopr",
     "aaort",
     "aaprt",
     "aarrs",
@@ -6471,6 +6472,10 @@
     {
       "date": "2025-02-04T20:04:14.569Z",
       "anagram": "eiilmmort"
+    },
+    {
+      "date": "2025-02-05T00:15:57.939Z",
+      "anagram": "aaopr"
     }
   ]
 }
