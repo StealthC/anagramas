@@ -94,6 +94,7 @@
     "aaaiilnt",
     "aaaiinnrs",
     "aaailrst",
+    "aaailrv",
     "aaaipps",
     "aaajmr",
     "aaamnort",
@@ -6481,6 +6482,10 @@
     {
       "date": "2025-02-05T12:06:09.845Z",
       "anagram": "cenoos"
+    },
+    {
+      "date": "2025-02-05T16:04:20.645Z",
+      "anagram": "aaailrv"
     }
   ]
 }
