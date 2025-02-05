@@ -135,6 +135,7 @@
     "aabinpsu",
     "aabis",
     "aablo",
+    "aabmr",
     "aaccdels",
     "aaccehr",
     "aacceoss",
@@ -6486,6 +6487,10 @@
     {
       "date": "2025-02-05T16:04:20.645Z",
       "anagram": "aaailrv"
+    },
+    {
+      "date": "2025-02-05T20:04:16.252Z",
+      "anagram": "aabmr"
     }
   ]
 }
