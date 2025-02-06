@@ -202,6 +202,7 @@
     "aacgin",
     "aacginns",
     "aachiimns",
+    "aachiln",
     "aachlnu",
     "aachm",
     "aachps",
@@ -6491,6 +6492,10 @@
     {
       "date": "2025-02-05T20:04:16.252Z",
       "anagram": "aabmr"
+    },
+    {
+      "date": "2025-02-06T12:06:07.328Z",
+      "anagram": "aachiln"
     }
   ]
 }
