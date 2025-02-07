@@ -966,6 +966,7 @@
     "aopss",
     "aopssstu",
     "aopst",
+    "aorst",
     "aortt",
     "aosv",
     "bbdeeimo",
@@ -6521,6 +6522,10 @@
     {
       "date": "2025-02-07T16:04:17.271Z",
       "anagram": "aailrsv"
+    },
+    {
+      "date": "2025-02-07T20:04:12.437Z",
+      "anagram": "aorst"
     }
   ]
 }
