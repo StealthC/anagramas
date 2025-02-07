@@ -111,6 +111,7 @@
     "aabcdos",
     "aabceelnt",
     "aabcefiit",
+    "aabcehir",
     "aabcer",
     "aabcfir",
     "aabchnoo",
@@ -6506,6 +6507,10 @@
     {
       "date": "2025-02-06T20:04:14.178Z",
       "anagram": "aimmox"
+    },
+    {
+      "date": "2025-02-07T00:15:59.202Z",
+      "anagram": "aabcehir"
     }
   ]
 }
