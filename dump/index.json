@@ -401,6 +401,7 @@
     "aaiknnost",
     "aaiknnot",
     "aailmmx",
+    "aailrsv",
     "aaimnqu",
     "aaimnr",
     "aaimrtuu",
@@ -6516,6 +6517,10 @@
     {
       "date": "2025-02-07T12:05:58.978Z",
       "anagram": "ademnoo"
+    },
+    {
+      "date": "2025-02-07T16:04:17.271Z",
+      "anagram": "aailrsv"
     }
   ]
 }
