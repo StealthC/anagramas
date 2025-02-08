@@ -357,6 +357,7 @@
     "aaelmst",
     "aaelnrrt",
     "aaelnrs",
+    "aaelrrt",
     "aaelrrx",
     "aaelrv",
     "aaemnr",
@@ -6536,6 +6537,10 @@
     {
       "date": "2025-02-08T12:05:37.744Z",
       "anagram": "adoortu"
+    },
+    {
+      "date": "2025-02-08T16:04:58.191Z",
+      "anagram": "aaelrrt"
     }
   ]
 }
