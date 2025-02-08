@@ -736,6 +736,7 @@
     "admnnou",
     "adnoos",
     "adnrtu",
+    "adoortu",
     "adorr",
     "aeeegnrst",
     "aeeeinnsst",
@@ -6531,6 +6532,10 @@
     {
       "date": "2025-02-08T00:15:42.508Z",
       "anagram": "aabhiistu"
+    },
+    {
+      "date": "2025-02-08T12:05:37.744Z",
+      "anagram": "adoortu"
     }
   ]
 }
