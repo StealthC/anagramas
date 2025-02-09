@@ -730,6 +730,7 @@
     "adinnru",
     "adinopt",
     "adioorv",
+    "adiootv",
     "adiopr",
     "adiostu",
     "adlooorss",
@@ -6551,6 +6552,10 @@
     {
       "date": "2025-02-09T00:17:32.719Z",
       "anagram": "ceeiors"
+    },
+    {
+      "date": "2025-02-09T12:05:30.363Z",
+      "anagram": "adiootv"
     }
   ]
 }
