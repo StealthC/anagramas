@@ -179,6 +179,7 @@
     "aacdins",
     "aacdjnsu",
     "aacdo",
+    "aacdopt",
     "aacdorv",
     "aacdos",
     "aacdost",
@@ -6576,6 +6577,10 @@
     {
       "date": "2025-02-10T16:04:23.493Z",
       "anagram": "adegos"
+    },
+    {
+      "date": "2025-02-10T20:03:47.585Z",
+      "anagram": "aacdopt"
     }
   ]
 }
