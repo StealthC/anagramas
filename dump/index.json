@@ -379,6 +379,7 @@
     "aafiinrt",
     "aafim",
     "aafimrr",
+    "aaflnu",
     "aaforr",
     "aaghiimnu",
     "aagiintvv",
@@ -6566,6 +6567,10 @@
     {
       "date": "2025-02-09T20:05:41.511Z",
       "anagram": "aablrtu"
+    },
+    {
+      "date": "2025-02-10T00:16:39.827Z",
+      "anagram": "aaflnu"
     }
   ]
 }
