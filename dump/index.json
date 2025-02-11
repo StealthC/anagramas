@@ -543,6 +543,7 @@
     "acdiop",
     "acdirrssu",
     "acdnoor",
+    "acdoor",
     "acdoov",
     "aceeeijrrv",
     "aceeelprrv",
@@ -6586,6 +6587,10 @@
     {
       "date": "2025-02-11T00:15:54.412Z",
       "anagram": "adiiinssv"
+    },
+    {
+      "date": "2025-02-11T12:06:26.639Z",
+      "anagram": "acdoor"
     }
   ]
 }
