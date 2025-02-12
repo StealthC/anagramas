@@ -815,6 +815,7 @@
     "aeiinsttv",
     "aeiiprss",
     "aeijnrv",
+    "aeilrtv",
     "aeilss",
     "aeilssv",
     "aeiltv",
@@ -6606,6 +6607,10 @@
     {
       "date": "2025-02-12T16:04:35.913Z",
       "anagram": "diinost"
+    },
+    {
+      "date": "2025-02-12T20:04:10.855Z",
+      "anagram": "aeilrtv"
     }
   ]
 }
