@@ -851,6 +851,7 @@
     "aejorv",
     "aelmo",
     "aelmru",
+    "aelnorr",
     "aelos",
     "aeloss",
     "aelpr",
@@ -6626,6 +6627,10 @@
     {
       "date": "2025-02-13T16:04:30.147Z",
       "anagram": "aaemrrt"
+    },
+    {
+      "date": "2025-02-13T20:04:13.255Z",
+      "anagram": "aelnorr"
     }
   ]
 }
