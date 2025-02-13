@@ -565,6 +565,7 @@
     "aceglos",
     "acegoosz",
     "acehlns",
+    "acehls",
     "acehmnsu",
     "acehmnu",
     "acehort",
@@ -6616,6 +6617,10 @@
     {
       "date": "2025-02-13T00:16:00.072Z",
       "anagram": "aadiuv"
+    },
+    {
+      "date": "2025-02-13T12:06:08.722Z",
+      "anagram": "acehls"
     }
   ]
 }
