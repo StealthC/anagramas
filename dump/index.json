@@ -1267,6 +1267,7 @@
     "eiooprsss",
     "eiooqssu",
     "eiqssuu",
+    "elmor",
     "eloos",
     "elopr",
     "eloprs",
@@ -6641,6 +6642,10 @@
     {
       "date": "2025-02-14T12:05:59.569Z",
       "anagram": "aaiostv"
+    },
+    {
+      "date": "2025-02-14T16:04:19.777Z",
+      "anagram": "elmor"
     }
   ]
 }
