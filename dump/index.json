@@ -419,6 +419,7 @@
     "aainrt",
     "aainss",
     "aaiopttv",
+    "aaiostv",
     "aaiprst",
     "aaipt",
     "aairrtt",
@@ -6636,6 +6637,10 @@
     {
       "date": "2025-02-14T00:15:59.832Z",
       "anagram": "bcilopsu"
+    },
+    {
+      "date": "2025-02-14T12:05:59.569Z",
+      "anagram": "aaiostv"
     }
   ]
 }
