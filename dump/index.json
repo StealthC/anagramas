@@ -995,6 +995,7 @@
     "bchios",
     "bciinorrtu",
     "bcilnoou",
+    "bcilopsu",
     "bddeiiinos",
     "bdeemorz",
     "bdeinou",
@@ -6631,6 +6632,10 @@
     {
       "date": "2025-02-13T20:04:13.255Z",
       "anagram": "aelnorr"
+    },
+    {
+      "date": "2025-02-14T00:15:59.832Z",
+      "anagram": "bcilopsu"
     }
   ]
 }
