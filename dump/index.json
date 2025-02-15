@@ -709,6 +709,7 @@
     "adfgios",
     "adfgiu",
     "adfhinor",
+    "adfilor",
     "adfinstu",
     "adfiort",
     "adfiosu",
@@ -6651,6 +6652,10 @@
     {
       "date": "2025-02-14T20:04:12.096Z",
       "anagram": "aceehmst"
+    },
+    {
+      "date": "2025-02-15T00:15:52.671Z",
+      "anagram": "adfilor"
     }
   ]
 }
