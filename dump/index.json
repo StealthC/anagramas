@@ -1327,6 +1327,7 @@
     "imopru",
     "imosst",
     "inoprt",
+    "inorsstu",
     "inort",
     "inostt",
     "inosu",
@@ -6686,6 +6687,10 @@
     {
       "date": "2025-02-16T16:04:01.900Z",
       "anagram": "abdelmoo"
+    },
+    {
+      "date": "2025-02-16T20:04:21.368Z",
+      "anagram": "inorsstu"
     }
   ]
 }
