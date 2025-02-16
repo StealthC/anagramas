@@ -986,6 +986,7 @@
     "aoopr",
     "aooprs",
     "aoostt",
+    "aoprsu",
     "aoprt",
     "aopss",
     "aopssstu",
@@ -6676,6 +6677,10 @@
     {
       "date": "2025-02-16T00:17:35.070Z",
       "anagram": "aacdilr"
+    },
+    {
+      "date": "2025-02-16T12:07:42.573Z",
+      "anagram": "aoprsu"
     }
   ]
 }
