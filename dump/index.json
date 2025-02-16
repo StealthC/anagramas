@@ -178,6 +178,7 @@
     "aacdi",
     "aacdiiins",
     "aacdiiprr",
+    "aacdilr",
     "aacdins",
     "aacdjnsu",
     "aacdo",
@@ -6671,6 +6672,10 @@
     {
       "date": "2025-02-15T20:03:44.195Z",
       "anagram": "aaegnrs"
+    },
+    {
+      "date": "2025-02-16T00:17:35.070Z",
+      "anagram": "aacdilr"
     }
   ]
 }
