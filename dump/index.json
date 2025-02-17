@@ -431,6 +431,7 @@
     "aajmnr",
     "aajnrtu",
     "aalmnor",
+    "aalmo",
     "aaloppu",
     "aalorru",
     "aalorss",
@@ -6706,6 +6707,10 @@
     {
       "date": "2025-02-17T16:04:47.364Z",
       "anagram": "ciiloosst"
+    },
+    {
+      "date": "2025-02-17T20:04:05.497Z",
+      "anagram": "aalmo"
     }
   ]
 }
