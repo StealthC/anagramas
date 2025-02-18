@@ -383,6 +383,7 @@
     "aaestux",
     "aafgiilnr",
     "aafgir",
+    "aafgnoru",
     "aafiinrt",
     "aafim",
     "aafimrr",
@@ -6716,6 +6717,10 @@
     {
       "date": "2025-02-18T00:15:57.303Z",
       "anagram": "ajstu"
+    },
+    {
+      "date": "2025-02-18T12:06:11.076Z",
+      "anagram": "aafgnoru"
     }
   ]
 }
