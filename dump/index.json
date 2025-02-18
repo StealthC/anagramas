@@ -968,6 +968,7 @@
     "aiqrtu",
     "ajnrtu",
     "ajsstu",
+    "ajstu",
     "almotu",
     "alnop",
     "alooors",
@@ -6711,6 +6712,10 @@
     {
       "date": "2025-02-17T20:04:05.497Z",
       "anagram": "aalmo"
+    },
+    {
+      "date": "2025-02-18T00:15:57.303Z",
+      "anagram": "ajstu"
     }
   ]
 }
