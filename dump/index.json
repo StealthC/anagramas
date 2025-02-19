@@ -1052,6 +1052,7 @@
     "cdeeort",
     "cdefiiio",
     "cdeiioosss",
+    "cdeimoov",
     "cdeimos",
     "cdeimprrsu",
     "cdeoorrr",
@@ -6746,6 +6747,10 @@
     {
       "date": "2025-02-19T16:04:37.228Z",
       "anagram": "acelnot"
+    },
+    {
+      "date": "2025-02-19T20:04:14.928Z",
+      "anagram": "cdeimoov"
     }
   ]
 }
