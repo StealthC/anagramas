@@ -237,6 +237,7 @@
     "aacopt",
     "aacorr",
     "aacors",
+    "aacr",
     "aacrs",
     "aacrst",
     "aadddeegrs",
@@ -6776,6 +6777,10 @@
     {
       "date": "2025-02-21T00:16:07.959Z",
       "anagram": "eiinorst"
+    },
+    {
+      "date": "2025-02-21T12:06:02.758Z",
+      "anagram": "aacr"
     }
   ]
 }
