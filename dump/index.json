@@ -1270,6 +1270,7 @@
     "eiimnors",
     "eiinooprs",
     "eiinorss",
+    "eiinorst",
     "eiiorrsttv",
     "eilorsuz",
     "eiloss",
@@ -6771,6 +6772,10 @@
     {
       "date": "2025-02-20T20:04:13.123Z",
       "anagram": "aeglos"
+    },
+    {
+      "date": "2025-02-21T00:16:07.959Z",
+      "anagram": "eiinorst"
     }
   ]
 }
