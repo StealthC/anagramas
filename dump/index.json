@@ -1173,6 +1173,7 @@
     "deeimnoss",
     "deeioprrt",
     "deejoosss",
+    "deelosv",
     "deemnor",
     "deenoossst",
     "deeooprrsv",
@@ -6816,6 +6817,10 @@
     {
       "date": "2025-02-23T12:05:29.858Z",
       "anagram": "acceimno"
+    },
+    {
+      "date": "2025-02-23T16:04:18.849Z",
+      "anagram": "deelosv"
     }
   ]
 }
