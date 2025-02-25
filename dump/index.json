@@ -352,6 +352,7 @@
     "aaegiimsv",
     "aaegilr",
     "aaegimns",
+    "aaeglms",
     "aaeglo",
     "aaeglr",
     "aaeglruz",
@@ -6841,6 +6842,10 @@
     {
       "date": "2025-02-24T20:04:17.717Z",
       "anagram": "acimrss"
+    },
+    {
+      "date": "2025-02-25T00:17:16.636Z",
+      "anagram": "aaeglms"
     }
   ]
 }
