@@ -22,6 +22,7 @@
     "aaabcor",
     "aaabcrr",
     "aaabddnor",
+    "aaabdgirs",
     "aaabdls",
     "aaabehnrrr",
     "aaaccejrr",
@@ -6866,6 +6867,10 @@
     {
       "date": "2025-02-26T00:16:13.264Z",
       "anagram": "aaorv"
+    },
+    {
+      "date": "2025-02-26T12:06:23.724Z",
+      "anagram": "aaabdgirs"
     }
   ]
 }
