@@ -454,6 +454,7 @@
     "aanst",
     "aaopr",
     "aaort",
+    "aaorv",
     "aaprt",
     "aarrs",
     "aarst",
@@ -6861,6 +6862,10 @@
     {
       "date": "2025-02-25T20:04:22.551Z",
       "anagram": "beiorst"
+    },
+    {
+      "date": "2025-02-26T00:16:13.264Z",
+      "anagram": "aaorv"
     }
   ]
 }
