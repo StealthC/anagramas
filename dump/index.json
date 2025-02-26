@@ -1010,6 +1010,7 @@
     "anost",
     "aoopr",
     "aooprs",
+    "aoorrt",
     "aoostt",
     "aoprsu",
     "aoprt",
@@ -6871,6 +6872,10 @@
     {
       "date": "2025-02-26T12:06:23.724Z",
       "anagram": "aaabdgirs"
+    },
+    {
+      "date": "2025-02-26T16:04:53.088Z",
+      "anagram": "aoorrt"
     }
   ]
 }
