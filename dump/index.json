@@ -741,6 +741,7 @@
     "adginov",
     "adgiossu",
     "adgirssu",
+    "adgjoor",
     "adgor",
     "adgorru",
     "adgors",
@@ -6881,6 +6882,10 @@
     {
       "date": "2025-02-26T20:04:17.495Z",
       "anagram": "aeimnqsuu"
+    },
+    {
+      "date": "2025-02-27T00:16:18.428Z",
+      "anagram": "adgjoor"
     }
   ]
 }
