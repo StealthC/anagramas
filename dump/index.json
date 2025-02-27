@@ -1217,6 +1217,7 @@
     "dfiloor",
     "dginosu",
     "diiinooss",
+    "diiinosttu",
     "diimnoo",
     "diimnostu",
     "diinoopsst",
@@ -6886,6 +6887,10 @@
     {
       "date": "2025-02-27T00:16:18.428Z",
       "anagram": "adgjoor"
+    },
+    {
+      "date": "2025-02-27T12:06:42.661Z",
+      "anagram": "diiinosttu"
     }
   ]
 }
