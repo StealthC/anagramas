@@ -548,6 +548,7 @@
     "acdeiimnu",
     "acdeilo",
     "acdeilu",
+    "acdeim",
     "acdeinsv",
     "acdemno",
     "acdeo",
@@ -6911,6 +6912,10 @@
     {
       "date": "2025-02-28T12:06:20.927Z",
       "anagram": "aceeessstt"
+    },
+    {
+      "date": "2025-02-28T16:04:25.950Z",
+      "anagram": "acdeim"
     }
   ]
 }
