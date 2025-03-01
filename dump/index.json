@@ -472,6 +472,7 @@
     "abceorr",
     "abciiilmsu",
     "abcilpru",
+    "abcmmoos",
     "abcors",
     "abcrsu",
     "abdeenruz",
@@ -6936,6 +6937,10 @@
     {
       "date": "2025-03-01T16:03:57.438Z",
       "anagram": "bceerrssuv"
+    },
+    {
+      "date": "2025-03-01T20:04:28.070Z",
+      "anagram": "abcmmoos"
     }
   ]
 }
