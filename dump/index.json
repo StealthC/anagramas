@@ -1033,6 +1033,7 @@
     "bblosu",
     "bcdeeiors",
     "bceenossuv",
+    "bceerrssuv",
     "bceilooss",
     "bceirru",
     "bcenoos",
@@ -6931,6 +6932,10 @@
     {
       "date": "2025-03-01T12:06:08.584Z",
       "anagram": "aadhnssu"
+    },
+    {
+      "date": "2025-03-01T16:03:57.438Z",
+      "anagram": "bceerrssuv"
     }
   ]
 }
