@@ -265,6 +265,7 @@
     "aaddilot",
     "aaddirtu",
     "aaddloss",
+    "aaddops",
     "aaddos",
     "aadeejmst",
     "aadeejprr",
@@ -6951,6 +6952,10 @@
     {
       "date": "2025-03-02T12:05:35.024Z",
       "anagram": "cgilmnooo"
+    },
+    {
+      "date": "2025-03-02T16:03:48.018Z",
+      "anagram": "aaddops"
     }
   ]
 }
