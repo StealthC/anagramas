@@ -1145,6 +1145,7 @@
     "cfiiioors",
     "cgiiloost",
     "cgiiorrr",
+    "cgilmnooo",
     "cgimoo",
     "cginoot",
     "chiioorst",
@@ -6946,6 +6947,10 @@
     {
       "date": "2025-03-02T00:17:42.275Z",
       "anagram": "ademnor"
+    },
+    {
+      "date": "2025-03-02T12:05:35.024Z",
+      "anagram": "cgilmnooo"
     }
   ]
 }
