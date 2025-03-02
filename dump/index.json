@@ -723,6 +723,7 @@
     "adelov",
     "adeltu",
     "ademnoo",
+    "ademnor",
     "ademr",
     "ademrs",
     "adenorv",
@@ -6941,6 +6942,10 @@
     {
       "date": "2025-03-01T20:04:28.070Z",
       "anagram": "abcmmoos"
+    },
+    {
+      "date": "2025-03-02T00:17:42.275Z",
+      "anagram": "ademnor"
     }
   ]
 }
