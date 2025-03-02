@@ -10,6 +10,7 @@
     "aaaacdhlps",
     "aaaacdhns",
     "aaaacdlms",
+    "aaaacdlmss",
     "aaaacdmp",
     "aaaacdmr",
     "aaaadelntv",
@@ -6956,6 +6957,10 @@
     {
       "date": "2025-03-02T16:03:48.018Z",
       "anagram": "aaddops"
+    },
+    {
+      "date": "2025-03-02T20:04:19.035Z",
+      "anagram": "aaaacdlmss"
     }
   ]
 }
