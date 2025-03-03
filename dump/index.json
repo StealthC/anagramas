@@ -477,6 +477,7 @@
     "abcmmoos",
     "abcors",
     "abcrsu",
+    "abddlou",
     "abdeenruz",
     "abdelmoo",
     "abdemno",
@@ -6971,6 +6972,10 @@
     {
       "date": "2025-03-03T16:04:32.683Z",
       "anagram": "aeegil"
+    },
+    {
+      "date": "2025-03-03T20:04:04.961Z",
+      "anagram": "abddlou"
     }
   ]
 }
