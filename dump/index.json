@@ -774,6 +774,7 @@
     "adimnos",
     "adimootv",
     "adinnru",
+    "adinoott",
     "adinopt",
     "adioorv",
     "adiootv",
@@ -6961,6 +6962,10 @@
     {
       "date": "2025-03-02T20:04:19.035Z",
       "anagram": "aaaacdlmss"
+    },
+    {
+      "date": "2025-03-03T00:17:29.471Z",
+      "anagram": "adinoott"
     }
   ]
 }
