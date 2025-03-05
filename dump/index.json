@@ -231,6 +231,7 @@
     "aaciiosx",
     "aacins",
     "aacirt",
+    "aacirv",
     "aaciss",
     "aacisstu",
     "aacissu",
@@ -6991,6 +6992,10 @@
     {
       "date": "2025-03-04T16:04:42.538Z",
       "anagram": "aabdhiot"
+    },
+    {
+      "date": "2025-03-05T00:16:29.054Z",
+      "anagram": "aacirv"
     }
   ]
 }
