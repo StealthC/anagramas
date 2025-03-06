@@ -989,6 +989,7 @@
     "ailoops",
     "ailorv",
     "ailov",
+    "ailrrstu",
     "ailrssu",
     "ailrsu",
     "aimmoss",
@@ -7021,6 +7022,10 @@
     {
       "date": "2025-03-06T16:04:32.725Z",
       "anagram": "adefntu"
+    },
+    {
+      "date": "2025-03-06T20:04:19.222Z",
+      "anagram": "ailrrstu"
     }
   ]
 }
