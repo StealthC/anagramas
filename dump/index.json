@@ -319,6 +319,7 @@
     "aadilstu",
     "aadinno",
     "aadiopr",
+    "aadiopt",
     "aadiort",
     "aadiorv",
     "aadiotv",
@@ -7006,6 +7007,10 @@
     {
       "date": "2025-03-05T20:04:22.142Z",
       "anagram": "ademost"
+    },
+    {
+      "date": "2025-03-06T00:16:37.940Z",
+      "anagram": "aadiopt"
     }
   ]
 }
