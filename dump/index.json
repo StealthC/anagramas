@@ -636,6 +636,7 @@
     "acgno",
     "acgnos",
     "achiips",
+    "achiors",
     "achlooppu",
     "achmsu",
     "achnoor",
@@ -7041,6 +7042,10 @@
     {
       "date": "2025-03-08T00:13:35.416Z",
       "anagram": "eeegnrt"
+    },
+    {
+      "date": "2025-03-08T12:05:03.441Z",
+      "anagram": "achiors"
     }
   ]
 }
