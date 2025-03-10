@@ -1020,6 +1020,7 @@
     "ajnrtu",
     "ajsstu",
     "ajstu",
+    "allsu",
     "almotu",
     "alnop",
     "alooors",
@@ -7076,6 +7077,10 @@
     {
       "date": "2025-03-09T20:03:46.861Z",
       "anagram": "aaefinrru"
+    },
+    {
+      "date": "2025-03-10T00:14:24.968Z",
+      "anagram": "allsu"
     }
   ]
 }
