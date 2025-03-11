@@ -405,6 +405,7 @@
     "aafiinrt",
     "aafim",
     "aafimrr",
+    "aafirss",
     "aaflnu",
     "aaforr",
     "aaghiimnu",
@@ -7101,6 +7102,10 @@
     {
       "date": "2025-03-11T00:16:47.094Z",
       "anagram": "aaddmno"
+    },
+    {
+      "date": "2025-03-11T16:05:00.636Z",
+      "anagram": "aafirss"
     }
   ]
 }
