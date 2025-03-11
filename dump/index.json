@@ -1350,6 +1350,7 @@
     "eimoprs",
     "eimost",
     "eimosv",
+    "einnort",
     "einnostv",
     "einnotv",
     "einopst",
@@ -7106,6 +7107,10 @@
     {
       "date": "2025-03-11T16:05:00.636Z",
       "anagram": "aafirss"
+    },
+    {
+      "date": "2025-03-11T20:04:25.879Z",
+      "anagram": "einnort"
     }
   ]
 }
