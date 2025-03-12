@@ -999,6 +999,7 @@
     "ailrrstu",
     "ailrssu",
     "ailrsu",
+    "ailtv",
     "aimmoss",
     "aimmox",
     "aimnnooot",
@@ -7111,6 +7112,10 @@
     {
       "date": "2025-03-11T20:04:25.879Z",
       "anagram": "einnort"
+    },
+    {
+      "date": "2025-03-12T12:06:39.552Z",
+      "anagram": "ailtv"
     }
   ]
 }
