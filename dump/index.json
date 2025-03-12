@@ -909,6 +909,7 @@
     "aelmo",
     "aelmru",
     "aelnorr",
+    "aelnr",
     "aelos",
     "aeloss",
     "aelpr",
@@ -7116,6 +7117,10 @@
     {
       "date": "2025-03-12T12:06:39.552Z",
       "anagram": "ailtv"
+    },
+    {
+      "date": "2025-03-12T16:04:59.023Z",
+      "anagram": "aelnr"
     }
   ]
 }
