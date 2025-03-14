@@ -239,6 +239,7 @@
     "aaclmssu",
     "aaclp",
     "aaclpr",
+    "aaclpssu",
     "aacnor",
     "aacnossu",
     "aacopt",
@@ -7146,6 +7147,10 @@
     {
       "date": "2025-03-14T00:16:27.773Z",
       "anagram": "aaelstt"
+    },
+    {
+      "date": "2025-03-14T12:06:22.269Z",
+      "anagram": "aaclpssu"
     }
   ]
 }
