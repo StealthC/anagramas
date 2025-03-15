@@ -1041,6 +1041,7 @@
     "alooprt",
     "aloru",
     "alost",
+    "alosuux",
     "alot",
     "alprsu",
     "alpsu",
@@ -7171,6 +7172,10 @@
     {
       "date": "2025-03-15T12:05:48.815Z",
       "anagram": "aacdeiilt"
+    },
+    {
+      "date": "2025-03-15T20:03:56.975Z",
+      "anagram": "alosuux"
     }
   ]
 }
