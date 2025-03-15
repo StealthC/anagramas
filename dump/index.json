@@ -175,6 +175,7 @@
     "aacdefhs",
     "aacdeghs",
     "aacdegip",
+    "aacdeiilt",
     "aacden",
     "aacdfiimmu",
     "aacdfiit",
@@ -7166,6 +7167,10 @@
     {
       "date": "2025-03-15T00:16:37.292Z",
       "anagram": "amorr"
+    },
+    {
+      "date": "2025-03-15T12:05:48.815Z",
+      "anagram": "aacdeiilt"
     }
   ]
 }
