@@ -473,6 +473,7 @@
     "aanotv",
     "aanst",
     "aaopr",
+    "aaorstu",
     "aaort",
     "aaorv",
     "aaprt",
@@ -7186,6 +7187,10 @@
     {
       "date": "2025-03-16T12:05:47.693Z",
       "anagram": "eiinnosstt"
+    },
+    {
+      "date": "2025-03-16T16:03:59.193Z",
+      "anagram": "aaorstu"
     }
   ]
 }
