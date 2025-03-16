@@ -1347,6 +1347,7 @@
     "eiiloprt",
     "eiimnor",
     "eiimnors",
+    "eiinnosstt",
     "eiinooprs",
     "eiinorss",
     "eiinorst",
@@ -7181,6 +7182,10 @@
     {
       "date": "2025-03-16T00:18:31.865Z",
       "anagram": "aabdiotz"
+    },
+    {
+      "date": "2025-03-16T12:05:47.693Z",
+      "anagram": "eiinnosstt"
     }
   ]
 }
