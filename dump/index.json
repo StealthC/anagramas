@@ -1277,6 +1277,7 @@
     "diiinosttu",
     "diimnoo",
     "diimnostu",
+    "diimot",
     "diinoopsst",
     "diinost",
     "dilnostu",
@@ -7211,6 +7212,10 @@
     {
       "date": "2025-03-17T16:04:55.108Z",
       "anagram": "aloquz"
+    },
+    {
+      "date": "2025-03-17T20:04:13.745Z",
+      "anagram": "diimot"
     }
   ]
 }
