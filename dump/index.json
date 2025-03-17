@@ -571,6 +571,7 @@
     "acdefiir",
     "acdegiiiln",
     "acdeiimnu",
+    "acdeiirtu",
     "acdeilo",
     "acdeilu",
     "acdeim",
@@ -7201,6 +7202,10 @@
     {
       "date": "2025-03-17T00:18:12.806Z",
       "anagram": "aadgimnu"
+    },
+    {
+      "date": "2025-03-17T12:06:47.282Z",
+      "anagram": "acdeiirtu"
     }
   ]
 }
