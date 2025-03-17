@@ -309,6 +309,7 @@
     "aadgiinst",
     "aadgilru",
     "aadgils",
+    "aadgimnu",
     "aadgint",
     "aadgllnu",
     "aadgmor",
@@ -7196,6 +7197,10 @@
     {
       "date": "2025-03-16T20:03:43.775Z",
       "anagram": "aaceehmnr"
+    },
+    {
+      "date": "2025-03-17T00:18:12.806Z",
+      "anagram": "aadgimnu"
     }
   ]
 }
