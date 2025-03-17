@@ -1044,6 +1044,7 @@
     "alnop",
     "alooors",
     "alooprt",
+    "aloquz",
     "aloru",
     "alost",
     "alosuux",
@@ -7206,6 +7207,10 @@
     {
       "date": "2025-03-17T12:06:47.282Z",
       "anagram": "acdeiirtu"
+    },
+    {
+      "date": "2025-03-17T16:04:55.108Z",
+      "anagram": "aloquz"
     }
   ]
 }
