@@ -1269,6 +1269,7 @@
     "deirsuz",
     "delmoos",
     "delouv",
+    "demos",
     "deooprt",
     "deosstu",
     "dfgiiors",
@@ -7221,6 +7222,10 @@
     {
       "date": "2025-03-18T00:16:54.278Z",
       "anagram": "aaahinrr"
+    },
+    {
+      "date": "2025-03-18T12:06:42.382Z",
+      "anagram": "demos"
     }
   ]
 }
