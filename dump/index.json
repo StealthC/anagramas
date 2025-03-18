@@ -269,6 +269,7 @@
     "aaddesv",
     "aaddfinnsu",
     "aaddfnosu",
+    "aaddfnou",
     "aaddhiinov",
     "aaddiimst",
     "aaddiimsz",
@@ -7226,6 +7227,10 @@
     {
       "date": "2025-03-18T12:06:42.382Z",
       "anagram": "demos"
+    },
+    {
+      "date": "2025-03-18T16:04:51.678Z",
+      "anagram": "aaddfnou"
     }
   ]
 }
