@@ -1362,6 +1362,7 @@
     "eiiloprt",
     "eiimnor",
     "eiimnors",
+    "eiimorssv",
     "eiinnosstt",
     "eiinooprs",
     "eiinorss",
@@ -7261,6 +7262,10 @@
     {
       "date": "2025-03-20T00:16:38.480Z",
       "anagram": "dfiorsuuu"
+    },
+    {
+      "date": "2025-03-20T12:06:50.451Z",
+      "anagram": "eiimorssv"
     }
   ]
 }
