@@ -1458,6 +1458,7 @@
     "moopsstu",
     "moort",
     "nnoorstu",
+    "noooprtu",
     "ooopprsst",
     "ooprss"
   ],
@@ -7301,6 +7302,10 @@
     {
       "date": "2025-03-22T00:16:28.264Z",
       "anagram": "adeov"
+    },
+    {
+      "date": "2025-03-22T12:05:43.091Z",
+      "anagram": "noooprtu"
     }
   ]
 }
