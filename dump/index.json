@@ -282,6 +282,7 @@
     "aaddirtu",
     "aaddloss",
     "aaddmno",
+    "aaddoot",
     "aaddops",
     "aaddos",
     "aadeejmst",
@@ -7311,6 +7312,10 @@
     {
       "date": "2025-03-22T16:04:01.939Z",
       "anagram": "aeenrrrt"
+    },
+    {
+      "date": "2025-03-22T20:04:20.806Z",
+      "anagram": "aaddoot"
     }
   ]
 }
