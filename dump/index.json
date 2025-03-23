@@ -212,6 +212,7 @@
     "aaceiimnn",
     "aaceimoqu",
     "aaceiprr",
+    "aaceiqsu",
     "aaceit",
     "aacejrrt",
     "aacejrrv",
@@ -7321,6 +7322,10 @@
     {
       "date": "2025-03-23T00:18:50.145Z",
       "anagram": "aadeefimn"
+    },
+    {
+      "date": "2025-03-23T12:05:59.507Z",
+      "anagram": "aaceiqsu"
     }
   ]
 }
