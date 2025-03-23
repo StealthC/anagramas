@@ -40,6 +40,7 @@
     "aaacdemo",
     "aaacdennr",
     "aaacdenrv",
+    "aaacdhmno",
     "aaacdhruv",
     "aaacdinv",
     "aaacdl",
@@ -7326,6 +7327,10 @@
     {
       "date": "2025-03-23T12:05:59.507Z",
       "anagram": "aaceiqsu"
+    },
+    {
+      "date": "2025-03-23T16:04:14.962Z",
+      "anagram": "aaacdhmno"
     }
   ]
 }
