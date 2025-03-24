@@ -1027,6 +1027,7 @@
     "ailoops",
     "ailorv",
     "ailov",
+    "ailr",
     "ailrrstu",
     "ailrssu",
     "ailrsu",
@@ -7336,6 +7337,10 @@
     {
       "date": "2025-03-23T20:04:05.816Z",
       "anagram": "eeeinprtt"
+    },
+    {
+      "date": "2025-03-24T00:18:09.741Z",
+      "anagram": "ailr"
     }
   ]
 }
