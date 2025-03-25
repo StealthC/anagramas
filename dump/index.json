@@ -943,6 +943,7 @@
     "aelnr",
     "aelos",
     "aeloss",
+    "aelosv",
     "aelpr",
     "aelprsu",
     "aelsv",
@@ -7361,6 +7362,10 @@
     {
       "date": "2025-03-25T00:17:33.504Z",
       "anagram": "adiinno"
+    },
+    {
+      "date": "2025-03-25T12:06:33.013Z",
+      "anagram": "aelosv"
     }
   ]
 }
