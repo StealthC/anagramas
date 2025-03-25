@@ -807,6 +807,7 @@
     "adiiinrvz",
     "adiiinssv",
     "adiimsz",
+    "adiinno",
     "adiinnos",
     "adiinnosu",
     "adiiooorrv",
@@ -7356,6 +7357,10 @@
     {
       "date": "2025-03-24T20:04:39.166Z",
       "anagram": "aclou"
+    },
+    {
+      "date": "2025-03-25T00:17:33.504Z",
+      "anagram": "adiinno"
     }
   ]
 }
