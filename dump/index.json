@@ -1472,6 +1472,7 @@
     "inosu",
     "iopst",
     "loorsu",
+    "mnoorsst",
     "moopsstu",
     "moort",
     "nnoorstu",
@@ -7391,6 +7392,10 @@
     {
       "date": "2025-03-26T16:05:12.331Z",
       "anagram": "ahijnnos"
+    },
+    {
+      "date": "2025-03-26T20:04:47.121Z",
+      "anagram": "mnoorsst"
     }
   ]
 }
