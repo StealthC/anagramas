@@ -659,6 +659,7 @@
     "acforss",
     "acghno",
     "acghnos",
+    "acgiiloot",
     "acgiinnot",
     "acgiirru",
     "acgimos",
@@ -7381,6 +7382,10 @@
     {
       "date": "2025-03-26T00:17:09.876Z",
       "anagram": "efnosstu"
+    },
+    {
+      "date": "2025-03-26T12:06:40.069Z",
+      "anagram": "acgiiloot"
     }
   ]
 }
