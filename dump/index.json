@@ -783,6 +783,7 @@
     "adeov",
     "adepr",
     "adeprs",
+    "aderuz",
     "adfgios",
     "adfgiu",
     "adfhinor",
@@ -7401,6 +7402,10 @@
     {
       "date": "2025-03-27T00:17:00.510Z",
       "anagram": "aadimor"
+    },
+    {
+      "date": "2025-03-27T12:06:52.424Z",
+      "anagram": "aderuz"
     }
   ]
 }
