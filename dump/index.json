@@ -337,6 +337,7 @@
     "aadiipst",
     "aadilnsu",
     "aadilstu",
+    "aadimor",
     "aadinno",
     "aadiopr",
     "aadiopt",
@@ -7396,6 +7397,10 @@
     {
       "date": "2025-03-26T20:04:47.121Z",
       "anagram": "mnoorsst"
+    },
+    {
+      "date": "2025-03-27T00:17:00.510Z",
+      "anagram": "aadimor"
     }
   ]
 }
