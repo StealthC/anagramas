@@ -837,6 +837,7 @@
     "adoortu",
     "adorr",
     "aeeegnrst",
+    "aeeegstx",
     "aeeeinnsst",
     "aeeelmnntt",
     "aeeelnrvv",
@@ -7431,6 +7432,10 @@
     {
       "date": "2025-03-28T16:04:52.143Z",
       "anagram": "ccioors"
+    },
+    {
+      "date": "2025-03-28T20:04:23.100Z",
+      "anagram": "aeeegstx"
     }
   ]
 }
