@@ -93,6 +93,7 @@
     "aaafilstt",
     "aaafnors",
     "aaaginrr",
+    "aaagirr",
     "aaagirrs",
     "aaagist",
     "aaaglrt",
@@ -7421,6 +7422,10 @@
     {
       "date": "2025-03-28T00:16:58.764Z",
       "anagram": "aenrt"
+    },
+    {
+      "date": "2025-03-28T12:06:33.533Z",
+      "anagram": "aaagirr"
     }
   ]
 }
