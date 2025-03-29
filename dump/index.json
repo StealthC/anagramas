@@ -120,6 +120,7 @@
     "aabbnos",
     "aabboors",
     "aabccloou",
+    "aabcders",
     "aabcdhmsu",
     "aabcdos",
     "aabceelnt",
@@ -7441,6 +7442,10 @@
     {
       "date": "2025-03-29T00:16:49.352Z",
       "anagram": "aaadfgos"
+    },
+    {
+      "date": "2025-03-29T12:05:56.487Z",
+      "anagram": "aabcders"
     }
   ]
 }
