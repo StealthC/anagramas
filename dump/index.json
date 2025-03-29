@@ -1282,6 +1282,7 @@
     "deelosv",
     "deemnor",
     "deenoossst",
+    "deenost",
     "deeooprrsv",
     "deesstu",
     "defgloou",
@@ -7446,6 +7447,10 @@
     {
       "date": "2025-03-29T12:05:56.487Z",
       "anagram": "aabcders"
+    },
+    {
+      "date": "2025-03-29T16:03:58.996Z",
+      "anagram": "deenost"
     }
   ]
 }
