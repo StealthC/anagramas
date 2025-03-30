@@ -256,6 +256,7 @@
     "aaclp",
     "aaclpr",
     "aaclpssu",
+    "aaclssu",
     "aacnor",
     "aacnossu",
     "aacopt",
@@ -7461,6 +7462,10 @@
     {
       "date": "2025-03-30T00:18:52.251Z",
       "anagram": "clnooos"
+    },
+    {
+      "date": "2025-03-30T12:05:56.460Z",
+      "anagram": "aaclssu"
     }
   ]
 }
