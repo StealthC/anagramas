@@ -198,6 +198,7 @@
     "aacdiiins",
     "aacdiiprr",
     "aacdilr",
+    "aacdinnou",
     "aacdins",
     "aacdjnsu",
     "aacdmos",
@@ -7471,6 +7472,10 @@
     {
       "date": "2025-03-30T16:04:03.369Z",
       "anagram": "fiiimnosss"
+    },
+    {
+      "date": "2025-03-30T20:04:13.884Z",
+      "anagram": "aacdinnou"
     }
   ]
 }
