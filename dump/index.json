@@ -1253,6 +1253,7 @@
     "cioot",
     "ciops",
     "ciors",
+    "clnooos",
     "cmooptu",
     "cnoors",
     "coosst",
@@ -7456,6 +7457,10 @@
     {
       "date": "2025-03-29T20:04:03.530Z",
       "anagram": "aceegstu"
+    },
+    {
+      "date": "2025-03-30T00:18:52.251Z",
+      "anagram": "clnooos"
     }
   ]
 }
