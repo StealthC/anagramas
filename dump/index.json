@@ -646,6 +646,7 @@
     "aceiinp",
     "aceiinvv",
     "aceiirsv",
+    "aceimntu",
     "aceinnru",
     "aceiot",
     "acellru",
@@ -7506,6 +7507,10 @@
     {
       "date": "2025-04-01T16:04:25.042Z",
       "anagram": "cfinnos"
+    },
+    {
+      "date": "2025-04-01T20:04:44.128Z",
+      "anagram": "aceimntu"
     }
   ]
 }
