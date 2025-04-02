@@ -1224,6 +1224,7 @@
     "celooostv",
     "cenoorrsv",
     "cenoos",
+    "cenos",
     "ceoops",
     "ceorsu",
     "ceorsv",
@@ -7521,6 +7522,10 @@
     {
       "date": "2025-04-02T16:04:59.772Z",
       "anagram": "acejlo"
+    },
+    {
+      "date": "2025-04-02T20:04:22.690Z",
+      "anagram": "cenos"
     }
   ]
 }
