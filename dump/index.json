@@ -474,6 +474,7 @@
     "aaiopttv",
     "aaiostv",
     "aaiprst",
+    "aaipssst",
     "aaipt",
     "aairrtt",
     "aairsv",
@@ -7511,6 +7512,10 @@
     {
       "date": "2025-04-01T20:04:44.128Z",
       "anagram": "aceimntu"
+    },
+    {
+      "date": "2025-04-02T00:17:33.154Z",
+      "anagram": "aaipssst"
     }
   ]
 }
