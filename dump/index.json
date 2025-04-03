@@ -223,6 +223,7 @@
     "aacejrrt",
     "aacejrrv",
     "aacelntt",
+    "aacelrr",
     "aacelss",
     "aacemp",
     "aacerrt",
@@ -7526,6 +7527,10 @@
     {
       "date": "2025-04-02T20:04:22.690Z",
       "anagram": "cenos"
+    },
+    {
+      "date": "2025-04-03T00:17:05.419Z",
+      "anagram": "aacelrr"
     }
   ]
 }
