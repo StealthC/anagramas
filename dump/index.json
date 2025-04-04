@@ -644,6 +644,7 @@
     "acehls",
     "acehmnsu",
     "acehmnu",
+    "acehmr",
     "acehort",
     "aceiiinrr",
     "aceiinp",
@@ -7541,6 +7542,10 @@
     {
       "date": "2025-04-03T20:04:42.719Z",
       "anagram": "aabdelmr"
+    },
+    {
+      "date": "2025-04-04T00:17:05.952Z",
+      "anagram": "acehmr"
     }
   ]
 }
