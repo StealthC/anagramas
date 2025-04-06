@@ -1057,6 +1057,7 @@
     "aills",
     "ailoops",
     "ailorv",
+    "ailotv",
     "ailov",
     "ailr",
     "ailrrstu",
@@ -7591,6 +7592,10 @@
     {
       "date": "2025-04-06T12:06:14.902Z",
       "anagram": "aefgsuz"
+    },
+    {
+      "date": "2025-04-06T16:04:03.009Z",
+      "anagram": "ailotv"
     }
   ]
 }
