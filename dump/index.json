@@ -888,6 +888,7 @@
     "aefglnor",
     "aefgort",
     "aefgsuz",
+    "aefiilsv",
     "aefiiort",
     "aefiln",
     "aefioss",
@@ -7596,6 +7597,10 @@
     {
       "date": "2025-04-06T16:04:03.009Z",
       "anagram": "ailotv"
+    },
+    {
+      "date": "2025-04-06T20:04:10.828Z",
+      "anagram": "aefiilsv"
     }
   ]
 }
