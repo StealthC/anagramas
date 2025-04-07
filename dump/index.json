@@ -433,6 +433,7 @@
     "aaeprs",
     "aaerrr",
     "aaestux",
+    "aafghlu",
     "aafgiilnr",
     "aafgir",
     "aafgnoru",
@@ -7606,6 +7607,10 @@
     {
       "date": "2025-04-07T12:06:46.057Z",
       "anagram": "bdiiilnoos"
+    },
+    {
+      "date": "2025-04-07T16:04:50.156Z",
+      "anagram": "aafghlu"
     }
   ]
 }
