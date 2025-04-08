@@ -1089,6 +1089,7 @@
     "aiprrt",
     "aiprs",
     "aiqrtu",
+    "airs",
     "ajnrtu",
     "ajsstu",
     "ajstu",
@@ -7621,6 +7622,10 @@
     {
       "date": "2025-04-08T00:16:54.981Z",
       "anagram": "eefgnrrsu"
+    },
+    {
+      "date": "2025-04-08T12:06:42.215Z",
+      "anagram": "airs"
     }
   ]
 }
