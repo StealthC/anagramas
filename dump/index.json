@@ -345,6 +345,7 @@
     "aadhnsu",
     "aadiiinnst",
     "aadiilnoqu",
+    "aadiinstu",
     "aadiipst",
     "aadilnsu",
     "aadilstu",
@@ -7636,6 +7637,10 @@
     {
       "date": "2025-04-09T12:06:43.032Z",
       "anagram": "aaailprs"
+    },
+    {
+      "date": "2025-04-09T16:04:59.782Z",
+      "anagram": "aadiinstu"
     }
   ]
 }
