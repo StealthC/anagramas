@@ -106,6 +106,7 @@
     "aaahnpr",
     "aaaiilnt",
     "aaaiinnrs",
+    "aaailprs",
     "aaailrst",
     "aaailrv",
     "aaaipps",
@@ -7631,6 +7632,10 @@
     {
       "date": "2025-04-09T00:17:17.260Z",
       "anagram": "befilr"
+    },
+    {
+      "date": "2025-04-09T12:06:43.032Z",
+      "anagram": "aaailprs"
     }
   ]
 }
