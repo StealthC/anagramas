@@ -1062,6 +1062,7 @@
     "aijlost",
     "aills",
     "ailoops",
+    "ailors",
     "ailorv",
     "ailotv",
     "ailov",
@@ -7646,6 +7647,10 @@
     {
       "date": "2025-04-09T20:04:23.779Z",
       "anagram": "aeiinnsstv"
+    },
+    {
+      "date": "2025-04-10T00:17:16.703Z",
+      "anagram": "ailors"
     }
   ]
 }
