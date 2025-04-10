@@ -1335,6 +1335,7 @@
     "deioors",
     "deioprt",
     "deioptu",
+    "deiort",
     "deiortv",
     "deioss",
     "deirsuz",
@@ -7656,6 +7657,10 @@
     {
       "date": "2025-04-10T16:05:00.110Z",
       "anagram": "dinooors"
+    },
+    {
+      "date": "2025-04-10T20:04:38.977Z",
+      "anagram": "deiort"
     }
   ]
 }
