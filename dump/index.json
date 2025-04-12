@@ -18,6 +18,7 @@
     "aaaadgrr",
     "aaaadirsv",
     "aaaadmprs",
+    "aaabbrr",
     "aaabcdeno",
     "aaabcest",
     "aaabcinr",
@@ -7691,6 +7692,10 @@
     {
       "date": "2025-04-12T12:05:57.754Z",
       "anagram": "aaeiimnrr"
+    },
+    {
+      "date": "2025-04-12T16:04:01.074Z",
+      "anagram": "aaabbrr"
     }
   ]
 }
