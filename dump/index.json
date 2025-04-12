@@ -473,6 +473,7 @@
     "aaiknnost",
     "aaiknnot",
     "aailmmx",
+    "aailrs",
     "aailrsv",
     "aaimnqu",
     "aaimnr",
@@ -7696,6 +7697,10 @@
     {
       "date": "2025-04-12T16:04:01.074Z",
       "anagram": "aaabbrr"
+    },
+    {
+      "date": "2025-04-12T20:04:09.525Z",
+      "anagram": "aailrs"
     }
   ]
 }
