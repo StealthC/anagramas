@@ -919,6 +919,7 @@
     "aegiort",
     "aegiosst",
     "aeglns",
+    "aeglopr",
     "aeglos",
     "aegrr",
     "aegrrr",
@@ -7701,6 +7702,10 @@
     {
       "date": "2025-04-12T20:04:09.525Z",
       "anagram": "aailrs"
+    },
+    {
+      "date": "2025-04-13T00:42:31.387Z",
+      "anagram": "aeglopr"
     }
   ]
 }
