@@ -1518,6 +1518,7 @@
     "hilnopu",
     "hilort",
     "hnooss",
+    "iiimmosstu",
     "iiimoprstv",
     "iilmnooop",
     "iilnoopst",
@@ -7711,6 +7712,10 @@
     {
       "date": "2025-04-13T12:06:13.907Z",
       "anagram": "acilmr"
+    },
+    {
+      "date": "2025-04-13T20:04:01.578Z",
+      "anagram": "iiimmosstu"
     }
   ]
 }
