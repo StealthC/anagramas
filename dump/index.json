@@ -702,6 +702,7 @@
     "aciintv",
     "aciioppr",
     "aciiopsu",
+    "acilmr",
     "acilnsu",
     "acilnt",
     "acilo",
@@ -7706,6 +7707,10 @@
     {
       "date": "2025-04-13T00:42:31.387Z",
       "anagram": "aeglopr"
+    },
+    {
+      "date": "2025-04-13T12:06:13.907Z",
+      "anagram": "acilmr"
     }
   ]
 }
