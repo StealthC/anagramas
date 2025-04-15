@@ -500,6 +500,7 @@
     "aalorru",
     "aalorss",
     "aalosst",
+    "aalosu",
     "aalouz",
     "aamnoot",
     "aamns",
@@ -7746,6 +7747,10 @@
     {
       "date": "2025-04-15T12:06:44.573Z",
       "anagram": "aenoorss"
+    },
+    {
+      "date": "2025-04-15T16:04:15.312Z",
+      "anagram": "aalosu"
     }
   ]
 }
