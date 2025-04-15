@@ -997,6 +997,7 @@
     "aemqrsu",
     "aemrsu",
     "aemrt",
+    "aenoorss",
     "aenorrv",
     "aenostv",
     "aenpssssu",
@@ -7741,6 +7742,10 @@
     {
       "date": "2025-04-15T00:17:52.706Z",
       "anagram": "acehms"
+    },
+    {
+      "date": "2025-04-15T12:06:44.573Z",
+      "anagram": "aenoorss"
     }
   ]
 }
