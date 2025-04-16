@@ -734,6 +734,7 @@
     "acmo",
     "acno",
     "acnoo",
+    "acnoostt",
     "acnorr",
     "acorrt",
     "acors",
@@ -7771,6 +7772,10 @@
     {
       "date": "2025-04-16T16:05:07.241Z",
       "anagram": "aceertz"
+    },
+    {
+      "date": "2025-04-16T20:05:08.080Z",
+      "anagram": "acnoostt"
     }
   ]
 }
