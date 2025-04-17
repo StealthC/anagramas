@@ -534,6 +534,7 @@
     "abcors",
     "abcrsu",
     "abddlou",
+    "abddoors",
     "abdeenruz",
     "abdelmoo",
     "abdemno",
@@ -7781,6 +7782,10 @@
     {
       "date": "2025-04-17T00:17:17.482Z",
       "anagram": "aeiorrtz"
+    },
+    {
+      "date": "2025-04-17T12:06:44.883Z",
+      "anagram": "abddoors"
     }
   ]
 }
