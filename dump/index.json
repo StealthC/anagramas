@@ -971,6 +971,7 @@
     "aeinst",
     "aeiopss",
     "aeiorrt",
+    "aeiorrtz",
     "aeiosv",
     "aeippst",
     "aeiprrrs",
@@ -7776,6 +7777,10 @@
     {
       "date": "2025-04-16T20:05:08.080Z",
       "anagram": "acnoostt"
+    },
+    {
+      "date": "2025-04-17T00:17:17.482Z",
+      "anagram": "aeiorrtz"
     }
   ]
 }
