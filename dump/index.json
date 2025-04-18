@@ -666,6 +666,7 @@
     "acehmr",
     "acehms",
     "acehort",
+    "acehpsu",
     "aceiiinrr",
     "aceiinp",
     "aceiinvv",
@@ -7811,6 +7812,10 @@
     {
       "date": "2025-04-18T16:04:40.124Z",
       "anagram": "deinqrsu"
+    },
+    {
+      "date": "2025-04-18T20:04:26.780Z",
+      "anagram": "acehpsu"
     }
   ]
 }
