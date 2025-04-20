@@ -1045,6 +1045,7 @@
     "aflot",
     "aflrtuu",
     "afmru",
+    "afostu",
     "afrstu",
     "afrstuu",
     "aggilnos",
@@ -7831,6 +7832,10 @@
     {
       "date": "2025-04-19T20:04:03.040Z",
       "anagram": "aaacflo"
+    },
+    {
+      "date": "2025-04-20T00:19:34.762Z",
+      "anagram": "afostu"
     }
   ]
 }
