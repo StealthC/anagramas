@@ -1073,6 +1073,7 @@
     "ahils",
     "ahimnno",
     "ahimnnos",
+    "ahimnor",
     "ahinopqru",
     "ahlnpu",
     "ahmnosu",
@@ -7836,6 +7837,10 @@
     {
       "date": "2025-04-20T00:19:34.762Z",
       "anagram": "afostu"
+    },
+    {
+      "date": "2025-04-20T12:05:53.814Z",
+      "anagram": "ahimnor"
     }
   ]
 }
