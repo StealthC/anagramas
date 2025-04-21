@@ -220,6 +220,7 @@
     "aacefot",
     "aacehims",
     "aacehlnr",
+    "aacehlsv",
     "aaceiimnn",
     "aaceimoqu",
     "aaceiprr",
@@ -7851,6 +7852,10 @@
     {
       "date": "2025-04-20T20:04:34.457Z",
       "anagram": "abceosss"
+    },
+    {
+      "date": "2025-04-21T12:06:40.030Z",
+      "anagram": "aacehlsv"
     }
   ]
 }
