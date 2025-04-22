@@ -244,6 +244,7 @@
     "aacginn",
     "aacginns",
     "aachiimns",
+    "aachiinx",
     "aachiln",
     "aachlnu",
     "aachm",
@@ -7866,6 +7867,10 @@
     {
       "date": "2025-04-22T00:17:15.109Z",
       "anagram": "agginr"
+    },
+    {
+      "date": "2025-04-22T12:06:49.605Z",
+      "anagram": "aachiinx"
     }
   ]
 }
