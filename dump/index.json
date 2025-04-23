@@ -762,6 +762,7 @@
     "addeims",
     "addeinu",
     "addeinv",
+    "addeirsuz",
     "addeist",
     "addelmoo",
     "addelnou",
@@ -7881,6 +7882,10 @@
     {
       "date": "2025-04-23T12:06:54.867Z",
       "anagram": "aabils"
+    },
+    {
+      "date": "2025-04-23T16:05:09.060Z",
+      "anagram": "addeirsuz"
     }
   ]
 }
