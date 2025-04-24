@@ -1450,6 +1450,7 @@
     "eeorrst",
     "eeorstv",
     "eeprss",
+    "effiloorr",
     "efghiiloor",
     "efgilmu",
     "efilrru",
@@ -7906,6 +7907,10 @@
     {
       "date": "2025-04-24T16:05:05.422Z",
       "anagram": "eiorrsstt"
+    },
+    {
+      "date": "2025-04-24T20:04:42.318Z",
+      "anagram": "effiloorr"
     }
   ]
 }
