@@ -1509,6 +1509,7 @@
     "einost",
     "eiooprsss",
     "eiooqssu",
+    "eiorrsstt",
     "eiqssuu",
     "elmor",
     "elmot",
@@ -7901,6 +7902,10 @@
     {
       "date": "2025-04-24T12:06:59.843Z",
       "anagram": "aacelps"
+    },
+    {
+      "date": "2025-04-24T16:05:05.422Z",
+      "anagram": "eiorrsstt"
     }
   ]
 }
