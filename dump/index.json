@@ -231,6 +231,7 @@
     "aacejrrt",
     "aacejrrv",
     "aacelntt",
+    "aacelps",
     "aacelrr",
     "aacelss",
     "aacemp",
@@ -7896,6 +7897,10 @@
     {
       "date": "2025-04-24T00:17:22.781Z",
       "anagram": "acdoosst"
+    },
+    {
+      "date": "2025-04-24T12:06:59.843Z",
+      "anagram": "aacelps"
     }
   ]
 }
