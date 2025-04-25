@@ -719,6 +719,7 @@
     "aciilnrt",
     "aciilrt",
     "aciimst",
+    "aciinss",
     "aciintv",
     "aciioppr",
     "aciiopsu",
@@ -7911,6 +7912,10 @@
     {
       "date": "2025-04-24T20:04:42.318Z",
       "anagram": "effiloorr"
+    },
+    {
+      "date": "2025-04-25T00:18:16.312Z",
+      "anagram": "aciinss"
     }
   ]
 }
