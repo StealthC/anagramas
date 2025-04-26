@@ -711,6 +711,7 @@
     "acgimos",
     "acginos",
     "acginru",
+    "acgiort",
     "acgno",
     "acgnos",
     "achiips",
@@ -7941,6 +7942,10 @@
     {
       "date": "2025-04-26T12:05:38.819Z",
       "anagram": "acdloor"
+    },
+    {
+      "date": "2025-04-26T16:04:15.446Z",
+      "anagram": "acgiort"
     }
   ]
 }
