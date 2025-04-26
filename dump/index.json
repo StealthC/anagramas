@@ -644,6 +644,7 @@
     "acdimo",
     "acdiop",
     "acdirrssu",
+    "acdloor",
     "acdnoor",
     "acdoor",
     "acdoosst",
@@ -7936,6 +7937,10 @@
     {
       "date": "2025-04-26T00:17:07.770Z",
       "anagram": "aacfiipst"
+    },
+    {
+      "date": "2025-04-26T12:05:38.819Z",
+      "anagram": "acdloor"
     }
   ]
 }
