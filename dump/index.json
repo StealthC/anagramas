@@ -602,6 +602,7 @@
     "accdeenrs",
     "accdeirss",
     "accdenoot",
+    "accdeor",
     "acceeot",
     "acceest",
     "accehior",
@@ -7976,6 +7977,10 @@
     {
       "date": "2025-04-28T00:18:52.281Z",
       "anagram": "abilru"
+    },
+    {
+      "date": "2025-04-28T12:06:47.258Z",
+      "anagram": "accdeor"
     }
   ]
 }
