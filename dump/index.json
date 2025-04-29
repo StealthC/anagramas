@@ -1531,6 +1531,7 @@
     "eloos",
     "elopr",
     "eloprs",
+    "elops",
     "emnort",
     "emnost",
     "emoorrss",
@@ -7991,6 +7992,10 @@
     {
       "date": "2025-04-28T20:04:46.137Z",
       "anagram": "iinoorstt"
+    },
+    {
+      "date": "2025-04-29T12:07:19.924Z",
+      "anagram": "elops"
     }
   ]
 }
