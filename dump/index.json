@@ -1055,6 +1055,7 @@
     "aepprruu",
     "aeprrtu",
     "aesuv",
+    "afgioru",
     "afglruu",
     "afgoooprt",
     "afhhiilns",
@@ -8026,6 +8027,10 @@
     {
       "date": "2025-05-01T00:20:03.843Z",
       "anagram": "deenprtu"
+    },
+    {
+      "date": "2025-05-01T12:06:37.169Z",
+      "anagram": "afgioru"
     }
   ]
 }
