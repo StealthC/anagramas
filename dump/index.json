@@ -640,6 +640,7 @@
     "acdeoru",
     "acdfhirsu",
     "acdfior",
+    "acdhino",
     "acdiiijsu",
     "acdiiil",
     "acdiiinss",
@@ -8031,6 +8032,10 @@
     {
       "date": "2025-05-01T12:06:37.169Z",
       "anagram": "afgioru"
+    },
+    {
+      "date": "2025-05-01T16:05:13.814Z",
+      "anagram": "acdhino"
     }
   ]
 }
