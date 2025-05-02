@@ -1141,6 +1141,7 @@
     "aimoz",
     "aimpr",
     "aimpt",
+    "aimrs",
     "ainort",
     "ainortu",
     "ainosz",
@@ -8041,6 +8042,10 @@
     {
       "date": "2025-05-02T00:18:07.523Z",
       "anagram": "deefors"
+    },
+    {
+      "date": "2025-05-02T12:06:56.247Z",
+      "anagram": "aimrs"
     }
   ]
 }
