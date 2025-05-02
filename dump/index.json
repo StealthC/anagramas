@@ -1371,6 +1371,7 @@
     "deeeimnorr",
     "deeeinprst",
     "deefiiinsv",
+    "deefors",
     "deehilnosv",
     "deehnoss",
     "deeiilops",
@@ -8036,6 +8037,10 @@
     {
       "date": "2025-05-01T16:05:13.814Z",
       "anagram": "acdhino"
+    },
+    {
+      "date": "2025-05-02T00:18:07.523Z",
+      "anagram": "deefors"
     }
   ]
 }
