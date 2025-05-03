@@ -939,6 +939,7 @@
     "aefgsuz",
     "aefiilsv",
     "aefiiort",
+    "aefiisstv",
     "aefiln",
     "aefioss",
     "aefiost",
@@ -8061,6 +8062,10 @@
     {
       "date": "2025-05-03T00:17:26.824Z",
       "anagram": "deostu"
+    },
+    {
+      "date": "2025-05-03T12:06:13.579Z",
+      "anagram": "aefiisstv"
     }
   ]
 }
