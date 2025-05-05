@@ -1140,6 +1140,7 @@
     "aimmoss",
     "aimmox",
     "aimnnooot",
+    "aimnr",
     "aimooss",
     "aimoost",
     "aimost",
@@ -8086,6 +8087,10 @@
     {
       "date": "2025-05-05T00:19:12.572Z",
       "anagram": "abcdiimnu"
+    },
+    {
+      "date": "2025-05-05T12:06:52.269Z",
+      "anagram": "aimnr"
     }
   ]
 }
