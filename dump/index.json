@@ -540,6 +540,7 @@
     "abbegmo",
     "abbinou",
     "abcdei",
+    "abcdiimnu",
     "abcdiu",
     "abceehmot",
     "abceirs",
@@ -8081,6 +8082,10 @@
     {
       "date": "2025-05-04T16:04:27.965Z",
       "anagram": "aaemmrz"
+    },
+    {
+      "date": "2025-05-05T00:19:12.572Z",
+      "anagram": "abcdiimnu"
     }
   ]
 }
