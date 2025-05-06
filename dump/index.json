@@ -25,6 +25,7 @@
     "aaabcl",
     "aaabcor",
     "aaabcrr",
+    "aaabcrrs",
     "aaabddnor",
     "aaabdgirs",
     "aaabdls",
@@ -8106,6 +8107,10 @@
     {
       "date": "2025-05-06T12:07:45.167Z",
       "anagram": "ablrtu"
+    },
+    {
+      "date": "2025-05-06T16:05:04.955Z",
+      "anagram": "aaabcrrs"
     }
   ]
 }
