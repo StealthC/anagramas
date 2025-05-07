@@ -1191,6 +1191,7 @@
     "amorr",
     "amorsst",
     "anoprtu",
+    "anorst",
     "anosstu",
     "anost",
     "aoopr",
@@ -8126,6 +8127,10 @@
     {
       "date": "2025-05-07T12:07:08.013Z",
       "anagram": "egirrrssu"
+    },
+    {
+      "date": "2025-05-07T16:05:05.296Z",
+      "anagram": "anorst"
     }
   ]
 }
