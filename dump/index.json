@@ -375,6 +375,7 @@
     "aadiprs",
     "aadisstu",
     "aadistu",
+    "aadistv",
     "aadiuv",
     "aadjloo",
     "aadjnor",
@@ -8116,6 +8117,10 @@
     {
       "date": "2025-05-06T20:04:39.691Z",
       "anagram": "aaadginruu"
+    },
+    {
+      "date": "2025-05-07T00:18:11.155Z",
+      "anagram": "aadistv"
     }
   ]
 }
