@@ -8,6 +8,7 @@
     "aaaaccdlns",
     "aaaacceor",
     "aaaacdhlps",
+    "aaaacdhn",
     "aaaacdhns",
     "aaaacdlms",
     "aaaacdlmss",
@@ -8141,6 +8142,10 @@
     {
       "date": "2025-05-08T00:18:18.553Z",
       "anagram": "aaeilrt"
+    },
+    {
+      "date": "2025-05-08T12:06:49.099Z",
+      "anagram": "aaaacdhn"
     }
   ]
 }
