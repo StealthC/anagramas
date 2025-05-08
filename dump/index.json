@@ -425,6 +425,7 @@
     "aaehnrst",
     "aaeiimnrr",
     "aaeiloppx",
+    "aaeilrt",
     "aaeilrvv",
     "aaeim",
     "aaeimnrr",
@@ -8136,6 +8137,10 @@
     {
       "date": "2025-05-07T20:05:00.635Z",
       "anagram": "dehinnoost"
+    },
+    {
+      "date": "2025-05-08T00:18:18.553Z",
+      "anagram": "aaeilrt"
     }
   ]
 }
