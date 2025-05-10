@@ -178,6 +178,7 @@
     "aacceoss",
     "aacchins",
     "aacciimst",
+    "aaccilnu",
     "aaccinr",
     "aaccior",
     "aaccist",
@@ -8166,6 +8167,10 @@
     {
       "date": "2025-05-09T20:04:42.748Z",
       "anagram": "eeglnstu"
+    },
+    {
+      "date": "2025-05-10T00:17:20.766Z",
+      "anagram": "aaccilnu"
     }
   ]
 }
