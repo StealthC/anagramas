@@ -104,6 +104,7 @@
     "aaagirr",
     "aaagirrs",
     "aaagist",
+    "aaagjrstu",
     "aaaglrt",
     "aaagnrsu",
     "aaahilpst",
@@ -8171,6 +8172,10 @@
     {
       "date": "2025-05-10T00:17:20.766Z",
       "anagram": "aaccilnu"
+    },
+    {
+      "date": "2025-05-10T12:06:19.920Z",
+      "anagram": "aaagjrstu"
     }
   ]
 }
