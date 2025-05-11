@@ -1324,6 +1324,7 @@
     "ceimot",
     "ceinopss",
     "ceinos",
+    "ceiooquv",
     "ceioppt",
     "ceiopst",
     "ceirss",
@@ -8196,6 +8197,10 @@
     {
       "date": "2025-05-11T12:06:11.848Z",
       "anagram": "eimorss"
+    },
+    {
+      "date": "2025-05-11T16:04:20.707Z",
+      "anagram": "ceiooquv"
     }
   ]
 }
