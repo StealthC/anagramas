@@ -1554,6 +1554,7 @@
     "eimoost",
     "eimoprs",
     "eimoqssu",
+    "eimorss",
     "eimost",
     "eimosv",
     "einnort",
@@ -8191,6 +8192,10 @@
     {
       "date": "2025-05-11T00:19:36.446Z",
       "anagram": "aabcsuz"
+    },
+    {
+      "date": "2025-05-11T12:06:11.848Z",
+      "anagram": "eimorss"
     }
   ]
 }
