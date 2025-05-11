@@ -145,6 +145,7 @@
     "aabcls",
     "aabcnrru",
     "aabcnsu",
+    "aabcsuz",
     "aabddenr",
     "aabddin",
     "aabdeeqrru",
@@ -8186,6 +8187,10 @@
     {
       "date": "2025-05-10T20:04:16.903Z",
       "anagram": "aafls"
+    },
+    {
+      "date": "2025-05-11T00:19:36.446Z",
+      "anagram": "aabcsuz"
     }
   ]
 }
