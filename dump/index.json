@@ -484,6 +484,7 @@
     "aaginpst",
     "aaginrrt",
     "aaginrt",
+    "aaginsv",
     "aaginu",
     "aagirrtv",
     "aagisttuv",
@@ -8211,6 +8212,10 @@
     {
       "date": "2025-05-12T00:19:20.671Z",
       "anagram": "aadept"
+    },
+    {
+      "date": "2025-05-12T12:07:10.158Z",
+      "anagram": "aaginsv"
     }
   ]
 }
