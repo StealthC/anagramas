@@ -722,6 +722,7 @@
     "acelsss",
     "acelsu",
     "acenssu",
+    "aceoors",
     "aceopt",
     "aceoss",
     "aceprsu",
@@ -8236,6 +8237,10 @@
     {
       "date": "2025-05-13T12:07:09.188Z",
       "anagram": "abdiiopr"
+    },
+    {
+      "date": "2025-05-13T16:05:07.904Z",
+      "anagram": "aceoors"
     }
   ]
 }
