@@ -283,6 +283,7 @@
     "aaclssu",
     "aacnor",
     "aacnossu",
+    "aacnrt",
     "aacopt",
     "aacorr",
     "aacors",
@@ -8251,6 +8252,10 @@
     {
       "date": "2025-05-14T00:18:14.331Z",
       "anagram": "aeerrst"
+    },
+    {
+      "date": "2025-05-14T12:06:51.504Z",
+      "anagram": "aacnrt"
     }
   ]
 }
