@@ -1229,6 +1229,7 @@
     "aorst",
     "aortt",
     "aosv",
+    "arrsu",
     "bbdeeimo",
     "bbdeeoorsu",
     "bblosu",
@@ -8281,6 +8282,10 @@
     {
       "date": "2025-05-15T16:05:10.540Z",
       "anagram": "aaaddilsv"
+    },
+    {
+      "date": "2025-05-15T20:05:13.874Z",
+      "anagram": "arrsu"
     }
   ]
 }
