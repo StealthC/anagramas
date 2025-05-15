@@ -607,6 +607,7 @@
     "abimrr",
     "abinot",
     "abinrtu",
+    "abiooss",
     "abiors",
     "abiossv",
     "abiov",
@@ -8266,6 +8267,10 @@
     {
       "date": "2025-05-14T20:04:09.333Z",
       "anagram": "acdoru"
+    },
+    {
+      "date": "2025-05-15T00:17:07.115Z",
+      "anagram": "abiooss"
     }
   ]
 }
