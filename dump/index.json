@@ -1001,6 +1001,7 @@
     "aegmoost",
     "aegrr",
     "aegrrr",
+    "aegrrs",
     "aegrs",
     "aegrt",
     "aehimns",
@@ -8311,6 +8312,10 @@
     {
       "date": "2025-05-17T12:06:22.969Z",
       "anagram": "acorsv"
+    },
+    {
+      "date": "2025-05-17T20:04:19.592Z",
+      "anagram": "aegrrs"
     }
   ]
 }
