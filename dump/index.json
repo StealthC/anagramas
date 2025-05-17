@@ -793,6 +793,7 @@
     "acnorr",
     "acorrt",
     "acors",
+    "acorsv",
     "acort",
     "acos",
     "acost",
@@ -8306,6 +8307,10 @@
     {
       "date": "2025-05-17T00:17:58.969Z",
       "anagram": "aacorz"
+    },
+    {
+      "date": "2025-05-17T12:06:22.969Z",
+      "anagram": "acorsv"
     }
   ]
 }
