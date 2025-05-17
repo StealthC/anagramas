@@ -288,6 +288,7 @@
     "aacopt",
     "aacorr",
     "aacors",
+    "aacorz",
     "aacr",
     "aacrs",
     "aacrst",
@@ -8301,6 +8302,10 @@
     {
       "date": "2025-05-16T16:04:52.788Z",
       "anagram": "ceiioorrss"
+    },
+    {
+      "date": "2025-05-17T00:17:58.969Z",
+      "anagram": "aacorz"
     }
   ]
 }
