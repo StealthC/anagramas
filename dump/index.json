@@ -1650,6 +1650,7 @@
     "iinoorstt",
     "iinoptuv",
     "iinrrstu",
+    "iloors",
     "imopru",
     "imosst",
     "inoprt",
@@ -8331,6 +8332,10 @@
     {
       "date": "2025-05-18T16:04:24.355Z",
       "anagram": "aaagst"
+    },
+    {
+      "date": "2025-05-18T20:04:23.674Z",
+      "anagram": "iloors"
     }
   ]
 }
