@@ -144,6 +144,7 @@
     "aabciloo",
     "aabcios",
     "aabcls",
+    "aabcmtu",
     "aabcnrru",
     "aabcnsu",
     "aabcsuz",
@@ -8321,6 +8322,10 @@
     {
       "date": "2025-05-18T00:20:14.752Z",
       "anagram": "aadgorv"
+    },
+    {
+      "date": "2025-05-18T12:06:25.469Z",
+      "anagram": "aabcmtu"
     }
   ]
 }
