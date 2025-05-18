@@ -362,6 +362,7 @@
     "aadgllnu",
     "aadgmor",
     "aadgoorz",
+    "aadgorv",
     "aadgrr",
     "aadgru",
     "aadgsu",
@@ -8316,6 +8317,10 @@
     {
       "date": "2025-05-17T20:04:19.592Z",
       "anagram": "aegrrs"
+    },
+    {
+      "date": "2025-05-18T00:20:14.752Z",
+      "anagram": "aadgorv"
     }
   ]
 }
