@@ -48,6 +48,7 @@
     "aaacdinv",
     "aaacdl",
     "aaacdnn",
+    "aaacdnns",
     "aaacdnps",
     "aaacdnrt",
     "aaacdrst",
@@ -8356,6 +8357,10 @@
     {
       "date": "2025-05-19T20:04:54.907Z",
       "anagram": "agmoss"
+    },
+    {
+      "date": "2025-05-20T00:18:58.375Z",
+      "anagram": "aaacdnns"
     }
   ]
 }
