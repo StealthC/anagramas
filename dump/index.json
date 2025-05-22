@@ -983,6 +983,7 @@
     "aefglnor",
     "aefgort",
     "aefgsuz",
+    "aefiilr",
     "aefiilsv",
     "aefiiort",
     "aefiisstv",
@@ -8396,6 +8397,10 @@
     {
       "date": "2025-05-22T16:05:20.927Z",
       "anagram": "eelnos"
+    },
+    {
+      "date": "2025-05-22T20:04:49.226Z",
+      "anagram": "aefiilr"
     }
   ]
 }
