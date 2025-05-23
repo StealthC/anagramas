@@ -456,6 +456,7 @@
     "aaelmst",
     "aaelnrrt",
     "aaelnrs",
+    "aaelpt",
     "aaelrrt",
     "aaelrrx",
     "aaelrv",
@@ -8401,6 +8402,10 @@
     {
       "date": "2025-05-22T20:04:49.226Z",
       "anagram": "aefiilr"
+    },
+    {
+      "date": "2025-05-23T00:18:27.144Z",
+      "anagram": "aaelpt"
     }
   ]
 }
