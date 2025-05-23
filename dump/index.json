@@ -959,6 +959,7 @@
     "aeeglnpuvx",
     "aeeglos",
     "aeegms",
+    "aeegnors",
     "aeegnrrt",
     "aeegnst",
     "aeegnt",
@@ -8416,6 +8417,10 @@
     {
       "date": "2025-05-23T16:05:03.326Z",
       "anagram": "addeehnos"
+    },
+    {
+      "date": "2025-05-23T20:05:07.422Z",
+      "anagram": "aeegnors"
     }
   ]
 }
