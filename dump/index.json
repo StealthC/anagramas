@@ -788,6 +788,7 @@
     "aciostt",
     "aciott",
     "aciotx",
+    "aciprr",
     "acirst",
     "acjooorss",
     "acllrtuu",
@@ -8426,6 +8427,10 @@
     {
       "date": "2025-05-24T00:17:57.680Z",
       "anagram": "elnoprtuu"
+    },
+    {
+      "date": "2025-05-24T12:05:56.960Z",
+      "anagram": "aciprr"
     }
   ]
 }
