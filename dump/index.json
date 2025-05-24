@@ -1361,6 +1361,7 @@
     "ceilors",
     "ceilosttu",
     "ceimnot",
+    "ceimorru",
     "ceimot",
     "ceinopss",
     "ceinos",
@@ -8431,6 +8432,10 @@
     {
       "date": "2025-05-24T12:05:56.960Z",
       "anagram": "aciprr"
+    },
+    {
+      "date": "2025-05-24T16:04:32.951Z",
+      "anagram": "ceimorru"
     }
   ]
 }
