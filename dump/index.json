@@ -1611,6 +1611,7 @@
     "eiqssuu",
     "elmor",
     "elmot",
+    "elnoprtuu",
     "eloos",
     "elopr",
     "eloprs",
@@ -8421,6 +8422,10 @@
     {
       "date": "2025-05-23T20:05:07.422Z",
       "anagram": "aeegnors"
+    },
+    {
+      "date": "2025-05-24T00:17:57.680Z",
+      "anagram": "elnoprtuu"
     }
   ]
 }
