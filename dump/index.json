@@ -1418,6 +1418,7 @@
     "cioot",
     "ciops",
     "ciors",
+    "ciorss",
     "clnooos",
     "cmooptu",
     "cnoors",
@@ -8446,6 +8447,10 @@
     {
       "date": "2025-05-25T00:20:30.516Z",
       "anagram": "aafrss"
+    },
+    {
+      "date": "2025-05-25T12:06:31.642Z",
+      "anagram": "ciorss"
     }
   ]
 }
