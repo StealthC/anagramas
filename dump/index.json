@@ -491,6 +491,7 @@
     "aaflst",
     "aafnors",
     "aaforr",
+    "aafrss",
     "aaghiimnu",
     "aagiintvv",
     "aagil",
@@ -8441,6 +8442,10 @@
     {
       "date": "2025-05-24T20:04:16.644Z",
       "anagram": "aeiinrttt"
+    },
+    {
+      "date": "2025-05-25T00:20:30.516Z",
+      "anagram": "aafrss"
     }
   ]
 }
