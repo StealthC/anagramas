@@ -544,6 +544,7 @@
     "aalmnor",
     "aalmo",
     "aalmoopt",
+    "aalootx",
     "aaloppu",
     "aalorru",
     "aalorss",
@@ -8471,6 +8472,10 @@
     {
       "date": "2025-05-26T16:04:53.034Z",
       "anagram": "aeiimrss"
+    },
+    {
+      "date": "2025-05-26T20:04:48.972Z",
+      "anagram": "aalootx"
     }
   ]
 }
