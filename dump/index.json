@@ -1032,6 +1032,7 @@
     "aehlnrtu",
     "aeiijntv",
     "aeiilltuvz",
+    "aeiimrss",
     "aeiinnsstv",
     "aeiinopr",
     "aeiinrrt",
@@ -8466,6 +8467,10 @@
     {
       "date": "2025-05-26T12:06:54.905Z",
       "anagram": "aaadiinnrw"
+    },
+    {
+      "date": "2025-05-26T16:04:53.034Z",
+      "anagram": "aeiimrss"
     }
   ]
 }
