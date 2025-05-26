@@ -400,6 +400,7 @@
     "aadjru",
     "aadjsu",
     "aadlmoo",
+    "aadlmoss",
     "aadlooppr",
     "aadloorr",
     "aadlor",
@@ -8456,6 +8457,10 @@
     {
       "date": "2025-05-25T20:04:17.524Z",
       "anagram": "aeiqqrsuu"
+    },
+    {
+      "date": "2025-05-26T00:19:07.778Z",
+      "anagram": "aadlmoss"
     }
   ]
 }
