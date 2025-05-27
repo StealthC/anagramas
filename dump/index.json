@@ -255,6 +255,7 @@
     "aacemp",
     "aacems",
     "aacemst",
+    "aacept",
     "aacerrt",
     "aacfiipst",
     "aacfil",
@@ -8486,6 +8487,10 @@
     {
       "date": "2025-05-27T12:07:06.887Z",
       "anagram": "aademss"
+    },
+    {
+      "date": "2025-05-27T16:05:27.766Z",
+      "anagram": "aacept"
     }
   ]
 }
