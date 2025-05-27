@@ -681,6 +681,7 @@
     "acdeim",
     "acdeinsv",
     "acdemno",
+    "acdennor",
     "acdeo",
     "acdeoru",
     "acdfhirsu",
@@ -8491,6 +8492,10 @@
     {
       "date": "2025-05-27T16:05:27.766Z",
       "anagram": "aacept"
+    },
+    {
+      "date": "2025-05-27T20:04:50.730Z",
+      "anagram": "acdennor"
     }
   ]
 }
