@@ -1643,6 +1643,7 @@
     "enoostv",
     "eoopprrs",
     "eooprs",
+    "eooprss",
     "eoopsssss",
     "eoorrst",
     "eoorsstv",
@@ -8501,6 +8502,10 @@
     {
       "date": "2025-05-28T00:18:35.681Z",
       "anagram": "amsu"
+    },
+    {
+      "date": "2025-05-28T12:07:09.604Z",
+      "anagram": "eooprss"
     }
   ]
 }
