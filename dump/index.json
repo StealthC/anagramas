@@ -1247,6 +1247,7 @@
     "amnoot",
     "amorr",
     "amorsst",
+    "amsu",
     "anoprtu",
     "anorst",
     "anosstu",
@@ -8496,6 +8497,10 @@
     {
       "date": "2025-05-27T20:04:50.730Z",
       "anagram": "acdennor"
+    },
+    {
+      "date": "2025-05-28T00:18:35.681Z",
+      "anagram": "amsu"
     }
   ]
 }
