@@ -553,6 +553,7 @@
     "aalosst",
     "aalosu",
     "aalouz",
+    "aalps",
     "aamnoot",
     "aamns",
     "aampr",
@@ -8531,6 +8532,10 @@
     {
       "date": "2025-05-30T00:18:40.404Z",
       "anagram": "almoosuv"
+    },
+    {
+      "date": "2025-05-30T12:06:46.780Z",
+      "anagram": "aalps"
     }
   ]
 }
