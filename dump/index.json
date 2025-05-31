@@ -962,6 +962,7 @@
     "aeeeinrsvv",
     "aeeelmnntt",
     "aeeelnrvv",
+    "aeeerst",
     "aeefgrrs",
     "aeefnrt",
     "aeeghnnoss",
@@ -8556,6 +8557,10 @@
     {
       "date": "2025-05-31T16:04:34.709Z",
       "anagram": "aacenstv"
+    },
+    {
+      "date": "2025-05-31T20:04:24.868Z",
+      "anagram": "aeeerst"
     }
   ]
 }
