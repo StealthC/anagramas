@@ -770,6 +770,7 @@
     "acgiiloot",
     "acgiinnot",
     "acgiirru",
+    "acgimo",
     "acgimos",
     "acginos",
     "acginru",
@@ -8591,6 +8592,10 @@
     {
       "date": "2025-06-02T16:05:11.616Z",
       "anagram": "aaflss"
+    },
+    {
+      "date": "2025-06-02T20:04:56.608Z",
+      "anagram": "acgimo"
     }
   ]
 }
