@@ -494,6 +494,7 @@
     "aafirss",
     "aaflnu",
     "aafls",
+    "aaflss",
     "aaflst",
     "aafnors",
     "aaforr",
@@ -8586,6 +8587,10 @@
     {
       "date": "2025-06-02T12:07:26.194Z",
       "anagram": "abdeoorx"
+    },
+    {
+      "date": "2025-06-02T16:05:11.616Z",
+      "anagram": "aaflss"
     }
   ]
 }
