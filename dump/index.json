@@ -879,6 +879,7 @@
     "adeimsuz",
     "adeimsx",
     "adeimx",
+    "adeinrx",
     "adeiopt",
     "adeiorr",
     "adeirsv",
@@ -8576,6 +8577,10 @@
     {
       "date": "2025-06-01T20:04:16.982Z",
       "anagram": "ehinops"
+    },
+    {
+      "date": "2025-06-02T00:19:45.396Z",
+      "anagram": "adeinrx"
     }
   ]
 }
