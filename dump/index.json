@@ -1094,6 +1094,7 @@
     "aejnnot",
     "aejnpstu",
     "aejorv",
+    "aelmnot",
     "aelmo",
     "aelmru",
     "aelnorr",
@@ -8606,6 +8607,10 @@
     {
       "date": "2025-06-03T16:05:35.989Z",
       "anagram": "aailors"
+    },
+    {
+      "date": "2025-06-03T20:05:03.179Z",
+      "anagram": "aelmnot"
     }
   ]
 }
