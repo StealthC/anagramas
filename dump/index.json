@@ -226,6 +226,7 @@
     "aacdilr",
     "aacdinnou",
     "aacdins",
+    "aacdips",
     "aacdjnsu",
     "aacdmos",
     "aacdo",
@@ -8626,6 +8627,10 @@
     {
       "date": "2025-06-04T16:05:20.759Z",
       "anagram": "acchrsu"
+    },
+    {
+      "date": "2025-06-04T20:04:02.721Z",
+      "anagram": "aacdips"
     }
   ]
 }
