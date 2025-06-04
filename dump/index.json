@@ -69,6 +69,7 @@
     "aaacntt",
     "aaacrrt",
     "aaaddeims",
+    "aaaddempst",
     "aaaddestv",
     "aaaddilsv",
     "aaaddlss",
@@ -8611,6 +8612,10 @@
     {
       "date": "2025-06-03T20:05:03.179Z",
       "anagram": "aelmnot"
+    },
+    {
+      "date": "2025-06-04T00:18:33.810Z",
+      "anagram": "aaaddempst"
     }
   ]
 }
