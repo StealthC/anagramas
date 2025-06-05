@@ -644,6 +644,7 @@
     "abiov",
     "ablmmosu",
     "ablmmou",
+    "ablmop",
     "abloost",
     "ablor",
     "ablrtu",
@@ -8641,6 +8642,10 @@
     {
       "date": "2025-06-05T12:07:06.974Z",
       "anagram": "acfgioot"
+    },
+    {
+      "date": "2025-06-05T16:05:12.773Z",
+      "anagram": "ablmop"
     }
   ]
 }
