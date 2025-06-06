@@ -820,6 +820,7 @@
     "acloop",
     "acloops",
     "acloosu",
+    "aclopru",
     "aclops",
     "aclou",
     "acmo",
@@ -8656,6 +8657,10 @@
     {
       "date": "2025-06-06T00:18:32.808Z",
       "anagram": "aceeegitx"
+    },
+    {
+      "date": "2025-06-06T12:07:07.981Z",
+      "anagram": "aclopru"
     }
   ]
 }
