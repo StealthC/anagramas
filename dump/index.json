@@ -1726,6 +1726,7 @@
     "inort",
     "inostt",
     "inosu",
+    "iooopprsst",
     "iopst",
     "loorsu",
     "mnoorsst",
@@ -8676,6 +8677,10 @@
     {
       "date": "2025-06-07T00:18:20.078Z",
       "anagram": "abbinosu"
+    },
+    {
+      "date": "2025-06-07T12:06:26.696Z",
+      "anagram": "iooopprsst"
     }
   ]
 }
