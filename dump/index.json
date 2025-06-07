@@ -110,6 +110,7 @@
     "aaagirrs",
     "aaagist",
     "aaagjrstu",
+    "aaaglnos",
     "aaaglrt",
     "aaagnrsu",
     "aaagpr",
@@ -8686,6 +8687,10 @@
     {
       "date": "2025-06-07T16:04:36.226Z",
       "anagram": "agiorttu"
+    },
+    {
+      "date": "2025-06-07T20:04:15.938Z",
+      "anagram": "aaaglnos"
     }
   ]
 }
