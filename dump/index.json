@@ -186,6 +186,7 @@
     "aablo",
     "aablrtu",
     "aabmr",
+    "aabort",
     "aaccdels",
     "aaccehr",
     "aaccenns",
@@ -8706,6 +8707,10 @@
     {
       "date": "2025-06-08T16:05:04.522Z",
       "anagram": "aadeqrssu"
+    },
+    {
+      "date": "2025-06-08T20:04:21.398Z",
+      "anagram": "aabort"
     }
   ]
 }
