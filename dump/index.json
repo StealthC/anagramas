@@ -1070,6 +1070,7 @@
     "aeiinsttv",
     "aeiiprss",
     "aeijnrv",
+    "aeijosst",
     "aeilrtv",
     "aeilss",
     "aeilssv",
@@ -8711,6 +8712,10 @@
     {
       "date": "2025-06-08T20:04:21.398Z",
       "anagram": "aabort"
+    },
+    {
+      "date": "2025-06-09T00:20:11.507Z",
+      "anagram": "aeijosst"
     }
   ]
 }
