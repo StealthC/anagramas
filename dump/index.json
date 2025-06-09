@@ -121,6 +121,7 @@
     "aaahinrr",
     "aaahnorr",
     "aaahnpr",
+    "aaahnprt",
     "aaaiilnt",
     "aaaiinnrs",
     "aaailprs",
@@ -8721,6 +8722,10 @@
     {
       "date": "2025-06-09T12:07:27.982Z",
       "anagram": "abnorsu"
+    },
+    {
+      "date": "2025-06-09T16:05:08.766Z",
+      "anagram": "aaahnprt"
     }
   ]
 }
