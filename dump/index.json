@@ -348,6 +348,7 @@
     "aadefnns",
     "aadefnr",
     "aadefost",
+    "aadefrs",
     "aadeglru",
     "aadegn",
     "aadegnpux",
@@ -8746,6 +8747,10 @@
     {
       "date": "2025-06-10T16:05:17.714Z",
       "anagram": "deemoors"
+    },
+    {
+      "date": "2025-06-10T20:04:53.677Z",
+      "anagram": "aadefrs"
     }
   ]
 }
