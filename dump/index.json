@@ -563,6 +563,7 @@
     "aaloppu",
     "aalorru",
     "aalorss",
+    "aalos",
     "aalosst",
     "aalosu",
     "aalouz",
@@ -8736,6 +8737,10 @@
     {
       "date": "2025-06-10T00:18:48.450Z",
       "anagram": "acilrtuv"
+    },
+    {
+      "date": "2025-06-10T12:07:47.099Z",
+      "anagram": "aalos"
     }
   ]
 }
