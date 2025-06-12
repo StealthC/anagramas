@@ -65,6 +65,7 @@
     "aaacinstv",
     "aaacipst",
     "aaaclmr",
+    "aaaclot",
     "aaaclrr",
     "aaacmrrss",
     "aaacntt",
@@ -8781,6 +8782,10 @@
     {
       "date": "2025-06-12T12:07:11.752Z",
       "anagram": "aeejnost"
+    },
+    {
+      "date": "2025-06-12T16:05:13.986Z",
+      "anagram": "aaaclot"
     }
   ]
 }
