@@ -1138,6 +1138,7 @@
     "aemrsu",
     "aemrt",
     "aenoorss",
+    "aenorrss",
     "aenorrv",
     "aenostv",
     "aenpssssu",
@@ -8771,6 +8772,10 @@
     {
       "date": "2025-06-11T20:03:58.814Z",
       "anagram": "cdeor"
+    },
+    {
+      "date": "2025-06-12T00:18:30.474Z",
+      "anagram": "aenorrss"
     }
   ]
 }
