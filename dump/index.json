@@ -376,6 +376,7 @@
     "aadessv",
     "aadfgils",
     "aadfgis",
+    "aadfgiss",
     "aadfios",
     "aadfir",
     "aadgiinst",
@@ -8786,6 +8787,10 @@
     {
       "date": "2025-06-12T16:05:13.986Z",
       "anagram": "aaaclot"
+    },
+    {
+      "date": "2025-06-12T20:04:45.160Z",
+      "anagram": "aadfgiss"
     }
   ]
 }
