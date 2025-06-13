@@ -326,6 +326,7 @@
     "aaddeopr",
     "aaddeoqu",
     "aaddeost",
+    "aaddesstu",
     "aaddesv",
     "aaddfinnsu",
     "aaddfnosu",
@@ -8791,6 +8792,10 @@
     {
       "date": "2025-06-12T20:04:45.160Z",
       "anagram": "aadfgiss"
+    },
+    {
+      "date": "2025-06-13T00:18:57.744Z",
+      "anagram": "aaddesstu"
     }
   ]
 }
