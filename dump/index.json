@@ -1432,6 +1432,7 @@
     "ceioppt",
     "ceiopst",
     "ceirss",
+    "celmooops",
     "celnos",
     "celooostv",
     "cemoooprs",
@@ -8811,6 +8812,10 @@
     {
       "date": "2025-06-13T20:04:49.913Z",
       "anagram": "abeeilor"
+    },
+    {
+      "date": "2025-06-14T12:06:30.880Z",
+      "anagram": "celmooops"
     }
   ]
 }
