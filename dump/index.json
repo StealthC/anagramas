@@ -1230,6 +1230,7 @@
     "aiirst",
     "aijlost",
     "aills",
+    "ailmo",
     "ailoops",
     "ailors",
     "ailorv",
@@ -8816,6 +8817,10 @@
     {
       "date": "2025-06-14T12:06:30.880Z",
       "anagram": "celmooops"
+    },
+    {
+      "date": "2025-06-14T16:04:33.552Z",
+      "anagram": "ailmo"
     }
   ]
 }
