@@ -1443,6 +1443,7 @@
     "cenoos",
     "cenos",
     "ceoops",
+    "ceoprss",
     "ceorsu",
     "ceorsv",
     "ceort",
@@ -8826,6 +8827,10 @@
     {
       "date": "2025-06-14T20:04:10.848Z",
       "anagram": "ceefinrst"
+    },
+    {
+      "date": "2025-06-15T00:21:11.356Z",
+      "anagram": "ceoprss"
     }
   ]
 }
