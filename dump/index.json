@@ -523,6 +523,7 @@
     "aaginrrt",
     "aaginrt",
     "aaginsv",
+    "aagint",
     "aaginu",
     "aagirrtv",
     "aagisttuv",
@@ -8861,6 +8862,10 @@
     {
       "date": "2025-06-16T16:05:00.438Z",
       "anagram": "addeeipx"
+    },
+    {
+      "date": "2025-06-16T20:04:48.621Z",
+      "anagram": "aagint"
     }
   ]
 }
