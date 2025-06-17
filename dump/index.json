@@ -1181,6 +1181,7 @@
     "afirst",
     "afjnou",
     "aflnou",
+    "afloost",
     "aflot",
     "aflrtuu",
     "afmru",
@@ -8866,6 +8867,10 @@
     {
       "date": "2025-06-16T20:04:48.621Z",
       "anagram": "aagint"
+    },
+    {
+      "date": "2025-06-17T00:18:57.341Z",
+      "anagram": "afloost"
     }
   ]
 }
