@@ -769,6 +769,7 @@
     "aceiinp",
     "aceiinvv",
     "aceiirsv",
+    "aceilx",
     "aceimntu",
     "aceinnru",
     "aceiot",
@@ -8871,6 +8872,10 @@
     {
       "date": "2025-06-17T00:18:57.341Z",
       "anagram": "afloost"
+    },
+    {
+      "date": "2025-06-17T12:07:38.058Z",
+      "anagram": "aceilx"
     }
   ]
 }
