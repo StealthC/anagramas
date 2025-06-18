@@ -696,6 +696,7 @@
     "accitu",
     "acclo",
     "accmoopt",
+    "acddefiio",
     "acddeiinu",
     "acddeiop",
     "acddeis",
@@ -8881,6 +8882,10 @@
     {
       "date": "2025-06-17T16:05:14.841Z",
       "anagram": "aadfgiilu"
+    },
+    {
+      "date": "2025-06-18T00:18:47.848Z",
+      "anagram": "acddefiio"
     }
   ]
 }
