@@ -117,6 +117,7 @@
     "aaaglrt",
     "aaagnrsu",
     "aaagpr",
+    "aaagprs",
     "aaagst",
     "aaahilpst",
     "aaahinov",
@@ -8896,6 +8897,10 @@
     {
       "date": "2025-06-18T16:05:07.275Z",
       "anagram": "aaabccm"
+    },
+    {
+      "date": "2025-06-18T20:04:52.737Z",
+      "anagram": "aaagprs"
     }
   ]
 }
