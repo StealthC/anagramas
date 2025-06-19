@@ -1626,6 +1626,7 @@
     "eemoqstu",
     "eemprs",
     "eenorst",
+    "eenortx",
     "eenrst",
     "eenstu",
     "eeoprt",
@@ -8901,6 +8902,10 @@
     {
       "date": "2025-06-18T20:04:52.737Z",
       "anagram": "aaagprs"
+    },
+    {
+      "date": "2025-06-19T00:19:21.251Z",
+      "anagram": "eenortx"
     }
   ]
 }
