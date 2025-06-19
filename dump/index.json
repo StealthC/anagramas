@@ -914,6 +914,7 @@
     "adeilouv",
     "adeilst",
     "adeilttu",
+    "adeimmno",
     "adeimsuz",
     "adeimsx",
     "adeimx",
@@ -8911,6 +8912,10 @@
     {
       "date": "2025-06-19T12:07:16.971Z",
       "anagram": "ceeiprsst"
+    },
+    {
+      "date": "2025-06-19T16:05:00.833Z",
+      "anagram": "adeimmno"
     }
   ]
 }
