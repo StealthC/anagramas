@@ -506,6 +506,7 @@
     "aafgiilnr",
     "aafgir",
     "aafgnoru",
+    "aafiilm",
     "aafiinrt",
     "aafim",
     "aafimrr",
@@ -8936,6 +8937,10 @@
     {
       "date": "2025-06-20T16:04:56.256Z",
       "anagram": "acdiilns"
+    },
+    {
+      "date": "2025-06-20T20:04:45.616Z",
+      "anagram": "aafiilm"
     }
   ]
 }
