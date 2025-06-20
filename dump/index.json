@@ -916,6 +916,7 @@
     "adeilst",
     "adeilttu",
     "adeimmno",
+    "adeimr",
     "adeimsuz",
     "adeimsx",
     "adeimx",
@@ -8926,6 +8927,10 @@
     {
       "date": "2025-06-20T00:18:48.823Z",
       "anagram": "addoops"
+    },
+    {
+      "date": "2025-06-20T12:07:29.939Z",
+      "anagram": "adeimr"
     }
   ]
 }
