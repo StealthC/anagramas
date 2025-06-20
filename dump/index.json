@@ -725,6 +725,7 @@
     "acdiiil",
     "acdiiinss",
     "acdiilnno",
+    "acdiilns",
     "acdiilru",
     "acdiimno",
     "acdiinot",
@@ -8931,6 +8932,10 @@
     {
       "date": "2025-06-20T12:07:29.939Z",
       "anagram": "adeimr"
+    },
+    {
+      "date": "2025-06-20T16:04:56.256Z",
+      "anagram": "acdiilns"
     }
   ]
 }
