@@ -854,6 +854,7 @@
     "acmo",
     "acno",
     "acnoo",
+    "acnoor",
     "acnoostt",
     "acnorr",
     "acorrt",
@@ -8951,6 +8952,10 @@
     {
       "date": "2025-06-21T12:06:15.367Z",
       "anagram": "acdeimo"
+    },
+    {
+      "date": "2025-06-21T16:04:37.881Z",
+      "anagram": "acnoor"
     }
   ]
 }
