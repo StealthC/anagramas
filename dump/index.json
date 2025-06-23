@@ -781,6 +781,7 @@
     "aceiirsv",
     "aceilx",
     "aceimntu",
+    "aceinnrs",
     "aceinnru",
     "aceiot",
     "acejlo",
@@ -8981,6 +8982,10 @@
     {
       "date": "2025-06-22T20:04:17.935Z",
       "anagram": "aenost"
+    },
+    {
+      "date": "2025-06-23T00:20:17.619Z",
+      "anagram": "aceinnrs"
     }
   ]
 }
