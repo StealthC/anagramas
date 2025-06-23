@@ -1792,6 +1792,7 @@
     "iooopprsst",
     "iopst",
     "loorsu",
+    "loosuux",
     "mnoorsst",
     "moopsstu",
     "moort",
@@ -8996,6 +8997,10 @@
     {
       "date": "2025-06-23T16:05:05.008Z",
       "anagram": "aagglor"
+    },
+    {
+      "date": "2025-06-23T20:05:02.285Z",
+      "anagram": "loosuux"
     }
   ]
 }
