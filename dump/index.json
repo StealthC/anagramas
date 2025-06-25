@@ -1296,6 +1296,7 @@
     "aiprs",
     "aiqrtu",
     "airs",
+    "ajmorsu",
     "ajnrtu",
     "ajsstu",
     "ajstu",
@@ -9011,6 +9012,10 @@
     {
       "date": "2025-06-24T20:04:41.951Z",
       "anagram": "clooooprst"
+    },
+    {
+      "date": "2025-06-25T20:04:39.845Z",
+      "anagram": "ajmorsu"
     }
   ]
 }
