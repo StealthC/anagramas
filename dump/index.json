@@ -760,6 +760,7 @@
     "aceehrrt",
     "aceeiimnns",
     "aceeilnss",
+    "aceeinttx",
     "aceeituvx",
     "aceenrr",
     "aceeprr",
@@ -9016,6 +9017,10 @@
     {
       "date": "2025-06-25T20:04:39.845Z",
       "anagram": "ajmorsu"
+    },
+    {
+      "date": "2025-06-26T00:18:58.944Z",
+      "anagram": "aceeinttx"
     }
   ]
 }
