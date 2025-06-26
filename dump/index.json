@@ -598,6 +598,7 @@
     "aaort",
     "aaorv",
     "aaprt",
+    "aaptu",
     "aarrs",
     "aarst",
     "aasttu",
@@ -9026,6 +9027,10 @@
     {
       "date": "2025-06-26T12:07:26.300Z",
       "anagram": "eiost"
+    },
+    {
+      "date": "2025-06-26T16:05:30.057Z",
+      "anagram": "aaptu"
     }
   ]
 }
