@@ -492,6 +492,7 @@
     "aaemnr",
     "aaemnrrs",
     "aaemnrsz",
+    "aaempsss",
     "aaemrrt",
     "aaenorss",
     "aaenortz",
@@ -9041,6 +9042,10 @@
     {
       "date": "2025-06-27T00:19:08.217Z",
       "anagram": "aeghlrr"
+    },
+    {
+      "date": "2025-06-27T12:07:16.952Z",
+      "anagram": "aaempsss"
     }
   ]
 }
