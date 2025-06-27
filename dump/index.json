@@ -1290,6 +1290,7 @@
     "ainortu",
     "ainosz",
     "ainqtu",
+    "ainrtt",
     "aiooorrt",
     "aiooorrtt",
     "aioorssv",
@@ -9051,6 +9052,10 @@
     {
       "date": "2025-06-27T16:05:08.943Z",
       "anagram": "ddeiimop"
+    },
+    {
+      "date": "2025-06-27T20:04:40.180Z",
+      "anagram": "ainrtt"
     }
   ]
 }
