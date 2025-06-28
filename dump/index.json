@@ -1647,6 +1647,7 @@
     "eeiqrrssu",
     "eelmors",
     "eelnos",
+    "eelnoss",
     "eelnst",
     "eelorrsv",
     "eelorrvv",
@@ -9071,6 +9072,10 @@
     {
       "date": "2025-06-28T16:04:35.914Z",
       "anagram": "agirs"
+    },
+    {
+      "date": "2025-06-28T20:04:17.299Z",
+      "anagram": "eelnoss"
     }
   ]
 }
