@@ -1209,6 +1209,7 @@
     "afjnou",
     "aflnou",
     "afloost",
+    "aflosv",
     "aflot",
     "aflrtuu",
     "afmru",
@@ -9061,6 +9062,10 @@
     {
       "date": "2025-06-28T00:18:01.203Z",
       "anagram": "aagghiiloo"
+    },
+    {
+      "date": "2025-06-28T12:06:27.516Z",
+      "anagram": "aflosv"
     }
   ]
 }
