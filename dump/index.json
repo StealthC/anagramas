@@ -103,6 +103,7 @@
     "aaadlost",
     "aaadmort",
     "aaadprrsu",
+    "aaadprs",
     "aaadrsx",
     "aaadrtt",
     "aaaegmrss",
@@ -9081,6 +9082,10 @@
     {
       "date": "2025-06-29T00:21:20.822Z",
       "anagram": "aaddeims"
+    },
+    {
+      "date": "2025-06-29T12:06:30.091Z",
+      "anagram": "aaadprs"
     }
   ]
 }
