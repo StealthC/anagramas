@@ -863,6 +863,7 @@
     "aclopru",
     "aclops",
     "aclou",
+    "acmmoor",
     "acmo",
     "acno",
     "acnoo",
@@ -9086,6 +9087,10 @@
     {
       "date": "2025-06-29T12:06:30.091Z",
       "anagram": "aaadprs"
+    },
+    {
+      "date": "2025-06-29T16:04:24.699Z",
+      "anagram": "acmmoor"
     }
   ]
 }
