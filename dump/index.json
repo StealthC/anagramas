@@ -322,6 +322,7 @@
     "aaddeenps",
     "aaddefnos",
     "aaddehimnu",
+    "aaddeims",
     "aaddeinqtu",
     "aaddejrr",
     "aaddelno",
@@ -9076,6 +9077,10 @@
     {
       "date": "2025-06-28T20:04:17.299Z",
       "anagram": "eelnoss"
+    },
+    {
+      "date": "2025-06-29T00:21:20.822Z",
+      "anagram": "aaddeims"
     }
   ]
 }
