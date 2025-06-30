@@ -1737,6 +1737,7 @@
     "eiooprsss",
     "eiooqssu",
     "eioorsv",
+    "eiopr",
     "eiorrsstt",
     "eiost",
     "eiqssuu",
@@ -9101,6 +9102,10 @@
     {
       "date": "2025-06-30T00:20:25.232Z",
       "anagram": "adootv"
+    },
+    {
+      "date": "2025-06-30T12:07:18.799Z",
+      "anagram": "eiopr"
     }
   ]
 }
