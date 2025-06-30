@@ -226,6 +226,7 @@
     "aacdfino",
     "aacdgho",
     "aacdgiiot",
+    "aacdgosu",
     "aacdhloo",
     "aacdhmos",
     "aacdhops",
@@ -9106,6 +9107,10 @@
     {
       "date": "2025-06-30T12:07:18.799Z",
       "anagram": "eiopr"
+    },
+    {
+      "date": "2025-06-30T16:05:01.024Z",
+      "anagram": "aacdgosu"
     }
   ]
 }
