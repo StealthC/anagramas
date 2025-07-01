@@ -1334,6 +1334,7 @@
     "amnnooot",
     "amnooot",
     "amnoot",
+    "amops",
     "amorr",
     "amorsst",
     "amsu",
@@ -9116,6 +9117,10 @@
     {
       "date": "2025-06-30T20:04:43.813Z",
       "anagram": "aaelrrsv"
+    },
+    {
+      "date": "2025-07-01T00:21:51.533Z",
+      "anagram": "amops"
     }
   ]
 }
