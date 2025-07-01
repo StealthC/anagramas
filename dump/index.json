@@ -963,6 +963,7 @@
     "adeopss",
     "adeoqru",
     "adeorrs",
+    "adeorrss",
     "adeorz",
     "adeov",
     "adepr",
@@ -9126,6 +9127,10 @@
     {
       "date": "2025-07-01T12:07:23.953Z",
       "anagram": "aailns"
+    },
+    {
+      "date": "2025-07-01T16:05:02.695Z",
+      "anagram": "adeorrss"
     }
   ]
 }
