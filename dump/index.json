@@ -348,6 +348,7 @@
     "aaddops",
     "aaddos",
     "aadeefimn",
+    "aadeefint",
     "aadeejmst",
     "aadeejprr",
     "aadeelsv",
@@ -9136,6 +9137,10 @@
     {
       "date": "2025-07-01T20:04:40.790Z",
       "anagram": "adeopst"
+    },
+    {
+      "date": "2025-07-02T00:18:48.809Z",
+      "anagram": "aadeefint"
     }
   ]
 }
