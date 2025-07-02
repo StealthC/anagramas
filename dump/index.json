@@ -828,6 +828,7 @@
     "acgno",
     "acgnos",
     "achiips",
+    "achilmo",
     "achiors",
     "achlooppu",
     "achmsu",
@@ -9146,6 +9147,10 @@
     {
       "date": "2025-07-02T16:05:09.802Z",
       "anagram": "aeopss"
+    },
+    {
+      "date": "2025-07-02T20:04:40.194Z",
+      "anagram": "achilmo"
     }
   ]
 }
