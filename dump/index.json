@@ -704,6 +704,7 @@
     "acceipst",
     "acceist",
     "acceloos",
+    "acceoorr",
     "acchnoov",
     "acchrsu",
     "acciilst",
@@ -9166,6 +9167,10 @@
     {
       "date": "2025-07-03T16:05:08.929Z",
       "anagram": "arsu"
+    },
+    {
+      "date": "2025-07-03T20:04:31.141Z",
+      "anagram": "acceoorr"
     }
   ]
 }
