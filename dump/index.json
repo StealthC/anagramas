@@ -1364,6 +1364,7 @@
     "aortt",
     "aosv",
     "arrsu",
+    "arsu",
     "bbdeeimo",
     "bbdeeoorsu",
     "bblosu",
@@ -9161,6 +9162,10 @@
     {
       "date": "2025-07-03T12:07:20.764Z",
       "anagram": "aaegrt"
+    },
+    {
+      "date": "2025-07-03T16:05:08.929Z",
+      "anagram": "arsu"
     }
   ]
 }
