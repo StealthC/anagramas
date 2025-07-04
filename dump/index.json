@@ -872,6 +872,7 @@
     "aclou",
     "acmmoor",
     "acmo",
+    "acmpsu",
     "acno",
     "acnoo",
     "acnoor",
@@ -9176,6 +9177,10 @@
     {
       "date": "2025-07-04T00:18:47.688Z",
       "anagram": "aiiiorrrs"
+    },
+    {
+      "date": "2025-07-04T12:07:18.468Z",
+      "anagram": "acmpsu"
     }
   ]
 }
