@@ -1650,6 +1650,7 @@
     "eeeirsst",
     "eeelnosuvz",
     "eeelnouvz",
+    "eeelorrsvv",
     "eefgmrru",
     "eefgnrrsu",
     "eefiostv",
@@ -9206,6 +9207,10 @@
     {
       "date": "2025-07-05T16:04:57.043Z",
       "anagram": "acchino"
+    },
+    {
+      "date": "2025-07-05T20:04:08.457Z",
+      "anagram": "eeelorrsvv"
     }
   ]
 }
