@@ -887,6 +887,7 @@
     "acost",
     "acrrsuu",
     "adddeeins",
+    "adddegiin",
     "adddenoos",
     "addeeenorv",
     "addeegrr",
@@ -9191,6 +9192,10 @@
     {
       "date": "2025-07-04T20:04:38.625Z",
       "anagram": "aellouvv"
+    },
+    {
+      "date": "2025-07-05T00:18:10.322Z",
+      "anagram": "adddegiin"
     }
   ]
 }
