@@ -1344,6 +1344,7 @@
     "alooors",
     "alooprt",
     "aloquz",
+    "alor",
     "aloru",
     "alost",
     "alosuux",
@@ -9236,6 +9237,10 @@
     {
       "date": "2025-07-07T16:05:03.106Z",
       "anagram": "ddeiioprs"
+    },
+    {
+      "date": "2025-07-07T20:05:06.172Z",
+      "anagram": "alor"
     }
   ]
 }
