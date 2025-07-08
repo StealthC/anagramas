@@ -468,6 +468,7 @@
     "aaeglr",
     "aaeglruz",
     "aaeglrvv",
+    "aaegmnns",
     "aaegnpr",
     "aaegnrs",
     "aaegrt",
@@ -9241,6 +9242,10 @@
     {
       "date": "2025-07-07T20:05:06.172Z",
       "anagram": "alor"
+    },
+    {
+      "date": "2025-07-08T00:18:50.538Z",
+      "anagram": "aaegmnns"
     }
   ]
 }
