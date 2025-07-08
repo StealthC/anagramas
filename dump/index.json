@@ -834,6 +834,7 @@
     "acginos",
     "acginru",
     "acgiort",
+    "acgiot",
     "acgno",
     "acgnos",
     "achiips",
@@ -9246,6 +9247,10 @@
     {
       "date": "2025-07-08T00:18:50.538Z",
       "anagram": "aaegmnns"
+    },
+    {
+      "date": "2025-07-08T12:07:27.534Z",
+      "anagram": "acgiot"
     }
   ]
 }
