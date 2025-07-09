@@ -339,6 +339,7 @@
     "aaddfinnsu",
     "aaddfnosu",
     "aaddfnou",
+    "aaddgnoru",
     "aaddhiinov",
     "aaddiimst",
     "aaddiimsz",
@@ -9261,6 +9262,10 @@
     {
       "date": "2025-07-08T20:04:42.871Z",
       "anagram": "beooprr"
+    },
+    {
+      "date": "2025-07-09T00:19:15.929Z",
+      "anagram": "aaddgnoru"
     }
   ]
 }
