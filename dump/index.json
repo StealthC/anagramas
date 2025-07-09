@@ -568,6 +568,7 @@
     "aailors",
     "aailrs",
     "aailrsv",
+    "aailrtv",
     "aaimnqu",
     "aaimnr",
     "aaimnrr",
@@ -9276,6 +9277,10 @@
     {
       "date": "2025-07-09T16:04:19.566Z",
       "anagram": "acfilnnou"
+    },
+    {
+      "date": "2025-07-09T20:04:41.835Z",
+      "anagram": "aailrtv"
     }
   ]
 }
