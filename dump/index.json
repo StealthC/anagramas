@@ -972,6 +972,7 @@
     "adeltu",
     "ademnoo",
     "ademnor",
+    "ademnos",
     "ademost",
     "ademr",
     "ademrs",
@@ -9281,6 +9282,10 @@
     {
       "date": "2025-07-09T20:04:41.835Z",
       "anagram": "aailrtv"
+    },
+    {
+      "date": "2025-07-10T00:19:15.331Z",
+      "anagram": "ademnos"
     }
   ]
 }
