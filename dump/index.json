@@ -916,6 +916,7 @@
     "addelnou",
     "addenoot",
     "addgiiirs",
+    "addio",
     "addior",
     "addiors",
     "addiost",
@@ -9301,6 +9302,10 @@
     {
       "date": "2025-07-10T20:04:48.223Z",
       "anagram": "aaddooort"
+    },
+    {
+      "date": "2025-07-11T00:19:18.738Z",
+      "anagram": "addio"
     }
   ]
 }
