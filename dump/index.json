@@ -247,6 +247,7 @@
     "aacdorv",
     "aacdos",
     "aacdost",
+    "aacdov",
     "aacdrsuv",
     "aaceehmnr",
     "aaceelmmnt",
@@ -9306,6 +9307,10 @@
     {
       "date": "2025-07-11T00:19:18.738Z",
       "anagram": "addio"
+    },
+    {
+      "date": "2025-07-11T12:07:14.740Z",
+      "anagram": "aacdov"
     }
   ]
 }
