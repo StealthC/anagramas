@@ -300,6 +300,7 @@
     "aaciinooz",
     "aaciiosx",
     "aacins",
+    "aaciopt",
     "aacirt",
     "aacirv",
     "aaciss",
@@ -9331,6 +9332,10 @@
     {
       "date": "2025-07-12T16:04:32.786Z",
       "anagram": "aaaaclnv"
+    },
+    {
+      "date": "2025-07-12T20:04:30.977Z",
+      "anagram": "aaciopt"
     }
   ]
 }
