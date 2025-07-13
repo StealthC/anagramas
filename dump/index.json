@@ -1336,6 +1336,7 @@
     "ainrtt",
     "aiooorrt",
     "aiooorrtt",
+    "aiooptz",
     "aioorssv",
     "aioort",
     "aiops",
@@ -9336,6 +9337,10 @@
     {
       "date": "2025-07-12T20:04:30.977Z",
       "anagram": "aaciopt"
+    },
+    {
+      "date": "2025-07-13T00:21:38.549Z",
+      "anagram": "aiooptz"
     }
   ]
 }
