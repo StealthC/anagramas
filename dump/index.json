@@ -1243,6 +1243,7 @@
     "afimmr",
     "afios",
     "afiossst",
+    "afiost",
     "afirrtu",
     "afirst",
     "afjnou",
@@ -9346,6 +9347,10 @@
     {
       "date": "2025-07-13T12:06:44.466Z",
       "anagram": "iimoosst"
+    },
+    {
+      "date": "2025-07-13T16:04:44.809Z",
+      "anagram": "afiost"
     }
   ]
 }
