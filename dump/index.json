@@ -1104,6 +1104,7 @@
     "aefiiort",
     "aefiisstv",
     "aefiln",
+    "aefimmor",
     "aefioss",
     "aefiost",
     "aeflor",
@@ -9361,6 +9362,10 @@
     {
       "date": "2025-07-14T00:20:51.039Z",
       "anagram": "emorstu"
+    },
+    {
+      "date": "2025-07-14T12:07:32.735Z",
+      "anagram": "aefimmor"
     }
   ]
 }
