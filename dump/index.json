@@ -1855,6 +1855,7 @@
     "iinoptuv",
     "iinrrstu",
     "iloors",
+    "imooss",
     "imopru",
     "imosst",
     "inoprt",
@@ -9366,6 +9367,10 @@
     {
       "date": "2025-07-14T12:07:32.735Z",
       "anagram": "aefimmor"
+    },
+    {
+      "date": "2025-07-14T16:05:26.855Z",
+      "anagram": "imooss"
     }
   ]
 }
