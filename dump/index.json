@@ -572,6 +572,7 @@
     "aaiknnot",
     "aaillnno",
     "aailmmx",
+    "aailnnot",
     "aailns",
     "aailors",
     "aailrs",
@@ -9391,6 +9392,10 @@
     {
       "date": "2025-07-15T16:05:09.623Z",
       "anagram": "aaceft"
+    },
+    {
+      "date": "2025-07-15T20:04:50.921Z",
+      "anagram": "aailnnot"
     }
   ]
 }
