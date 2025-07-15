@@ -914,6 +914,7 @@
     "addeenoorr",
     "addeenprru",
     "addeims",
+    "addeinru",
     "addeinu",
     "addeinv",
     "addeirsuz",
@@ -9381,6 +9382,10 @@
     {
       "date": "2025-07-15T00:20:09.722Z",
       "anagram": "aaclm"
+    },
+    {
+      "date": "2025-07-15T12:07:45.548Z",
+      "anagram": "addeinru"
     }
   ]
 }
