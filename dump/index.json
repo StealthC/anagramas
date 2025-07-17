@@ -859,6 +859,7 @@
     "achnoor",
     "aciilnrt",
     "aciilrt",
+    "aciils",
     "aciimst",
     "aciino",
     "aciinss",
@@ -9421,6 +9422,10 @@
     {
       "date": "2025-07-17T00:20:20.313Z",
       "anagram": "cdeeiimop"
+    },
+    {
+      "date": "2025-07-17T12:07:45.894Z",
+      "anagram": "aciils"
     }
   ]
 }
