@@ -1587,6 +1587,7 @@
     "ciops",
     "ciors",
     "ciorss",
+    "ciorsstu",
     "clnooos",
     "clooooprst",
     "cmooptu",
@@ -9436,6 +9437,10 @@
     {
       "date": "2025-07-17T20:04:46.776Z",
       "anagram": "beiioort"
+    },
+    {
+      "date": "2025-07-18T00:19:42.190Z",
+      "anagram": "ciorsstu"
     }
   ]
 }
