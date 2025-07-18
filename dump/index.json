@@ -1831,6 +1831,7 @@
     "eoorrst",
     "eoorsstv",
     "eoprsstu",
+    "eoprst",
     "eorssu",
     "ffilooos",
     "fghilnoos",
@@ -9451,6 +9452,10 @@
     {
       "date": "2025-07-18T16:06:05.249Z",
       "anagram": "aceelr"
+    },
+    {
+      "date": "2025-07-18T20:04:53.354Z",
+      "anagram": "eoprst"
     }
   ]
 }
