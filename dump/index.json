@@ -1733,6 +1733,7 @@
     "eeorrst",
     "eeorstv",
     "eeprss",
+    "eepsst",
     "effiloorr",
     "efghiiloor",
     "efgilmu",
@@ -9461,6 +9462,10 @@
     {
       "date": "2025-07-19T00:19:17.694Z",
       "anagram": "ccgiilooot"
+    },
+    {
+      "date": "2025-07-19T12:06:41.177Z",
+      "anagram": "eepsst"
     }
   ]
 }
