@@ -517,6 +517,7 @@
     "aaemnrsz",
     "aaempsss",
     "aaemrrt",
+    "aaennorsz",
     "aaenorss",
     "aaenortz",
     "aaenprrt",
@@ -9486,6 +9487,10 @@
     {
       "date": "2025-07-20T12:06:48.284Z",
       "anagram": "eeemnprt"
+    },
+    {
+      "date": "2025-07-20T16:04:47.225Z",
+      "anagram": "aaennorsz"
     }
   ]
 }
