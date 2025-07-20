@@ -1696,6 +1696,7 @@
     "eeelnosuvz",
     "eeelnouvz",
     "eeelorrsvv",
+    "eeemnprt",
     "eefgmrru",
     "eefgnrrsu",
     "eefiostv",
@@ -9481,6 +9482,10 @@
     {
       "date": "2025-07-20T00:22:07.734Z",
       "anagram": "aaacemno"
+    },
+    {
+      "date": "2025-07-20T12:06:48.284Z",
+      "anagram": "eeemnprt"
     }
   ]
 }
