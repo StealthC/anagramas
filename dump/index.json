@@ -1325,6 +1325,7 @@
     "aijlost",
     "aills",
     "ailmo",
+    "ailnopt",
     "ailoops",
     "ailors",
     "ailorv",
@@ -9511,6 +9512,10 @@
     {
       "date": "2025-07-21T16:05:09.231Z",
       "anagram": "foorsstuu"
+    },
+    {
+      "date": "2025-07-21T20:04:55.686Z",
+      "anagram": "ailnopt"
     }
   ]
 }
