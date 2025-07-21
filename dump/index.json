@@ -497,6 +497,7 @@
     "aaeimnrr",
     "aaeinrss",
     "aaeinstx",
+    "aaeiprrr",
     "aaeiqrtu",
     "aaeirs",
     "aaeisstt",
@@ -9496,6 +9497,10 @@
     {
       "date": "2025-07-20T20:04:48.637Z",
       "anagram": "aaehlr"
+    },
+    {
+      "date": "2025-07-21T00:21:27.933Z",
+      "anagram": "aaeiprrr"
     }
   ]
 }
