@@ -1151,6 +1151,7 @@
     "aegrrr",
     "aegrrs",
     "aegrs",
+    "aegrsv",
     "aegrt",
     "aehimns",
     "aehinnqtu",
@@ -9551,6 +9552,10 @@
     {
       "date": "2025-07-23T16:05:39.460Z",
       "anagram": "aaeeinnvz"
+    },
+    {
+      "date": "2025-07-23T20:05:03.131Z",
+      "anagram": "aegrsv"
     }
   ]
 }
