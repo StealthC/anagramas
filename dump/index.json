@@ -562,6 +562,7 @@
     "aaginsv",
     "aagint",
     "aaginu",
+    "aagiot",
     "aagirrtv",
     "aagisttuv",
     "aaglmu",
@@ -9536,6 +9537,10 @@
     {
       "date": "2025-07-22T20:05:04.631Z",
       "anagram": "aaddenoot"
+    },
+    {
+      "date": "2025-07-23T00:19:58.757Z",
+      "anagram": "aagiot"
     }
   ]
 }
