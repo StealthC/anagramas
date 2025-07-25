@@ -1068,6 +1068,7 @@
     "adloors",
     "admnnou",
     "adnoos",
+    "adnortu",
     "adnrtu",
     "adoortu",
     "adootv",
@@ -9576,6 +9577,10 @@
     {
       "date": "2025-07-24T20:04:11.896Z",
       "anagram": "aador"
+    },
+    {
+      "date": "2025-07-25T00:20:12.661Z",
+      "anagram": "adnortu"
     }
   ]
 }
