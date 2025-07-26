@@ -1373,6 +1373,7 @@
     "aiopt",
     "aiorssuu",
     "aiorsv",
+    "aiotvv",
     "aiprrt",
     "aiprs",
     "aiqrtu",
@@ -9601,6 +9602,10 @@
     {
       "date": "2025-07-26T12:06:47.985Z",
       "anagram": "deinoost"
+    },
+    {
+      "date": "2025-07-26T16:04:43.563Z",
+      "anagram": "aiotvv"
     }
   ]
 }
