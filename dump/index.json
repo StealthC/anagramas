@@ -1838,6 +1838,7 @@
     "elmor",
     "elmot",
     "elnoprtuu",
+    "eloorstu",
     "eloos",
     "elopr",
     "eloprs",
@@ -9616,6 +9617,10 @@
     {
       "date": "2025-07-27T00:22:09.738Z",
       "anagram": "acceerr"
+    },
+    {
+      "date": "2025-07-27T12:07:04.916Z",
+      "anagram": "eloorstu"
     }
   ]
 }
