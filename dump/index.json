@@ -507,6 +507,7 @@
     "aaeiqrtu",
     "aaeirs",
     "aaeisstt",
+    "aaeistt",
     "aaeistv",
     "aaejmosst",
     "aaelmst",
@@ -9621,6 +9622,10 @@
     {
       "date": "2025-07-27T12:07:04.916Z",
       "anagram": "eloorstu"
+    },
+    {
+      "date": "2025-07-27T16:04:49.566Z",
+      "anagram": "aaeistt"
     }
   ]
 }
