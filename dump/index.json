@@ -1434,6 +1434,7 @@
     "bbdeeoorsu",
     "bblosu",
     "bcdeeiors",
+    "bceeelor",
     "bceenossuv",
     "bceeorr",
     "bceerrssuv",
@@ -9641,6 +9642,10 @@
     {
       "date": "2025-07-28T12:07:44.831Z",
       "anagram": "acelnrt"
+    },
+    {
+      "date": "2025-07-28T16:05:18.194Z",
+      "anagram": "bceeelor"
     }
   ]
 }
