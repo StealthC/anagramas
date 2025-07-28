@@ -838,6 +838,7 @@
     "acejlo",
     "acellru",
     "acelnot",
+    "acelnrt",
     "acelns",
     "acelot",
     "acelsss",
@@ -9636,6 +9637,10 @@
     {
       "date": "2025-07-28T00:21:36.532Z",
       "anagram": "aadegrv"
+    },
+    {
+      "date": "2025-07-28T12:07:44.831Z",
+      "anagram": "acelnrt"
     }
   ]
 }
