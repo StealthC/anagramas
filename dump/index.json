@@ -826,6 +826,7 @@
     "acehms",
     "acehort",
     "acehpsu",
+    "aceiiilnnp",
     "aceiiinrr",
     "aceiinp",
     "aceiinvv",
@@ -9656,6 +9657,10 @@
     {
       "date": "2025-07-29T00:22:15.995Z",
       "anagram": "cdenoosst"
+    },
+    {
+      "date": "2025-07-29T12:08:07.050Z",
+      "anagram": "aceiiilnnp"
     }
   ]
 }
