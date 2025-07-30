@@ -696,6 +696,7 @@
     "abersv",
     "abertu",
     "abgior",
+    "abgloru",
     "abhinnosz",
     "abiinnotz",
     "abiioortu",
@@ -9671,6 +9672,10 @@
     {
       "date": "2025-07-29T20:04:56.021Z",
       "anagram": "adghlmoooo"
+    },
+    {
+      "date": "2025-07-30T16:05:17.047Z",
+      "anagram": "abgloru"
     }
   ]
 }
