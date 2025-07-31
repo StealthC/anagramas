@@ -336,6 +336,7 @@
     "aaddeefrs",
     "aaddeelsv",
     "aaddeemn",
+    "aaddeempr",
     "aaddeenps",
     "aaddefnos",
     "aaddehimnu",
@@ -9681,6 +9682,10 @@
     {
       "date": "2025-07-30T20:04:19.599Z",
       "anagram": "aacddeot"
+    },
+    {
+      "date": "2025-07-31T00:19:59.506Z",
+      "anagram": "aaddeempr"
     }
   ]
 }
