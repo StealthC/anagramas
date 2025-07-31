@@ -620,6 +620,7 @@
     "aalmoopt",
     "aalootx",
     "aaloppu",
+    "aalopssu",
     "aalorru",
     "aalorss",
     "aalos",
@@ -9691,6 +9692,10 @@
     {
       "date": "2025-07-31T12:07:10.661Z",
       "anagram": "aabcejrr"
+    },
+    {
+      "date": "2025-07-31T16:05:22.016Z",
+      "anagram": "aalopssu"
     }
   ]
 }
