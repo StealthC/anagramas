@@ -948,6 +948,7 @@
     "addeinu",
     "addeinv",
     "addeirsuz",
+    "addeisst",
     "addeist",
     "addelmoo",
     "addelnou",
@@ -9716,6 +9717,10 @@
     {
       "date": "2025-08-01T16:05:17.035Z",
       "anagram": "deehiorrs"
+    },
+    {
+      "date": "2025-08-01T20:04:55.482Z",
+      "anagram": "addeisst"
     }
   ]
 }
