@@ -980,6 +980,7 @@
     "adegil",
     "adegirr",
     "adegiru",
+    "adegisu",
     "adegmnoo",
     "adegopr",
     "adegos",
@@ -9726,6 +9727,10 @@
     {
       "date": "2025-08-02T00:19:29.178Z",
       "anagram": "bceor"
+    },
+    {
+      "date": "2025-08-02T12:06:50.197Z",
+      "anagram": "adegisu"
     }
   ]
 }
