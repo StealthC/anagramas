@@ -1451,6 +1451,7 @@
     "bceilooss",
     "bceirru",
     "bcenoos",
+    "bceor",
     "bchios",
     "bciinorrtu",
     "bcilnoou",
@@ -9721,6 +9722,10 @@
     {
       "date": "2025-08-01T20:04:55.482Z",
       "anagram": "addeisst"
+    },
+    {
+      "date": "2025-08-02T00:19:29.178Z",
+      "anagram": "bceor"
     }
   ]
 }
