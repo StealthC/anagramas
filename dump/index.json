@@ -143,6 +143,7 @@
     "aaajmr",
     "aaalmrrtt",
     "aaalopt",
+    "aaalprsv",
     "aaamnort",
     "aaanpr",
     "aaanssv",
@@ -9741,6 +9742,10 @@
     {
       "date": "2025-08-02T20:04:31.174Z",
       "anagram": "aadeipt"
+    },
+    {
+      "date": "2025-08-03T00:22:35.394Z",
+      "anagram": "aaalprsv"
     }
   ]
 }
