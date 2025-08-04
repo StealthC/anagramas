@@ -154,6 +154,7 @@
     "aabbnos",
     "aabboors",
     "aabccloou",
+    "aabcder",
     "aabcders",
     "aabcdhmsu",
     "aabcdos",
@@ -9766,6 +9767,10 @@
     {
       "date": "2025-08-04T16:05:54.404Z",
       "anagram": "ceioort"
+    },
+    {
+      "date": "2025-08-04T20:05:07.350Z",
+      "anagram": "aabcder"
     }
   ]
 }
