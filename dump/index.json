@@ -1581,6 +1581,7 @@
     "ceinopss",
     "ceinos",
     "ceiooquv",
+    "ceioort",
     "ceioostx",
     "ceioppt",
     "ceiopst",
@@ -9761,6 +9762,10 @@
     {
       "date": "2025-08-04T00:22:02.588Z",
       "anagram": "abcein"
+    },
+    {
+      "date": "2025-08-04T16:05:54.404Z",
+      "anagram": "ceioort"
     }
   ]
 }
