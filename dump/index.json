@@ -662,6 +662,7 @@
     "abcdiu",
     "abceehmot",
     "abceeilrrz",
+    "abcein",
     "abceirs",
     "abceorr",
     "abceosss",
@@ -9756,6 +9757,10 @@
     {
       "date": "2025-08-03T20:04:52.791Z",
       "anagram": "efiorrtu"
+    },
+    {
+      "date": "2025-08-04T00:22:02.588Z",
+      "anagram": "abcein"
     }
   ]
 }
