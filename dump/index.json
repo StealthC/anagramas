@@ -1598,6 +1598,7 @@
     "cemoos",
     "cenoorrsv",
     "cenoos",
+    "cenoosttx",
     "cenos",
     "ceoops",
     "ceoprss",
@@ -9801,6 +9802,10 @@
     {
       "date": "2025-08-06T16:05:58.804Z",
       "anagram": "adnooss"
+    },
+    {
+      "date": "2025-08-06T20:05:16.666Z",
+      "anagram": "cenoosttx"
     }
   ]
 }
