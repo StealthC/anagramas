@@ -563,6 +563,7 @@
     "aaflss",
     "aaflst",
     "aafnors",
+    "aafoprr",
     "aaforr",
     "aafrss",
     "aagghiiloo",
@@ -9791,6 +9792,10 @@
     {
       "date": "2025-08-06T00:20:21.365Z",
       "anagram": "eoorstv"
+    },
+    {
+      "date": "2025-08-06T12:08:15.082Z",
+      "anagram": "aafoprr"
     }
   ]
 }
