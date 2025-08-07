@@ -1192,6 +1192,7 @@
     "aeiijntv",
     "aeiilltuvz",
     "aeiimnrs",
+    "aeiimnss",
     "aeiimrss",
     "aeiinnsstv",
     "aeiinopr",
@@ -9816,6 +9817,10 @@
     {
       "date": "2025-08-07T12:07:51.801Z",
       "anagram": "acceeops"
+    },
+    {
+      "date": "2025-08-07T16:05:28.419Z",
+      "anagram": "aeiimnss"
     }
   ]
 }
