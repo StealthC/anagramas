@@ -902,6 +902,7 @@
     "aciintv",
     "aciioppr",
     "aciiopsu",
+    "acillooqu",
     "acilmr",
     "acilnsu",
     "acilnt",
@@ -9831,6 +9832,10 @@
     {
       "date": "2025-08-08T12:07:53.627Z",
       "anagram": "aacdelmr"
+    },
+    {
+      "date": "2025-08-08T16:04:29.605Z",
+      "anagram": "acillooqu"
     }
   ]
 }
