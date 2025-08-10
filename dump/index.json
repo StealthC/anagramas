@@ -1063,6 +1063,7 @@
     "adgiossu",
     "adgirssu",
     "adgjoor",
+    "adglnoo",
     "adgor",
     "adgorru",
     "adgors",
@@ -9851,6 +9852,10 @@
     {
       "date": "2025-08-09T16:04:33.145Z",
       "anagram": "aaglnru"
+    },
+    {
+      "date": "2025-08-10T00:22:07.948Z",
+      "anagram": "adglnoo"
     }
   ]
 }
