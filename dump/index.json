@@ -1243,6 +1243,7 @@
     "aeiprtu",
     "aeiqqrsuu",
     "aeiqrsu",
+    "aeirssttz",
     "aeirst",
     "aejlot",
     "aejmnstu",
@@ -9861,6 +9862,10 @@
     {
       "date": "2025-08-10T16:04:53.171Z",
       "anagram": "acdeefhos"
+    },
+    {
+      "date": "2025-08-10T20:04:29.768Z",
+      "anagram": "aeirssttz"
     }
   ]
 }
