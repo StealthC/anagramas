@@ -24,6 +24,7 @@
     "aaabbrr",
     "aaabccm",
     "aaabcdeno",
+    "aaabcdms",
     "aaabcest",
     "aaabcinr",
     "aaabcl",
@@ -9881,6 +9882,10 @@
     {
       "date": "2025-08-11T20:04:58.509Z",
       "anagram": "finosu"
+    },
+    {
+      "date": "2025-08-12T00:18:43.828Z",
+      "anagram": "aaabcdms"
     }
   ]
 }
