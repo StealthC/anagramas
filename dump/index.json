@@ -14,6 +14,7 @@
     "aaaacdlmss",
     "aaaacdmp",
     "aaaacdmr",
+    "aaaacdmrs",
     "aaaaclnv",
     "aaaadelntv",
     "aaaadgghlr",
@@ -9906,6 +9907,10 @@
     {
       "date": "2025-08-13T12:07:34.139Z",
       "anagram": "aadeorr"
+    },
+    {
+      "date": "2025-08-13T16:04:08.820Z",
+      "anagram": "aaaacdmrs"
     }
   ]
 }
