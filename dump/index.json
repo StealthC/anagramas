@@ -793,6 +793,7 @@
     "acdeilu",
     "acdeim",
     "acdeimo",
+    "acdeinnou",
     "acdeinsv",
     "acdemno",
     "acdennor",
@@ -9931,6 +9932,10 @@
     {
       "date": "2025-08-15T00:19:48.864Z",
       "anagram": "eimnoopt"
+    },
+    {
+      "date": "2025-08-15T12:07:11.951Z",
+      "anagram": "acdeinnou"
     }
   ]
 }
