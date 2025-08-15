@@ -1886,6 +1886,7 @@
     "einnostv",
     "einnotv",
     "einopst",
+    "einopt",
     "einost",
     "eiooprsss",
     "eiooqssu",
@@ -9936,6 +9937,10 @@
     {
       "date": "2025-08-15T12:07:11.951Z",
       "anagram": "acdeinnou"
+    },
+    {
+      "date": "2025-08-15T16:04:43.089Z",
+      "anagram": "einopt"
     }
   ]
 }
