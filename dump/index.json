@@ -1868,6 +1868,7 @@
     "eilossv",
     "eilotv",
     "eimnooors",
+    "eimnoopt",
     "eimnos",
     "eimnpu",
     "eimoooqrtu",
@@ -9926,6 +9927,10 @@
     {
       "date": "2025-08-14T20:04:44.826Z",
       "anagram": "aciosssv"
+    },
+    {
+      "date": "2025-08-15T00:19:48.864Z",
+      "anagram": "eimnoopt"
     }
   ]
 }
