@@ -22,6 +22,7 @@
     "aaaadgrr",
     "aaaadirsv",
     "aaaadmprs",
+    "aaaafilrrs",
     "aaabbrr",
     "aaabccm",
     "aaabcdeno",
@@ -9951,6 +9952,10 @@
     {
       "date": "2025-08-16T00:18:14.323Z",
       "anagram": "adiprsu"
+    },
+    {
+      "date": "2025-08-16T12:06:26.354Z",
+      "anagram": "aaaafilrrs"
     }
   ]
 }
