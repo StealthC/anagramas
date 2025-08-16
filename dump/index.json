@@ -1806,6 +1806,7 @@
     "eelorrsv",
     "eelorrvv",
     "eelsst",
+    "eemoorrtt",
     "eemoorstx",
     "eemoprst",
     "eemoqstu",
@@ -9956,6 +9957,10 @@
     {
       "date": "2025-08-16T12:06:26.354Z",
       "anagram": "aaaafilrrs"
+    },
+    {
+      "date": "2025-08-16T16:04:20.691Z",
+      "anagram": "eemoorrtt"
     }
   ]
 }
