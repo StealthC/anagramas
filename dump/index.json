@@ -906,6 +906,7 @@
     "achlooppu",
     "achmsu",
     "achnoor",
+    "achor",
     "aciilnrt",
     "aciilrt",
     "aciils",
@@ -9961,6 +9962,10 @@
     {
       "date": "2025-08-16T16:04:20.691Z",
       "anagram": "eemoorrtt"
+    },
+    {
+      "date": "2025-08-16T20:04:27.710Z",
+      "anagram": "achor"
     }
   ]
 }
