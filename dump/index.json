@@ -215,6 +215,7 @@
     "aaccdels",
     "aaccehr",
     "aaccenns",
+    "aaccens",
     "aacceorr",
     "aacceoss",
     "aacchins",
@@ -9966,6 +9967,10 @@
     {
       "date": "2025-08-16T20:04:27.710Z",
       "anagram": "achor"
+    },
+    {
+      "date": "2025-08-17T00:20:57.229Z",
+      "anagram": "aaccens"
     }
   ]
 }
