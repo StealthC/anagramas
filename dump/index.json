@@ -567,6 +567,7 @@
     "aafiilm",
     "aafiinrt",
     "aafim",
+    "aafimnst",
     "aafimrr",
     "aafirss",
     "aaflnu",
@@ -10001,6 +10002,10 @@
     {
       "date": "2025-08-18T20:04:41.957Z",
       "anagram": "eeefmors"
+    },
+    {
+      "date": "2025-08-19T12:07:11.371Z",
+      "anagram": "aafimnst"
     }
   ]
 }
