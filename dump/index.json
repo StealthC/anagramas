@@ -820,6 +820,7 @@
     "acdiinot",
     "acdimo",
     "acdiop",
+    "acdiorv",
     "acdirrssu",
     "acdloor",
     "acdnoor",
@@ -10026,6 +10027,10 @@
     {
       "date": "2025-08-20T12:07:18.905Z",
       "anagram": "eiorrt"
+    },
+    {
+      "date": "2025-08-20T16:04:59.043Z",
+      "anagram": "acdiorv"
     }
   ]
 }
