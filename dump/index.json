@@ -975,6 +975,7 @@
     "addeeipx",
     "addeenoorr",
     "addeenprru",
+    "addefmoor",
     "addeims",
     "addeinru",
     "addeinu",
@@ -10031,6 +10032,10 @@
     {
       "date": "2025-08-20T16:04:59.043Z",
       "anagram": "acdiorv"
+    },
+    {
+      "date": "2025-08-20T20:04:53.461Z",
+      "anagram": "addefmoor"
     }
   ]
 }
