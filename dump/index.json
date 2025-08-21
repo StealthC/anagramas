@@ -1140,6 +1140,7 @@
     "aeefnrt",
     "aeeghnnoss",
     "aeegil",
+    "aeegilnv",
     "aeegils",
     "aeegiort",
     "aeeglmr",
@@ -10046,6 +10047,10 @@
     {
       "date": "2025-08-21T12:07:10.877Z",
       "anagram": "aaeprrs"
+    },
+    {
+      "date": "2025-08-21T16:09:57.298Z",
+      "anagram": "aeegilnv"
     }
   ]
 }
