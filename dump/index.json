@@ -622,6 +622,7 @@
     "aaimnqu",
     "aaimnr",
     "aaimnrr",
+    "aaimnsu",
     "aaimrtuu",
     "aaimsssv",
     "aainnrszz",
@@ -10051,6 +10052,10 @@
     {
       "date": "2025-08-21T16:09:57.298Z",
       "anagram": "aeegilnv"
+    },
+    {
+      "date": "2025-08-21T20:04:43.272Z",
+      "anagram": "aaimnsu"
     }
   ]
 }
