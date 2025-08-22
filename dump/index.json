@@ -203,6 +203,7 @@
     "aabhiistu",
     "aabhilns",
     "aabhlor",
+    "aabhlort",
     "aabiimsst",
     "aabils",
     "aabilst",
@@ -10071,6 +10072,10 @@
     {
       "date": "2025-08-22T16:04:48.245Z",
       "anagram": "almos"
+    },
+    {
+      "date": "2025-08-22T20:04:50.508Z",
+      "anagram": "aabhlort"
     }
   ]
 }
