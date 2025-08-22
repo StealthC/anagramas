@@ -1434,6 +1434,7 @@
     "aioort",
     "aiops",
     "aiopt",
+    "aiorssu",
     "aiorssuu",
     "aiorsv",
     "aiotvv",
@@ -10056,6 +10057,10 @@
     {
       "date": "2025-08-21T20:04:43.272Z",
       "anagram": "aaimnsu"
+    },
+    {
+      "date": "2025-08-22T00:17:51.919Z",
+      "anagram": "aiorssu"
     }
   ]
 }
