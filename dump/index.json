@@ -282,6 +282,7 @@
     "aacehlnr",
     "aacehlsv",
     "aaceiimnn",
+    "aaceilrr",
     "aaceimoqu",
     "aaceiprr",
     "aaceiqsu",
@@ -10076,6 +10077,10 @@
     {
       "date": "2025-08-22T20:04:50.508Z",
       "anagram": "aabhlort"
+    },
+    {
+      "date": "2025-08-23T12:06:29.738Z",
+      "anagram": "aaceilrr"
     }
   ]
 }
