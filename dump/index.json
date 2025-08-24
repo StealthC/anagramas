@@ -749,6 +749,7 @@
     "abloost",
     "ablor",
     "ablrtu",
+    "abmorrt",
     "abnorsu",
     "aboorrsu",
     "aborrt",
@@ -10101,6 +10102,10 @@
     {
       "date": "2025-08-24T12:06:35.971Z",
       "anagram": "bilmoos"
+    },
+    {
+      "date": "2025-08-24T16:04:28.445Z",
+      "anagram": "abmorrt"
     }
   ]
 }
