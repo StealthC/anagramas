@@ -1852,6 +1852,7 @@
     "eemprs",
     "eenorst",
     "eenortx",
+    "eenosstx",
     "eenrst",
     "eenstu",
     "eeoprt",
@@ -10161,6 +10162,10 @@
     {
       "date": "2025-08-27T16:05:14.125Z",
       "anagram": "aeefiprt"
+    },
+    {
+      "date": "2025-08-27T20:04:36.942Z",
+      "anagram": "eenosstx"
     }
   ]
 }
