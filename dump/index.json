@@ -1656,6 +1656,7 @@
     "cemoos",
     "cenoorrsv",
     "cenoos",
+    "cenoosst",
     "cenoosttx",
     "cenos",
     "ceoops",
@@ -10146,6 +10147,10 @@
     {
       "date": "2025-08-26T20:04:31.341Z",
       "anagram": "acdiiino"
+    },
+    {
+      "date": "2025-08-27T00:18:05.279Z",
+      "anagram": "cenoosst"
     }
   ]
 }
