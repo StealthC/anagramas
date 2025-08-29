@@ -161,6 +161,7 @@
     "aabbiiils",
     "aabbnos",
     "aabboors",
+    "aabccdesu",
     "aabccloou",
     "aabcder",
     "aabcders",
@@ -10186,6 +10187,10 @@
     {
       "date": "2025-08-29T00:18:05.851Z",
       "anagram": "ciloorr"
+    },
+    {
+      "date": "2025-08-29T12:07:10.974Z",
+      "anagram": "aabccdesu"
     }
   ]
 }
