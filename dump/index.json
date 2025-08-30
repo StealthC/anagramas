@@ -1373,6 +1373,7 @@
     "aghlorru",
     "agiilrtu",
     "agiinoss",
+    "agiinrst",
     "agiirv",
     "agilnnoqu",
     "agilr",
@@ -10216,6 +10217,10 @@
     {
       "date": "2025-08-30T16:04:03.804Z",
       "anagram": "aaaddnors"
+    },
+    {
+      "date": "2025-08-30T20:04:04.113Z",
+      "anagram": "agiinrst"
     }
   ]
 }
