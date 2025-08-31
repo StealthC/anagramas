@@ -1229,6 +1229,7 @@
     "aeglns",
     "aeglopr",
     "aeglos",
+    "aeglsu",
     "aegmoost",
     "aegrr",
     "aegrrr",
@@ -10231,6 +10232,10 @@
     {
       "date": "2025-08-31T12:06:24.571Z",
       "anagram": "aclosv"
+    },
+    {
+      "date": "2025-08-31T16:04:12.660Z",
+      "anagram": "aeglsu"
     }
   ]
 }
