@@ -815,6 +815,7 @@
     "acdegiiiln",
     "acdeiimnu",
     "acdeiirtu",
+    "acdeiisv",
     "acdeilo",
     "acdeilu",
     "acdeim",
@@ -10266,6 +10267,10 @@
     {
       "date": "2025-09-02T16:05:23.248Z",
       "anagram": "begrsuu"
+    },
+    {
+      "date": "2025-09-02T20:04:37.918Z",
+      "anagram": "acdeiisv"
     }
   ]
 }
