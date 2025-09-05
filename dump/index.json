@@ -1847,6 +1847,7 @@
     "eeemnprt",
     "eefgmrru",
     "eefgnrrsu",
+    "eefilsz",
     "eefiostv",
     "eefiprrr",
     "eeggiors",
@@ -10306,6 +10307,10 @@
     {
       "date": "2025-09-04T20:04:58.003Z",
       "anagram": "ainstt"
+    },
+    {
+      "date": "2025-09-05T12:07:00.402Z",
+      "anagram": "eefilsz"
     }
   ]
 }
