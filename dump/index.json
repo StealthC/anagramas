@@ -16,6 +16,7 @@
     "aaaacdmr",
     "aaaacdmrs",
     "aaaaclnv",
+    "aaaaddint",
     "aaaadelntv",
     "aaaadgghlr",
     "aaaadglrs",
@@ -10346,6 +10347,10 @@
     {
       "date": "2025-09-07T16:04:10.100Z",
       "anagram": "abbmsu"
+    },
+    {
+      "date": "2025-09-07T20:04:15.254Z",
+      "anagram": "aaaaddint"
     }
   ]
 }
