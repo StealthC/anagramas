@@ -446,6 +446,7 @@
     "aadgils",
     "aadgimnu",
     "aadgint",
+    "aadgiruz",
     "aadgllnu",
     "aadgmor",
     "aadgoorz",
@@ -10361,6 +10362,10 @@
     {
       "date": "2025-09-08T12:08:02.738Z",
       "anagram": "acmmo"
+    },
+    {
+      "date": "2025-09-08T16:04:09.296Z",
+      "anagram": "aadgiruz"
     }
   ]
 }
