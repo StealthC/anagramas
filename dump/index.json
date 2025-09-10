@@ -777,6 +777,7 @@
     "abort",
     "abostu",
     "accceiiln",
+    "accciilop",
     "accddfiioo",
     "accdeenrs",
     "accdeirss",
@@ -10396,6 +10397,10 @@
     {
       "date": "2025-09-10T00:17:14.185Z",
       "anagram": "aefilnnr"
+    },
+    {
+      "date": "2025-09-10T16:05:10.386Z",
+      "anagram": "accciilop"
     }
   ]
 }
