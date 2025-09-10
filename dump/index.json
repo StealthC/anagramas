@@ -808,6 +808,7 @@
     "accitu",
     "acclo",
     "accmoopt",
+    "accoorv",
     "accor",
     "acddefiio",
     "acddeiinu",
@@ -10401,6 +10402,10 @@
     {
       "date": "2025-09-10T16:05:10.386Z",
       "anagram": "accciilop"
+    },
+    {
+      "date": "2025-09-10T20:05:03.722Z",
+      "anagram": "accoorv"
     }
   ]
 }
