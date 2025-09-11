@@ -488,6 +488,7 @@
     "aadlosv",
     "aadmop",
     "aadnorr",
+    "aadooprv",
     "aadoorrs",
     "aadoorrt",
     "aadoprs",
@@ -10406,6 +10407,10 @@
     {
       "date": "2025-09-10T20:05:03.722Z",
       "anagram": "accoorv"
+    },
+    {
+      "date": "2025-09-11T00:17:36.028Z",
+      "anagram": "aadooprv"
     }
   ]
 }
