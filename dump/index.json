@@ -876,6 +876,7 @@
     "aceehrrst",
     "aceehrrt",
     "aceeiimnns",
+    "aceeiimnpt",
     "aceeilnss",
     "aceeinttx",
     "aceeituvx",
@@ -10431,6 +10432,10 @@
     {
       "date": "2025-09-12T00:17:26.571Z",
       "anagram": "cefinoou"
+    },
+    {
+      "date": "2025-09-12T16:04:54.706Z",
+      "anagram": "aceeiimnpt"
     }
   ]
 }
