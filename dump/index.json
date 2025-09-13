@@ -1197,6 +1197,7 @@
     "aeegnt",
     "aeegprrsss",
     "aeeiistvv",
+    "aeeilnrs",
     "aeeinnsstz",
     "aeeinorv",
     "aeejnost",
@@ -10446,6 +10447,10 @@
     {
       "date": "2025-09-13T00:15:39.914Z",
       "anagram": "aabeerrrtu"
+    },
+    {
+      "date": "2025-09-13T12:06:20.312Z",
+      "anagram": "aeeilnrs"
     }
   ]
 }
