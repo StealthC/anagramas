@@ -373,6 +373,7 @@
     "aaddejrr",
     "aaddelno",
     "aaddelos",
+    "aaddemor",
     "aaddenoot",
     "aaddenst",
     "aaddeopr",
@@ -10451,6 +10452,10 @@
     {
       "date": "2025-09-13T12:06:20.312Z",
       "anagram": "aeeilnrs"
+    },
+    {
+      "date": "2025-09-13T16:03:47.304Z",
+      "anagram": "aaddemor"
     }
   ]
 }
