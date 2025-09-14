@@ -35,6 +35,7 @@
     "aaabcrr",
     "aaabcrrs",
     "aaabddnor",
+    "aaabddsu",
     "aaabdgirs",
     "aaabdls",
     "aaabehnrrr",
@@ -10461,6 +10462,10 @@
     {
       "date": "2025-09-14T00:18:29.203Z",
       "anagram": "aaadrssu"
+    },
+    {
+      "date": "2025-09-14T12:06:22.441Z",
+      "anagram": "aaabddsu"
     }
   ]
 }
