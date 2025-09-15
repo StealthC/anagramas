@@ -1368,6 +1368,7 @@
     "aeoprx",
     "aeopss",
     "aeopsss",
+    "aeopstu",
     "aeoqrtuz",
     "aeoqstu",
     "aeorrt",
@@ -10481,6 +10482,10 @@
     {
       "date": "2025-09-15T16:05:15.177Z",
       "anagram": "aaimnnot"
+    },
+    {
+      "date": "2025-09-15T20:04:58.260Z",
+      "anagram": "aeopstu"
     }
   ]
 }
