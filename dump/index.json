@@ -235,6 +235,7 @@
     "aaccilnu",
     "aaccinr",
     "aaccior",
+    "aaccisst",
     "aaccist",
     "aaccloopu",
     "aacclr",
@@ -10511,6 +10512,10 @@
     {
       "date": "2025-09-17T12:06:56.946Z",
       "anagram": "aadiprv"
+    },
+    {
+      "date": "2025-09-17T16:05:05.964Z",
+      "anagram": "aaccisst"
     }
   ]
 }
