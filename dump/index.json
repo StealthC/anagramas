@@ -416,6 +416,7 @@
     "aadegnpux",
     "aadegrsv",
     "aadegrv",
+    "aadehlo",
     "aadeillo",
     "aadeils",
     "aadeinnrv",
@@ -10531,6 +10532,10 @@
     {
       "date": "2025-09-18T16:04:56.190Z",
       "anagram": "coossstu"
+    },
+    {
+      "date": "2025-09-18T20:05:03.077Z",
+      "anagram": "aadehlo"
     }
   ]
 }
