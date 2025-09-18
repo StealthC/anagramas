@@ -1977,6 +1977,7 @@
     "eiinrstv",
     "eiinstu",
     "eiiorrsttv",
+    "eijnoosv",
     "eilorsuz",
     "eiloss",
     "eilossv",
@@ -10521,6 +10522,10 @@
     {
       "date": "2025-09-17T20:04:46.548Z",
       "anagram": "deefnor"
+    },
+    {
+      "date": "2025-09-18T00:16:53.958Z",
+      "anagram": "eijnoosv"
     }
   ]
 }
