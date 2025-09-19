@@ -1216,6 +1216,7 @@
     "aeelpprx",
     "aeemmnttuu",
     "aeemnnotv",
+    "aeemnpr",
     "aeemnrrru",
     "aeemnsx",
     "aeemprs",
@@ -10551,6 +10552,10 @@
     {
       "date": "2025-09-19T16:05:03.272Z",
       "anagram": "aehlor"
+    },
+    {
+      "date": "2025-09-19T20:04:56.103Z",
+      "anagram": "aeemnpr"
     }
   ]
 }
