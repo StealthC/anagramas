@@ -273,6 +273,7 @@
     "aacdiiprr",
     "aacdilr",
     "aacdinnou",
+    "aacdinoo",
     "aacdins",
     "aacdips",
     "aacdjnsu",
@@ -10571,6 +10572,10 @@
     {
       "date": "2025-09-20T16:04:32.665Z",
       "anagram": "aaahinrrs"
+    },
+    {
+      "date": "2025-09-20T20:03:54.951Z",
+      "anagram": "aacdinoo"
     }
   ]
 }
