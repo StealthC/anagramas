@@ -698,6 +698,7 @@
     "aaort",
     "aaorv",
     "aaprt",
+    "aaprtu",
     "aaptu",
     "aarrs",
     "aarst",
@@ -10591,6 +10592,10 @@
     {
       "date": "2025-09-21T16:04:38.160Z",
       "anagram": "aacefls"
+    },
+    {
+      "date": "2025-09-21T20:04:02.265Z",
+      "anagram": "aaprtu"
     }
   ]
 }
