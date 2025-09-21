@@ -935,6 +935,7 @@
     "acenssu",
     "aceoors",
     "aceopt",
+    "aceos",
     "aceoss",
     "aceprsu",
     "acert",
@@ -10581,6 +10582,10 @@
     {
       "date": "2025-09-21T00:19:12.922Z",
       "anagram": "eegilos"
+    },
+    {
+      "date": "2025-09-21T12:06:33.344Z",
+      "anagram": "aceos"
     }
   ]
 }
