@@ -68,6 +68,7 @@
     "aaacdnrt",
     "aaacdrst",
     "aaacdss",
+    "aaacdssu",
     "aaaceimmtt",
     "aaaceirrru",
     "aaacemno",
@@ -10611,6 +10612,10 @@
     {
       "date": "2025-09-22T16:05:14.296Z",
       "anagram": "aaaccdhmsu"
+    },
+    {
+      "date": "2025-09-22T20:05:08.754Z",
+      "anagram": "aaacdssu"
     }
   ]
 }
