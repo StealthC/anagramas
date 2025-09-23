@@ -370,6 +370,7 @@
     "aadddeegrs",
     "aadddeiinv",
     "aaddeefrs",
+    "aaddeeinss",
     "aaddeelsv",
     "aaddeemn",
     "aaddeempr",
@@ -10621,6 +10622,10 @@
     {
       "date": "2025-09-23T00:17:30.357Z",
       "anagram": "deeeinrst"
+    },
+    {
+      "date": "2025-09-23T16:05:36.131Z",
+      "anagram": "aaddeeinss"
     }
   ]
 }
