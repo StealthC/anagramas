@@ -1323,6 +1323,7 @@
     "aeimrs",
     "aeimstuz",
     "aeinnrrt",
+    "aeinott",
     "aeinps",
     "aeinpss",
     "aeinrsu",
@@ -10626,6 +10627,10 @@
     {
       "date": "2025-09-23T16:05:36.131Z",
       "anagram": "aaddeeinss"
+    },
+    {
+      "date": "2025-09-23T20:04:44.774Z",
+      "anagram": "aeinott"
     }
   ]
 }
