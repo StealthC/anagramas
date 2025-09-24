@@ -1237,6 +1237,7 @@
     "aeenorr",
     "aeenpstt",
     "aeenrrrt",
+    "aeenrrst",
     "aeenrtx",
     "aeenstt",
     "aeeorsssss",
@@ -10636,6 +10637,10 @@
     {
       "date": "2025-09-24T00:17:36.744Z",
       "anagram": "adoorr"
+    },
+    {
+      "date": "2025-09-24T12:07:27.783Z",
+      "anagram": "aeenrrst"
     }
   ]
 }
