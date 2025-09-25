@@ -215,6 +215,7 @@
     "aabenprs",
     "aabenrrt",
     "aaberrtu",
+    "aabflosu",
     "aabhiistu",
     "aabhilns",
     "aabhlor",
@@ -10666,6 +10667,10 @@
     {
       "date": "2025-09-25T16:05:12.779Z",
       "anagram": "aiiilnsst"
+    },
+    {
+      "date": "2025-09-25T20:05:16.840Z",
+      "anagram": "aabflosu"
     }
   ]
 }
