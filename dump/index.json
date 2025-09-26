@@ -224,6 +224,7 @@
     "aabils",
     "aabilst",
     "aabinpsu",
+    "aabinst",
     "aabis",
     "aablo",
     "aablrtu",
@@ -10681,6 +10682,10 @@
     {
       "date": "2025-09-26T12:07:02.689Z",
       "anagram": "adgoot"
+    },
+    {
+      "date": "2025-09-26T16:05:07.457Z",
+      "anagram": "aabinst"
     }
   ]
 }
