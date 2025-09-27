@@ -129,6 +129,7 @@
     "aaadprs",
     "aaadrssu",
     "aaadrsx",
+    "aaadrt",
     "aaadrtt",
     "aaaegmrss",
     "aaafilstt",
@@ -10701,6 +10702,10 @@
     {
       "date": "2025-09-27T12:06:30.411Z",
       "anagram": "aeelstv"
+    },
+    {
+      "date": "2025-09-27T16:04:45.146Z",
+      "anagram": "aaadrt"
     }
   ]
 }
