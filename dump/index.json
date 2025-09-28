@@ -124,6 +124,7 @@
     "aaadistv",
     "aaadlmor",
     "aaadlost",
+    "aaadmns",
     "aaadmort",
     "aaadprrsu",
     "aaadprs",
@@ -10721,6 +10722,10 @@
     {
       "date": "2025-09-28T16:04:32.494Z",
       "anagram": "abhinoss"
+    },
+    {
+      "date": "2025-09-28T20:04:35.046Z",
+      "anagram": "aaadmns"
     }
   ]
 }
