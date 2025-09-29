@@ -1008,6 +1008,7 @@
     "acinosv",
     "acinovv",
     "aciootv",
+    "aciop",
     "acios",
     "aciosssv",
     "aciostt",
@@ -10736,6 +10737,10 @@
     {
       "date": "2025-09-29T16:04:37.935Z",
       "anagram": "aegimrr"
+    },
+    {
+      "date": "2025-09-29T20:04:59.676Z",
+      "anagram": "aciop"
     }
   ]
 }
