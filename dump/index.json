@@ -1286,6 +1286,7 @@
     "aegilmr",
     "aegilntu",
     "aegimm",
+    "aegimrr",
     "aeginnot",
     "aeginrrt",
     "aegiort",
@@ -10731,6 +10732,10 @@
     {
       "date": "2025-09-29T12:07:14.979Z",
       "anagram": "aaaiiprrt"
+    },
+    {
+      "date": "2025-09-29T16:04:37.935Z",
+      "anagram": "aegimrr"
     }
   ]
 }
