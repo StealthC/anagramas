@@ -1039,6 +1039,7 @@
     "acnoor",
     "acnoostt",
     "acnorr",
+    "acop",
     "acorrt",
     "acors",
     "acorsv",
@@ -10766,6 +10767,10 @@
     {
       "date": "2025-10-01T12:07:26.077Z",
       "anagram": "aaacdlop"
+    },
+    {
+      "date": "2025-10-01T16:05:41.923Z",
+      "anagram": "acop"
     }
   ]
 }
