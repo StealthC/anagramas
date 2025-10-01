@@ -364,6 +364,7 @@
     "aacnor",
     "aacnossu",
     "aacnrt",
+    "aacns",
     "aacopt",
     "aacor",
     "aacorr",
@@ -10756,6 +10757,10 @@
     {
       "date": "2025-09-30T20:04:53.224Z",
       "anagram": "aeegltv"
+    },
+    {
+      "date": "2025-10-01T00:20:21.946Z",
+      "anagram": "aacns"
     }
   ]
 }
