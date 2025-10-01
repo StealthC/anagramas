@@ -62,6 +62,7 @@
     "aaacdhruv",
     "aaacdinv",
     "aaacdl",
+    "aaacdlop",
     "aaacdnn",
     "aaacdnns",
     "aaacdnps",
@@ -10761,6 +10762,10 @@
     {
       "date": "2025-10-01T00:20:21.946Z",
       "anagram": "aacns"
+    },
+    {
+      "date": "2025-10-01T12:07:26.077Z",
+      "anagram": "aaacdlop"
     }
   ]
 }
