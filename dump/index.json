@@ -1544,6 +1544,7 @@
     "aiooptz",
     "aioorssv",
     "aioort",
+    "aioprt",
     "aiops",
     "aiopt",
     "aiorssu",
@@ -10791,6 +10792,10 @@
     {
       "date": "2025-10-02T16:04:50.966Z",
       "anagram": "iiosst"
+    },
+    {
+      "date": "2025-10-02T20:04:44.856Z",
+      "anagram": "aioprt"
     }
   ]
 }
