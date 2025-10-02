@@ -2135,6 +2135,7 @@
     "iinoorstt",
     "iinoptuv",
     "iinrrstu",
+    "iiosst",
     "iloors",
     "ilorsv",
     "imooss",
@@ -10786,6 +10787,10 @@
     {
       "date": "2025-10-02T12:06:40.351Z",
       "anagram": "iimnorsst"
+    },
+    {
+      "date": "2025-10-02T16:04:50.966Z",
+      "anagram": "iiosst"
     }
   ]
 }
