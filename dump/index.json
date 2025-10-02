@@ -423,6 +423,7 @@
     "aadeelsv",
     "aadeennrv",
     "aadefijo",
+    "aadeflov",
     "aadefmsu",
     "aadefnns",
     "aadefnr",
@@ -10776,6 +10777,10 @@
     {
       "date": "2025-10-01T20:05:31.367Z",
       "anagram": "aacdfiinu"
+    },
+    {
+      "date": "2025-10-02T00:16:51.645Z",
+      "anagram": "aadeflov"
     }
   ]
 }
