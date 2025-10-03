@@ -130,6 +130,7 @@
     "aaadprrsu",
     "aaadprs",
     "aaadrssu",
+    "aaadrst",
     "aaadrsx",
     "aaadrt",
     "aaadrtt",
@@ -10801,6 +10802,10 @@
     {
       "date": "2025-10-03T00:16:42.551Z",
       "anagram": "aailmsst"
+    },
+    {
+      "date": "2025-10-03T12:06:43.723Z",
+      "anagram": "aaadrst"
     }
   ]
 }
