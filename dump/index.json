@@ -1986,6 +1986,7 @@
     "effiloorr",
     "efghiiloor",
     "efgilmu",
+    "efiloor",
     "efilrru",
     "efimmoorrs",
     "efimrr",
@@ -10811,6 +10812,10 @@
     {
       "date": "2025-10-03T16:04:51.648Z",
       "anagram": "abeiqstu"
+    },
+    {
+      "date": "2025-10-03T20:04:56.914Z",
+      "anagram": "efiloor"
     }
   ]
 }
