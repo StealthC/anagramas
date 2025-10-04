@@ -86,6 +86,7 @@
     "aaaclmr",
     "aaaclot",
     "aaaclrr",
+    "aaaclst",
     "aaacmrrss",
     "aaacntt",
     "aaacrrt",
@@ -10816,6 +10817,10 @@
     {
       "date": "2025-10-03T20:04:56.914Z",
       "anagram": "efiloor"
+    },
+    {
+      "date": "2025-10-04T00:16:45.309Z",
+      "anagram": "aaaclst"
     }
   ]
 }
