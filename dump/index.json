@@ -1110,6 +1110,7 @@
     "adegru",
     "adehiiinrt",
     "adehinor",
+    "adehinoz",
     "adehmnopu",
     "adehnorr",
     "adeiiimnz",
@@ -10831,6 +10832,10 @@
     {
       "date": "2025-10-04T16:04:37.969Z",
       "anagram": "aaaabccmrr"
+    },
+    {
+      "date": "2025-10-04T20:04:30.615Z",
+      "anagram": "adehinoz"
     }
   ]
 }
