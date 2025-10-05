@@ -1984,6 +1984,7 @@
     "eenstu",
     "eeoprt",
     "eeopsss",
+    "eeopssss",
     "eeorrst",
     "eeorstv",
     "eeprss",
@@ -10841,6 +10842,10 @@
     {
       "date": "2025-10-05T00:19:01.547Z",
       "anagram": "aciiinpprr"
+    },
+    {
+      "date": "2025-10-05T12:06:21.866Z",
+      "anagram": "eeopssss"
     }
   ]
 }
