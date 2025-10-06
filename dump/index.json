@@ -1863,6 +1863,7 @@
     "deeeimnorr",
     "deeeinprst",
     "deeeinrst",
+    "deeeinrstt",
     "deefiiinsv",
     "deefnor",
     "deefors",
@@ -10866,6 +10867,10 @@
     {
       "date": "2025-10-06T16:05:11.396Z",
       "anagram": "achhinuv"
+    },
+    {
+      "date": "2025-10-06T20:04:48.010Z",
+      "anagram": "deeeinrstt"
     }
   ]
 }
