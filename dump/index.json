@@ -2166,6 +2166,7 @@
     "mnoorsst",
     "moopsstu",
     "moort",
+    "morsu",
     "nnoorstu",
     "noooprtu",
     "ooopprsst",
@@ -10851,6 +10852,10 @@
     {
       "date": "2025-10-05T16:04:44.857Z",
       "anagram": "cioopt"
+    },
+    {
+      "date": "2025-10-06T00:18:00.261Z",
+      "anagram": "morsu"
     }
   ]
 }
