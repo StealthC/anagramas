@@ -540,6 +540,7 @@
     "aaeenrrv",
     "aaefinrru",
     "aaeflsv",
+    "aaeflv",
     "aaefns",
     "aaefnsst",
     "aaefortt",
@@ -10856,6 +10857,10 @@
     {
       "date": "2025-10-06T00:18:00.261Z",
       "anagram": "morsu"
+    },
+    {
+      "date": "2025-10-06T12:06:55.057Z",
+      "anagram": "aaeflv"
     }
   ]
 }
