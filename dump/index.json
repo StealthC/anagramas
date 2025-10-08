@@ -1704,6 +1704,7 @@
     "cdeeiimop",
     "cdeeiimops",
     "cdeeillosu",
+    "cdeeioss",
     "cdeeort",
     "cdefiiio",
     "cdeiioosss",
@@ -10901,6 +10902,10 @@
     {
       "date": "2025-10-08T16:05:19.569Z",
       "anagram": "dgiorsu"
+    },
+    {
+      "date": "2025-10-08T20:04:56.761Z",
+      "anagram": "cdeeioss"
     }
   ]
 }
