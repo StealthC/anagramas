@@ -239,6 +239,7 @@
     "aabmr",
     "aabort",
     "aaccdels",
+    "aaccdlo",
     "aaccehr",
     "aaccenns",
     "aaccens",
@@ -10886,6 +10887,10 @@
     {
       "date": "2025-10-07T16:04:59.788Z",
       "anagram": "ccdeioorr"
+    },
+    {
+      "date": "2025-10-08T00:17:26.047Z",
+      "anagram": "aaccdlo"
     }
   ]
 }
