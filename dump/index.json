@@ -245,6 +245,7 @@
     "aaccens",
     "aacceorr",
     "aacceoss",
+    "aacchiln",
     "aacchins",
     "aacciimst",
     "aaccilnu",
@@ -10906,6 +10907,10 @@
     {
       "date": "2025-10-08T20:04:56.761Z",
       "anagram": "cdeeioss"
+    },
+    {
+      "date": "2025-10-09T00:17:09.881Z",
+      "anagram": "aacchiln"
     }
   ]
 }
