@@ -1587,6 +1587,7 @@
     "aloquz",
     "alor",
     "aloru",
+    "alos",
     "alost",
     "alosuux",
     "alot",
@@ -10916,6 +10917,10 @@
     {
       "date": "2025-10-09T12:07:11.427Z",
       "anagram": "eorrst"
+    },
+    {
+      "date": "2025-10-09T16:05:21.106Z",
+      "anagram": "alos"
     }
   ]
 }
