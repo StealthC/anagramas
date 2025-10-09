@@ -2113,6 +2113,7 @@
     "eoorstv",
     "eoprsstu",
     "eoprst",
+    "eorrst",
     "eorssu",
     "ffilooos",
     "fghilnoos",
@@ -10911,6 +10912,10 @@
     {
       "date": "2025-10-09T00:17:09.881Z",
       "anagram": "aacchiln"
+    },
+    {
+      "date": "2025-10-09T12:07:11.427Z",
+      "anagram": "eorrst"
     }
   ]
 }
