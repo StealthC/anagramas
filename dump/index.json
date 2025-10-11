@@ -1344,6 +1344,7 @@
     "aeiinrrt",
     "aeiinrs",
     "aeiinrttt",
+    "aeiinssstv",
     "aeiinsttv",
     "aeiiprss",
     "aeijnrv",
@@ -10946,6 +10947,10 @@
     {
       "date": "2025-10-11T16:04:28.851Z",
       "anagram": "agiiloss"
+    },
+    {
+      "date": "2025-10-11T20:04:29.784Z",
+      "anagram": "aeiinssstv"
     }
   ]
 }
