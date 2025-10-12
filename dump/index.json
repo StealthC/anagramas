@@ -1426,6 +1426,7 @@
     "aenost",
     "aenostv",
     "aenpssssu",
+    "aenpsssu",
     "aenrstu",
     "aenrt",
     "aeooprs",
@@ -10966,6 +10967,10 @@
     {
       "date": "2025-10-12T16:04:27.889Z",
       "anagram": "aaeghlst"
+    },
+    {
+      "date": "2025-10-12T20:04:44.374Z",
+      "anagram": "aenpsssu"
     }
   ]
 }
