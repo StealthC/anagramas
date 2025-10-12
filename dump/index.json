@@ -417,6 +417,7 @@
     "aaddiimst",
     "aaddiimsz",
     "aaddilot",
+    "aaddir",
     "aaddirtu",
     "aaddloss",
     "aaddmno",
@@ -10951,6 +10952,10 @@
     {
       "date": "2025-10-11T20:04:29.784Z",
       "anagram": "aeiinssstv"
+    },
+    {
+      "date": "2025-10-12T00:18:16.001Z",
+      "anagram": "aaddir"
     }
   ]
 }
