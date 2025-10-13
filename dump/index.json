@@ -1088,6 +1088,7 @@
     "addelmoo",
     "addelnou",
     "addenoot",
+    "addenosv",
     "addeoostv",
     "addgiiirs",
     "addio",
@@ -10976,6 +10977,10 @@
     {
       "date": "2025-10-13T00:19:02.708Z",
       "anagram": "aadegnru"
+    },
+    {
+      "date": "2025-10-13T12:07:06.897Z",
+      "anagram": "addenosv"
     }
   ]
 }
