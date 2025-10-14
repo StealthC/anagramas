@@ -630,6 +630,7 @@
     "aafls",
     "aaflss",
     "aaflst",
+    "aafnorr",
     "aafnors",
     "aafoprr",
     "aaforr",
@@ -10986,6 +10987,10 @@
     {
       "date": "2025-10-13T20:05:14.497Z",
       "anagram": "aeilmns"
+    },
+    {
+      "date": "2025-10-14T00:17:10.243Z",
+      "anagram": "aafnorr"
     }
   ]
 }
