@@ -489,6 +489,7 @@
     "aadgrr",
     "aadgru",
     "aadgsu",
+    "aadhlmos",
     "aadhnssu",
     "aadhnsu",
     "aadiiinnst",
@@ -10991,6 +10992,10 @@
     {
       "date": "2025-10-14T00:17:10.243Z",
       "anagram": "aafnorr"
+    },
+    {
+      "date": "2025-10-14T12:07:22.339Z",
+      "anagram": "aadhlmos"
     }
   ]
 }
