@@ -2131,6 +2131,7 @@
     "eoorstv",
     "eoprsstu",
     "eoprst",
+    "eoqrsu",
     "eorrst",
     "eorssu",
     "ffilooos",
@@ -11006,6 +11007,10 @@
     {
       "date": "2025-10-14T20:04:50.437Z",
       "anagram": "adooppu"
+    },
+    {
+      "date": "2025-10-15T00:17:41.582Z",
+      "anagram": "eoqrsu"
     }
   ]
 }
