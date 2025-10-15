@@ -663,6 +663,7 @@
     "aahinoprz",
     "aahinpr",
     "aahinrsv",
+    "aahlost",
     "aahmnoss",
     "aaiiimnsss",
     "aaiilmssv",
@@ -11011,6 +11012,10 @@
     {
       "date": "2025-10-15T00:17:41.582Z",
       "anagram": "eoqrsu"
+    },
+    {
+      "date": "2025-10-15T12:07:38.322Z",
+      "anagram": "aahlost"
     }
   ]
 }
