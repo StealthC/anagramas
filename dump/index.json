@@ -2035,6 +2035,7 @@
     "efiprs",
     "efloprsuu",
     "eflors",
+    "efmoors",
     "efnosstu",
     "egiiilmot",
     "egiilmot",
@@ -11036,6 +11037,10 @@
     {
       "date": "2025-10-16T12:07:20.363Z",
       "anagram": "aaafnor"
+    },
+    {
+      "date": "2025-10-16T16:05:16.328Z",
+      "anagram": "efmoors"
     }
   ]
 }
