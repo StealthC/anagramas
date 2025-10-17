@@ -440,6 +440,7 @@
     "aadefnr",
     "aadefost",
     "aadefrs",
+    "aadeglop",
     "aadeglru",
     "aadegn",
     "aadegnpux",
@@ -11061,6 +11062,10 @@
     {
       "date": "2025-10-17T16:05:06.574Z",
       "anagram": "ccilos"
+    },
+    {
+      "date": "2025-10-17T20:05:26.051Z",
+      "anagram": "aadeglop"
     }
   ]
 }
