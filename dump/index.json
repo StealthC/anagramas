@@ -1419,6 +1419,7 @@
     "aelosv",
     "aelpr",
     "aelprsu",
+    "aelrs",
     "aelsv",
     "aelttux",
     "aemmnt",
@@ -11066,6 +11067,10 @@
     {
       "date": "2025-10-17T20:05:26.051Z",
       "anagram": "aadeglop"
+    },
+    {
+      "date": "2025-10-18T00:16:36.804Z",
+      "anagram": "aelrs"
     }
   ]
 }
