@@ -1672,6 +1672,7 @@
     "bdiiilnoos",
     "bdnoooss",
     "beeeginos",
+    "beelost",
     "beelrs",
     "beenort",
     "beenosst",
@@ -11096,6 +11097,10 @@
     {
       "date": "2025-10-19T12:06:38.728Z",
       "anagram": "aoorrtu"
+    },
+    {
+      "date": "2025-10-19T16:04:45.207Z",
+      "anagram": "beelost"
     }
   ]
 }
