@@ -1634,6 +1634,7 @@
     "aoopr",
     "aooprs",
     "aoorrt",
+    "aoorrtu",
     "aoostt",
     "aoprsu",
     "aoprt",
@@ -11091,6 +11092,10 @@
     {
       "date": "2025-10-19T00:20:11.618Z",
       "anagram": "denos"
+    },
+    {
+      "date": "2025-10-19T12:06:38.728Z",
+      "anagram": "aoorrtu"
     }
   ]
 }
