@@ -469,6 +469,7 @@
     "aadept",
     "aadeqrssu",
     "aadeqru",
+    "aaderrst",
     "aaderrstt",
     "aaderssv",
     "aadersv",
@@ -11106,6 +11107,10 @@
     {
       "date": "2025-10-19T20:04:56.232Z",
       "anagram": "beehilt"
+    },
+    {
+      "date": "2025-10-20T00:19:41.162Z",
+      "anagram": "aaderrst"
     }
   ]
 }
