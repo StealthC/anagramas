@@ -1515,6 +1515,7 @@
     "aglnoosu",
     "aglnotu",
     "aglor",
+    "agmopr",
     "agmoss",
     "agoorrtu",
     "agoort",
@@ -11116,6 +11117,10 @@
     {
       "date": "2025-10-20T12:07:55.267Z",
       "anagram": "aaeiorr"
+    },
+    {
+      "date": "2025-10-20T16:05:14.785Z",
+      "anagram": "agmopr"
     }
   ]
 }
