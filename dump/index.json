@@ -984,6 +984,7 @@
     "acenps",
     "acenssu",
     "aceoors",
+    "aceop",
     "aceopt",
     "aceos",
     "aceoss",
@@ -11121,6 +11122,10 @@
     {
       "date": "2025-10-20T16:05:14.785Z",
       "anagram": "agmopr"
+    },
+    {
+      "date": "2025-10-21T00:18:10.122Z",
+      "anagram": "aceop"
     }
   ]
 }
