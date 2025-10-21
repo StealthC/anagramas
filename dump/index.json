@@ -6,6 +6,7 @@
     "aaaabccmrr",
     "aaaabcds",
     "aaaabddnr",
+    "aaaabdnns",
     "aaaaccdlns",
     "aaaacceor",
     "aaaacdhlps",
@@ -11136,6 +11137,10 @@
     {
       "date": "2025-10-21T16:10:42.120Z",
       "anagram": "adelorz"
+    },
+    {
+      "date": "2025-10-21T20:04:53.091Z",
+      "anagram": "aaaabdnns"
     }
   ]
 }
