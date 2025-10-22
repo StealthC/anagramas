@@ -288,6 +288,7 @@
     "aacdgosu",
     "aacdhloo",
     "aacdhmos",
+    "aacdho",
     "aacdhops",
     "aacdi",
     "aacdiiins",
@@ -11146,6 +11147,10 @@
     {
       "date": "2025-10-22T00:18:21.541Z",
       "anagram": "acfhhiins"
+    },
+    {
+      "date": "2025-10-22T12:07:40.325Z",
+      "anagram": "aacdho"
     }
   ]
 }
