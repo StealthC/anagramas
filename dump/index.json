@@ -1751,6 +1751,7 @@
     "cdeeiimops",
     "cdeeillosu",
     "cdeeioss",
+    "cdeenors",
     "cdeeort",
     "cdefiiio",
     "cdeiioosss",
@@ -11181,6 +11182,10 @@
     {
       "date": "2025-10-24T00:16:27.082Z",
       "anagram": "eeoprst"
+    },
+    {
+      "date": "2025-10-24T12:07:41.070Z",
+      "anagram": "cdeenors"
     }
   ]
 }
