@@ -2042,6 +2042,7 @@
     "eenosstx",
     "eenrst",
     "eenstu",
+    "eeoprst",
     "eeoprt",
     "eeopsss",
     "eeopssss",
@@ -11176,6 +11177,10 @@
     {
       "date": "2025-10-23T16:05:28.460Z",
       "anagram": "aadgrsu"
+    },
+    {
+      "date": "2025-10-24T00:16:27.082Z",
+      "anagram": "eeoprst"
     }
   ]
 }
