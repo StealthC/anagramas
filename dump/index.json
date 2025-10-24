@@ -1777,6 +1777,7 @@
     "ceeegiotx",
     "ceeejoprv",
     "ceeenoprsv",
+    "ceeeorrsst",
     "ceeeqrsu",
     "ceefhilor",
     "ceefiinstu",
@@ -11186,6 +11187,10 @@
     {
       "date": "2025-10-24T12:07:41.070Z",
       "anagram": "cdeenors"
+    },
+    {
+      "date": "2025-10-24T16:05:08.990Z",
+      "anagram": "ceeeorrsst"
     }
   ]
 }
