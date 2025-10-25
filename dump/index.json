@@ -1380,6 +1380,7 @@
     "aeijosst",
     "aeilmns",
     "aeilnno",
+    "aeilnp",
     "aeilrs",
     "aeilrtv",
     "aeilss",
@@ -11201,6 +11202,10 @@
     {
       "date": "2025-10-25T12:06:27.375Z",
       "anagram": "cfilnoost"
+    },
+    {
+      "date": "2025-10-25T16:04:51.851Z",
+      "anagram": "aeilnp"
     }
   ]
 }
