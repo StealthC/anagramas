@@ -452,6 +452,7 @@
     "aadegnru",
     "aadegrsv",
     "aadegrv",
+    "aadehinz",
     "aadehlo",
     "aadeillo",
     "aadeils",
@@ -11206,6 +11207,10 @@
     {
       "date": "2025-10-25T16:04:51.851Z",
       "anagram": "aeilnp"
+    },
+    {
+      "date": "2025-10-25T20:04:54.074Z",
+      "anagram": "aadehinz"
     }
   ]
 }
