@@ -1576,6 +1576,7 @@
     "ailrrstu",
     "ailrssu",
     "ailrsu",
+    "ailsv",
     "ailtv",
     "aimmoss",
     "aimmox",
@@ -11226,6 +11227,10 @@
     {
       "date": "2025-10-26T16:04:57.822Z",
       "anagram": "ddenoou"
+    },
+    {
+      "date": "2025-10-26T20:04:54.566Z",
+      "anagram": "ailsv"
     }
   ]
 }
