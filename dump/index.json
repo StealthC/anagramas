@@ -1518,6 +1518,7 @@
     "agilr",
     "agimopr",
     "agimrr",
+    "aginpsstuu",
     "agioorrs",
     "agioprr",
     "agiorttu",
@@ -11211,6 +11212,10 @@
     {
       "date": "2025-10-25T20:04:54.074Z",
       "anagram": "aadehinz"
+    },
+    {
+      "date": "2025-10-26T00:19:33.129Z",
+      "anagram": "aginpsstuu"
     }
   ]
 }
