@@ -2113,6 +2113,7 @@
     "eiinstu",
     "eiiorrsttv",
     "eijnoosv",
+    "eillnosuv",
     "eilorsuz",
     "eiloss",
     "eilossv",
@@ -11236,6 +11237,10 @@
     {
       "date": "2025-10-27T00:19:58.198Z",
       "anagram": "afiilnrrt"
+    },
+    {
+      "date": "2025-10-27T12:07:30.835Z",
+      "anagram": "eillnosuv"
     }
   ]
 }
