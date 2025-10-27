@@ -96,6 +96,7 @@
     "aaacrrt",
     "aaaddeims",
     "aaaddempst",
+    "aaadderrt",
     "aaaddestv",
     "aaaddilsv",
     "aaaddlss",
@@ -11241,6 +11242,10 @@
     {
       "date": "2025-10-27T12:07:30.835Z",
       "anagram": "eillnosuv"
+    },
+    {
+      "date": "2025-10-27T16:05:20.425Z",
+      "anagram": "aaadderrt"
     }
   ]
 }
