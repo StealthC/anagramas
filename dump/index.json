@@ -177,6 +177,7 @@
     "aaalopt",
     "aaalprsv",
     "aaamnort",
+    "aaamnoz",
     "aaanpr",
     "aaanssv",
     "aaaorttv",
@@ -11246,6 +11247,10 @@
     {
       "date": "2025-10-27T16:05:20.425Z",
       "anagram": "aaadderrt"
+    },
+    {
+      "date": "2025-10-27T20:03:52.268Z",
+      "anagram": "aaamnoz"
     }
   ]
 }
