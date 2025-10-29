@@ -640,6 +640,7 @@
     "aafgnoru",
     "aafiilm",
     "aafiinrt",
+    "aafilnru",
     "aafim",
     "aafimnst",
     "aafimrr",
@@ -11271,6 +11272,10 @@
     {
       "date": "2025-10-28T20:05:18.152Z",
       "anagram": "alors"
+    },
+    {
+      "date": "2025-10-29T00:18:47.627Z",
+      "anagram": "aafilnru"
     }
   ]
 }
