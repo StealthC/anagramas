@@ -1161,6 +1161,7 @@
     "adeiinrtt",
     "adeiinst",
     "adeiirv",
+    "adeiirvv",
     "adeilouv",
     "adeilst",
     "adeilttu",
@@ -11276,6 +11277,10 @@
     {
       "date": "2025-10-29T00:18:47.627Z",
       "anagram": "aafilnru"
+    },
+    {
+      "date": "2025-10-29T16:05:19.519Z",
+      "anagram": "adeiirvv"
     }
   ]
 }
