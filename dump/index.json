@@ -308,6 +308,7 @@
     "aacdmos",
     "aacdo",
     "aacdopt",
+    "aacdoru",
     "aacdorv",
     "aacdos",
     "aacdost",
@@ -11286,6 +11287,10 @@
     {
       "date": "2025-10-29T20:05:06.398Z",
       "anagram": "aaaccehirr"
+    },
+    {
+      "date": "2025-10-30T00:18:40.802Z",
+      "anagram": "aacdoru"
     }
   ]
 }
