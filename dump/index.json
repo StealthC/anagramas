@@ -450,6 +450,7 @@
     "aadefnr",
     "aadefost",
     "aadefrs",
+    "aadeglo",
     "aadeglop",
     "aadeglru",
     "aadegn",
@@ -11301,6 +11302,10 @@
     {
       "date": "2025-10-30T16:05:49.839Z",
       "anagram": "accdnoou"
+    },
+    {
+      "date": "2025-10-30T20:04:53.502Z",
+      "anagram": "aadeglo"
     }
   ]
 }
