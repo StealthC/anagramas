@@ -677,6 +677,7 @@
     "aagisttuv",
     "aaglmu",
     "aaglnru",
+    "aaglop",
     "aagmo",
     "aagpr",
     "aahiinnrs",
@@ -11306,6 +11307,10 @@
     {
       "date": "2025-10-30T20:04:53.502Z",
       "anagram": "aadeglo"
+    },
+    {
+      "date": "2025-10-31T12:07:20.889Z",
+      "anagram": "aaglop"
     }
   ]
 }
