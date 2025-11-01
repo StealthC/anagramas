@@ -1363,6 +1363,7 @@
     "aeglopr",
     "aeglos",
     "aeglsu",
+    "aegmno",
     "aegmoost",
     "aegrr",
     "aegrrr",
@@ -11326,6 +11327,10 @@
     {
       "date": "2025-11-01T00:20:20.472Z",
       "anagram": "delor"
+    },
+    {
+      "date": "2025-11-01T12:06:25.386Z",
+      "anagram": "aegmno"
     }
   ]
 }
