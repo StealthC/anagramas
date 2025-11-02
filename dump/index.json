@@ -2228,6 +2228,7 @@
     "hilort",
     "hnooss",
     "hnopsu",
+    "iiilmnos",
     "iiimmosstu",
     "iiimoprstv",
     "iiinrsttu",
@@ -11341,6 +11342,10 @@
     {
       "date": "2025-11-02T12:06:28.589Z",
       "anagram": "acdiinr"
+    },
+    {
+      "date": "2025-11-02T16:04:35.758Z",
+      "anagram": "iiilmnos"
     }
   ]
 }
