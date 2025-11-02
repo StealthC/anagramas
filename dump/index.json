@@ -931,6 +931,7 @@
     "acdiilru",
     "acdiimno",
     "acdiinot",
+    "acdiinr",
     "acdimo",
     "acdiop",
     "acdiorv",
@@ -11336,6 +11337,10 @@
     {
       "date": "2025-11-01T20:04:29.177Z",
       "anagram": "acdoruv"
+    },
+    {
+      "date": "2025-11-02T12:06:28.589Z",
+      "anagram": "acdiinr"
     }
   ]
 }
