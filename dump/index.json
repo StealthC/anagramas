@@ -58,6 +58,7 @@
     "aaacddelm",
     "aaacdelr",
     "aaacdemo",
+    "aaacdemr",
     "aaacdems",
     "aaacdennr",
     "aaacdenrv",
@@ -11366,6 +11367,10 @@
     {
       "date": "2025-11-04T00:18:16.293Z",
       "anagram": "accimo"
+    },
+    {
+      "date": "2025-11-04T12:07:48.463Z",
+      "anagram": "aaacdemr"
     }
   ]
 }
