@@ -693,6 +693,7 @@
     "aaiiimnsss",
     "aaiilmssv",
     "aaiilnrsz",
+    "aaiilnv",
     "aaiiprrtvz",
     "aaijrv",
     "aaiknnost",
@@ -11371,6 +11372,10 @@
     {
       "date": "2025-11-04T12:07:48.463Z",
       "anagram": "aaacdemr"
+    },
+    {
+      "date": "2025-11-04T16:05:48.462Z",
+      "anagram": "aaiilnv"
     }
   ]
 }
