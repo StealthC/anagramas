@@ -1669,6 +1669,7 @@
     "amnoot",
     "amoorst",
     "amops",
+    "amor",
     "amorr",
     "amorsst",
     "amsu",
@@ -11396,6 +11397,10 @@
     {
       "date": "2025-11-05T16:05:25.571Z",
       "anagram": "aabci"
+    },
+    {
+      "date": "2025-11-05T20:05:21.889Z",
+      "anagram": "amor"
     }
   ]
 }
