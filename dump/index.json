@@ -2263,6 +2263,7 @@
     "imooss",
     "imopru",
     "imosst",
+    "inooorst",
     "inoprt",
     "inorsstu",
     "inort",
@@ -11406,6 +11407,10 @@
     {
       "date": "2025-11-06T00:18:40.686Z",
       "anagram": "aegims"
+    },
+    {
+      "date": "2025-11-06T12:07:39.779Z",
+      "anagram": "inooorst"
     }
   ]
 }
