@@ -1366,6 +1366,7 @@
     "aegilntu",
     "aegimm",
     "aegimrr",
+    "aegims",
     "aeginnot",
     "aeginrrt",
     "aegiort",
@@ -11401,6 +11402,10 @@
     {
       "date": "2025-11-05T20:05:21.889Z",
       "anagram": "amor"
+    },
+    {
+      "date": "2025-11-06T00:18:40.686Z",
+      "anagram": "aegims"
     }
   ]
 }
