@@ -1050,6 +1050,7 @@
     "achlooppu",
     "achmsu",
     "achnoor",
+    "achnor",
     "achoorss",
     "achor",
     "aciiinpprr",
@@ -11446,6 +11447,10 @@
     {
       "date": "2025-11-08T12:06:29.386Z",
       "anagram": "effiorrtu"
+    },
+    {
+      "date": "2025-11-08T16:04:48.362Z",
+      "anagram": "achnor"
     }
   ]
 }
