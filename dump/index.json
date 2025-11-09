@@ -2172,6 +2172,7 @@
     "eimorss",
     "eimost",
     "eimosv",
+    "eimprrsu",
     "einnort",
     "einnostv",
     "einnotv",
@@ -11456,6 +11457,10 @@
     {
       "date": "2025-11-09T00:20:09.564Z",
       "anagram": "aclnosu"
+    },
+    {
+      "date": "2025-11-09T12:06:35.164Z",
+      "anagram": "eimprrsu"
     }
   ]
 }
