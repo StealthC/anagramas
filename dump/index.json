@@ -788,6 +788,7 @@
     "abcfiilrru",
     "abciiilmsu",
     "abcilpru",
+    "abclmoo",
     "abcmmoos",
     "abcors",
     "abcrsu",
@@ -11476,6 +11477,10 @@
     {
       "date": "2025-11-10T12:07:54.639Z",
       "anagram": "acgloos"
+    },
+    {
+      "date": "2025-11-10T16:05:31.049Z",
+      "anagram": "abclmoo"
     }
   ]
 }
