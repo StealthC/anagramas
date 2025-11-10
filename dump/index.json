@@ -1040,6 +1040,7 @@
     "acgiort",
     "acgiost",
     "acgiot",
+    "acgloos",
     "acgno",
     "acgnos",
     "achhiinqsu",
@@ -11471,6 +11472,10 @@
     {
       "date": "2025-11-10T00:19:59.595Z",
       "anagram": "aaadefst"
+    },
+    {
+      "date": "2025-11-10T12:07:54.639Z",
+      "anagram": "acgloos"
     }
   ]
 }
