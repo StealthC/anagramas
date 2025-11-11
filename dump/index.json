@@ -1299,6 +1299,7 @@
     "aeeeinnsst",
     "aeeeinrsvv",
     "aeeelmnntt",
+    "aeeelnrtv",
     "aeeelnrvv",
     "aeeerst",
     "aeefgrrs",
@@ -11486,6 +11487,10 @@
     {
       "date": "2025-11-10T20:05:29.463Z",
       "anagram": "aadlot"
+    },
+    {
+      "date": "2025-11-11T00:19:12.185Z",
+      "anagram": "aeeelnrtv"
     }
   ]
 }
