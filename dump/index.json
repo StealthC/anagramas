@@ -1142,6 +1142,7 @@
     "addenosv",
     "addeoostv",
     "addgiiirs",
+    "addiinov",
     "addio",
     "addior",
     "addiors",
@@ -11511,6 +11512,10 @@
     {
       "date": "2025-11-12T12:08:04.523Z",
       "anagram": "agrsu"
+    },
+    {
+      "date": "2025-11-12T16:05:57.499Z",
+      "anagram": "addiinov"
     }
   ]
 }
