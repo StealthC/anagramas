@@ -760,6 +760,7 @@
     "aanst",
     "aaopr",
     "aaopsst",
+    "aaopt",
     "aaorstu",
     "aaort",
     "aaorv",
@@ -11516,6 +11517,10 @@
     {
       "date": "2025-11-12T16:05:57.499Z",
       "anagram": "addiinov"
+    },
+    {
+      "date": "2025-11-12T20:05:17.675Z",
+      "anagram": "aaopt"
     }
   ]
 }
