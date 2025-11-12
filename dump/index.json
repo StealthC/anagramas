@@ -1577,6 +1577,7 @@
     "agorst",
     "agorsu",
     "agost",
+    "agrsu",
     "ahiilmo",
     "ahiiloprrr",
     "ahijnnos",
@@ -11506,6 +11507,10 @@
     {
       "date": "2025-11-11T20:04:56.311Z",
       "anagram": "abcdeeir"
+    },
+    {
+      "date": "2025-11-12T12:08:04.523Z",
+      "anagram": "agrsu"
     }
   ]
 }
