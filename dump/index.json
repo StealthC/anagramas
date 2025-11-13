@@ -1490,6 +1490,7 @@
     "aemqrsu",
     "aemrsu",
     "aemrt",
+    "aemrttu",
     "aenoorss",
     "aenoprt",
     "aenorrss",
@@ -11526,6 +11527,10 @@
     {
       "date": "2025-11-13T00:18:50.851Z",
       "anagram": "cdeimo"
+    },
+    {
+      "date": "2025-11-13T12:07:48.766Z",
+      "anagram": "aemrttu"
     }
   ]
 }
