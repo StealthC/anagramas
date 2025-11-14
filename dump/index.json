@@ -419,6 +419,7 @@
     "aaddenpru",
     "aaddenst",
     "aaddensv",
+    "aaddeoorr",
     "aaddeopr",
     "aaddeoqu",
     "aaddeost",
@@ -11536,6 +11537,10 @@
     {
       "date": "2025-11-13T16:05:31.050Z",
       "anagram": "addeenops"
+    },
+    {
+      "date": "2025-11-14T12:07:58.801Z",
+      "anagram": "aaddeoorr"
     }
   ]
 }
