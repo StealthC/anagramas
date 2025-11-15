@@ -532,6 +532,7 @@
     "aadiotv",
     "aadiprs",
     "aadiprv",
+    "aadirt",
     "aadisstu",
     "aadistu",
     "aadistv",
@@ -11556,6 +11557,10 @@
     {
       "date": "2025-11-15T12:06:31.399Z",
       "anagram": "aaalrsst"
+    },
+    {
+      "date": "2025-11-15T16:04:40.961Z",
+      "anagram": "aadirt"
     }
   ]
 }
