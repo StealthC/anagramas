@@ -180,6 +180,7 @@
     "aaalmrrtt",
     "aaalopt",
     "aaalprsv",
+    "aaalrsst",
     "aaamnort",
     "aaamnoz",
     "aaanpr",
@@ -11551,6 +11552,10 @@
     {
       "date": "2025-11-14T20:05:28.597Z",
       "anagram": "cioopst"
+    },
+    {
+      "date": "2025-11-15T12:06:31.399Z",
+      "anagram": "aaalrsst"
     }
   ]
 }
