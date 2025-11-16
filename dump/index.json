@@ -1516,6 +1516,7 @@
     "aeopsss",
     "aeopstu",
     "aeoqrtuz",
+    "aeoqsstu",
     "aeoqstu",
     "aeorrt",
     "aeors",
@@ -11566,6 +11567,10 @@
     {
       "date": "2025-11-15T20:04:43.306Z",
       "anagram": "aehiimnnns"
+    },
+    {
+      "date": "2025-11-16T00:20:27.215Z",
+      "anagram": "aeoqsstu"
     }
   ]
 }
