@@ -736,6 +736,7 @@
     "aaipt",
     "aairrtt",
     "aairst",
+    "aairstt",
     "aairsv",
     "aaisv",
     "aajmnr",
@@ -11601,6 +11602,10 @@
     {
       "date": "2025-11-17T16:05:23.736Z",
       "anagram": "demoors"
+    },
+    {
+      "date": "2025-11-17T20:05:32.143Z",
+      "anagram": "aairstt"
     }
   ]
 }
