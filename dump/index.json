@@ -1253,6 +1253,7 @@
     "adginorv",
     "adginov",
     "adgiossu",
+    "adgiov",
     "adgirssu",
     "adgjoor",
     "adglnoo",
@@ -11591,6 +11592,10 @@
     {
       "date": "2025-11-17T00:19:16.259Z",
       "anagram": "aajnops"
+    },
+    {
+      "date": "2025-11-17T12:07:53.295Z",
+      "anagram": "adgiov"
     }
   ]
 }
