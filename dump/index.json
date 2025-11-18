@@ -768,6 +768,7 @@
     "aaopr",
     "aaopsst",
     "aaopt",
+    "aaorrsu",
     "aaorstu",
     "aaort",
     "aaorv",
@@ -11611,6 +11612,10 @@
     {
       "date": "2025-11-18T00:19:05.876Z",
       "anagram": "abilrr"
+    },
+    {
+      "date": "2025-11-18T16:05:35.532Z",
+      "anagram": "aaorrsu"
     }
   ]
 }
