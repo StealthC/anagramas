@@ -1313,6 +1313,7 @@
     "aeeeinnsst",
     "aeeeinrsvv",
     "aeeelmnntt",
+    "aeeelmnrt",
     "aeeelnrtv",
     "aeeelnrvv",
     "aeeerst",
@@ -11616,6 +11617,10 @@
     {
       "date": "2025-11-18T16:05:35.532Z",
       "anagram": "aaorrsu"
+    },
+    {
+      "date": "2025-11-18T20:05:11.783Z",
+      "anagram": "aeeelmnrt"
     }
   ]
 }
