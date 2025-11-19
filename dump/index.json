@@ -384,6 +384,7 @@
     "aaclmssu",
     "aaclp",
     "aaclpr",
+    "aaclpru",
     "aaclpssu",
     "aaclssu",
     "aacnor",
@@ -11621,6 +11622,10 @@
     {
       "date": "2025-11-18T20:05:11.783Z",
       "anagram": "aeeelmnrt"
+    },
+    {
+      "date": "2025-11-19T12:07:18.311Z",
+      "anagram": "aaclpru"
     }
   ]
 }
