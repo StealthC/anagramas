@@ -767,6 +767,7 @@
     "aanos",
     "aanot",
     "aanotv",
+    "aanrs",
     "aanst",
     "aaopr",
     "aaopsst",
@@ -11656,6 +11657,10 @@
     {
       "date": "2025-11-21T00:18:28.515Z",
       "anagram": "abimorru"
+    },
+    {
+      "date": "2025-11-21T16:05:08.107Z",
+      "anagram": "aanrs"
     }
   ]
 }
