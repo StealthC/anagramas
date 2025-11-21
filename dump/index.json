@@ -859,6 +859,7 @@
     "abijtu",
     "abilrr",
     "abilru",
+    "abimorru",
     "abimrr",
     "abinot",
     "abinrtu",
@@ -11651,6 +11652,10 @@
     {
       "date": "2025-11-20T20:05:09.087Z",
       "anagram": "aabbemr"
+    },
+    {
+      "date": "2025-11-21T00:18:28.515Z",
+      "anagram": "abimorru"
     }
   ]
 }
