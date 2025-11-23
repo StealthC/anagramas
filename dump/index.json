@@ -1522,6 +1522,7 @@
     "aenostv",
     "aenpssssu",
     "aenpsssu",
+    "aenqrtuu",
     "aenrstu",
     "aenrt",
     "aeooprs",
@@ -11691,6 +11692,10 @@
     {
       "date": "2025-11-23T00:21:40.163Z",
       "anagram": "aagiilrz"
+    },
+    {
+      "date": "2025-11-23T12:06:22.331Z",
+      "anagram": "aenqrtuu"
     }
   ]
 }
