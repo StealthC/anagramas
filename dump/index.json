@@ -1813,6 +1813,7 @@
     "cceehlnoot",
     "cceehlost",
     "cceioorv",
+    "cceiost",
     "cceloosu",
     "ccenoorrr",
     "ccenoorrt",
@@ -11701,6 +11702,10 @@
     {
       "date": "2025-11-23T16:04:43.192Z",
       "anagram": "aeimssst"
+    },
+    {
+      "date": "2025-11-23T20:04:59.861Z",
+      "anagram": "cceiost"
     }
   ]
 }
