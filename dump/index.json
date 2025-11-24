@@ -251,6 +251,7 @@
     "aablo",
     "aablrtu",
     "aabmr",
+    "aabno",
     "aabort",
     "aaccdels",
     "aaccdlo",
@@ -11711,6 +11712,10 @@
     {
       "date": "2025-11-24T00:20:18.371Z",
       "anagram": "aaddepr"
+    },
+    {
+      "date": "2025-11-24T12:08:00.630Z",
+      "anagram": "aabno"
     }
   ]
 }
