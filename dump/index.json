@@ -426,6 +426,7 @@
     "aaddeopr",
     "aaddeoqu",
     "aaddeost",
+    "aaddepr",
     "aaddesstu",
     "aaddesv",
     "aaddfinnsu",
@@ -11706,6 +11707,10 @@
     {
       "date": "2025-11-23T20:04:59.861Z",
       "anagram": "cceiost"
+    },
+    {
+      "date": "2025-11-24T00:20:18.371Z",
+      "anagram": "aaddepr"
     }
   ]
 }
