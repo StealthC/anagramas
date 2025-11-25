@@ -1039,6 +1039,7 @@
     "acenssu",
     "aceoors",
     "aceop",
+    "aceopru",
     "aceopt",
     "aceos",
     "aceoss",
@@ -11721,6 +11722,10 @@
     {
       "date": "2025-11-24T20:05:09.808Z",
       "anagram": "abemrrtu"
+    },
+    {
+      "date": "2025-11-25T00:17:39.281Z",
+      "anagram": "aceopru"
     }
   ]
 }
