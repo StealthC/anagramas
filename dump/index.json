@@ -724,6 +724,7 @@
     "aailrsv",
     "aailrtv",
     "aaimnnot",
+    "aaimnootu",
     "aaimnqu",
     "aaimnr",
     "aaimnrr",
@@ -11726,6 +11727,10 @@
     {
       "date": "2025-11-25T00:17:39.281Z",
       "anagram": "aceopru"
+    },
+    {
+      "date": "2025-11-25T12:08:28.448Z",
+      "anagram": "aaimnootu"
     }
   ]
 }
