@@ -464,6 +464,7 @@
     "aadeglop",
     "aadeglru",
     "aadegn",
+    "aadegnos",
     "aadegnpux",
     "aadegnru",
     "aadegrsv",
@@ -11751,6 +11752,10 @@
     {
       "date": "2025-11-26T16:04:58.937Z",
       "anagram": "ademos"
+    },
+    {
+      "date": "2025-11-26T20:05:12.341Z",
+      "anagram": "aadegnos"
     }
   ]
 }
