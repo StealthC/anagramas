@@ -1239,6 +1239,7 @@
     "ademnoo",
     "ademnor",
     "ademnos",
+    "ademos",
     "ademost",
     "ademr",
     "ademrs",
@@ -11746,6 +11747,10 @@
     {
       "date": "2025-11-26T00:18:38.776Z",
       "anagram": "abeiijtv"
+    },
+    {
+      "date": "2025-11-26T16:04:58.937Z",
+      "anagram": "ademos"
     }
   ]
 }
