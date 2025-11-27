@@ -1700,6 +1700,7 @@
     "airs",
     "airuvv",
     "ajmorsu",
+    "ajnos",
     "ajnrtu",
     "ajsstu",
     "ajstu",
@@ -11771,6 +11772,10 @@
     {
       "date": "2025-11-27T16:05:10.005Z",
       "anagram": "aaaginopt"
+    },
+    {
+      "date": "2025-11-27T20:04:13.104Z",
+      "anagram": "ajnos"
     }
   ]
 }
