@@ -150,6 +150,7 @@
     "aaafilstt",
     "aaafnor",
     "aaafnors",
+    "aaaginopt",
     "aaaginrr",
     "aaagirr",
     "aaagirrs",
@@ -11766,6 +11767,10 @@
     {
       "date": "2025-11-27T12:07:47.461Z",
       "anagram": "aabells"
+    },
+    {
+      "date": "2025-11-27T16:05:10.005Z",
+      "anagram": "aaaginopt"
     }
   ]
 }
