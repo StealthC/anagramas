@@ -653,6 +653,7 @@
     "aaeorrssss",
     "aaeprrs",
     "aaeprs",
+    "aaeprss",
     "aaerrr",
     "aaestux",
     "aaffor",
@@ -11786,6 +11787,10 @@
     {
       "date": "2025-11-28T12:07:53.311Z",
       "anagram": "admsu"
+    },
+    {
+      "date": "2025-11-28T16:05:07.272Z",
+      "anagram": "aaeprss"
     }
   ]
 }
