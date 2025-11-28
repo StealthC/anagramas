@@ -1159,6 +1159,7 @@
     "addeenops",
     "addeenprru",
     "addefmoor",
+    "addeilnu",
     "addeims",
     "addeinru",
     "addeinu",
@@ -11776,6 +11777,10 @@
     {
       "date": "2025-11-27T20:04:13.104Z",
       "anagram": "ajnos"
+    },
+    {
+      "date": "2025-11-28T00:18:23.685Z",
+      "anagram": "addeilnu"
     }
   ]
 }
