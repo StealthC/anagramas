@@ -64,6 +64,7 @@
     "aaacdennr",
     "aaacdenrv",
     "aaacdfhnr",
+    "aaacdfimo",
     "aaacdhmno",
     "aaacdhruv",
     "aaacdinv",
@@ -11796,6 +11797,10 @@
     {
       "date": "2025-11-28T20:04:49.375Z",
       "anagram": "aceimnru"
+    },
+    {
+      "date": "2025-11-29T00:18:23.785Z",
+      "anagram": "aaacdfimo"
     }
   ]
 }
