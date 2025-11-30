@@ -1548,6 +1548,7 @@
     "aenqrtuu",
     "aenrstu",
     "aenrt",
+    "aenst",
     "aeooprs",
     "aeopr",
     "aeoprrs",
@@ -11831,6 +11832,10 @@
     {
       "date": "2025-11-30T16:04:49.246Z",
       "anagram": "ciiloopt"
+    },
+    {
+      "date": "2025-11-30T20:04:59.260Z",
+      "anagram": "aenst"
     }
   ]
 }
