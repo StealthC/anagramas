@@ -136,6 +136,7 @@
     "aaadiops",
     "aaadistv",
     "aaadisvv",
+    "aaadlmnr",
     "aaadlmor",
     "aaadlost",
     "aaadmns",
@@ -11816,6 +11817,10 @@
     {
       "date": "2025-11-29T20:05:00.470Z",
       "anagram": "aadgors"
+    },
+    {
+      "date": "2025-11-30T00:21:40.006Z",
+      "anagram": "aaadlmnr"
     }
   ]
 }
