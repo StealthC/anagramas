@@ -1626,6 +1626,7 @@
     "agoorrtu",
     "agoort",
     "agoosss",
+    "agors",
     "agorst",
     "agorsu",
     "agost",
@@ -11821,6 +11822,10 @@
     {
       "date": "2025-11-30T00:21:40.006Z",
       "anagram": "aaadlmnr"
+    },
+    {
+      "date": "2025-11-30T12:06:44.032Z",
+      "anagram": "agors"
     }
   ]
 }
