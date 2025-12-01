@@ -74,6 +74,7 @@
     "aaacdnns",
     "aaacdnps",
     "aaacdnrt",
+    "aaacdprtu",
     "aaacdrst",
     "aaacdss",
     "aaacdssu",
@@ -11841,6 +11842,10 @@
     {
       "date": "2025-12-01T00:23:25.196Z",
       "anagram": "aafglosz"
+    },
+    {
+      "date": "2025-12-01T12:08:11.026Z",
+      "anagram": "aaacdprtu"
     }
   ]
 }
