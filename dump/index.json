@@ -1999,6 +1999,7 @@
     "ciors",
     "ciorss",
     "ciorsstu",
+    "ciossu",
     "clmosuu",
     "clnooos",
     "clooooprst",
@@ -11846,6 +11847,10 @@
     {
       "date": "2025-12-01T12:08:11.026Z",
       "anagram": "aaacdprtu"
+    },
+    {
+      "date": "2025-12-01T16:05:43.778Z",
+      "anagram": "ciossu"
     }
   ]
 }
