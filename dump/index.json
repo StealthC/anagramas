@@ -193,6 +193,7 @@
     "aaanssv",
     "aaaorttv",
     "aaaprr",
+    "aaaprsuv",
     "aaapstv",
     "aabbemr",
     "aabbiiils",
@@ -11861,6 +11862,10 @@
     {
       "date": "2025-12-02T00:19:15.727Z",
       "anagram": "cdeimnou"
+    },
+    {
+      "date": "2025-12-02T12:08:08.370Z",
+      "anagram": "aaaprsuv"
     }
   ]
 }
