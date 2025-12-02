@@ -1865,6 +1865,7 @@
     "cdeeort",
     "cdefiiio",
     "cdeiioosss",
+    "cdeimnou",
     "cdeimo",
     "cdeimoov",
     "cdeimos",
@@ -11856,6 +11857,10 @@
     {
       "date": "2025-12-01T20:04:26.814Z",
       "anagram": "aaefnqruz"
+    },
+    {
+      "date": "2025-12-02T00:19:15.727Z",
+      "anagram": "cdeimnou"
     }
   ]
 }
