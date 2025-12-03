@@ -1395,6 +1395,7 @@
     "aeenrtx",
     "aeenstt",
     "aeeorsssss",
+    "aeeprst",
     "aeeprstz",
     "aeeqrstu",
     "aeeqrtuux",
@@ -11881,6 +11882,10 @@
     {
       "date": "2025-12-03T00:19:01.102Z",
       "anagram": "aadeefgrs"
+    },
+    {
+      "date": "2025-12-03T16:06:16.518Z",
+      "anagram": "aeeprst"
     }
   ]
 }
