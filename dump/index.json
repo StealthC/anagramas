@@ -738,6 +738,7 @@
     "aailnnot",
     "aailns",
     "aailors",
+    "aailpp",
     "aailrs",
     "aailrsv",
     "aailrtv",
@@ -11931,6 +11932,10 @@
     {
       "date": "2025-12-06T00:18:31.571Z",
       "anagram": "bcdeeeor"
+    },
+    {
+      "date": "2025-12-06T12:06:42.408Z",
+      "anagram": "aailpp"
     }
   ]
 }
