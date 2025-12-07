@@ -514,6 +514,7 @@
     "aadfgis",
     "aadfgiss",
     "aadfhilo",
+    "aadfilsuz",
     "aadfios",
     "aadfir",
     "aadgiinst",
@@ -11961,6 +11962,10 @@
     {
       "date": "2025-12-07T16:04:34.541Z",
       "anagram": "dimosu"
+    },
+    {
+      "date": "2025-12-07T20:04:51.621Z",
+      "anagram": "aadfilsuz"
     }
   ]
 }
