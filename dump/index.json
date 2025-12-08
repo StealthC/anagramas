@@ -324,6 +324,7 @@
     "aacdjnsu",
     "aacdlmouu",
     "aacdmos",
+    "aacdns",
     "aacdo",
     "aacdopt",
     "aacdoru",
@@ -11976,6 +11977,10 @@
     {
       "date": "2025-12-08T16:05:30.722Z",
       "anagram": "degnoorrtu"
+    },
+    {
+      "date": "2025-12-08T20:04:56.378Z",
+      "anagram": "aacdns"
     }
   ]
 }
