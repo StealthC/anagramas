@@ -1354,6 +1354,7 @@
     "adoorr",
     "adoortu",
     "adootv",
+    "adopr",
     "adorr",
     "aeeegnrst",
     "aeeegstx",
@@ -11991,6 +11992,10 @@
     {
       "date": "2025-12-09T12:08:20.524Z",
       "anagram": "abcnors"
+    },
+    {
+      "date": "2025-12-09T16:05:38.132Z",
+      "anagram": "adopr"
     }
   ]
 }
