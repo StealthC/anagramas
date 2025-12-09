@@ -834,6 +834,7 @@
     "abcilpru",
     "abclmoo",
     "abcmmoos",
+    "abcnors",
     "abcors",
     "abcrsu",
     "abddlou",
@@ -11986,6 +11987,10 @@
     {
       "date": "2025-12-09T00:19:09.267Z",
       "anagram": "aaceenosx"
+    },
+    {
+      "date": "2025-12-09T12:08:20.524Z",
+      "anagram": "abcnors"
     }
   ]
 }
