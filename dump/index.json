@@ -298,6 +298,7 @@
     "aacdeghs",
     "aacdegip",
     "aacdeiilt",
+    "aacdeins",
     "aacdelmr",
     "aacden",
     "aacdfiimmu",
@@ -12001,6 +12002,10 @@
     {
       "date": "2025-12-10T00:19:38.630Z",
       "anagram": "iilors"
+    },
+    {
+      "date": "2025-12-10T12:08:27.008Z",
+      "anagram": "aacdeins"
     }
   ]
 }
