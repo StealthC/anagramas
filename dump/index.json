@@ -1098,6 +1098,7 @@
     "acgloos",
     "acgno",
     "acgnos",
+    "acgors",
     "achhiinqsu",
     "achhinuv",
     "achiinos",
@@ -12006,6 +12007,10 @@
     {
       "date": "2025-12-10T12:08:27.008Z",
       "anagram": "aacdeins"
+    },
+    {
+      "date": "2025-12-10T16:06:10.242Z",
+      "anagram": "acgors"
     }
   ]
 }
