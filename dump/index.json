@@ -1157,6 +1157,7 @@
     "acmmo",
     "acmmoor",
     "acmo",
+    "acmosu",
     "acmpsu",
     "acno",
     "acnoo",
@@ -12011,6 +12012,10 @@
     {
       "date": "2025-12-10T16:06:10.242Z",
       "anagram": "acgors"
+    },
+    {
+      "date": "2025-12-10T20:05:20.070Z",
+      "anagram": "acmosu"
     }
   ]
 }
