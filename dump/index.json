@@ -1117,6 +1117,7 @@
     "aciilnrt",
     "aciilrt",
     "aciils",
+    "aciimrst",
     "aciimst",
     "aciino",
     "aciinss",
@@ -12036,6 +12037,10 @@
     {
       "date": "2025-12-12T16:05:10.873Z",
       "anagram": "aaabirssv"
+    },
+    {
+      "date": "2025-12-12T20:05:15.674Z",
+      "anagram": "aciimrst"
     }
   ]
 }
