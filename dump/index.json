@@ -323,6 +323,7 @@
     "aacdinoo",
     "aacdins",
     "aacdips",
+    "aacdirs",
     "aacdjnsu",
     "aacdlmouu",
     "aacdmos",
@@ -12066,6 +12067,10 @@
     {
       "date": "2025-12-14T00:21:36.108Z",
       "anagram": "ejnooopss"
+    },
+    {
+      "date": "2025-12-14T16:04:52.661Z",
+      "anagram": "aacdirs"
     }
   ]
 }
