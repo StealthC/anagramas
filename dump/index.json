@@ -2413,6 +2413,7 @@
     "morsu",
     "nnoorstu",
     "noooprtu",
+    "nostu",
     "ooopprsst",
     "ooprss"
   ],
@@ -12076,6 +12077,10 @@
     {
       "date": "2025-12-14T20:05:03.269Z",
       "anagram": "aacdeehr"
+    },
+    {
+      "date": "2025-12-15T00:21:30.080Z",
+      "anagram": "nostu"
     }
   ]
 }
