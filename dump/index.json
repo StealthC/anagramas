@@ -264,6 +264,7 @@
     "aablrtu",
     "aabmr",
     "aabno",
+    "aabors",
     "aabort",
     "aaccdels",
     "aaccdlo",
@@ -12096,6 +12097,10 @@
     {
       "date": "2025-12-16T00:20:11.513Z",
       "anagram": "aadfgiru"
+    },
+    {
+      "date": "2025-12-16T16:05:39.444Z",
+      "anagram": "aabors"
     }
   ]
 }
