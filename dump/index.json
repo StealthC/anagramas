@@ -1544,6 +1544,7 @@
     "aeiprtu",
     "aeiqqrsuu",
     "aeiqrsu",
+    "aeirsstt",
     "aeirssttz",
     "aeirst",
     "aeirtv",
@@ -12126,6 +12127,10 @@
     {
       "date": "2025-12-18T00:17:14.156Z",
       "anagram": "aadesstt"
+    },
+    {
+      "date": "2025-12-18T16:06:03.800Z",
+      "anagram": "aeirsstt"
     }
   ]
 }
