@@ -518,6 +518,7 @@
     "aaderrstt",
     "aaderssv",
     "aadersv",
+    "aadesstt",
     "aadessv",
     "aadfgiilu",
     "aadfgils",
@@ -12121,6 +12122,10 @@
     {
       "date": "2025-12-17T16:05:52.908Z",
       "anagram": "aaglrs"
+    },
+    {
+      "date": "2025-12-18T00:17:14.156Z",
+      "anagram": "aadesstt"
     }
   ]
 }
