@@ -731,6 +731,7 @@
     "aaglnru",
     "aaglop",
     "aaglrs",
+    "aagmns",
     "aagmo",
     "aagort",
     "aagpr",
@@ -12146,6 +12147,10 @@
     {
       "date": "2025-12-19T16:05:07.852Z",
       "anagram": "aeioqsssu"
+    },
+    {
+      "date": "2025-12-19T20:05:02.136Z",
+      "anagram": "aagmns"
     }
   ]
 }
