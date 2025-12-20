@@ -627,6 +627,7 @@
     "aaegmnns",
     "aaegnpr",
     "aaegnrs",
+    "aaegorss",
     "aaegrt",
     "aaegruv",
     "aaehimnz",
@@ -12156,6 +12157,10 @@
     {
       "date": "2025-12-20T00:19:13.701Z",
       "anagram": "aamors"
+    },
+    {
+      "date": "2025-12-20T12:06:47.040Z",
+      "anagram": "aaegorss"
     }
   ]
 }
