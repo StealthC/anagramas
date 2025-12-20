@@ -286,6 +286,7 @@
     "aaccist",
     "aaccloopu",
     "aacclr",
+    "aacclsu",
     "aaccoopu",
     "aaccoot",
     "aaccosv",
@@ -12161,6 +12162,10 @@
     {
       "date": "2025-12-20T12:06:47.040Z",
       "anagram": "aaegorss"
+    },
+    {
+      "date": "2025-12-20T16:05:01.000Z",
+      "anagram": "aacclsu"
     }
   ]
 }
