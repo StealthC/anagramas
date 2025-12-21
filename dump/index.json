@@ -1277,6 +1277,7 @@
     "adeimsx",
     "adeimx",
     "adeinrx",
+    "adeint",
     "adeiopt",
     "adeiorr",
     "adeiosv",
@@ -12171,6 +12172,10 @@
     {
       "date": "2025-12-20T20:04:40.488Z",
       "anagram": "eegirrtuz"
+    },
+    {
+      "date": "2025-12-21T12:07:07.355Z",
+      "anagram": "adeint"
     }
   ]
 }
