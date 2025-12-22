@@ -340,6 +340,7 @@
     "aacdoru",
     "aacdorv",
     "aacdos",
+    "aacdossu",
     "aacdost",
     "aacdov",
     "aacdrsuv",
@@ -12191,6 +12192,10 @@
     {
       "date": "2025-12-22T12:08:10.576Z",
       "anagram": "aijrsstu"
+    },
+    {
+      "date": "2025-12-22T16:05:32.606Z",
+      "anagram": "aacdossu"
     }
   ]
 }
