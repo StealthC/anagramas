@@ -1713,6 +1713,7 @@
     "aiiopt",
     "aiirst",
     "aijlost",
+    "aijrsstu",
     "aills",
     "ailmo",
     "ailnopt",
@@ -12186,6 +12187,10 @@
     {
       "date": "2025-12-21T20:05:08.771Z",
       "anagram": "aacdfins"
+    },
+    {
+      "date": "2025-12-22T12:08:10.576Z",
+      "anagram": "aijrsstu"
     }
   ]
 }
