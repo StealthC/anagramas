@@ -1923,6 +1923,7 @@
     "cdeeort",
     "cdefiiio",
     "cdeiioosss",
+    "cdeiiorsv",
     "cdeimnou",
     "cdeimo",
     "cdeimoov",
@@ -12226,6 +12227,10 @@
     {
       "date": "2025-12-24T16:05:12.480Z",
       "anagram": "adefoosst"
+    },
+    {
+      "date": "2025-12-24T20:05:00.810Z",
+      "anagram": "cdeiiorsv"
     }
   ]
 }
