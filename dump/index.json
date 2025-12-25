@@ -273,6 +273,7 @@
     "aaccdels",
     "aaccdlo",
     "aaccehr",
+    "aacceiinrr",
     "aaccenns",
     "aaccens",
     "aacceorr",
@@ -12231,6 +12232,10 @@
     {
       "date": "2025-12-24T20:05:00.810Z",
       "anagram": "cdeiiorsv"
+    },
+    {
+      "date": "2025-12-25T00:19:48.978Z",
+      "anagram": "aacceiinrr"
     }
   ]
 }
