@@ -1411,6 +1411,7 @@
     "aeegil",
     "aeegilnv",
     "aeegils",
+    "aeeginsst",
     "aeegiort",
     "aeeglmr",
     "aeeglnpuvx",
@@ -12256,6 +12257,10 @@
     {
       "date": "2025-12-26T16:04:58.452Z",
       "anagram": "aabcclo"
+    },
+    {
+      "date": "2025-12-26T20:04:49.523Z",
+      "anagram": "aeeginsst"
     }
   ]
 }
