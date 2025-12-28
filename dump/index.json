@@ -1779,6 +1779,7 @@
     "aiprs",
     "aiqrtu",
     "airs",
+    "airsv",
     "airuvv",
     "ajmorsu",
     "ajnos",
@@ -12291,6 +12292,10 @@
     {
       "date": "2025-12-28T16:05:03.599Z",
       "anagram": "aceefnrss"
+    },
+    {
+      "date": "2025-12-28T20:05:04.113Z",
+      "anagram": "airsv"
     }
   ]
 }
