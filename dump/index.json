@@ -1162,6 +1162,7 @@
     "acilrtuv",
     "acimrss",
     "acinnou",
+    "acinop",
     "acinor",
     "acinosv",
     "acinovv",
@@ -12306,6 +12307,10 @@
     {
       "date": "2025-12-29T16:05:12.277Z",
       "anagram": "aeeginprr"
+    },
+    {
+      "date": "2025-12-29T20:05:08.140Z",
+      "anagram": "acinop"
     }
   ]
 }
