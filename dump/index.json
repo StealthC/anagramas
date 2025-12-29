@@ -1417,6 +1417,7 @@
     "aeegil",
     "aeegilnv",
     "aeegils",
+    "aeeginprr",
     "aeeginsst",
     "aeegiort",
     "aeeglmr",
@@ -12301,6 +12302,10 @@
     {
       "date": "2025-12-29T12:08:29.356Z",
       "anagram": "acdirs"
+    },
+    {
+      "date": "2025-12-29T16:05:12.277Z",
+      "anagram": "aeeginprr"
     }
   ]
 }
