@@ -1761,6 +1761,7 @@
     "aimpr",
     "aimpt",
     "aimrs",
+    "aimsst",
     "ainort",
     "ainortu",
     "ainosz",
@@ -12316,6 +12317,10 @@
     {
       "date": "2025-12-30T00:19:57.165Z",
       "anagram": "aaaqrtu"
+    },
+    {
+      "date": "2025-12-30T16:05:24.924Z",
+      "anagram": "aimsst"
     }
   ]
 }
