@@ -713,6 +713,7 @@
     "aafls",
     "aaflss",
     "aaflst",
+    "aafnoos",
     "aafnorr",
     "aafnors",
     "aafoprr",
@@ -12331,6 +12332,10 @@
     {
       "date": "2025-12-31T00:20:56.312Z",
       "anagram": "cfhiinooor"
+    },
+    {
+      "date": "2025-12-31T12:08:08.802Z",
+      "anagram": "aafnoos"
     }
   ]
 }
