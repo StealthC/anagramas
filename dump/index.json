@@ -863,6 +863,7 @@
     "abclmoo",
     "abcmmoos",
     "abcnors",
+    "abcorr",
     "abcors",
     "abcos",
     "abcrsu",
@@ -12341,6 +12342,10 @@
     {
       "date": "2025-12-31T16:05:30.101Z",
       "anagram": "aaelmrs"
+    },
+    {
+      "date": "2025-12-31T20:04:57.416Z",
+      "anagram": "abcorr"
     }
   ]
 }
