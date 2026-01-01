@@ -114,6 +114,7 @@
     "aaadefrr",
     "aaadefst",
     "aaadegl",
+    "aaadegnss",
     "aaadeijls",
     "aaadeiln",
     "aaadelnt",
@@ -12346,6 +12347,10 @@
     {
       "date": "2025-12-31T20:04:57.416Z",
       "anagram": "abcorr"
+    },
+    {
+      "date": "2026-01-01T00:22:50.531Z",
+      "anagram": "aaadegnss"
     }
   ]
 }
