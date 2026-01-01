@@ -340,6 +340,7 @@
     "aacdirs",
     "aacdjnsu",
     "aacdlmouu",
+    "aacdlos",
     "aacdmos",
     "aacdns",
     "aacdo",
@@ -12356,6 +12357,10 @@
     {
       "date": "2026-01-01T12:08:19.870Z",
       "anagram": "aabbchir"
+    },
+    {
+      "date": "2026-01-01T16:05:29.560Z",
+      "anagram": "aacdlos"
     }
   ]
 }
