@@ -1659,6 +1659,7 @@
     "afilot",
     "afimmr",
     "afinnorsz",
+    "afioost",
     "afiopr",
     "afios",
     "afiossst",
@@ -12381,6 +12382,10 @@
     {
       "date": "2026-01-02T16:05:11.256Z",
       "anagram": "aaeprrz"
+    },
+    {
+      "date": "2026-01-02T20:04:57.101Z",
+      "anagram": "afioost"
     }
   ]
 }
