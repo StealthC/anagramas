@@ -414,6 +414,7 @@
     "aaciss",
     "aacisstu",
     "aacissu",
+    "aacjoors",
     "aaclm",
     "aaclmruu",
     "aaclmssu",
@@ -12371,6 +12372,10 @@
     {
       "date": "2026-01-02T00:20:27.996Z",
       "anagram": "abdemru"
+    },
+    {
+      "date": "2026-01-02T12:08:01.102Z",
+      "anagram": "aacjoors"
     }
   ]
 }
