@@ -1123,6 +1123,7 @@
     "acfilnnou",
     "acfinnor",
     "acflo",
+    "acfors",
     "acforss",
     "acfru",
     "acghno",
@@ -12396,6 +12397,10 @@
     {
       "date": "2026-01-03T12:07:25.234Z",
       "anagram": "eeilnnost"
+    },
+    {
+      "date": "2026-01-03T16:05:09.458Z",
+      "anagram": "acfors"
     }
   ]
 }
