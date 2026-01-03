@@ -526,6 +526,7 @@
     "aadenrrr",
     "aadeorr",
     "aadeorrrv",
+    "aadeorv",
     "aadept",
     "aadeqrssu",
     "aadeqru",
@@ -12386,6 +12387,10 @@
     {
       "date": "2026-01-02T20:04:57.101Z",
       "anagram": "afioost"
+    },
+    {
+      "date": "2026-01-03T00:19:08.632Z",
+      "anagram": "aadeorv"
     }
   ]
 }
