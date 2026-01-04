@@ -1690,6 +1690,7 @@
     "aghlorru",
     "agiiloss",
     "agiilrtu",
+    "agiimnoos",
     "agiinoss",
     "agiinrst",
     "agiirv",
@@ -12421,6 +12422,10 @@
     {
       "date": "2026-01-04T16:04:57.585Z",
       "anagram": "diimnoos"
+    },
+    {
+      "date": "2026-01-04T20:05:08.771Z",
+      "anagram": "agiimnoos"
     }
   ]
 }
