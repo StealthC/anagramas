@@ -761,6 +761,7 @@
     "aahinpr",
     "aahinrsv",
     "aahlost",
+    "aahlrr",
     "aahmnoss",
     "aaiiimnsss",
     "aaiilmssv",
@@ -12411,6 +12412,10 @@
     {
       "date": "2026-01-04T00:22:45.460Z",
       "anagram": "adoorv"
+    },
+    {
+      "date": "2026-01-04T12:06:58.200Z",
+      "anagram": "aahlrr"
     }
   ]
 }
