@@ -1627,6 +1627,7 @@
     "aenoprt",
     "aenorrss",
     "aenorrv",
+    "aenossv",
     "aenost",
     "aenostv",
     "aenpssssu",
@@ -12431,6 +12432,10 @@
     {
       "date": "2026-01-05T00:22:32.707Z",
       "anagram": "aachls"
+    },
+    {
+      "date": "2026-01-05T12:08:35.463Z",
+      "anagram": "aenossv"
     }
   ]
 }
