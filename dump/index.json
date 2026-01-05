@@ -398,6 +398,7 @@
     "aachiln",
     "aachimno",
     "aachlnu",
+    "aachls",
     "aachm",
     "aachps",
     "aachrr",
@@ -12426,6 +12427,10 @@
     {
       "date": "2026-01-04T20:05:08.771Z",
       "anagram": "agiimnoos"
+    },
+    {
+      "date": "2026-01-05T00:22:32.707Z",
+      "anagram": "aachls"
     }
   ]
 }
