@@ -987,6 +987,7 @@
     "acciirrtu",
     "accilr",
     "accimo",
+    "accimos",
     "accinnoos",
     "accinos",
     "accios",
@@ -12456,6 +12457,10 @@
     {
       "date": "2026-01-06T12:08:20.774Z",
       "anagram": "adgiint"
+    },
+    {
+      "date": "2026-01-06T16:05:59.970Z",
+      "anagram": "accimos"
     }
   ]
 }
