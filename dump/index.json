@@ -1784,6 +1784,7 @@
     "aimpt",
     "aimrs",
     "aimsst",
+    "aimtu",
     "ainort",
     "ainortu",
     "ainosz",
@@ -12461,6 +12462,10 @@
     {
       "date": "2026-01-06T16:05:59.970Z",
       "anagram": "accimos"
+    },
+    {
+      "date": "2026-01-06T20:05:15.334Z",
+      "anagram": "aimtu"
     }
   ]
 }
