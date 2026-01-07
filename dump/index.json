@@ -1605,6 +1605,7 @@
     "aelmnot",
     "aelmo",
     "aelmru",
+    "aelno",
     "aelnorr",
     "aelnr",
     "aelopss",
@@ -12476,6 +12477,10 @@
     {
       "date": "2026-01-07T12:08:33.443Z",
       "anagram": "bdeiost"
+    },
+    {
+      "date": "2026-01-07T16:06:43.950Z",
+      "anagram": "aelno"
     }
   ]
 }
