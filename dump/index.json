@@ -1957,6 +1957,7 @@
     "cdeeiimop",
     "cdeeiimops",
     "cdeeillosu",
+    "cdeeios",
     "cdeeioss",
     "cdeenors",
     "cdeeort",
@@ -12466,6 +12467,10 @@
     {
       "date": "2026-01-06T20:05:15.334Z",
       "anagram": "aimtu"
+    },
+    {
+      "date": "2026-01-07T00:19:13.695Z",
+      "anagram": "cdeeios"
     }
   ]
 }
