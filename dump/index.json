@@ -952,6 +952,7 @@
     "ablor",
     "ablrtu",
     "abmorrt",
+    "abmors",
     "abnorsu",
     "aboorrsu",
     "aborrt",
@@ -12481,6 +12482,10 @@
     {
       "date": "2026-01-07T16:06:43.950Z",
       "anagram": "aelno"
+    },
+    {
+      "date": "2026-01-08T00:21:03.687Z",
+      "anagram": "abmors"
     }
   ]
 }
