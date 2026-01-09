@@ -2405,6 +2405,7 @@
     "emnort",
     "emnost",
     "emoorrss",
+    "emopr",
     "emopsux",
     "emorst",
     "emorstu",
@@ -12501,6 +12502,10 @@
     {
       "date": "2026-01-08T20:05:23.593Z",
       "anagram": "aaehlpt"
+    },
+    {
+      "date": "2026-01-09T00:20:25.221Z",
+      "anagram": "emopr"
     }
   ]
 }
