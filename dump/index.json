@@ -400,6 +400,7 @@
     "aachlnu",
     "aachls",
     "aachm",
+    "aachmno",
     "aachps",
     "aachrr",
     "aachrs",
@@ -12511,6 +12512,10 @@
     {
       "date": "2026-01-09T12:08:23.146Z",
       "anagram": "aaipssv"
+    },
+    {
+      "date": "2026-01-09T16:05:37.942Z",
+      "anagram": "aachmno"
     }
   ]
 }
