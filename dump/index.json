@@ -802,6 +802,7 @@
     "aaiostv",
     "aaiprst",
     "aaipssst",
+    "aaipssv",
     "aaipt",
     "aairrtt",
     "aairst",
@@ -12506,6 +12507,10 @@
     {
       "date": "2026-01-09T00:20:25.221Z",
       "anagram": "emopr"
+    },
+    {
+      "date": "2026-01-09T12:08:23.146Z",
+      "anagram": "aaipssv"
     }
   ]
 }
