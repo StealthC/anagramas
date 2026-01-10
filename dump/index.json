@@ -1815,6 +1815,7 @@
     "aiprs",
     "aiqrtu",
     "airs",
+    "airssttu",
     "airsv",
     "airuvv",
     "ajmorsu",
@@ -12531,6 +12532,10 @@
     {
       "date": "2026-01-10T12:07:25.642Z",
       "anagram": "aaabchlsu"
+    },
+    {
+      "date": "2026-01-10T20:04:56.887Z",
+      "anagram": "airssttu"
     }
   ]
 }
