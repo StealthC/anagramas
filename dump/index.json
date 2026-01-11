@@ -1808,6 +1808,7 @@
     "aioprt",
     "aiops",
     "aiopt",
+    "aiorsst",
     "aiorssu",
     "aiorssuu",
     "aiorsv",
@@ -12541,6 +12542,10 @@
     {
       "date": "2026-01-11T12:07:49.910Z",
       "anagram": "aaddiox"
+    },
+    {
+      "date": "2026-01-11T16:05:05.299Z",
+      "anagram": "aiorsst"
     }
   ]
 }
