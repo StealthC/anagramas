@@ -477,6 +477,7 @@
     "aaddiimst",
     "aaddiimsz",
     "aaddilot",
+    "aaddiox",
     "aaddir",
     "aaddirtu",
     "aaddloss",
@@ -12536,6 +12537,10 @@
     {
       "date": "2026-01-10T20:04:56.887Z",
       "anagram": "airssttu"
+    },
+    {
+      "date": "2026-01-11T12:07:49.910Z",
+      "anagram": "aaddiox"
     }
   ]
 }
