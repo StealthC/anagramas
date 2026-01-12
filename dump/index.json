@@ -1521,6 +1521,7 @@
     "aegimrr",
     "aegims",
     "aeginnot",
+    "aeginotv",
     "aeginrrt",
     "aegiort",
     "aegiosst",
@@ -12551,6 +12552,10 @@
     {
       "date": "2026-01-11T20:05:07.678Z",
       "anagram": "aaadess"
+    },
+    {
+      "date": "2026-01-12T00:21:45.582Z",
+      "anagram": "aeginotv"
     }
   ]
 }
