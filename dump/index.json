@@ -20,6 +20,7 @@
     "aaaacdmrs",
     "aaaaclnv",
     "aaaaddint",
+    "aaaadeglrr",
     "aaaadelntv",
     "aaaadgghlr",
     "aaaadglrs",
@@ -12556,6 +12557,10 @@
     {
       "date": "2026-01-12T00:21:45.582Z",
       "anagram": "aeginotv"
+    },
+    {
+      "date": "2026-01-12T12:08:32.444Z",
+      "anagram": "aaaadeglrr"
     }
   ]
 }
