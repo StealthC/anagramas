@@ -1136,6 +1136,7 @@
     "acfiinru",
     "acfilnnou",
     "acfinnor",
+    "acfiort",
     "acflo",
     "acfors",
     "acforss",
@@ -12561,6 +12562,10 @@
     {
       "date": "2026-01-12T12:08:32.444Z",
       "anagram": "aaaadeglrr"
+    },
+    {
+      "date": "2026-01-12T16:06:37.559Z",
+      "anagram": "acfiort"
     }
   ]
 }
