@@ -746,6 +746,7 @@
     "aagilpr",
     "aagilrs",
     "aagils",
+    "aagim",
     "aaginpst",
     "aaginrrt",
     "aaginrt",
@@ -12581,6 +12582,10 @@
     {
       "date": "2026-01-13T12:08:37.087Z",
       "anagram": "ceeeilnrv"
+    },
+    {
+      "date": "2026-01-13T16:07:16.730Z",
+      "anagram": "aagim"
     }
   ]
 }
