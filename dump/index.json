@@ -1685,6 +1685,7 @@
     "afilo",
     "afilot",
     "afimmr",
+    "afimnor",
     "afinnorsz",
     "afioost",
     "afiopr",
@@ -12601,6 +12602,10 @@
     {
       "date": "2026-01-14T20:04:47.520Z",
       "anagram": "aaainqrsu"
+    },
+    {
+      "date": "2026-01-15T00:19:32.153Z",
+      "anagram": "afimnor"
     }
   ]
 }
