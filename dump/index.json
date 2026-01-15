@@ -2268,6 +2268,7 @@
     "eeeoprrsss",
     "eefgmrru",
     "eefgnrrsu",
+    "eefilmnnsu",
     "eefilsz",
     "eefimmossu",
     "eefiorst",
@@ -12606,6 +12607,10 @@
     {
       "date": "2026-01-15T00:19:32.153Z",
       "anagram": "afimnor"
+    },
+    {
+      "date": "2026-01-15T12:08:30.926Z",
+      "anagram": "eefilmnnsu"
     }
   ]
 }
