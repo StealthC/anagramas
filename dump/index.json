@@ -1328,6 +1328,7 @@
     "adeimx",
     "adeinrx",
     "adeint",
+    "adeiops",
     "adeiopt",
     "adeiorr",
     "adeiosv",
@@ -12646,6 +12647,10 @@
     {
       "date": "2026-01-18T00:22:15.332Z",
       "anagram": "aefnoossx"
+    },
+    {
+      "date": "2026-01-18T16:05:06.290Z",
+      "anagram": "adeiops"
     }
   ]
 }
