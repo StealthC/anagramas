@@ -85,6 +85,7 @@
     "aaacdssu",
     "aaaceimmtt",
     "aaaceirrru",
+    "aaacelmnt",
     "aaacemno",
     "aaacentt",
     "aaacflo",
@@ -12656,6 +12657,10 @@
     {
       "date": "2026-01-18T20:05:08.895Z",
       "anagram": "beefnrsu"
+    },
+    {
+      "date": "2026-01-19T16:06:38.141Z",
+      "anagram": "aaacelmnt"
     }
   ]
 }
