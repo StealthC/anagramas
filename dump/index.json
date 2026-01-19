@@ -194,6 +194,7 @@
     "aaailprs",
     "aaailrst",
     "aaailrv",
+    "aaailstvx",
     "aaaimmorrr",
     "aaainqrsu",
     "aaaipps",
@@ -12661,6 +12662,10 @@
     {
       "date": "2026-01-19T16:06:38.141Z",
       "anagram": "aaacelmnt"
+    },
+    {
+      "date": "2026-01-19T20:05:18.276Z",
+      "anagram": "aaailstvx"
     }
   ]
 }
