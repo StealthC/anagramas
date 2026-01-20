@@ -1633,6 +1633,7 @@
     "aelno",
     "aelnorr",
     "aelnr",
+    "aelnt",
     "aelopss",
     "aelos",
     "aeloss",
@@ -12681,6 +12682,10 @@
     {
       "date": "2026-01-20T16:08:26.947Z",
       "anagram": "dfilosu"
+    },
+    {
+      "date": "2026-01-20T20:24:02.889Z",
+      "anagram": "aelnt"
     }
   ]
 }
