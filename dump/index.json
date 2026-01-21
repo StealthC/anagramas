@@ -26,6 +26,7 @@
     "aaaadglrs",
     "aaaadgrr",
     "aaaadirsv",
+    "aaaadjlnor",
     "aaaadmprs",
     "aaaafilrrs",
     "aaabbrr",
@@ -12701,6 +12702,10 @@
     {
       "date": "2026-01-21T16:09:31.832Z",
       "anagram": "celnoor"
+    },
+    {
+      "date": "2026-01-21T20:09:07.934Z",
+      "anagram": "aaaadjlnor"
     }
   ]
 }
