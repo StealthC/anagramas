@@ -2511,6 +2511,7 @@
     "iinoptuv",
     "iinrrstu",
     "iiosst",
+    "illmopstu",
     "iloors",
     "ilorsv",
     "imooss",
@@ -12686,6 +12687,10 @@
     {
       "date": "2026-01-20T20:24:02.889Z",
       "anagram": "aelnt"
+    },
+    {
+      "date": "2026-01-21T00:21:30.796Z",
+      "anagram": "illmopstu"
     }
   ]
 }
