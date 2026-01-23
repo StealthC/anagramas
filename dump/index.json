@@ -1356,6 +1356,7 @@
     "ademost",
     "ademr",
     "ademrs",
+    "adenops",
     "adenorv",
     "adeoopr",
     "adeopr",
@@ -12741,6 +12742,10 @@
     {
       "date": "2026-01-23T16:07:04.942Z",
       "anagram": "aaadelst"
+    },
+    {
+      "date": "2026-01-23T20:05:19.634Z",
+      "anagram": "adenops"
     }
   ]
 }
