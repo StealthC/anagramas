@@ -734,6 +734,7 @@
     "aafim",
     "aafimnst",
     "aafimrr",
+    "aafirrt",
     "aafirss",
     "aaflnu",
     "aaflorr",
@@ -12731,6 +12732,10 @@
     {
       "date": "2026-01-23T00:21:18.842Z",
       "anagram": "ahilmr"
+    },
+    {
+      "date": "2026-01-23T12:08:41.600Z",
+      "anagram": "aafirrt"
     }
   ]
 }
