@@ -125,6 +125,7 @@
     "aaadeilnpz",
     "aaadelnt",
     "aaadelrt",
+    "aaadelst",
     "aaademns",
     "aaadempst",
     "aaademrrt",
@@ -12736,6 +12737,10 @@
     {
       "date": "2026-01-23T12:08:41.600Z",
       "anagram": "aafirrt"
+    },
+    {
+      "date": "2026-01-23T16:07:04.942Z",
+      "anagram": "aaadelst"
     }
   ]
 }
