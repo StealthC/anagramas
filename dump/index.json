@@ -1041,6 +1041,7 @@
     "acdeimo",
     "acdeinnou",
     "acdeinsv",
+    "acdeior",
     "acdemno",
     "acdennor",
     "acdenos",
@@ -12756,6 +12757,10 @@
     {
       "date": "2026-01-24T12:07:54.957Z",
       "anagram": "aefrruv"
+    },
+    {
+      "date": "2026-01-24T16:05:06.952Z",
+      "anagram": "acdeior"
     }
   ]
 }
