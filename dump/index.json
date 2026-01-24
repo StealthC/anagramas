@@ -1529,6 +1529,7 @@
     "aefmnstu",
     "aefnoossx",
     "aefprrru",
+    "aefrruv",
     "aeghinnt",
     "aeghlrr",
     "aeghnoosx",
@@ -12751,6 +12752,10 @@
     {
       "date": "2026-01-24T00:20:06.826Z",
       "anagram": "cehlnooss"
+    },
+    {
+      "date": "2026-01-24T12:07:54.957Z",
+      "anagram": "aefrruv"
     }
   ]
 }
