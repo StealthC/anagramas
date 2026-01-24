@@ -268,6 +268,7 @@
     "aabemmnr",
     "aabenprs",
     "aabenrrt",
+    "aabeqru",
     "aaberrtu",
     "aabflosu",
     "aabhiistu",
@@ -12761,6 +12762,10 @@
     {
       "date": "2026-01-24T16:05:06.952Z",
       "anagram": "acdeior"
+    },
+    {
+      "date": "2026-01-24T20:04:51.083Z",
+      "anagram": "aabeqru"
     }
   ]
 }
