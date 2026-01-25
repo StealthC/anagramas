@@ -297,6 +297,7 @@
     "aacceorr",
     "aacceoss",
     "aaccer",
+    "aaccfinno",
     "aacchiln",
     "aacchins",
     "aacciimst",
@@ -12776,6 +12777,10 @@
     {
       "date": "2026-01-25T12:08:01.934Z",
       "anagram": "aafglrr"
+    },
+    {
+      "date": "2026-01-25T16:05:13.241Z",
+      "anagram": "aaccfinno"
     }
   ]
 }
