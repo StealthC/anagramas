@@ -730,6 +730,7 @@
     "aafgiilnr",
     "aafgir",
     "aafglosz",
+    "aafglrr",
     "aafgnoru",
     "aafiilm",
     "aafiinrt",
@@ -12771,6 +12772,10 @@
     {
       "date": "2026-01-25T00:23:00.920Z",
       "anagram": "aaaabbnrt"
+    },
+    {
+      "date": "2026-01-25T12:08:01.934Z",
+      "anagram": "aafglrr"
     }
   ]
 }
