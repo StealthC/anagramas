@@ -3,6 +3,7 @@
     "aaaaabnrtz",
     "aaaaadjntv",
     "aaaabbnrst",
+    "aaaabbnrt",
     "aaaabccmrr",
     "aaaabcds",
     "aaaabddnr",
@@ -12766,6 +12767,10 @@
     {
       "date": "2026-01-24T20:04:51.083Z",
       "anagram": "aabeqru"
+    },
+    {
+      "date": "2026-01-25T00:23:00.920Z",
+      "anagram": "aaaabbnrt"
     }
   ]
 }
