@@ -1434,6 +1434,7 @@
     "adioorv",
     "adiootv",
     "adiopr",
+    "adioprv",
     "adiostu",
     "adiprsu",
     "adlooorss",
@@ -12781,6 +12782,10 @@
     {
       "date": "2026-01-25T16:05:13.241Z",
       "anagram": "aaccfinno"
+    },
+    {
+      "date": "2026-01-25T20:05:22.165Z",
+      "anagram": "adioprv"
     }
   ]
 }
