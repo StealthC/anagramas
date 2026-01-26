@@ -887,6 +887,7 @@
     "abcdei",
     "abcdiimnu",
     "abcdiu",
+    "abcdoor",
     "abceehmot",
     "abceeilrrz",
     "abcein",
@@ -12796,6 +12797,10 @@
     {
       "date": "2026-01-26T12:09:20.782Z",
       "anagram": "aabcjmnoo"
+    },
+    {
+      "date": "2026-01-26T16:07:59.073Z",
+      "anagram": "abcdoor"
     }
   ]
 }
