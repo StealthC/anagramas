@@ -902,6 +902,7 @@
     "abcors",
     "abcos",
     "abcrsu",
+    "abddeepru",
     "abddlou",
     "abddoors",
     "abdeenruz",
@@ -12786,6 +12787,10 @@
     {
       "date": "2026-01-25T20:05:22.165Z",
       "anagram": "adioprv"
+    },
+    {
+      "date": "2026-01-26T00:22:33.827Z",
+      "anagram": "abddeepru"
     }
   ]
 }
