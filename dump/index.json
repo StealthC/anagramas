@@ -2333,6 +2333,7 @@
     "eeinoprtvv",
     "eeinprrv",
     "eeinrss",
+    "eeinrsvz",
     "eeiqrrssu",
     "eelmors",
     "eelnos",
@@ -12816,6 +12817,10 @@
     {
       "date": "2026-01-27T12:09:02.552Z",
       "anagram": "afilmnru"
+    },
+    {
+      "date": "2026-01-28T12:08:54.867Z",
+      "anagram": "eeinrsvz"
     }
   ]
 }
