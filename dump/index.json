@@ -1832,6 +1832,7 @@
     "aimpr",
     "aimpt",
     "aimrs",
+    "aimrtz",
     "aimsst",
     "aimtu",
     "ainort",
@@ -12826,6 +12827,10 @@
     {
       "date": "2026-01-28T16:10:11.783Z",
       "anagram": "aaabipr"
+    },
+    {
+      "date": "2026-01-28T20:07:00.246Z",
+      "anagram": "aimrtz"
     }
   ]
 }
