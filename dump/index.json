@@ -1344,6 +1344,7 @@
     "adeimsuz",
     "adeimsx",
     "adeimx",
+    "adeinov",
     "adeinrx",
     "adeint",
     "adeiops",
@@ -12841,6 +12842,10 @@
     {
       "date": "2026-01-29T12:11:44.356Z",
       "anagram": "ehilnoopru"
+    },
+    {
+      "date": "2026-01-29T16:12:51.596Z",
+      "anagram": "adeinov"
     }
   ]
 }
