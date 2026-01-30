@@ -1141,6 +1141,7 @@
     "acelnrt",
     "acelns",
     "acelot",
+    "acelrsu",
     "acelsss",
     "acelsu",
     "acenor",
@@ -12856,6 +12857,10 @@
     {
       "date": "2026-01-30T12:11:02.101Z",
       "anagram": "cellnoou"
+    },
+    {
+      "date": "2026-01-30T20:08:19.631Z",
+      "anagram": "acelrsu"
     }
   ]
 }
