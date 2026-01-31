@@ -991,6 +991,7 @@
     "abors",
     "abort",
     "abostu",
+    "abrrsu",
     "accceiiln",
     "accciilop",
     "accddfiioo",
@@ -12871,6 +12872,10 @@
     {
       "date": "2026-01-31T12:08:29.414Z",
       "anagram": "acdeilnr"
+    },
+    {
+      "date": "2026-01-31T16:06:18.416Z",
+      "anagram": "abrrsu"
     }
   ]
 }
