@@ -1015,6 +1015,7 @@
     "accenr",
     "acceoorr",
     "acchino",
+    "acchiopr",
     "acchnoov",
     "acchrsu",
     "acciilst",
@@ -12876,6 +12877,10 @@
     {
       "date": "2026-01-31T16:06:18.416Z",
       "anagram": "abrrsu"
+    },
+    {
+      "date": "2026-01-31T20:05:16.365Z",
+      "anagram": "acchiopr"
     }
   ]
 }
