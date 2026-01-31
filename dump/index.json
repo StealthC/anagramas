@@ -1196,6 +1196,7 @@
     "achnor",
     "achoorss",
     "achor",
+    "aciiimpr",
     "aciiinpprr",
     "aciilnrt",
     "aciilrt",
@@ -12861,6 +12862,10 @@
     {
       "date": "2026-01-30T20:08:19.631Z",
       "anagram": "acelrsu"
+    },
+    {
+      "date": "2026-01-31T00:23:22.663Z",
+      "anagram": "aciiimpr"
     }
   ]
 }
