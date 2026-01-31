@@ -1046,6 +1046,7 @@
     "acdeiimnu",
     "acdeiirtu",
     "acdeiisv",
+    "acdeilnr",
     "acdeilo",
     "acdeilu",
     "acdeim",
@@ -12866,6 +12867,10 @@
     {
       "date": "2026-01-31T00:23:22.663Z",
       "anagram": "aciiimpr"
+    },
+    {
+      "date": "2026-01-31T12:08:29.414Z",
+      "anagram": "acdeilnr"
     }
   ]
 }
