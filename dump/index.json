@@ -2548,6 +2548,7 @@
     "iinoorstt",
     "iinoptuv",
     "iinrrstu",
+    "iioooprrsv",
     "iiosst",
     "illmopstu",
     "iloors",
@@ -12881,6 +12882,10 @@
     {
       "date": "2026-01-31T20:05:16.365Z",
       "anagram": "acchiopr"
+    },
+    {
+      "date": "2026-02-01T00:28:26.871Z",
+      "anagram": "iioooprrsv"
     }
   ]
 }
