@@ -2245,6 +2245,7 @@
     "defgloosu",
     "defgloou",
     "defiossu",
+    "defiost",
     "degnoorrtu",
     "degoruv",
     "dehinnoost",
@@ -12916,6 +12917,10 @@
     {
       "date": "2026-02-02T16:09:50.553Z",
       "anagram": "aaeit"
+    },
+    {
+      "date": "2026-02-03T00:25:53.571Z",
+      "anagram": "defiost"
     }
   ]
 }
