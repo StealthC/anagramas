@@ -1451,6 +1451,7 @@
     "adiootv",
     "adiopr",
     "adioprv",
+    "adiosst",
     "adiostu",
     "adiprsu",
     "adlooorss",
@@ -12926,6 +12927,10 @@
     {
       "date": "2026-02-03T12:12:26.911Z",
       "anagram": "cooprs"
+    },
+    {
+      "date": "2026-02-03T16:18:36.031Z",
+      "anagram": "adiosst"
     }
   ]
 }
