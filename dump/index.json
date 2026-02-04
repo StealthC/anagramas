@@ -2103,6 +2103,7 @@
     "ceilosttu",
     "ceilosu",
     "ceimnot",
+    "ceimooosz",
     "ceimorru",
     "ceimot",
     "ceinopss",
@@ -12936,6 +12937,10 @@
     {
       "date": "2026-02-03T20:11:14.895Z",
       "anagram": "acdeop"
+    },
+    {
+      "date": "2026-02-04T00:22:56.410Z",
+      "anagram": "ceimooosz"
     }
   ]
 }
