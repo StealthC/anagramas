@@ -159,6 +159,7 @@
     "aaadlost",
     "aaadmns",
     "aaadmort",
+    "aaadotz",
     "aaadprrsu",
     "aaadprs",
     "aaadrssu",
@@ -12946,6 +12947,10 @@
     {
       "date": "2026-02-04T12:12:09.390Z",
       "anagram": "aaaadhlnsv"
+    },
+    {
+      "date": "2026-02-04T16:17:02.603Z",
+      "anagram": "aaadotz"
     }
   ]
 }
