@@ -2253,6 +2253,7 @@
     "deesstu",
     "defgloosu",
     "defgloou",
+    "defioprs",
     "defiossu",
     "defiost",
     "degnoorrtu",
@@ -12971,6 +12972,10 @@
     {
       "date": "2026-02-06T00:23:25.351Z",
       "anagram": "abeenost"
+    },
+    {
+      "date": "2026-02-06T12:12:29.795Z",
+      "anagram": "defioprs"
     }
   ]
 }
