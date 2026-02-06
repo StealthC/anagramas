@@ -2133,6 +2133,7 @@
     "cenos",
     "cenoss",
     "ceoops",
+    "ceoorst",
     "ceoprss",
     "ceorsu",
     "ceorsv",
@@ -12981,6 +12982,10 @@
     {
       "date": "2026-02-06T16:14:21.950Z",
       "anagram": "adgoru"
+    },
+    {
+      "date": "2026-02-06T20:08:18.862Z",
+      "anagram": "ceoorst"
     }
   ]
 }
