@@ -1778,6 +1778,7 @@
     "agiorttu",
     "agirru",
     "agirs",
+    "agirstu",
     "agjlor",
     "aglnoosu",
     "aglnos",
@@ -12996,6 +12997,10 @@
     {
       "date": "2026-02-07T12:08:45.296Z",
       "anagram": "accelos"
+    },
+    {
+      "date": "2026-02-07T20:05:33.432Z",
+      "anagram": "agirstu"
     }
   ]
 }
