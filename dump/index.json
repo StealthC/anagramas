@@ -1019,6 +1019,7 @@
     "acceipst",
     "acceist",
     "acceloos",
+    "accelos",
     "accenr",
     "acceoorr",
     "acchino",
@@ -12991,6 +12992,10 @@
     {
       "date": "2026-02-07T00:24:32.323Z",
       "anagram": "aaacdls"
+    },
+    {
+      "date": "2026-02-07T12:08:45.296Z",
+      "anagram": "accelos"
     }
   ]
 }
