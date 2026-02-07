@@ -79,6 +79,7 @@
     "aaacdinv",
     "aaacdl",
     "aaacdlop",
+    "aaacdls",
     "aaacdnn",
     "aaacdnns",
     "aaacdnps",
@@ -12986,6 +12987,10 @@
     {
       "date": "2026-02-06T20:08:18.862Z",
       "anagram": "ceoorst"
+    },
+    {
+      "date": "2026-02-07T00:24:32.323Z",
+      "anagram": "aaacdls"
     }
   ]
 }
