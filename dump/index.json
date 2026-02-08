@@ -456,6 +456,7 @@
     "aacorr",
     "aacors",
     "aacorz",
+    "aacpr",
     "aacr",
     "aacrs",
     "aacrst",
@@ -13006,6 +13007,10 @@
     {
       "date": "2026-02-08T00:32:01.742Z",
       "anagram": "aaccoss"
+    },
+    {
+      "date": "2026-02-08T12:08:55.920Z",
+      "anagram": "aacpr"
     }
   ]
 }
