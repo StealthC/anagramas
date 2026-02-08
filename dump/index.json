@@ -629,6 +629,7 @@
     "aadooprv",
     "aadoorrs",
     "aadoorrt",
+    "aadoppsu",
     "aadoprs",
     "aadopss",
     "aador",
@@ -13011,6 +13012,10 @@
     {
       "date": "2026-02-08T12:08:55.920Z",
       "anagram": "aacpr"
+    },
+    {
+      "date": "2026-02-08T16:07:27.440Z",
+      "anagram": "aadoppsu"
     }
   ]
 }
