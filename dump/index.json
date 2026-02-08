@@ -317,6 +317,7 @@
     "aacclsu",
     "aaccoopu",
     "aaccoot",
+    "aaccoss",
     "aaccosv",
     "aaccou",
     "aacddeep",
@@ -13001,6 +13002,10 @@
     {
       "date": "2026-02-07T20:05:33.432Z",
       "anagram": "agirstu"
+    },
+    {
+      "date": "2026-02-08T00:32:01.742Z",
+      "anagram": "aaccoss"
     }
   ]
 }
