@@ -1690,6 +1690,7 @@
     "aemnt",
     "aemoosstt",
     "aemoostt",
+    "aemopssu",
     "aemprsu",
     "aemptu",
     "aemqrsu",
@@ -13031,6 +13032,10 @@
     {
       "date": "2026-02-09T12:17:35.295Z",
       "anagram": "eeioptt"
+    },
+    {
+      "date": "2026-02-09T16:22:52.567Z",
+      "anagram": "aemopssu"
     }
   ]
 }
