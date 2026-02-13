@@ -578,6 +578,7 @@
     "aadgilru",
     "aadgils",
     "aadgimnu",
+    "aadginst",
     "aadgint",
     "aadgiruz",
     "aadgllnu",
@@ -13091,6 +13092,10 @@
     {
       "date": "2026-02-13T12:11:52.093Z",
       "anagram": "ceeelrs"
+    },
+    {
+      "date": "2026-02-13T16:15:52.078Z",
+      "anagram": "aadginst"
     }
   ]
 }
