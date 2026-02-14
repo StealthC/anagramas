@@ -415,6 +415,7 @@
     "aacgin",
     "aacginn",
     "aacginns",
+    "aacgn",
     "aachiimns",
     "aachiinx",
     "aachiln",
@@ -13111,6 +13112,10 @@
     {
       "date": "2026-02-14T12:08:38.446Z",
       "anagram": "adiiinrs"
+    },
+    {
+      "date": "2026-02-14T16:06:59.471Z",
+      "anagram": "aacgn"
     }
   ]
 }
