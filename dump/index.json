@@ -1229,6 +1229,7 @@
     "aciintv",
     "aciioppr",
     "aciiopsu",
+    "aciirrs",
     "acillooqu",
     "acilmr",
     "acilno",
@@ -13101,6 +13102,10 @@
     {
       "date": "2026-02-13T20:10:42.837Z",
       "anagram": "afhiint"
+    },
+    {
+      "date": "2026-02-14T00:25:34.751Z",
+      "anagram": "aciirrs"
     }
   ]
 }
