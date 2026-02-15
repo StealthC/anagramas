@@ -1691,6 +1691,7 @@
     "aelopss",
     "aelos",
     "aeloss",
+    "aelosst",
     "aelosv",
     "aelpr",
     "aelprsu",
@@ -13121,6 +13122,10 @@
     {
       "date": "2026-02-14T20:05:24.354Z",
       "anagram": "abhinor"
+    },
+    {
+      "date": "2026-02-15T00:26:53.495Z",
+      "anagram": "aelosst"
     }
   ]
 }
