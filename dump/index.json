@@ -992,6 +992,7 @@
     "abimrr",
     "abinot",
     "abinrtu",
+    "abinruz",
     "abiooss",
     "abiors",
     "abiort",
@@ -13141,6 +13142,10 @@
     {
       "date": "2026-02-16T00:26:09.910Z",
       "anagram": "aaaciln"
+    },
+    {
+      "date": "2026-02-16T12:14:16.178Z",
+      "anagram": "abinruz"
     }
   ]
 }
