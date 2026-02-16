@@ -485,6 +485,7 @@
     "aaddemor",
     "aaddenoot",
     "aaddenpru",
+    "aaddenrtu",
     "aaddenst",
     "aaddensv",
     "aaddeoorr",
@@ -13146,6 +13147,10 @@
     {
       "date": "2026-02-16T12:14:16.178Z",
       "anagram": "abinruz"
+    },
+    {
+      "date": "2026-02-16T16:15:03.506Z",
+      "anagram": "aaddenrtu"
     }
   ]
 }
