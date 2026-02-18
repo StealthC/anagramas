@@ -1011,6 +1011,7 @@
     "ablrtu",
     "abmorrt",
     "abmors",
+    "abnoos",
     "abnorsu",
     "aboorrsu",
     "aborrt",
@@ -13176,6 +13177,10 @@
     {
       "date": "2026-02-18T16:21:11.493Z",
       "anagram": "cciiorst"
+    },
+    {
+      "date": "2026-02-18T20:13:11.075Z",
+      "anagram": "abnoos"
     }
   ]
 }
