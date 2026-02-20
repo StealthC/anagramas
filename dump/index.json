@@ -1105,6 +1105,7 @@
     "acdiinot",
     "acdiinr",
     "acdimo",
+    "acdioorr",
     "acdiop",
     "acdiorv",
     "acdirrssu",
@@ -13201,6 +13202,10 @@
     {
       "date": "2026-02-19T20:09:39.928Z",
       "anagram": "ciiopst"
+    },
+    {
+      "date": "2026-02-20T12:12:21.306Z",
+      "anagram": "acdioorr"
     }
   ]
 }
