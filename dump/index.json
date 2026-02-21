@@ -87,6 +87,7 @@
     "aaacdnps",
     "aaacdnrt",
     "aaacdprtu",
+    "aaacdrrs",
     "aaacdrst",
     "aaacdss",
     "aaacdssu",
@@ -13221,6 +13222,10 @@
     {
       "date": "2026-02-21T16:06:08.317Z",
       "anagram": "aehins"
+    },
+    {
+      "date": "2026-02-21T20:05:09.854Z",
+      "anagram": "aaacdrrs"
     }
   ]
 }
