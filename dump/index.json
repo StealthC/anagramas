@@ -312,6 +312,7 @@
     "aacchiln",
     "aacchins",
     "aacciimst",
+    "aacciisst",
     "aaccilnu",
     "aaccinr",
     "aaccior",
@@ -13211,6 +13212,10 @@
     {
       "date": "2026-02-20T20:07:17.541Z",
       "anagram": "aceeiippr"
+    },
+    {
+      "date": "2026-02-21T00:25:02.359Z",
+      "anagram": "aacciisst"
     }
   ]
 }
