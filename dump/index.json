@@ -1168,6 +1168,7 @@
     "aceiinvv",
     "aceiirsv",
     "aceilx",
+    "aceimnr",
     "aceimnru",
     "aceimntu",
     "aceinnrs",
@@ -13241,6 +13242,10 @@
     {
       "date": "2026-02-22T16:06:56.945Z",
       "anagram": "aefiirr"
+    },
+    {
+      "date": "2026-02-22T20:05:24.147Z",
+      "anagram": "aceimnr"
     }
   ]
 }
