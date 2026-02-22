@@ -1579,6 +1579,7 @@
     "aefiilr",
     "aefiilsv",
     "aefiiort",
+    "aefiirr",
     "aefiisstv",
     "aefiln",
     "aefilnnr",
@@ -13236,6 +13237,10 @@
     {
       "date": "2026-02-22T12:08:42.106Z",
       "anagram": "abino"
+    },
+    {
+      "date": "2026-02-22T16:06:56.945Z",
+      "anagram": "aefiirr"
     }
   ]
 }
