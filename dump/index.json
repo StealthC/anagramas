@@ -999,6 +999,7 @@
     "abilru",
     "abimorru",
     "abimrr",
+    "abino",
     "abinot",
     "abinrtu",
     "abinruz",
@@ -13231,6 +13232,10 @@
     {
       "date": "2026-02-22T00:25:36.045Z",
       "anagram": "aafggloor"
+    },
+    {
+      "date": "2026-02-22T12:08:42.106Z",
+      "anagram": "abino"
     }
   ]
 }
