@@ -1792,6 +1792,7 @@
     "aflosv",
     "aflot",
     "aflrtuu",
+    "afmoor",
     "afmru",
     "afnoossu",
     "afostu",
@@ -13266,6 +13267,10 @@
     {
       "date": "2026-02-24T12:15:28.199Z",
       "anagram": "eiinorrttu"
+    },
+    {
+      "date": "2026-02-24T16:23:18.466Z",
+      "anagram": "afmoor"
     }
   ]
 }
