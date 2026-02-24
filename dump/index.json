@@ -2494,6 +2494,7 @@
     "eiimorssv",
     "eiinnosstt",
     "eiinooprs",
+    "eiinorrttu",
     "eiinorss",
     "eiinorst",
     "eiinrstv",
@@ -13261,6 +13262,10 @@
     {
       "date": "2026-02-24T00:25:17.878Z",
       "anagram": "eemorss"
+    },
+    {
+      "date": "2026-02-24T12:15:28.199Z",
+      "anagram": "eiinorrttu"
     }
   ]
 }
