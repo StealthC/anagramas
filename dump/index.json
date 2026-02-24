@@ -2428,6 +2428,7 @@
     "eemoorstx",
     "eemoprst",
     "eemoqstu",
+    "eemorss",
     "eemprs",
     "eenorst",
     "eenortx",
@@ -13256,6 +13257,10 @@
     {
       "date": "2026-02-23T12:14:47.015Z",
       "anagram": "addeosv"
+    },
+    {
+      "date": "2026-02-24T00:25:17.878Z",
+      "anagram": "eemorss"
     }
   ]
 }
