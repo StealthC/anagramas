@@ -796,6 +796,7 @@
     "aaginsv",
     "aagint",
     "aaginu",
+    "aagiost",
     "aagiot",
     "aagirrtv",
     "aagisttuv",
@@ -13281,6 +13282,10 @@
     {
       "date": "2026-02-25T12:14:33.518Z",
       "anagram": "aeemrsss"
+    },
+    {
+      "date": "2026-02-25T16:26:36.863Z",
+      "anagram": "aagiost"
     }
   ]
 }
