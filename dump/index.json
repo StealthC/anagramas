@@ -1561,6 +1561,7 @@
     "aeemnsx",
     "aeemprs",
     "aeempst",
+    "aeemrsss",
     "aeennossv",
     "aeenorr",
     "aeenprrs",
@@ -13276,6 +13277,10 @@
     {
       "date": "2026-02-24T20:12:06.361Z",
       "anagram": "acdehil"
+    },
+    {
+      "date": "2026-02-25T12:14:33.518Z",
+      "anagram": "aeemrsss"
     }
   ]
 }
