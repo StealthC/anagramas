@@ -2342,6 +2342,7 @@
     "deiort",
     "deiortv",
     "deioss",
+    "deiosstv",
     "deiosv",
     "deirsuz",
     "delmoos",
@@ -13306,6 +13307,10 @@
     {
       "date": "2026-02-27T00:26:02.817Z",
       "anagram": "aaccimno"
+    },
+    {
+      "date": "2026-02-27T12:12:13.620Z",
+      "anagram": "deiosstv"
     }
   ]
 }
