@@ -1284,6 +1284,7 @@
     "acllrtuu",
     "aclmou",
     "aclnosu",
+    "aclo",
     "aclooorv",
     "acloop",
     "acloops",
@@ -13341,6 +13342,10 @@
     {
       "date": "2026-03-01T00:27:55.592Z",
       "anagram": "aaarrrst"
+    },
+    {
+      "date": "2026-03-01T12:08:33.805Z",
+      "anagram": "aclo"
     }
   ]
 }
