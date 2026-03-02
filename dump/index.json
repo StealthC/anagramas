@@ -903,6 +903,7 @@
     "aaorstu",
     "aaort",
     "aaorv",
+    "aaprrz",
     "aaprt",
     "aaprtu",
     "aaptu",
@@ -13351,6 +13352,10 @@
     {
       "date": "2026-03-01T16:05:57.001Z",
       "anagram": "aaailnn"
+    },
+    {
+      "date": "2026-03-02T00:25:07.710Z",
+      "anagram": "aaprrz"
     }
   ]
 }
