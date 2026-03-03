@@ -534,6 +534,7 @@
     "aadefnr",
     "aadefost",
     "aadefrs",
+    "aadegjno",
     "aadeglo",
     "aadeglop",
     "aadeglru",
@@ -13366,6 +13367,10 @@
     {
       "date": "2026-03-02T16:13:39.985Z",
       "anagram": "ceeeloprs"
+    },
+    {
+      "date": "2026-03-03T12:12:19.348Z",
+      "anagram": "aadegjno"
     }
   ]
 }
