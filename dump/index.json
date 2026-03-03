@@ -1316,6 +1316,7 @@
     "acos",
     "acost",
     "acrrsuu",
+    "adddeeims",
     "adddeeins",
     "adddegiin",
     "adddenoos",
@@ -13376,6 +13377,10 @@
     {
       "date": "2026-03-03T16:16:44.938Z",
       "anagram": "eensst"
+    },
+    {
+      "date": "2026-03-03T20:08:47.277Z",
+      "anagram": "adddeeims"
     }
   ]
 }
