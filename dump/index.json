@@ -483,6 +483,7 @@
     "aaddeenps",
     "aaddefnos",
     "aaddehimnu",
+    "aaddeilqu",
     "aaddeim",
     "aaddeims",
     "aaddeinqtu",
@@ -13411,6 +13412,10 @@
     {
       "date": "2026-03-05T16:18:46.922Z",
       "anagram": "gmnoos"
+    },
+    {
+      "date": "2026-03-05T20:12:48.645Z",
+      "anagram": "aaddeilqu"
     }
   ]
 }
