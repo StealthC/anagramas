@@ -1034,6 +1034,7 @@
     "aborrt",
     "abors",
     "abort",
+    "aboss",
     "abostu",
     "abrrsu",
     "accceiiln",
@@ -13396,6 +13397,10 @@
     {
       "date": "2026-03-04T16:13:46.123Z",
       "anagram": "aaccino"
+    },
+    {
+      "date": "2026-03-05T00:25:33.435Z",
+      "anagram": "aboss"
     }
   ]
 }
