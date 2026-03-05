@@ -2624,6 +2624,7 @@
     "giooorsv",
     "glnoos",
     "gloors",
+    "gmnoos",
     "hiilmmosu",
     "hiimnopr",
     "hiimnoprs",
@@ -13406,6 +13407,10 @@
     {
       "date": "2026-03-05T12:13:11.281Z",
       "anagram": "afoossstu"
+    },
+    {
+      "date": "2026-03-05T16:18:46.922Z",
+      "anagram": "gmnoos"
     }
   ]
 }
