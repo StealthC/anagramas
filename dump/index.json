@@ -72,6 +72,7 @@
     "aaacdems",
     "aaacdennr",
     "aaacdenrv",
+    "aaacdens",
     "aaacdepss",
     "aaacdfhnr",
     "aaacdfimo",
@@ -13416,6 +13417,10 @@
     {
       "date": "2026-03-05T20:12:48.645Z",
       "anagram": "aaddeilqu"
+    },
+    {
+      "date": "2026-03-06T00:29:23.607Z",
+      "anagram": "aaacdens"
     }
   ]
 }
