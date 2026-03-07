@@ -2033,6 +2033,7 @@
     "bdeiiosx",
     "bdeinou",
     "bdeiost",
+    "bdenos",
     "bdiiilnoos",
     "bdnoooss",
     "beeeginos",
@@ -13441,6 +13442,10 @@
     {
       "date": "2026-03-07T00:24:31.659Z",
       "anagram": "degiorrsu"
+    },
+    {
+      "date": "2026-03-07T12:08:13.611Z",
+      "anagram": "bdenos"
     }
   ]
 }
