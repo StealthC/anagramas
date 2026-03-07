@@ -1887,6 +1887,7 @@
     "aiiloss",
     "aiilosv",
     "aiimop",
+    "aiimstv",
     "aiinorz",
     "aiinprrs",
     "aiinqsu",
@@ -13446,6 +13447,10 @@
     {
       "date": "2026-03-07T12:08:13.611Z",
       "anagram": "bdenos"
+    },
+    {
+      "date": "2026-03-07T20:05:16.234Z",
+      "anagram": "aiimstv"
     }
   ]
 }
