@@ -2338,6 +2338,7 @@
     "defioprs",
     "defiossu",
     "defiost",
+    "degiorrsu",
     "degnoorrtu",
     "degoruv",
     "dehinnoost",
@@ -13436,6 +13437,10 @@
     {
       "date": "2026-03-06T20:08:29.164Z",
       "anagram": "afgiiiloos"
+    },
+    {
+      "date": "2026-03-07T00:24:31.659Z",
+      "anagram": "degiorrsu"
     }
   ]
 }
