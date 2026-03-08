@@ -1593,6 +1593,7 @@
     "aeenrrst",
     "aeenrtx",
     "aeenstt",
+    "aeeorrsv",
     "aeeorsssss",
     "aeeprst",
     "aeeprstz",
@@ -13466,6 +13467,10 @@
     {
       "date": "2026-03-08T16:05:58.819Z",
       "anagram": "adeenpss"
+    },
+    {
+      "date": "2026-03-08T20:05:18.660Z",
+      "anagram": "aeeorrsv"
     }
   ]
 }
