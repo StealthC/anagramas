@@ -2353,6 +2353,7 @@
     "deiiort",
     "deiiorvv",
     "deiloouv",
+    "deilost",
     "deimost",
     "deimosx",
     "deinoost",
@@ -13456,6 +13457,10 @@
     {
       "date": "2026-03-08T00:25:26.823Z",
       "anagram": "ademorr"
+    },
+    {
+      "date": "2026-03-08T12:09:13.250Z",
+      "anagram": "deilost"
     }
   ]
 }
