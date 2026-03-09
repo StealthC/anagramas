@@ -526,6 +526,7 @@
     "aadeefgrs",
     "aadeefimn",
     "aadeefint",
+    "aadeefjst",
     "aadeejmst",
     "aadeejprr",
     "aadeelsv",
@@ -13481,6 +13482,10 @@
     {
       "date": "2026-03-09T16:22:54.424Z",
       "anagram": "abijlru"
+    },
+    {
+      "date": "2026-03-09T20:08:40.481Z",
+      "anagram": "aadeefjst"
     }
   ]
 }
