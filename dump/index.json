@@ -2032,6 +2032,7 @@
     "bchios",
     "bciinorrtu",
     "bcilnoou",
+    "bciloossu",
     "bcilopsu",
     "bcinoosssu",
     "bddeiiinos",
@@ -13491,6 +13492,10 @@
     {
       "date": "2026-03-10T00:22:16.707Z",
       "anagram": "abcejor"
+    },
+    {
+      "date": "2026-03-10T12:12:43.049Z",
+      "anagram": "bciloossu"
     }
   ]
 }
