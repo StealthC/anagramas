@@ -2197,6 +2197,7 @@
     "ceilors",
     "ceilosttu",
     "ceilosu",
+    "ceilrux",
     "ceimnot",
     "ceimooosz",
     "ceimorru",
@@ -13511,6 +13512,10 @@
     {
       "date": "2026-03-11T00:22:57.517Z",
       "anagram": "aabelorr"
+    },
+    {
+      "date": "2026-03-11T12:13:04.518Z",
+      "anagram": "ceilrux"
     }
   ]
 }
