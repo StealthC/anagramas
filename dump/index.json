@@ -651,6 +651,7 @@
     "aadooprv",
     "aadoorrs",
     "aadoorrt",
+    "aadoosv",
     "aadoppsu",
     "aadoppu",
     "aadoprs",
@@ -13516,6 +13517,10 @@
     {
       "date": "2026-03-11T12:13:04.518Z",
       "anagram": "ceilrux"
+    },
+    {
+      "date": "2026-03-11T16:18:57.556Z",
+      "anagram": "aadoosv"
     }
   ]
 }
