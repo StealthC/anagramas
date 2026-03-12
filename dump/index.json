@@ -304,6 +304,7 @@
     "aabno",
     "aabors",
     "aabort",
+    "aabortu",
     "aaccdels",
     "aaccdlo",
     "aaccehr",
@@ -13536,6 +13537,10 @@
     {
       "date": "2026-03-12T12:12:18.283Z",
       "anagram": "acegiinsv"
+    },
+    {
+      "date": "2026-03-12T16:23:57.032Z",
+      "anagram": "aabortu"
     }
   ]
 }
