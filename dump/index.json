@@ -1218,6 +1218,7 @@
     "acenps",
     "acenssu",
     "aceoors",
+    "aceoosv",
     "aceop",
     "aceopru",
     "aceopt",
@@ -13551,6 +13552,10 @@
     {
       "date": "2026-03-13T00:25:59.399Z",
       "anagram": "aabdrssu"
+    },
+    {
+      "date": "2026-03-13T12:13:01.153Z",
+      "anagram": "aceoosv"
     }
   ]
 }
