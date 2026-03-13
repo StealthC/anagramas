@@ -326,6 +326,7 @@
     "aaccinr",
     "aaccior",
     "aaccisst",
+    "aaccisstu",
     "aaccist",
     "aaccloopu",
     "aacclr",
@@ -13561,6 +13562,10 @@
     {
       "date": "2026-03-13T16:12:12.590Z",
       "anagram": "aadlorv"
+    },
+    {
+      "date": "2026-03-13T20:09:01.425Z",
+      "anagram": "aaccisstu"
     }
   ]
 }
