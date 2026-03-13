@@ -647,6 +647,7 @@
     "aadlooppr",
     "aadloorr",
     "aadlor",
+    "aadlorv",
     "aadlosv",
     "aadlot",
     "aadmop",
@@ -13556,6 +13557,10 @@
     {
       "date": "2026-03-13T12:13:01.153Z",
       "anagram": "aceoosv"
+    },
+    {
+      "date": "2026-03-13T16:12:12.590Z",
+      "anagram": "aadlorv"
     }
   ]
 }
