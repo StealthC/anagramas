@@ -1229,6 +1229,7 @@
     "aceos",
     "aceoss",
     "aceprsu",
+    "acersu",
     "acert",
     "acfgioot",
     "acfhhiins",
@@ -13591,6 +13592,10 @@
     {
       "date": "2026-03-15T00:29:20.811Z",
       "anagram": "aaagiopps"
+    },
+    {
+      "date": "2026-03-15T12:10:37.267Z",
+      "anagram": "acersu"
     }
   ]
 }
