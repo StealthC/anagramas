@@ -1113,6 +1113,7 @@
     "acdefnu",
     "acdegiiiln",
     "acdehil",
+    "acdeiimn",
     "acdeiimnu",
     "acdeiirtu",
     "acdeiisv",
@@ -13621,6 +13622,10 @@
     {
       "date": "2026-03-17T16:26:08.485Z",
       "anagram": "aelsux"
+    },
+    {
+      "date": "2026-03-17T20:12:19.249Z",
+      "anagram": "acdeiimn"
     }
   ]
 }
