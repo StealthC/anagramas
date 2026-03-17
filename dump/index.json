@@ -1766,6 +1766,7 @@
     "aelpr",
     "aelprsu",
     "aelrs",
+    "aelsux",
     "aelsv",
     "aelttux",
     "aemmnt",
@@ -13616,6 +13617,10 @@
     {
       "date": "2026-03-16T20:12:08.180Z",
       "anagram": "aadeiqsux"
+    },
+    {
+      "date": "2026-03-17T16:26:08.485Z",
+      "anagram": "aelsux"
     }
   ]
 }
