@@ -427,6 +427,7 @@
     "aacfil",
     "aacfio",
     "aacfirs",
+    "aacfmoor",
     "aacfo",
     "aacghrru",
     "aacgin",
@@ -13641,6 +13642,10 @@
     {
       "date": "2026-03-18T16:24:57.727Z",
       "anagram": "denors"
+    },
+    {
+      "date": "2026-03-18T20:12:30.482Z",
+      "anagram": "aacfmoor"
     }
   ]
 }
