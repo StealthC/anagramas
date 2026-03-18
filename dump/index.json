@@ -2383,6 +2383,7 @@
     "deiinors",
     "deiinorss",
     "deiioopss",
+    "deiiorst",
     "deiiort",
     "deiiorvv",
     "deiloouv",
@@ -13626,6 +13627,10 @@
     {
       "date": "2026-03-17T20:12:19.249Z",
       "anagram": "acdeiimn"
+    },
+    {
+      "date": "2026-03-18T00:27:04.604Z",
+      "anagram": "deiiorst"
     }
   ]
 }
