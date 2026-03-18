@@ -2416,6 +2416,7 @@
     "demoors",
     "demos",
     "denoors",
+    "denors",
     "denos",
     "deooprt",
     "deosstu",
@@ -13636,6 +13637,10 @@
     {
       "date": "2026-03-18T12:18:50.727Z",
       "anagram": "aabdlmouz"
+    },
+    {
+      "date": "2026-03-18T16:24:57.727Z",
+      "anagram": "denors"
     }
   ]
 }
