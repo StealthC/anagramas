@@ -2020,6 +2020,7 @@
     "amorr",
     "amorsst",
     "amsu",
+    "anooprs",
     "anoprtu",
     "anorst",
     "anosstu",
@@ -13651,6 +13652,10 @@
     {
       "date": "2026-03-19T00:27:23.909Z",
       "anagram": "aaabeinnr"
+    },
+    {
+      "date": "2026-03-19T12:13:37.725Z",
+      "anagram": "anooprs"
     }
   ]
 }
