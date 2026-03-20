@@ -310,6 +310,7 @@
     "aabors",
     "aabort",
     "aabortu",
+    "aabott",
     "aaccdels",
     "aaccdlo",
     "aaccehr",
@@ -13666,6 +13667,10 @@
     {
       "date": "2026-03-19T20:12:07.953Z",
       "anagram": "aborsv"
+    },
+    {
+      "date": "2026-03-20T00:25:49.367Z",
+      "anagram": "aabott"
     }
   ]
 }
