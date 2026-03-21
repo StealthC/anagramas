@@ -649,6 +649,7 @@
     "aadiuv",
     "aadjloo",
     "aadjnor",
+    "aadjort",
     "aadjru",
     "aadjsu",
     "aadlmoo",
@@ -13681,6 +13682,10 @@
     {
       "date": "2026-03-21T00:24:00.173Z",
       "anagram": "aeeirrrt"
+    },
+    {
+      "date": "2026-03-21T16:06:47.931Z",
+      "anagram": "aadjort"
     }
   ]
 }
