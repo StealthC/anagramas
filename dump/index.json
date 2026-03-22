@@ -528,6 +528,7 @@
     "aaddiox",
     "aaddir",
     "aaddirtu",
+    "aaddis",
     "aaddloss",
     "aaddmno",
     "aaddooort",
@@ -13696,6 +13697,10 @@
     {
       "date": "2026-03-22T12:09:27.297Z",
       "anagram": "aacirrrs"
+    },
+    {
+      "date": "2026-03-22T16:07:05.393Z",
+      "anagram": "aaddis"
     }
   ]
 }
