@@ -2205,6 +2205,7 @@
     "ceeiossvx",
     "ceeiprsst",
     "ceellosu",
+    "ceelosx",
     "ceenrst",
     "ceeorrt",
     "ceeorstx",
@@ -13686,6 +13687,10 @@
     {
       "date": "2026-03-21T16:06:47.931Z",
       "anagram": "aadjort"
+    },
+    {
+      "date": "2026-03-22T00:26:43.765Z",
+      "anagram": "ceelosx"
     }
   ]
 }
