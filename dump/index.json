@@ -456,6 +456,7 @@
     "aacilr",
     "aacins",
     "aaciopt",
+    "aacirrrs",
     "aacirt",
     "aacirv",
     "aaciss",
@@ -13691,6 +13692,10 @@
     {
       "date": "2026-03-22T00:26:43.765Z",
       "anagram": "ceelosx"
+    },
+    {
+      "date": "2026-03-22T12:09:27.297Z",
+      "anagram": "aacirrrs"
     }
   ]
 }
