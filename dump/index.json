@@ -637,6 +637,7 @@
     "aadiipst",
     "aadilnsu",
     "aadilstu",
+    "aadimnst",
     "aadimor",
     "aadinno",
     "aadiootv",
@@ -13761,6 +13762,10 @@
     {
       "date": "2026-03-26T12:21:03.648Z",
       "anagram": "anottu"
+    },
+    {
+      "date": "2026-03-26T20:10:47.511Z",
+      "anagram": "aadimnst"
     }
   ]
 }
