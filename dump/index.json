@@ -2341,6 +2341,7 @@
     "cooprs",
     "coossstu",
     "coosst",
+    "coost",
     "corssu",
     "dddeeimos",
     "ddeeiinsst",
@@ -13771,6 +13772,10 @@
     {
       "date": "2026-03-27T00:29:00.567Z",
       "anagram": "abeirrr"
+    },
+    {
+      "date": "2026-03-27T12:16:41.110Z",
+      "anagram": "coost"
     }
   ]
 }
