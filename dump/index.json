@@ -1012,6 +1012,7 @@
     "abeiooqru",
     "abeiqstu",
     "abeirr",
+    "abeirrr",
     "abeist",
     "abelorr",
     "abemrrtu",
@@ -13766,6 +13767,10 @@
     {
       "date": "2026-03-26T20:10:47.511Z",
       "anagram": "aadimnst"
+    },
+    {
+      "date": "2026-03-27T00:29:00.567Z",
+      "anagram": "abeirrr"
     }
   ]
 }
