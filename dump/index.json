@@ -790,6 +790,7 @@
     "aaeprs",
     "aaeprss",
     "aaerrr",
+    "aaerstv",
     "aaestux",
     "aaffor",
     "aafggloor",
@@ -13796,6 +13797,10 @@
     {
       "date": "2026-03-28T12:11:59.752Z",
       "anagram": "aaamnopr"
+    },
+    {
+      "date": "2026-03-28T16:08:41.252Z",
+      "anagram": "aaerstv"
     }
   ]
 }
