@@ -82,6 +82,7 @@
     "aaacdhruv",
     "aaacdinv",
     "aaacdl",
+    "aaacdlns",
     "aaacdlop",
     "aaacdls",
     "aaacdnn",
@@ -13786,6 +13787,10 @@
     {
       "date": "2026-03-27T20:11:07.726Z",
       "anagram": "aadorr"
+    },
+    {
+      "date": "2026-03-28T00:26:29.328Z",
+      "anagram": "aaacdlns"
     }
   ]
 }
