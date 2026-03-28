@@ -221,6 +221,7 @@
     "aaalopt",
     "aaalprsv",
     "aaalrsst",
+    "aaamnopr",
     "aaamnort",
     "aaamnoz",
     "aaanpr",
@@ -13791,6 +13792,10 @@
     {
       "date": "2026-03-28T00:26:29.328Z",
       "anagram": "aaacdlns"
+    },
+    {
+      "date": "2026-03-28T12:11:59.752Z",
+      "anagram": "aaamnopr"
     }
   ]
 }
