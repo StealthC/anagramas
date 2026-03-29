@@ -1300,6 +1300,7 @@
     "aciiimpr",
     "aciiinpprr",
     "aciilnrt",
+    "aciilrs",
     "aciilrt",
     "aciils",
     "aciimrst",
@@ -13821,6 +13822,10 @@
     {
       "date": "2026-03-29T16:09:05.155Z",
       "anagram": "eflorsux"
+    },
+    {
+      "date": "2026-03-29T20:08:10.603Z",
+      "anagram": "aciilrs"
     }
   ]
 }
