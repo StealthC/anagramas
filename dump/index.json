@@ -783,6 +783,7 @@
     "aaenrrs",
     "aaenrtv",
     "aaentv",
+    "aaentvz",
     "aaeorrssss",
     "aaepprrr",
     "aaeprrs",
@@ -13806,6 +13807,10 @@
     {
       "date": "2026-03-28T20:07:42.036Z",
       "anagram": "ddeeginor"
+    },
+    {
+      "date": "2026-03-29T00:30:11.890Z",
+      "anagram": "aaentvz"
     }
   ]
 }
