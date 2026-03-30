@@ -1955,6 +1955,7 @@
     "aijrsstu",
     "aills",
     "ailmo",
+    "ailmtu",
     "ailnopt",
     "ailoops",
     "ailors",
@@ -13831,6 +13832,10 @@
     {
       "date": "2026-03-30T00:30:24.145Z",
       "anagram": "cfiinnoos"
+    },
+    {
+      "date": "2026-03-30T12:21:01.804Z",
+      "anagram": "ailmtu"
     }
   ]
 }
