@@ -2743,6 +2743,7 @@
     "iioooprrsv",
     "iiosst",
     "illmopstu",
+    "iloopst",
     "iloors",
     "ilorsv",
     "imooss",
@@ -13846,6 +13847,10 @@
     {
       "date": "2026-03-31T00:29:05.140Z",
       "anagram": "aagiinstvv"
+    },
+    {
+      "date": "2026-03-31T12:21:17.396Z",
+      "anagram": "iloopst"
     }
   ]
 }
