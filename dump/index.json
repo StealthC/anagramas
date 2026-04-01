@@ -680,6 +680,7 @@
     "aadoppu",
     "aadoprs",
     "aadopss",
+    "aadopst",
     "aador",
     "aadorr",
     "aadorrt",
@@ -13861,6 +13862,10 @@
     {
       "date": "2026-03-31T20:14:18.793Z",
       "anagram": "aabgimsu"
+    },
+    {
+      "date": "2026-04-01T00:32:15.529Z",
+      "anagram": "aadopst"
     }
   ]
 }
