@@ -1082,6 +1082,7 @@
     "aborsv",
     "abort",
     "aboss",
+    "abossu",
     "abostu",
     "abrrsu",
     "accceiiln",
@@ -13891,6 +13892,10 @@
     {
       "date": "2026-04-02T16:21:36.446Z",
       "anagram": "achinrtu"
+    },
+    {
+      "date": "2026-04-02T20:12:15.667Z",
+      "anagram": "abossu"
     }
   ]
 }
