@@ -2299,6 +2299,7 @@
     "cfilnoost",
     "cfilnoot",
     "cfinnos",
+    "cgiilmoos",
     "cgiiloost",
     "cgiinnoost",
     "cgiiorrr",
@@ -13881,6 +13882,10 @@
     {
       "date": "2026-04-02T00:27:06.559Z",
       "anagram": "eeeenrrstv"
+    },
+    {
+      "date": "2026-04-02T12:20:26.175Z",
+      "anagram": "cgiilmoos"
     }
   ]
 }
