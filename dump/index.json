@@ -905,6 +905,7 @@
     "aaiprst",
     "aaipssst",
     "aaipssv",
+    "aaipsx",
     "aaipt",
     "aairrtt",
     "aairst",
@@ -13921,6 +13922,10 @@
     {
       "date": "2026-04-04T00:27:03.407Z",
       "anagram": "deenoprrs"
+    },
+    {
+      "date": "2026-04-04T20:08:02.552Z",
+      "anagram": "aaipsx"
     }
   ]
 }
