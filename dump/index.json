@@ -2414,6 +2414,7 @@
     "deemnort",
     "deemoors",
     "deenoossst",
+    "deenoprrs",
     "deenost",
     "deenprtu",
     "deeooprrsv",
@@ -13916,6 +13917,10 @@
     {
       "date": "2026-04-03T20:10:03.925Z",
       "anagram": "aaanrsttu"
+    },
+    {
+      "date": "2026-04-04T00:27:03.407Z",
+      "anagram": "deenoprrs"
     }
   ]
 }
