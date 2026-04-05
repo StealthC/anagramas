@@ -415,6 +415,7 @@
     "aacehims",
     "aacehlnr",
     "aacehlsv",
+    "aacehnv",
     "aaceiimnn",
     "aaceilrr",
     "aaceimoqu",
@@ -13931,6 +13932,10 @@
     {
       "date": "2026-04-05T00:30:12.596Z",
       "anagram": "aaaadilns"
+    },
+    {
+      "date": "2026-04-05T12:11:47.237Z",
+      "anagram": "aacehnv"
     }
   ]
 }
