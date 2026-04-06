@@ -436,6 +436,7 @@
     "aacepsz",
     "aacept",
     "aacerrt",
+    "aacessss",
     "aacfiipst",
     "aacfil",
     "aacfio",
@@ -13946,6 +13947,10 @@
     {
       "date": "2026-04-05T20:08:27.058Z",
       "anagram": "aeiprt"
+    },
+    {
+      "date": "2026-04-06T12:19:28.033Z",
+      "anagram": "aacessss"
     }
   ]
 }
