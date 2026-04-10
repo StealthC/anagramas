@@ -1106,6 +1106,7 @@
     "accdeor",
     "accdnoou",
     "acceeeilnx",
+    "acceeghns",
     "acceeops",
     "acceeot",
     "acceerr",
@@ -14006,6 +14007,10 @@
     {
       "date": "2026-04-09T20:19:06.449Z",
       "anagram": "bejors"
+    },
+    {
+      "date": "2026-04-10T00:30:04.751Z",
+      "anagram": "acceeghns"
     }
   ]
 }
