@@ -941,6 +941,7 @@
     "aamors",
     "aampr",
     "aamprt",
+    "aamrt",
     "aamst",
     "aanort",
     "aanos",
@@ -14011,6 +14012,10 @@
     {
       "date": "2026-04-10T00:30:04.751Z",
       "anagram": "acceeghns"
+    },
+    {
+      "date": "2026-04-10T12:18:37.495Z",
+      "anagram": "aamrt"
     }
   ]
 }
