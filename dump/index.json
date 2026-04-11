@@ -2006,6 +2006,7 @@
     "aimoz",
     "aimpr",
     "aimpt",
+    "aimr",
     "aimrs",
     "aimrtz",
     "aimsst",
@@ -14026,6 +14027,10 @@
     {
       "date": "2026-04-10T20:11:46.956Z",
       "anagram": "aeghilmn"
+    },
+    {
+      "date": "2026-04-11T00:28:21.091Z",
+      "anagram": "aimr"
     }
   ]
 }
