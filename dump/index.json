@@ -43,6 +43,7 @@
     "aaabcor",
     "aaabcrr",
     "aaabcrrs",
+    "aaabddeiln",
     "aaabddnor",
     "aaabddsu",
     "aaabdgirs",
@@ -14031,6 +14032,10 @@
     {
       "date": "2026-04-11T00:28:21.091Z",
       "anagram": "aimr"
+    },
+    {
+      "date": "2026-04-11T12:12:59.791Z",
+      "anagram": "aaabddeiln"
     }
   ]
 }
