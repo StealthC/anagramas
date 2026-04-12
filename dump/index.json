@@ -1807,6 +1807,7 @@
     "aellouvv",
     "aelmnot",
     "aelmo",
+    "aelmoz",
     "aelmru",
     "aelno",
     "aelnorr",
@@ -14041,6 +14042,10 @@
     {
       "date": "2026-04-11T20:07:52.560Z",
       "anagram": "deeilnptu"
+    },
+    {
+      "date": "2026-04-12T00:32:14.420Z",
+      "anagram": "aelmoz"
     }
   ]
 }
