@@ -462,6 +462,7 @@
     "aachrr",
     "aachrs",
     "aacht",
+    "aaciilr",
     "aaciilsv",
     "aaciimot",
     "aaciinooz",
@@ -14046,6 +14047,10 @@
     {
       "date": "2026-04-12T00:32:14.420Z",
       "anagram": "aelmoz"
+    },
+    {
+      "date": "2026-04-12T16:11:05.133Z",
+      "anagram": "aaciilr"
     }
   ]
 }
