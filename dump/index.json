@@ -661,6 +661,7 @@
     "aadiotv",
     "aadiprs",
     "aadiprv",
+    "aadir",
     "aadirt",
     "aadisstu",
     "aadistu",
@@ -14066,6 +14067,10 @@
     {
       "date": "2026-04-13T20:21:15.753Z",
       "anagram": "ceenorss"
+    },
+    {
+      "date": "2026-04-14T00:35:01.174Z",
+      "anagram": "aadir"
     }
   ]
 }
