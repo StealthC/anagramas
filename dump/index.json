@@ -2782,6 +2782,7 @@
     "iimnorsst",
     "iimnost",
     "iimoosst",
+    "iimops",
     "iinoorstt",
     "iinoptuv",
     "iinrrstu",
@@ -14076,6 +14077,10 @@
     {
       "date": "2026-04-14T12:23:38.711Z",
       "anagram": "eopprrsu"
+    },
+    {
+      "date": "2026-04-14T16:26:43.227Z",
+      "anagram": "iimops"
     }
   ]
 }
