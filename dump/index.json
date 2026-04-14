@@ -2727,6 +2727,7 @@
     "eoorrst",
     "eoorsstv",
     "eoorstv",
+    "eopprrsu",
     "eoprsstu",
     "eoprst",
     "eoqrsu",
@@ -14071,6 +14072,10 @@
     {
       "date": "2026-04-14T00:35:01.174Z",
       "anagram": "aadir"
+    },
+    {
+      "date": "2026-04-14T12:23:38.711Z",
+      "anagram": "eopprrsu"
     }
   ]
 }
