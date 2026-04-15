@@ -544,6 +544,7 @@
     "aaddiox",
     "aaddir",
     "aaddirtu",
+    "aaddirtuz",
     "aaddis",
     "aaddloss",
     "aaddmno",
@@ -14101,6 +14102,10 @@
     {
       "date": "2026-04-15T16:24:33.139Z",
       "anagram": "aaaddls"
+    },
+    {
+      "date": "2026-04-15T20:19:23.263Z",
+      "anagram": "aaddirtuz"
     }
   ]
 }
