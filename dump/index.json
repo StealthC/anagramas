@@ -2822,7 +2822,8 @@
     "noooprtu",
     "nostu",
     "ooopprsst",
-    "ooprss"
+    "ooprss",
+    "oprsu"
   ],
   "byDate": [
     {
@@ -14116,6 +14117,10 @@
     {
       "date": "2026-04-16T16:34:15.109Z",
       "anagram": "adeiopqu"
+    },
+    {
+      "date": "2026-04-16T20:17:17.489Z",
+      "anagram": "oprsu"
     }
   ]
 }
