@@ -511,6 +511,7 @@
     "aaddeempr",
     "aaddeenps",
     "aaddefnos",
+    "aaddeglo",
     "aaddehimnu",
     "aaddeilqu",
     "aaddeim",
@@ -14121,6 +14122,10 @@
     {
       "date": "2026-04-16T20:17:17.489Z",
       "anagram": "oprsu"
+    },
+    {
+      "date": "2026-04-17T00:34:02.442Z",
+      "anagram": "aaddeglo"
     }
   ]
 }
