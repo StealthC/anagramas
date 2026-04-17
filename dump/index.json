@@ -384,6 +384,7 @@
     "aacdhops",
     "aacdi",
     "aacdiiins",
+    "aacdiilmp",
     "aacdiinntu",
     "aacdiiprr",
     "aacdilr",
@@ -14131,6 +14132,10 @@
     {
       "date": "2026-04-17T12:22:19.069Z",
       "anagram": "aaefrt"
+    },
+    {
+      "date": "2026-04-17T16:21:36.219Z",
+      "anagram": "aacdiilmp"
     }
   ]
 }
