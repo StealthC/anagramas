@@ -1417,6 +1417,7 @@
     "addefiiinn",
     "addefiiltu",
     "addefmoor",
+    "addehors",
     "addeilnu",
     "addeims",
     "addeinrt",
@@ -14166,6 +14167,10 @@
     {
       "date": "2026-04-19T12:13:39.845Z",
       "anagram": "ceeillstu"
+    },
+    {
+      "date": "2026-04-19T16:12:10.842Z",
+      "anagram": "addehors"
     }
   ]
 }
