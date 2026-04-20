@@ -1613,6 +1613,7 @@
     "admsu",
     "adnoos",
     "adnooss",
+    "adnors",
     "adnortu",
     "adnos",
     "adnrtu",
@@ -14176,6 +14177,10 @@
     {
       "date": "2026-04-19T20:11:25.442Z",
       "anagram": "aceeiinstx"
+    },
+    {
+      "date": "2026-04-20T00:33:47.690Z",
+      "anagram": "adnors"
     }
   ]
 }
