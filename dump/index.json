@@ -229,6 +229,7 @@
     "aaamnopr",
     "aaamnort",
     "aaamnoz",
+    "aaamrt",
     "aaanpr",
     "aaanrsttu",
     "aaanssv",
@@ -14181,6 +14182,10 @@
     {
       "date": "2026-04-20T00:33:47.690Z",
       "anagram": "adnors"
+    },
+    {
+      "date": "2026-04-20T12:27:38.912Z",
+      "anagram": "aaamrt"
     }
   ]
 }
