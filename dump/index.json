@@ -400,6 +400,7 @@
     "aacdlmouu",
     "aacdlos",
     "aacdmos",
+    "aacdn",
     "aacdns",
     "aacdo",
     "aacdopt",
@@ -14201,6 +14202,10 @@
     {
       "date": "2026-04-21T00:34:20.813Z",
       "anagram": "aaadeitz"
+    },
+    {
+      "date": "2026-04-21T16:26:23.200Z",
+      "anagram": "aacdn"
     }
   ]
 }
