@@ -169,6 +169,7 @@
     "aaadiops",
     "aaadistv",
     "aaadisvv",
+    "aaadjrst",
     "aaadlmnr",
     "aaadlmor",
     "aaadlost",
@@ -14211,6 +14212,10 @@
     {
       "date": "2026-04-21T20:19:34.139Z",
       "anagram": "abbeeegmr"
+    },
+    {
+      "date": "2026-04-22T00:31:47.322Z",
+      "anagram": "aaadjrst"
     }
   ]
 }
