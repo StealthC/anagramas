@@ -956,6 +956,7 @@
     "aamprt",
     "aamrt",
     "aamst",
+    "aanoprt",
     "aanort",
     "aanos",
     "aanot",
@@ -14241,6 +14242,10 @@
     {
       "date": "2026-04-24T00:36:17.893Z",
       "anagram": "abcinru"
+    },
+    {
+      "date": "2026-04-24T20:16:35.881Z",
+      "anagram": "aanoprt"
     }
   ]
 }
