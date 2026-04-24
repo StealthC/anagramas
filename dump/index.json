@@ -1004,6 +1004,7 @@
     "abcfiilrru",
     "abciiilmsu",
     "abcilpru",
+    "abcinru",
     "abclmoo",
     "abcmmoos",
     "abcnors",
@@ -14236,6 +14237,10 @@
     {
       "date": "2026-04-23T12:23:46.158Z",
       "anagram": "abbeor"
+    },
+    {
+      "date": "2026-04-24T00:36:17.893Z",
+      "anagram": "abcinru"
     }
   ]
 }
