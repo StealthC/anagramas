@@ -574,6 +574,7 @@
     "aadefnr",
     "aadefost",
     "aadefrs",
+    "aadeggimo",
     "aadegjno",
     "aadeglo",
     "aadeglop",
@@ -14246,6 +14247,10 @@
     {
       "date": "2026-04-24T20:16:35.881Z",
       "anagram": "aanoprt"
+    },
+    {
+      "date": "2026-04-25T00:32:39.038Z",
+      "anagram": "aadeggimo"
     }
   ]
 }
