@@ -914,6 +914,7 @@
     "aaimnqu",
     "aaimnr",
     "aaimnrr",
+    "aaimnrt",
     "aaimnsu",
     "aaimrtuu",
     "aaimsssv",
@@ -14261,6 +14262,10 @@
     {
       "date": "2026-04-25T16:13:57.736Z",
       "anagram": "clootu"
+    },
+    {
+      "date": "2026-04-25T20:13:16.381Z",
+      "anagram": "aaimnrt"
     }
   ]
 }
