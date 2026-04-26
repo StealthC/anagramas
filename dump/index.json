@@ -791,6 +791,7 @@
     "aaelrrsv",
     "aaelrrt",
     "aaelrrx",
+    "aaelrst",
     "aaelrv",
     "aaelstt",
     "aaelstz",
@@ -14271,6 +14272,10 @@
     {
       "date": "2026-04-26T12:16:59.658Z",
       "anagram": "aacceenno"
+    },
+    {
+      "date": "2026-04-26T16:15:07.864Z",
+      "anagram": "aaelrst"
     }
   ]
 }
