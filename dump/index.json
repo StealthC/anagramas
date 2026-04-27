@@ -2456,6 +2456,7 @@
     "deeeinprst",
     "deeeinrst",
     "deeeinrstt",
+    "deeeiorst",
     "deefiiinsv",
     "deefnor",
     "deefors",
@@ -14281,6 +14282,10 @@
     {
       "date": "2026-04-26T20:13:10.918Z",
       "anagram": "aaeoprt"
+    },
+    {
+      "date": "2026-04-27T00:36:21.797Z",
+      "anagram": "deeeiorst"
     }
   ]
 }
