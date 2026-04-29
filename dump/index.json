@@ -2154,6 +2154,7 @@
     "bcenoos",
     "bceor",
     "bchios",
+    "bciilmoos",
     "bciinorrtu",
     "bcilnoou",
     "bciloossu",
@@ -14316,6 +14317,10 @@
     {
       "date": "2026-04-29T00:40:14.920Z",
       "anagram": "glooopr"
+    },
+    {
+      "date": "2026-04-29T20:26:54.896Z",
+      "anagram": "bciilmoos"
     }
   ]
 }
