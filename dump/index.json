@@ -338,6 +338,7 @@
     "aacceoss",
     "aaccer",
     "aaccfinno",
+    "aacchiinnr",
     "aacchiln",
     "aacchins",
     "aacciimst",
@@ -14331,6 +14332,10 @@
     {
       "date": "2026-04-30T16:33:23.824Z",
       "anagram": "afors"
+    },
+    {
+      "date": "2026-04-30T20:26:07.719Z",
+      "anagram": "aacchiinnr"
     }
   ]
 }
