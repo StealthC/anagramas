@@ -1944,6 +1944,7 @@
     "afmru",
     "afnoossu",
     "afoossstu",
+    "afors",
     "afostu",
     "afrstu",
     "afrstuu",
@@ -14326,6 +14327,10 @@
     {
       "date": "2026-04-30T00:39:43.030Z",
       "anagram": "aaccdiiirt"
+    },
+    {
+      "date": "2026-04-30T16:33:23.824Z",
+      "anagram": "afors"
     }
   ]
 }
