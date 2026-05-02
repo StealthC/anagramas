@@ -2414,6 +2414,7 @@
     "cioopsss",
     "cioopst",
     "cioopt",
+    "cioos",
     "cioostx",
     "cioot",
     "ciops",
@@ -14361,6 +14362,10 @@
     {
       "date": "2026-05-02T12:20:08.523Z",
       "anagram": "cdiortu"
+    },
+    {
+      "date": "2026-05-02T20:13:17.635Z",
+      "anagram": "cioos"
     }
   ]
 }
