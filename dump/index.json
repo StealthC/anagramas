@@ -1576,6 +1576,7 @@
     "adgiossu",
     "adgiov",
     "adgirssu",
+    "adgjlou",
     "adgjoor",
     "adglnoo",
     "adgoostu",
@@ -14366,6 +14367,10 @@
     {
       "date": "2026-05-02T20:13:17.635Z",
       "anagram": "cioos"
+    },
+    {
+      "date": "2026-05-03T00:40:13.550Z",
+      "anagram": "adgjlou"
     }
   ]
 }
