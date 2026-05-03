@@ -1443,6 +1443,7 @@
     "addeinru",
     "addeinu",
     "addeinv",
+    "addeip",
     "addeirsuz",
     "addeisst",
     "addeist",
@@ -14376,6 +14377,10 @@
     {
       "date": "2026-05-03T12:19:36.430Z",
       "anagram": "cennoort"
+    },
+    {
+      "date": "2026-05-03T16:17:11.192Z",
+      "anagram": "addeip"
     }
   ]
 }
