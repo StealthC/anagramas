@@ -2048,6 +2048,7 @@
     "aimnr",
     "aimooss",
     "aimoost",
+    "aimor",
     "aimorr",
     "aimost",
     "aimot",
@@ -14391,6 +14392,10 @@
     {
       "date": "2026-05-04T00:39:32.337Z",
       "anagram": "aaeimnrx"
+    },
+    {
+      "date": "2026-05-04T16:35:09.300Z",
+      "anagram": "aimor"
     }
   ]
 }
