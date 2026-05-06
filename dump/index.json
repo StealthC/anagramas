@@ -2699,6 +2699,7 @@
     "eglooossx",
     "egnoorsv",
     "egnoorv",
+    "egopr",
     "ehhimnnooz",
     "ehiinoprs",
     "ehilmoru",
@@ -14421,6 +14422,10 @@
     {
       "date": "2026-05-05T20:25:49.949Z",
       "anagram": "abceerss"
+    },
+    {
+      "date": "2026-05-06T00:37:04.771Z",
+      "anagram": "egopr"
     }
   ]
 }
