@@ -1725,6 +1725,7 @@
     "aeerrst",
     "aeersv",
     "aefglnor",
+    "aefgloosz",
     "aefgorr",
     "aefgort",
     "aefgsuz",
@@ -14451,6 +14452,10 @@
     {
       "date": "2026-05-07T12:40:09.398Z",
       "anagram": "aemnoooptv"
+    },
+    {
+      "date": "2026-05-07T16:36:20.476Z",
+      "anagram": "aefgloosz"
     }
   ]
 }
