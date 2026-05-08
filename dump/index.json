@@ -1632,6 +1632,7 @@
     "adiosst",
     "adiostu",
     "adiprsu",
+    "adirss",
     "adisstu",
     "adlooorss",
     "adloors",
@@ -14461,6 +14462,10 @@
     {
       "date": "2026-05-08T00:39:45.726Z",
       "anagram": "eeeinnrtt"
+    },
+    {
+      "date": "2026-05-08T12:31:05.050Z",
+      "anagram": "adirss"
     }
   ]
 }
