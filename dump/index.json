@@ -1832,6 +1832,7 @@
     "aeinott",
     "aeinps",
     "aeinpss",
+    "aeinpst",
     "aeinrsu",
     "aeinruvv",
     "aeinsssu",
@@ -14486,6 +14487,10 @@
     {
       "date": "2026-05-09T12:21:35.338Z",
       "anagram": "cdeosu"
+    },
+    {
+      "date": "2026-05-09T16:19:33.224Z",
+      "anagram": "aeinpst"
     }
   ]
 }
