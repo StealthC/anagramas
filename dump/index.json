@@ -1164,6 +1164,7 @@
     "acchrsu",
     "acciilst",
     "acciirrtu",
+    "accilo",
     "accilr",
     "accimo",
     "accimos",
@@ -14476,6 +14477,10 @@
     {
       "date": "2026-05-08T20:23:15.706Z",
       "anagram": "gilnooops"
+    },
+    {
+      "date": "2026-05-09T00:40:31.964Z",
+      "anagram": "accilo"
     }
   ]
 }
