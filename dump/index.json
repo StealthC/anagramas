@@ -2888,6 +2888,7 @@
     "ioort",
     "iopst",
     "iorst",
+    "lmoopsu",
     "lmosttuu",
     "loorsu",
     "loosuux",
@@ -14506,6 +14507,10 @@
     {
       "date": "2026-05-10T16:20:40.446Z",
       "anagram": "coprsu"
+    },
+    {
+      "date": "2026-05-10T20:17:14.010Z",
+      "anagram": "lmoopsu"
     }
   ]
 }
