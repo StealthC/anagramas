@@ -91,6 +91,7 @@
     "aaacdnns",
     "aaacdnps",
     "aaacdnrt",
+    "aaacdnss",
     "aaacdprtu",
     "aaacdrrs",
     "aaacdrst",
@@ -14511,6 +14512,10 @@
     {
       "date": "2026-05-10T20:17:14.010Z",
       "anagram": "lmoopsu"
+    },
+    {
+      "date": "2026-05-11T00:42:18.509Z",
+      "anagram": "aaacdnss"
     }
   ]
 }
