@@ -671,6 +671,7 @@
     "aadiinstu",
     "aadiipst",
     "aadiistv",
+    "aadilmsu",
     "aadilnsu",
     "aadilstu",
     "aadimnst",
@@ -14531,6 +14532,10 @@
     {
       "date": "2026-05-11T20:36:03.510Z",
       "anagram": "abdeert"
+    },
+    {
+      "date": "2026-05-12T12:43:09.152Z",
+      "anagram": "aadilmsu"
     }
   ]
 }
