@@ -1304,6 +1304,7 @@
     "acelnot",
     "acelnrt",
     "acelns",
+    "aceloss",
     "acelot",
     "acelrsu",
     "acelsss",
@@ -14536,6 +14537,10 @@
     {
       "date": "2026-05-12T12:43:09.152Z",
       "anagram": "aadilmsu"
+    },
+    {
+      "date": "2026-05-12T16:45:50.997Z",
+      "anagram": "aceloss"
     }
   ]
 }
