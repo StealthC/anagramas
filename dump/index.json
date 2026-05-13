@@ -2547,6 +2547,7 @@
     "deilost",
     "deimost",
     "deimosx",
+    "deimot",
     "deinoost",
     "deinoptu",
     "deinost",
@@ -14546,6 +14547,10 @@
     {
       "date": "2026-05-12T20:34:36.130Z",
       "anagram": "aehiinpss"
+    },
+    {
+      "date": "2026-05-13T00:43:00.819Z",
+      "anagram": "deimot"
     }
   ]
 }
