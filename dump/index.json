@@ -498,6 +498,7 @@
     "aaclm",
     "aaclmruu",
     "aaclmssu",
+    "aacln",
     "aaclp",
     "aaclpr",
     "aaclpru",
@@ -14566,6 +14567,10 @@
     {
       "date": "2026-05-13T20:35:13.081Z",
       "anagram": "bcelorsu"
+    },
+    {
+      "date": "2026-05-14T16:41:13.683Z",
+      "anagram": "aacln"
     }
   ]
 }
