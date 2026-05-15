@@ -2866,6 +2866,7 @@
     "iiilmnos",
     "iiimmosstu",
     "iiimoprstv",
+    "iiinosttuv",
     "iiinrsttu",
     "iiioorrrs",
     "iilmnooop",
@@ -14581,6 +14582,10 @@
     {
       "date": "2026-05-15T16:36:44.972Z",
       "anagram": "efhloorr"
+    },
+    {
+      "date": "2026-05-15T20:28:07.911Z",
+      "anagram": "iiinosttuv"
     }
   ]
 }
