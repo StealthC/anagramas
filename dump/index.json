@@ -643,6 +643,7 @@
     "aadfilsuz",
     "aadfios",
     "aadfir",
+    "aadfrstu",
     "aadgiinst",
     "aadgilru",
     "aadgils",
@@ -14571,6 +14572,10 @@
     {
       "date": "2026-05-14T16:41:13.683Z",
       "anagram": "aacln"
+    },
+    {
+      "date": "2026-05-15T12:39:36.052Z",
+      "anagram": "aadfrstu"
     }
   ]
 }
