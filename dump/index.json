@@ -795,6 +795,7 @@
     "aaejmosst",
     "aaejqstu",
     "aaejrrst",
+    "aaejrst",
     "aaellppv",
     "aaelmrs",
     "aaelmst",
@@ -14601,6 +14602,10 @@
     {
       "date": "2026-05-16T20:17:18.190Z",
       "anagram": "ansu"
+    },
+    {
+      "date": "2026-05-17T00:43:43.829Z",
+      "anagram": "aaejrst"
     }
   ]
 }
