@@ -826,6 +826,7 @@
     "aaenprrt",
     "aaenprt",
     "aaenrrs",
+    "aaenrst",
     "aaenrtv",
     "aaentv",
     "aaentvz",
@@ -14621,6 +14622,10 @@
     {
       "date": "2026-05-17T20:18:23.818Z",
       "anagram": "ceeilrt"
+    },
+    {
+      "date": "2026-05-18T00:44:40.873Z",
+      "anagram": "aaenrst"
     }
   ]
 }
