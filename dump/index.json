@@ -1608,6 +1608,7 @@
     "adgoostu",
     "adgoot",
     "adgor",
+    "adgorr",
     "adgorru",
     "adgors",
     "adgoru",
@@ -14636,6 +14637,10 @@
     {
       "date": "2026-05-19T00:45:55.910Z",
       "anagram": "aorrtv"
+    },
+    {
+      "date": "2026-05-19T13:07:57.315Z",
+      "anagram": "adgorr"
     }
   ]
 }
