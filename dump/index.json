@@ -2490,6 +2490,7 @@
     "ddeeimors",
     "ddeeimost",
     "ddeeinnost",
+    "ddeeioprx",
     "ddeeorv",
     "ddefiino",
     "ddefiinos",
@@ -14646,6 +14647,10 @@
     {
       "date": "2026-05-19T17:00:15.051Z",
       "anagram": "eioorstu"
+    },
+    {
+      "date": "2026-05-19T20:35:58.393Z",
+      "anagram": "ddeeioprx"
     }
   ]
 }
