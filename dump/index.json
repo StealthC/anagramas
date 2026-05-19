@@ -2794,6 +2794,7 @@
     "einost",
     "eiooprsss",
     "eiooqssu",
+    "eioorstu",
     "eioorsv",
     "eiopr",
     "eioprss",
@@ -14641,6 +14642,10 @@
     {
       "date": "2026-05-19T13:07:57.315Z",
       "anagram": "adgorr"
+    },
+    {
+      "date": "2026-05-19T17:00:15.051Z",
+      "anagram": "eioorstu"
     }
   ]
 }
