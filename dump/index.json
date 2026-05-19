@@ -2173,6 +2173,7 @@
     "aopss",
     "aopssstu",
     "aopst",
+    "aorrtv",
     "aorsst",
     "aorst",
     "aorstt",
@@ -14631,6 +14632,10 @@
     {
       "date": "2026-05-18T13:16:02.723Z",
       "anagram": "acnort"
+    },
+    {
+      "date": "2026-05-19T00:45:55.910Z",
+      "anagram": "aorrtv"
     }
   ]
 }
