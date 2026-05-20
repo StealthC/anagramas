@@ -909,6 +909,7 @@
     "aahinrsv",
     "aahlost",
     "aahlrr",
+    "aahmnop",
     "aahmnoss",
     "aaiiimnsss",
     "aaiilmssv",
@@ -14651,6 +14652,10 @@
     {
       "date": "2026-05-19T20:35:58.393Z",
       "anagram": "ddeeioprx"
+    },
+    {
+      "date": "2026-05-20T00:47:24.362Z",
+      "anagram": "aahmnop"
     }
   ]
 }
