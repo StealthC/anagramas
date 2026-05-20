@@ -108,6 +108,7 @@
     "aaaciimnns",
     "aaacijmno",
     "aaaciln",
+    "aaacilns",
     "aaacilnv",
     "aaacimn",
     "aaacimnno",
@@ -14656,6 +14657,10 @@
     {
       "date": "2026-05-20T00:47:24.362Z",
       "anagram": "aahmnop"
+    },
+    {
+      "date": "2026-05-20T12:54:31.341Z",
+      "anagram": "aaacilns"
     }
   ]
 }
