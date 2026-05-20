@@ -2533,6 +2533,7 @@
     "deeioprrt",
     "deejoosss",
     "deelnoprs",
+    "deelnost",
     "deeloort",
     "deelosv",
     "deemnor",
@@ -14661,6 +14662,10 @@
     {
       "date": "2026-05-20T12:54:31.341Z",
       "anagram": "aaacilns"
+    },
+    {
+      "date": "2026-05-20T20:44:27.944Z",
+      "anagram": "deelnost"
     }
   ]
 }
