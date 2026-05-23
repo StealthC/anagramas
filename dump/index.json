@@ -1037,6 +1037,7 @@
     "abceorr",
     "abceosss",
     "abcfiilrru",
+    "abchor",
     "abciiilmsu",
     "abcilpru",
     "abcinru",
@@ -14701,6 +14702,10 @@
     {
       "date": "2026-05-23T00:44:03.259Z",
       "anagram": "cloopssu"
+    },
+    {
+      "date": "2026-05-23T12:22:47.849Z",
+      "anagram": "abchor"
     }
   ]
 }
