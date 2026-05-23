@@ -70,6 +70,7 @@
     "aaaccpru",
     "aaacddehps",
     "aaacddelm",
+    "aaacddmoo",
     "aaacdelr",
     "aaacdemo",
     "aaacdemr",
@@ -14706,6 +14707,10 @@
     {
       "date": "2026-05-23T12:22:47.849Z",
       "anagram": "abchor"
+    },
+    {
+      "date": "2026-05-23T16:22:13.602Z",
+      "anagram": "aaacddmoo"
     }
   ]
 }
