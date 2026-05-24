@@ -747,6 +747,7 @@
     "aaeennsttu",
     "aaeenrrv",
     "aaefggior",
+    "aaefgiir",
     "aaefinrru",
     "aaeflsv",
     "aaeflv",
@@ -14716,6 +14717,10 @@
     {
       "date": "2026-05-23T20:18:52.949Z",
       "anagram": "fioorsttu"
+    },
+    {
+      "date": "2026-05-24T00:45:20.048Z",
+      "anagram": "aaefgiir"
     }
   ]
 }
