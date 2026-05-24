@@ -2067,6 +2067,7 @@
     "aiinprrs",
     "aiinqsu",
     "aiiopt",
+    "aiirrrt",
     "aiirst",
     "aijlost",
     "aijrsstu",
@@ -14721,6 +14722,10 @@
     {
       "date": "2026-05-24T00:45:20.048Z",
       "anagram": "aaefgiir"
+    },
+    {
+      "date": "2026-05-24T12:25:32.393Z",
+      "anagram": "aiirrrt"
     }
   ]
 }
