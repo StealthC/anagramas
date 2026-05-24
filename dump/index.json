@@ -1716,6 +1716,7 @@
     "aeegnrrt",
     "aeegnst",
     "aeegnt",
+    "aeegorsss",
     "aeegorx",
     "aeegprrsss",
     "aeehnrs",
@@ -14726,6 +14727,10 @@
     {
       "date": "2026-05-24T12:25:32.393Z",
       "anagram": "aiirrrt"
+    },
+    {
+      "date": "2026-05-24T16:23:04.138Z",
+      "anagram": "aeegorsss"
     }
   ]
 }
