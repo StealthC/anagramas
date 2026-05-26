@@ -2923,6 +2923,7 @@
     "iloopst",
     "iloors",
     "ilorsv",
+    "imnostu",
     "imooss",
     "imopru",
     "imosst",
@@ -14751,6 +14752,10 @@
     {
       "date": "2026-05-26T13:01:30.270Z",
       "anagram": "aadefprru"
+    },
+    {
+      "date": "2026-05-26T17:07:12.925Z",
+      "anagram": "imnostu"
     }
   ]
 }
