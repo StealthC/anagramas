@@ -591,6 +591,7 @@
     "aadefnns",
     "aadefnr",
     "aadefost",
+    "aadefprru",
     "aadefrs",
     "aadeggimo",
     "aadegjno",
@@ -14746,6 +14747,10 @@
     {
       "date": "2026-05-25T20:31:39.393Z",
       "anagram": "abcepsu"
+    },
+    {
+      "date": "2026-05-26T13:01:30.270Z",
+      "anagram": "aadefprru"
     }
   ]
 }
