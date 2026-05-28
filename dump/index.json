@@ -2332,6 +2332,7 @@
     "cdhiiors",
     "cdhiloo",
     "cdiijoossu",
+    "cdiilopsu",
     "cdiinnoot",
     "cdimooosv",
     "cdioorrs",
@@ -14776,6 +14777,10 @@
     {
       "date": "2026-05-28T13:16:20.346Z",
       "anagram": "aaeimnss"
+    },
+    {
+      "date": "2026-05-28T17:16:46.264Z",
+      "anagram": "cdiilopsu"
     }
   ]
 }
