@@ -1542,6 +1542,7 @@
     "adeiilss",
     "adeiinrtt",
     "adeiinst",
+    "adeiioss",
     "adeiirv",
     "adeiirvv",
     "adeilouv",
@@ -14766,6 +14767,10 @@
     {
       "date": "2026-05-27T20:44:12.233Z",
       "anagram": "aagmr"
+    },
+    {
+      "date": "2026-05-28T00:42:15.160Z",
+      "anagram": "adeiioss"
     }
   ]
 }
