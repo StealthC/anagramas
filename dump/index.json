@@ -790,6 +790,7 @@
     "aaeimnrr",
     "aaeimnrx",
     "aaeimnss",
+    "aaeimpt",
     "aaeinrss",
     "aaeinstx",
     "aaeiorr",
@@ -14786,6 +14787,10 @@
     {
       "date": "2026-05-28T20:49:00.700Z",
       "anagram": "cdeegioos"
+    },
+    {
+      "date": "2026-05-29T13:07:30.409Z",
+      "anagram": "aaeimpt"
     }
   ]
 }
