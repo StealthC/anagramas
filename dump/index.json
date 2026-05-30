@@ -533,6 +533,7 @@
     "aaddeempr",
     "aaddeenps",
     "aaddefnos",
+    "aaddegins",
     "aaddeglo",
     "aaddehimnu",
     "aaddeilqu",
@@ -14796,6 +14797,10 @@
     {
       "date": "2026-05-29T17:11:06.147Z",
       "anagram": "aahhilnp"
+    },
+    {
+      "date": "2026-05-30T00:45:08.215Z",
+      "anagram": "aaddegins"
     }
   ]
 }
