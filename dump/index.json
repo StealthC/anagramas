@@ -1903,6 +1903,7 @@
     "aelmo",
     "aelmoz",
     "aelmru",
+    "aelmstu",
     "aelno",
     "aelnorr",
     "aelnr",
@@ -14801,6 +14802,10 @@
     {
       "date": "2026-05-30T00:45:08.215Z",
       "anagram": "aaddegins"
+    },
+    {
+      "date": "2026-05-30T16:23:40.313Z",
+      "anagram": "aelmstu"
     }
   ]
 }
