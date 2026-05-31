@@ -908,6 +908,7 @@
     "aaglmu",
     "aaglnru",
     "aaglop",
+    "aaglost",
     "aaglrs",
     "aagmns",
     "aagmo",
@@ -14821,6 +14822,10 @@
     {
       "date": "2026-05-31T12:30:57.057Z",
       "anagram": "ceorsstu"
+    },
+    {
+      "date": "2026-05-31T16:28:05.032Z",
+      "anagram": "aaglost"
     }
   ]
 }
