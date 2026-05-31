@@ -361,6 +361,7 @@
     "aaccisst",
     "aaccisstu",
     "aaccist",
+    "aacclo",
     "aaccloopu",
     "aacclr",
     "aacclsu",
@@ -14811,6 +14812,10 @@
     {
       "date": "2026-05-30T20:23:47.181Z",
       "anagram": "aeiprrtx"
+    },
+    {
+      "date": "2026-05-31T00:48:50.828Z",
+      "anagram": "aacclo"
     }
   ]
 }
