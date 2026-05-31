@@ -2432,6 +2432,7 @@
     "ceoops",
     "ceoorst",
     "ceoprss",
+    "ceorsstu",
     "ceorsu",
     "ceorsv",
     "ceort",
@@ -14816,6 +14817,10 @@
     {
       "date": "2026-05-31T00:48:50.828Z",
       "anagram": "aacclo"
+    },
+    {
+      "date": "2026-05-31T12:30:57.057Z",
+      "anagram": "ceorsstu"
     }
   ]
 }
