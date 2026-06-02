@@ -239,6 +239,7 @@
     "aaamnopr",
     "aaamnort",
     "aaamnoz",
+    "aaamorrrt",
     "aaamrt",
     "aaanpr",
     "aaanrsttu",
@@ -14856,6 +14857,10 @@
     {
       "date": "2026-06-02T17:34:58.392Z",
       "anagram": "aegmnu"
+    },
+    {
+      "date": "2026-06-02T21:04:44.090Z",
+      "anagram": "aaamorrrt"
     }
   ]
 }
