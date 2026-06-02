@@ -2860,6 +2860,7 @@
     "emorsu",
     "emort",
     "emssuu",
+    "enoops",
     "enoosstv",
     "enoostv",
     "eoopprrs",
@@ -14841,6 +14842,10 @@
     {
       "date": "2026-06-01T21:12:52.316Z",
       "anagram": "begloors"
+    },
+    {
+      "date": "2026-06-02T00:51:43.006Z",
+      "anagram": "enoops"
     }
   ]
 }
