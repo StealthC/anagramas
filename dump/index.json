@@ -2957,6 +2957,7 @@
     "imosst",
     "inooorst",
     "inoprt",
+    "inops",
     "inorsstu",
     "inort",
     "inostt",
@@ -14896,6 +14897,10 @@
     {
       "date": "2026-06-04T17:04:22.240Z",
       "anagram": "aeeiilnrt"
+    },
+    {
+      "date": "2026-06-04T20:43:53.357Z",
+      "anagram": "inops"
     }
   ]
 }
