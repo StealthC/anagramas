@@ -967,6 +967,7 @@
     "aainrt",
     "aains",
     "aainss",
+    "aainstz",
     "aaiopttv",
     "aaiostv",
     "aaiprst",
@@ -14911,6 +14912,10 @@
     {
       "date": "2026-06-05T13:03:19.873Z",
       "anagram": "aacddein"
+    },
+    {
+      "date": "2026-06-05T16:49:42.485Z",
+      "anagram": "aainstz"
     }
   ]
 }
