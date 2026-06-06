@@ -1352,6 +1352,7 @@
     "aceos",
     "aceoss",
     "aceprsu",
+    "acerru",
     "acersu",
     "acert",
     "acfgioot",
@@ -14916,6 +14917,10 @@
     {
       "date": "2026-06-05T16:49:42.485Z",
       "anagram": "aainstz"
+    },
+    {
+      "date": "2026-06-06T12:29:47.400Z",
+      "anagram": "acerru"
     }
   ]
 }
