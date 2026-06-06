@@ -1937,6 +1937,7 @@
     "aelsv",
     "aelttux",
     "aemmnt",
+    "aemmss",
     "aemnoooptv",
     "aemnor",
     "aemnt",
@@ -14921,6 +14922,10 @@
     {
       "date": "2026-06-06T12:29:47.400Z",
       "anagram": "acerru"
+    },
+    {
+      "date": "2026-06-06T20:27:05.189Z",
+      "anagram": "aemmss"
     }
   ]
 }
