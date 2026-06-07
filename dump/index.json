@@ -1302,6 +1302,7 @@
     "aceelr",
     "aceennr",
     "aceenrr",
+    "aceeor",
     "aceeprr",
     "aceeprrv",
     "aceerrr",
@@ -14941,6 +14942,10 @@
     {
       "date": "2026-06-07T16:31:31.974Z",
       "anagram": "aabdos"
+    },
+    {
+      "date": "2026-06-07T20:28:32.925Z",
+      "anagram": "aceeor"
     }
   ]
 }
