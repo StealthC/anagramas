@@ -2192,6 +2192,7 @@
     "alprsu",
     "alpsu",
     "alssu",
+    "ammrrruu",
     "amnnooot",
     "amnooot",
     "amnoot",
@@ -14956,6 +14957,10 @@
     {
       "date": "2026-06-08T17:08:44.345Z",
       "anagram": "aeflmru"
+    },
+    {
+      "date": "2026-06-08T20:54:04.455Z",
+      "anagram": "ammrrruu"
     }
   ]
 }
