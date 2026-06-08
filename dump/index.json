@@ -1795,6 +1795,7 @@
     "aefimmor",
     "aefioss",
     "aefiost",
+    "aeflmru",
     "aeflor",
     "aeflors",
     "aeflox",
@@ -14951,6 +14952,10 @@
     {
       "date": "2026-06-08T13:29:42.944Z",
       "anagram": "aabhinstu"
+    },
+    {
+      "date": "2026-06-08T17:08:44.345Z",
+      "anagram": "aeflmru"
     }
   ]
 }
