@@ -2852,6 +2852,7 @@
     "einnort",
     "einnostv",
     "einnotv",
+    "einoorrt",
     "einopst",
     "einopt",
     "einosst",
@@ -14986,6 +14987,10 @@
     {
       "date": "2026-06-10T17:07:07.424Z",
       "anagram": "aciors"
+    },
+    {
+      "date": "2026-06-10T20:54:24.969Z",
+      "anagram": "einoorrt"
     }
   ]
 }
