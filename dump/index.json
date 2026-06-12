@@ -217,6 +217,7 @@
     "aaagprs",
     "aaagst",
     "aaahilpst",
+    "aaahimnrt",
     "aaahinov",
     "aaahinrr",
     "aaahinrrs",
@@ -15021,6 +15022,10 @@
     {
       "date": "2026-06-12T13:11:31.324Z",
       "anagram": "aagmoprrr"
+    },
+    {
+      "date": "2026-06-12T20:46:27.871Z",
+      "anagram": "aaahimnrt"
     }
   ]
 }
