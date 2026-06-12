@@ -924,6 +924,7 @@
     "aaglrs",
     "aagmns",
     "aagmo",
+    "aagmoprrr",
     "aagmr",
     "aagort",
     "aagpr",
@@ -15016,6 +15017,10 @@
     {
       "date": "2026-06-12T00:53:37.685Z",
       "anagram": "aoptu"
+    },
+    {
+      "date": "2026-06-12T13:11:31.324Z",
+      "anagram": "aagmoprrr"
     }
   ]
 }
