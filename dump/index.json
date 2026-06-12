@@ -2227,6 +2227,7 @@
     "aopss",
     "aopssstu",
     "aopst",
+    "aoptu",
     "aorrtv",
     "aorsst",
     "aorst",
@@ -15011,6 +15012,10 @@
     {
       "date": "2026-06-11T20:50:14.035Z",
       "anagram": "aaadfls"
+    },
+    {
+      "date": "2026-06-12T00:53:37.685Z",
+      "anagram": "aoptu"
     }
   ]
 }
