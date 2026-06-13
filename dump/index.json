@@ -2066,6 +2066,7 @@
     "aglnos",
     "aglnotu",
     "aglor",
+    "aglors",
     "agmopr",
     "agmoss",
     "agoorrtu",
@@ -15026,6 +15027,10 @@
     {
       "date": "2026-06-12T20:46:27.871Z",
       "anagram": "aaahimnrt"
+    },
+    {
+      "date": "2026-06-13T00:52:42.979Z",
+      "anagram": "aglors"
     }
   ]
 }
