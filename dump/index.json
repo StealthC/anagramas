@@ -956,6 +956,7 @@
     "aailmx",
     "aailnnot",
     "aailns",
+    "aailnss",
     "aailors",
     "aailpp",
     "aailrs",
@@ -15041,6 +15042,10 @@
     {
       "date": "2026-06-13T16:32:19.289Z",
       "anagram": "eefhiimors"
+    },
+    {
+      "date": "2026-06-13T20:30:12.099Z",
+      "anagram": "aailnss"
     }
   ]
 }
