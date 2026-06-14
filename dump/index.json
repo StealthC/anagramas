@@ -2124,6 +2124,7 @@
     "ailoops",
     "ailors",
     "ailorv",
+    "ailossst",
     "ailotv",
     "ailov",
     "ailr",
@@ -15061,6 +15062,10 @@
     {
       "date": "2026-06-14T16:33:18.683Z",
       "anagram": "adior"
+    },
+    {
+      "date": "2026-06-14T20:30:36.297Z",
+      "anagram": "ailossst"
     }
   ]
 }
