@@ -1691,6 +1691,7 @@
     "adiootv",
     "adiopr",
     "adioprv",
+    "adior",
     "adiosst",
     "adiostu",
     "adiprsu",
@@ -15056,6 +15057,10 @@
     {
       "date": "2026-06-14T12:41:42.268Z",
       "anagram": "chiinoopt"
+    },
+    {
+      "date": "2026-06-14T16:33:18.683Z",
+      "anagram": "adior"
     }
   ]
 }
