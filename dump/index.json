@@ -919,6 +919,7 @@
     "aagisttuv",
     "aaglmsu",
     "aaglmu",
+    "aaglnnoo",
     "aaglnru",
     "aaglop",
     "aaglost",
@@ -15046,6 +15047,10 @@
     {
       "date": "2026-06-13T20:30:12.099Z",
       "anagram": "aailnss"
+    },
+    {
+      "date": "2026-06-14T00:52:17.935Z",
+      "anagram": "aaglnnoo"
     }
   ]
 }
