@@ -1355,6 +1355,7 @@
     "acelsu",
     "acenor",
     "acenosx",
+    "acenovx",
     "acenps",
     "acenssu",
     "aceoors",
@@ -15071,6 +15072,10 @@
     {
       "date": "2026-06-15T00:54:33.053Z",
       "anagram": "adegmos"
+    },
+    {
+      "date": "2026-06-15T10:09:57.081Z",
+      "anagram": "acenovx"
     }
   ]
 }
