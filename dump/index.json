@@ -571,6 +571,7 @@
     "aaddfinnsu",
     "aaddfnosu",
     "aaddfnou",
+    "aaddfors",
     "aaddgnoru",
     "aaddhiinov",
     "aaddiimst",
@@ -15091,6 +15092,10 @@
     {
       "date": "2026-06-16T00:59:07.675Z",
       "anagram": "adgiosv"
+    },
+    {
+      "date": "2026-06-16T13:48:21.505Z",
+      "anagram": "aaddfors"
     }
   ]
 }
