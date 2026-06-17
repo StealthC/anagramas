@@ -1548,6 +1548,7 @@
     "adeepss",
     "adefioss",
     "adeflpu",
+    "adefnno",
     "adefntu",
     "adefoosst",
     "adeforr",
@@ -15116,6 +15117,10 @@
     {
       "date": "2026-06-17T13:17:39.993Z",
       "anagram": "acerstu"
+    },
+    {
+      "date": "2026-06-17T17:03:53.806Z",
+      "anagram": "adefnno"
     }
   ]
 }
