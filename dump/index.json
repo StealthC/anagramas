@@ -1202,6 +1202,7 @@
     "acceest",
     "accehior",
     "acceil",
+    "acceilns",
     "acceimno",
     "acceins",
     "acceipst",
@@ -15136,6 +15137,10 @@
     {
       "date": "2026-06-18T17:04:46.813Z",
       "anagram": "aceiinstt"
+    },
+    {
+      "date": "2026-06-18T20:51:26.911Z",
+      "anagram": "acceilns"
     }
   ]
 }
