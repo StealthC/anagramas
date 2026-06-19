@@ -2560,6 +2560,7 @@
     "cloopssu",
     "clootu",
     "clortu",
+    "cmoopstu",
     "cmooptu",
     "cnoors",
     "cnopsu",
@@ -15156,6 +15157,10 @@
     {
       "date": "2026-06-19T16:50:21.934Z",
       "anagram": "aaclrtu"
+    },
+    {
+      "date": "2026-06-19T20:32:45.669Z",
+      "anagram": "cmoopstu"
     }
   ]
 }
