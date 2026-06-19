@@ -519,6 +519,7 @@
     "aaclpr",
     "aaclpru",
     "aaclpssu",
+    "aaclrtu",
     "aaclssu",
     "aacnor",
     "aacnossu",
@@ -15151,6 +15152,10 @@
     {
       "date": "2026-06-19T13:12:52.484Z",
       "anagram": "deeiirrstz"
+    },
+    {
+      "date": "2026-06-19T16:50:21.934Z",
+      "anagram": "aaclrtu"
     }
   ]
 }
