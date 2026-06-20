@@ -931,6 +931,7 @@
     "aagmo",
     "aagmoprrr",
     "aagmr",
+    "aagor",
     "aagort",
     "aagpr",
     "aahhilnp",
@@ -15161,6 +15162,10 @@
     {
       "date": "2026-06-19T20:32:45.669Z",
       "anagram": "cmoopstu"
+    },
+    {
+      "date": "2026-06-20T00:48:40.344Z",
+      "anagram": "aagor"
     }
   ]
 }
