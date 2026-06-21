@@ -2186,6 +2186,7 @@
     "aiorsst",
     "aiorssu",
     "aiorssuu",
+    "aiorsuu",
     "aiorsv",
     "aiotvv",
     "aiprrt",
@@ -15176,6 +15177,10 @@
     {
       "date": "2026-06-20T20:29:46.460Z",
       "anagram": "efhloot"
+    },
+    {
+      "date": "2026-06-21T00:53:54.409Z",
+      "anagram": "aiorsuu"
     }
   ]
 }
