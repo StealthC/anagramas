@@ -216,6 +216,7 @@
     "aaagnrsu",
     "aaagpr",
     "aaagprs",
+    "aaagrstv",
     "aaagst",
     "aaahilpst",
     "aaahimnrt",
@@ -15206,6 +15207,10 @@
     {
       "date": "2026-06-22T10:03:12.916Z",
       "anagram": "eeglop"
+    },
+    {
+      "date": "2026-06-22T17:33:15.664Z",
+      "anagram": "aaagrstv"
     }
   ]
 }
