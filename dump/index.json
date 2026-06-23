@@ -1827,6 +1827,7 @@
     "aefioss",
     "aefiost",
     "aeflmru",
+    "aeflnoootv",
     "aeflor",
     "aeflors",
     "aeflox",
@@ -15231,6 +15232,10 @@
     {
       "date": "2026-06-23T16:50:29.900Z",
       "anagram": "aaccdeiiln"
+    },
+    {
+      "date": "2026-06-23T20:45:10.951Z",
+      "anagram": "aeflnoootv"
     }
   ]
 }
