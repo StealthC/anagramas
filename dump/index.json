@@ -2056,6 +2056,7 @@
     "afmru",
     "afnoossu",
     "afoossstu",
+    "aforr",
     "afors",
     "afostu",
     "afrstu",
@@ -15216,6 +15217,10 @@
     {
       "date": "2026-06-22T21:01:39.006Z",
       "anagram": "aaeghlnox"
+    },
+    {
+      "date": "2026-06-23T00:47:01.008Z",
+      "anagram": "aforr"
     }
   ]
 }
