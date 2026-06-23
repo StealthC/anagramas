@@ -346,6 +346,7 @@
     "aabort",
     "aabortu",
     "aabott",
+    "aaccdeiiln",
     "aaccdels",
     "aaccdhlooo",
     "aaccdiiirt",
@@ -15226,6 +15227,10 @@
     {
       "date": "2026-06-23T12:59:42.092Z",
       "anagram": "aaddeit"
+    },
+    {
+      "date": "2026-06-23T16:50:29.900Z",
+      "anagram": "aaccdeiiln"
     }
   ]
 }
