@@ -1333,6 +1333,7 @@
     "acegiinsv",
     "aceglos",
     "acegoosz",
+    "acegor",
     "acehln",
     "acehlns",
     "acehls",
@@ -15236,6 +15237,10 @@
     {
       "date": "2026-06-23T20:45:10.951Z",
       "anagram": "aeflnoootv"
+    },
+    {
+      "date": "2026-06-24T00:42:55.285Z",
+      "anagram": "acegor"
     }
   ]
 }
