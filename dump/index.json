@@ -2286,6 +2286,7 @@
     "bceirru",
     "bcelorsu",
     "bcenoos",
+    "bceoorst",
     "bceor",
     "bchios",
     "bciilmoos",
@@ -15251,6 +15252,10 @@
     {
       "date": "2026-06-24T16:45:50.660Z",
       "anagram": "acefrs"
+    },
+    {
+      "date": "2026-06-24T20:36:12.347Z",
+      "anagram": "bceoorst"
     }
   ]
 }
