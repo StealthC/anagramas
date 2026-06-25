@@ -427,6 +427,7 @@
     "aacdirs",
     "aacdjnsu",
     "aacdlmouu",
+    "aacdlno",
     "aacdlos",
     "aacdmos",
     "aacdn",
@@ -15261,6 +15262,10 @@
     {
       "date": "2026-06-25T00:47:51.085Z",
       "anagram": "accegiloo"
+    },
+    {
+      "date": "2026-06-25T12:50:30.089Z",
+      "anagram": "aacdlno"
     }
   ]
 }
