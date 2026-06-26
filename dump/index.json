@@ -1039,6 +1039,7 @@
     "aaorrsu",
     "aaorstu",
     "aaort",
+    "aaortu",
     "aaorv",
     "aaprrz",
     "aaprs",
@@ -15271,6 +15272,10 @@
     {
       "date": "2026-06-25T20:41:36.216Z",
       "anagram": "abdeenttu"
+    },
+    {
+      "date": "2026-06-26T00:49:12.851Z",
+      "anagram": "aaortu"
     }
   ]
 }
