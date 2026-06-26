@@ -1908,6 +1908,7 @@
     "aeilnno",
     "aeilnp",
     "aeilrs",
+    "aeilrtu",
     "aeilrtv",
     "aeilss",
     "aeilssv",
@@ -15276,6 +15277,10 @@
     {
       "date": "2026-06-26T00:49:12.851Z",
       "anagram": "aaortu"
+    },
+    {
+      "date": "2026-06-26T12:46:09.037Z",
+      "anagram": "aeilrtu"
     }
   ]
 }
