@@ -484,6 +484,7 @@
     "aacgin",
     "aacginn",
     "aacginns",
+    "aacginnsv",
     "aacgn",
     "aachiimns",
     "aachiinx",
@@ -15301,6 +15302,10 @@
     {
       "date": "2026-06-27T16:26:01.585Z",
       "anagram": "deehopss"
+    },
+    {
+      "date": "2026-06-27T20:25:38.712Z",
+      "anagram": "aacginnsv"
     }
   ]
 }
