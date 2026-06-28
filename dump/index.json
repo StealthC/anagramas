@@ -1460,6 +1460,7 @@
     "acinop",
     "acinor",
     "acinosv",
+    "acinov",
     "acinovv",
     "aciooss",
     "aciootv",
@@ -15306,6 +15307,10 @@
     {
       "date": "2026-06-27T20:25:38.712Z",
       "anagram": "aacginnsv"
+    },
+    {
+      "date": "2026-06-28T00:48:15.919Z",
+      "anagram": "acinov"
     }
   ]
 }
