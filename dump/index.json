@@ -417,6 +417,7 @@
     "aacdiiins",
     "aacdiilmp",
     "aacdiinntu",
+    "aacdiint",
     "aacdiiprr",
     "aacdilr",
     "aacdinnooz",
@@ -15311,6 +15312,10 @@
     {
       "date": "2026-06-28T00:48:15.919Z",
       "anagram": "acinov"
+    },
+    {
+      "date": "2026-06-28T12:30:57.222Z",
+      "anagram": "aacdiint"
     }
   ]
 }
