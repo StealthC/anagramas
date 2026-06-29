@@ -2723,6 +2723,7 @@
     "dfnosu",
     "dgiinos",
     "dgiinost",
+    "dginos",
     "dginosu",
     "dgiorsu",
     "dhiloot",
@@ -15331,6 +15332,10 @@
     {
       "date": "2026-06-29T13:31:11.819Z",
       "anagram": "efgorsu"
+    },
+    {
+      "date": "2026-06-29T17:01:48.950Z",
+      "anagram": "dginos"
     }
   ]
 }
