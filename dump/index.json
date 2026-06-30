@@ -976,6 +976,7 @@
     "aailrs",
     "aailrsv",
     "aailrtv",
+    "aailv",
     "aaimnnot",
     "aaimnootu",
     "aaimnqu",
@@ -15351,6 +15352,10 @@
     {
       "date": "2026-06-30T12:43:27.250Z",
       "anagram": "aiiilnrtuz"
+    },
+    {
+      "date": "2026-06-30T20:39:56.415Z",
+      "anagram": "aailv"
     }
   ]
 }
