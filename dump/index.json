@@ -1955,6 +1955,7 @@
     "aeiprtu",
     "aeiqqrsuu",
     "aeiqrsu",
+    "aeirrst",
     "aeirsstt",
     "aeirssttz",
     "aeirst",
@@ -15371,6 +15372,10 @@
     {
       "date": "2026-07-01T16:48:05.761Z",
       "anagram": "ceorsssu"
+    },
+    {
+      "date": "2026-07-01T20:36:15.405Z",
+      "anagram": "aeirrst"
     }
   ]
 }
