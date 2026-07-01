@@ -2667,6 +2667,7 @@
     "defgloosu",
     "defgloou",
     "defioprs",
+    "defior",
     "defiossu",
     "defiost",
     "degiorrsu",
@@ -15356,6 +15357,10 @@
     {
       "date": "2026-06-30T20:39:56.415Z",
       "anagram": "aailv"
+    },
+    {
+      "date": "2026-07-01T00:50:08.619Z",
+      "anagram": "defior"
     }
   ]
 }
