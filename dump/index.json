@@ -1762,6 +1762,7 @@
     "aeeerst",
     "aeefgrrs",
     "aeefilrvx",
+    "aeefinrt",
     "aeefiprt",
     "aeeflntu",
     "aeefnrt",
@@ -15376,6 +15377,10 @@
     {
       "date": "2026-07-01T20:36:15.405Z",
       "anagram": "aeirrst"
+    },
+    {
+      "date": "2026-07-02T10:35:27.774Z",
+      "anagram": "aeefinrt"
     }
   ]
 }
