@@ -71,6 +71,7 @@
     "aaaccpru",
     "aaacddehps",
     "aaacddelm",
+    "aaacddiin",
     "aaacddmoo",
     "aaacdelr",
     "aaacdemo",
@@ -960,6 +961,7 @@
     "aaiilnv",
     "aaiimpsst",
     "aaiiprrtvz",
+    "aaijmp",
     "aaijrv",
     "aaiknnost",
     "aaiknnot",
@@ -2450,6 +2452,7 @@
     "ceeforrs",
     "ceeginor",
     "ceehilmop",
+    "ceehimnnot",
     "ceeijossu",
     "ceeillstu",
     "ceeilosss",
@@ -2861,6 +2864,7 @@
     "efmoors",
     "efnosstu",
     "efooorrssv",
+    "efooorrsv",
     "eghilors",
     "egiiilmot",
     "egiilmot",
@@ -2872,6 +2876,7 @@
     "egilooos",
     "egiloops",
     "egimooss",
+    "eginrsv",
     "egiorrsst",
     "egirrrssu",
     "egirst",
@@ -2897,6 +2902,7 @@
     "eiimorssv",
     "eiinnosstt",
     "eiinooprs",
+    "eiinorrt",
     "eiinorrttu",
     "eiinorss",
     "eiinorst",
@@ -15381,6 +15387,30 @@
     {
       "date": "2026-07-02T10:35:27.774Z",
       "anagram": "aeefinrt"
+    },
+    {
+      "date": "2026-07-02T13:53:37.659Z",
+      "anagram": "eiinorrt"
+    },
+    {
+      "date": "2026-07-02T17:43:55.048Z",
+      "anagram": "aaacddiin"
+    },
+    {
+      "date": "2026-07-03T02:43:37.436Z",
+      "anagram": "aaijmp"
+    },
+    {
+      "date": "2026-07-03T10:32:46.724Z",
+      "anagram": "eginrsv"
+    },
+    {
+      "date": "2026-07-03T13:57:37.698Z",
+      "anagram": "efooorrsv"
+    },
+    {
+      "date": "2026-07-03T17:22:39.463Z",
+      "anagram": "ceehimnnot"
     }
   ]
 }
