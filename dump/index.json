@@ -2011,6 +2011,7 @@
     "aenoprt",
     "aenorrss",
     "aenorrv",
+    "aenorss",
     "aenossv",
     "aenost",
     "aenostv",
@@ -15426,6 +15427,10 @@
     {
       "date": "2026-07-04T10:07:02.889Z",
       "anagram": "aaceghntu"
+    },
+    {
+      "date": "2026-07-04T13:19:04.589Z",
+      "anagram": "aenorss"
     }
   ]
 }
