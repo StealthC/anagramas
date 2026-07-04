@@ -1040,6 +1040,7 @@
     "aanotv",
     "aanrs",
     "aanst",
+    "aaooprsv",
     "aaopr",
     "aaopsst",
     "aaopt",
@@ -15431,6 +15432,10 @@
     {
       "date": "2026-07-04T13:19:04.589Z",
       "anagram": "aenorss"
+    },
+    {
+      "date": "2026-07-04T17:01:07.896Z",
+      "anagram": "aaooprsv"
     }
   ]
 }
