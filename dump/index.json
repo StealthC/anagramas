@@ -1902,6 +1902,7 @@
     "aeiiinsvv",
     "aeiijntv",
     "aeiilltuvz",
+    "aeiilmnr",
     "aeiimnrs",
     "aeiimnss",
     "aeiimrss",
@@ -15436,6 +15437,10 @@
     {
       "date": "2026-07-04T17:01:07.896Z",
       "anagram": "aaooprsv"
+    },
+    {
+      "date": "2026-07-04T20:54:10.749Z",
+      "anagram": "aeiilmnr"
     }
   ]
 }
