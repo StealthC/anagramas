@@ -452,6 +452,7 @@
     "aacefls",
     "aacefot",
     "aaceft",
+    "aaceghntu",
     "aacehims",
     "aacehlnr",
     "aacehlsv",
@@ -15421,6 +15422,10 @@
     {
       "date": "2026-07-04T02:39:26.886Z",
       "anagram": "aaabcelnr"
+    },
+    {
+      "date": "2026-07-04T10:07:02.889Z",
+      "anagram": "aaceghntu"
     }
   ]
 }
