@@ -1654,6 +1654,7 @@
     "adeorrss",
     "adeorz",
     "adeoss",
+    "adeostt",
     "adeov",
     "adepr",
     "adeprs",
@@ -15461,6 +15462,10 @@
     {
       "date": "2026-07-05T17:06:12.030Z",
       "anagram": "beorrs"
+    },
+    {
+      "date": "2026-07-05T20:56:42.086Z",
+      "anagram": "adeostt"
     }
   ]
 }
