@@ -2413,6 +2413,7 @@
     "cdeeiimop",
     "cdeeiimops",
     "cdeeillosu",
+    "cdeeimos",
     "cdeeios",
     "cdeeioss",
     "cdeenors",
@@ -15486,6 +15487,10 @@
     {
       "date": "2026-07-06T21:26:33.573Z",
       "anagram": "eegnoorss"
+    },
+    {
+      "date": "2026-07-07T10:52:36.723Z",
+      "anagram": "cdeeimos"
     }
   ]
 }
