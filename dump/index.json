@@ -1457,6 +1457,7 @@
     "aciintv",
     "aciioppr",
     "aciiopsu",
+    "aciiors",
     "aciirrs",
     "acillooqu",
     "acilmr",
@@ -15496,6 +15497,10 @@
     {
       "date": "2026-07-07T17:56:34.541Z",
       "anagram": "chhiinoqsu"
+    },
+    {
+      "date": "2026-07-07T21:21:12.315Z",
+      "anagram": "aciiors"
     }
   ]
 }
