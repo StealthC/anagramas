@@ -91,6 +91,7 @@
     "aaacdl",
     "aaacdlns",
     "aaacdlop",
+    "aaacdlou",
     "aaacdls",
     "aaacdnn",
     "aaacdnns",
@@ -15516,6 +15517,10 @@
     {
       "date": "2026-07-08T13:58:05.788Z",
       "anagram": "ceooopprrs"
+    },
+    {
+      "date": "2026-07-08T17:26:04.574Z",
+      "anagram": "aaacdlou"
     }
   ]
 }
