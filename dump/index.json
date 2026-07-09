@@ -1254,6 +1254,7 @@
     "accitu",
     "acclo",
     "accmoopt",
+    "accoors",
     "accoorv",
     "accor",
     "acddefiio",
@@ -15536,6 +15537,10 @@
     {
       "date": "2026-07-09T10:52:30.067Z",
       "anagram": "aaciipr"
+    },
+    {
+      "date": "2026-07-09T14:52:41.799Z",
+      "anagram": "accoors"
     }
   ]
 }
