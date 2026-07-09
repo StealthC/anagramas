@@ -511,6 +511,7 @@
     "aaciinooz",
     "aaciinstt",
     "aaciiosx",
+    "aaciipr",
     "aaciipst",
     "aacilr",
     "aacinnt",
@@ -15531,6 +15532,10 @@
     {
       "date": "2026-07-09T02:44:03.182Z",
       "anagram": "abcddeoos"
+    },
+    {
+      "date": "2026-07-09T10:52:30.067Z",
+      "anagram": "aaciipr"
     }
   ]
 }
