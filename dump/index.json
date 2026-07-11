@@ -2289,6 +2289,7 @@
     "ansu",
     "aoopr",
     "aooprs",
+    "aoopst",
     "aoopv",
     "aoorrt",
     "aoorrtu",
@@ -15571,6 +15572,10 @@
     {
       "date": "2026-07-10T21:03:29.890Z",
       "anagram": "aabeglnu"
+    },
+    {
+      "date": "2026-07-11T02:26:02.929Z",
+      "anagram": "aoopst"
     }
   ]
 }
