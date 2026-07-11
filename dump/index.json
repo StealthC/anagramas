@@ -665,6 +665,7 @@
     "aadeorv",
     "aadeostvx",
     "aadeprsz",
+    "aadeprux",
     "aadept",
     "aadeqrssu",
     "aadeqru",
@@ -15576,6 +15577,10 @@
     {
       "date": "2026-07-11T02:26:02.929Z",
       "anagram": "aoopst"
+    },
+    {
+      "date": "2026-07-11T16:54:26.839Z",
+      "anagram": "aadeprux"
     }
   ]
 }
