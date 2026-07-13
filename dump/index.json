@@ -964,6 +964,7 @@
     "aahinpr",
     "aahinrsv",
     "aahlost",
+    "aahlot",
     "aahlrr",
     "aahmnop",
     "aahmnoss",
@@ -15616,6 +15617,10 @@
     {
       "date": "2026-07-13T10:57:24.800Z",
       "anagram": "ajmoru"
+    },
+    {
+      "date": "2026-07-13T14:27:52.425Z",
+      "anagram": "aahlot"
     }
   ]
 }
