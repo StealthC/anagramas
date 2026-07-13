@@ -772,6 +772,7 @@
     "aadpsux",
     "aadrrsu",
     "aadrstuu",
+    "aadrsu",
     "aaeeemnttx",
     "aaeefgllnt",
     "aaeefsstt",
@@ -15621,6 +15622,10 @@
     {
       "date": "2026-07-13T14:27:52.425Z",
       "anagram": "aahlot"
+    },
+    {
+      "date": "2026-07-13T17:52:21.228Z",
+      "anagram": "aadrsu"
     }
   ]
 }
