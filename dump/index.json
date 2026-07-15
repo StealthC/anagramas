@@ -1927,6 +1927,7 @@
     "aeiijntv",
     "aeiilltuvz",
     "aeiilmnr",
+    "aeiimmnot",
     "aeiimnrs",
     "aeiimnss",
     "aeiimrss",
@@ -15651,6 +15652,10 @@
     {
       "date": "2026-07-15T13:38:04.116Z",
       "anagram": "eeilmtv"
+    },
+    {
+      "date": "2026-07-15T17:14:21.152Z",
+      "anagram": "aeiimmnot"
     }
   ]
 }
