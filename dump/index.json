@@ -37,6 +37,7 @@
     "aaabccmstu",
     "aaabcdeno",
     "aaabcdms",
+    "aaabcdns",
     "aaabcelnr",
     "aaabcest",
     "aaabchlsu",
@@ -15686,6 +15687,10 @@
     {
       "date": "2026-07-17T02:25:51.379Z",
       "anagram": "abbeeegnrs"
+    },
+    {
+      "date": "2026-07-17T13:21:35.798Z",
+      "anagram": "aaabcdns"
     }
   ]
 }
