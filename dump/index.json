@@ -2542,6 +2542,7 @@
     "ceimorru",
     "ceimot",
     "ceinopss",
+    "ceinort",
     "ceinos",
     "ceiooquv",
     "ceioort",
@@ -15696,6 +15697,10 @@
     {
       "date": "2026-07-17T17:08:21.999Z",
       "anagram": "aclor"
+    },
+    {
+      "date": "2026-07-18T06:02:12.150Z",
+      "anagram": "ceinort"
     }
   ]
 }
