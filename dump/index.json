@@ -2727,6 +2727,7 @@
     "deeooprrsv",
     "deeorrst",
     "deeosstu",
+    "deesst",
     "deesstu",
     "defgloosu",
     "defgloou",
@@ -15756,6 +15757,10 @@
     {
       "date": "2026-07-21T10:22:32.459Z",
       "anagram": "aeiinrt"
+    },
+    {
+      "date": "2026-07-21T13:42:58.999Z",
+      "anagram": "deesst"
     }
   ]
 }
