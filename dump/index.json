@@ -1948,6 +1948,7 @@
     "aeiinopr",
     "aeiinrrt",
     "aeiinrs",
+    "aeiinrt",
     "aeiinrttt",
     "aeiinssstv",
     "aeiinsttv",
@@ -15751,6 +15752,10 @@
     {
       "date": "2026-07-21T02:26:41.354Z",
       "anagram": "emnoorssu"
+    },
+    {
+      "date": "2026-07-21T10:22:32.459Z",
+      "anagram": "aeiinrt"
     }
   ]
 }
