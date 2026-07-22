@@ -2336,6 +2336,7 @@
     "aorst",
     "aorstt",
     "aortt",
+    "aostu",
     "aosv",
     "arrsu",
     "arsu",
@@ -15776,6 +15777,10 @@
     {
       "date": "2026-07-22T02:25:26.229Z",
       "anagram": "aaadeistz"
+    },
+    {
+      "date": "2026-07-22T10:22:30.918Z",
+      "anagram": "aostu"
     }
   ]
 }
