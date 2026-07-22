@@ -155,6 +155,7 @@
     "aaadeiln",
     "aaadeilnpz",
     "aaadeimnt",
+    "aaadeistz",
     "aaadeitz",
     "aaadelnt",
     "aaadelrt",
@@ -15771,6 +15772,10 @@
     {
       "date": "2026-07-21T21:05:35.037Z",
       "anagram": "aaacns"
+    },
+    {
+      "date": "2026-07-22T02:25:26.229Z",
+      "anagram": "aaadeistz"
     }
   ]
 }
