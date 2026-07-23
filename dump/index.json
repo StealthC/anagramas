@@ -1540,6 +1540,7 @@
     "acnort",
     "acoop",
     "acop",
+    "acopt",
     "acorrs",
     "acorrt",
     "acors",
@@ -15806,6 +15807,10 @@
     {
       "date": "2026-07-23T13:50:35.536Z",
       "anagram": "adeensst"
+    },
+    {
+      "date": "2026-07-23T17:18:51.298Z",
+      "anagram": "acopt"
     }
   ]
 }
