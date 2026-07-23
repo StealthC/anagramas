@@ -1605,6 +1605,7 @@
     "adeemopr",
     "adeenpss",
     "adeenrt",
+    "adeensst",
     "adeenstt",
     "adeensttu",
     "adeeorrss",
@@ -15801,6 +15802,10 @@
     {
       "date": "2026-07-23T10:19:35.332Z",
       "anagram": "aelnstu"
+    },
+    {
+      "date": "2026-07-23T13:50:35.536Z",
+      "anagram": "adeensst"
     }
   ]
 }
