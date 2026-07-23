@@ -2704,6 +2704,7 @@
     "deeeinrstt",
     "deeeiorst",
     "deefiiinsv",
+    "deefinossv",
     "deefnor",
     "deefors",
     "deehilnosv",
@@ -15791,6 +15792,10 @@
     {
       "date": "2026-07-22T17:14:58.265Z",
       "anagram": "aaaaccdm"
+    },
+    {
+      "date": "2026-07-23T02:30:13.995Z",
+      "anagram": "deefinossv"
     }
   ]
 }
