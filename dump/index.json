@@ -2026,6 +2026,7 @@
     "aelno",
     "aelnorr",
     "aelnr",
+    "aelnstu",
     "aelnt",
     "aelopss",
     "aelos",
@@ -15796,6 +15797,10 @@
     {
       "date": "2026-07-23T02:30:13.995Z",
       "anagram": "deefinossv"
+    },
+    {
+      "date": "2026-07-23T10:19:35.332Z",
+      "anagram": "aelnstu"
     }
   ]
 }
