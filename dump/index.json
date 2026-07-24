@@ -699,6 +699,7 @@
     "aadfilsuz",
     "aadfios",
     "aadfir",
+    "aadfnor",
     "aadfrstu",
     "aadgiinst",
     "aadgilru",
@@ -15821,6 +15822,10 @@
     {
       "date": "2026-07-24T10:13:16.397Z",
       "anagram": "cginoostu"
+    },
+    {
+      "date": "2026-07-24T13:38:14.414Z",
+      "anagram": "aadfnor"
     }
   ]
 }
