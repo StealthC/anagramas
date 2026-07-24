@@ -1042,6 +1042,7 @@
     "aalmnor",
     "aalmo",
     "aalmoopt",
+    "aalnprt",
     "aalootx",
     "aaloppu",
     "aalopssu",
@@ -15811,6 +15812,10 @@
     {
       "date": "2026-07-23T17:18:51.298Z",
       "anagram": "acopt"
+    },
+    {
+      "date": "2026-07-24T02:27:27.464Z",
+      "anagram": "aalnprt"
     }
   ]
 }
