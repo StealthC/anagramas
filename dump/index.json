@@ -2806,6 +2806,7 @@
     "dfnosu",
     "dgiinos",
     "dgiinost",
+    "dgimosu",
     "dginos",
     "dginosu",
     "dgiorsu",
@@ -15826,6 +15827,10 @@
     {
       "date": "2026-07-24T13:38:14.414Z",
       "anagram": "aadfnor"
+    },
+    {
+      "date": "2026-07-24T17:27:20.195Z",
+      "anagram": "dgimosu"
     }
   ]
 }
