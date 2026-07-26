@@ -2996,6 +2996,7 @@
     "eiinorst",
     "eiinrstv",
     "eiinstu",
+    "eiioqsstu",
     "eiiorrsttv",
     "eijnoosv",
     "eillnosuv",
@@ -15871,6 +15872,10 @@
     {
       "date": "2026-07-26T16:56:26.505Z",
       "anagram": "aeoru"
+    },
+    {
+      "date": "2026-07-26T20:55:09.208Z",
+      "anagram": "eiioqsstu"
     }
   ]
 }
