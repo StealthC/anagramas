@@ -539,6 +539,7 @@
     "aaciss",
     "aacisstu",
     "aacissu",
+    "aacistv",
     "aacjoors",
     "aaclm",
     "aaclmruu",
@@ -15861,6 +15862,10 @@
     {
       "date": "2026-07-26T02:32:30.031Z",
       "anagram": "egooprst"
+    },
+    {
+      "date": "2026-07-26T13:14:56.613Z",
+      "anagram": "aacistv"
     }
   ]
 }
