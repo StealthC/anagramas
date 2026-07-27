@@ -853,6 +853,7 @@
     "aaeiprrr",
     "aaeiqrtu",
     "aaeirs",
+    "aaeirt",
     "aaeisstt",
     "aaeistt",
     "aaeistv",
@@ -15881,6 +15882,10 @@
     {
       "date": "2026-07-27T02:40:01.200Z",
       "anagram": "adfiors"
+    },
+    {
+      "date": "2026-07-27T11:17:03.153Z",
+      "anagram": "aaeirt"
     }
   ]
 }
