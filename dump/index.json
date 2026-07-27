@@ -942,6 +942,7 @@
     "aagglr",
     "aaghiimnu",
     "aaghiln",
+    "aagiilns",
     "aagiilrz",
     "aagiinstvv",
     "aagiintvv",
@@ -15896,6 +15897,10 @@
     {
       "date": "2026-07-27T17:39:58.463Z",
       "anagram": "ehilmnooz"
+    },
+    {
+      "date": "2026-07-27T21:07:18.123Z",
+      "anagram": "aagiilns"
     }
   ]
 }
