@@ -2126,6 +2126,7 @@
     "afioost",
     "afiopr",
     "afios",
+    "afioss",
     "afiossst",
     "afiost",
     "afirrtu",
@@ -15906,6 +15907,10 @@
     {
       "date": "2026-07-28T02:20:40.151Z",
       "anagram": "aeforr"
+    },
+    {
+      "date": "2026-07-28T10:31:30.664Z",
+      "anagram": "afioss"
     }
   ]
 }
