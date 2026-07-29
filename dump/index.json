@@ -1404,6 +1404,7 @@
     "aceiinstt",
     "aceiinvv",
     "aceiirsv",
+    "aceiloov",
     "aceilx",
     "aceimnr",
     "aceimnru",
@@ -15941,6 +15942,10 @@
     {
       "date": "2026-07-29T14:03:35.227Z",
       "anagram": "aaaadmpr"
+    },
+    {
+      "date": "2026-07-29T20:52:24.759Z",
+      "anagram": "aceiloov"
     }
   ]
 }
