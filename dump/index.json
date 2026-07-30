@@ -1330,6 +1330,7 @@
     "acdhino",
     "acdiiijsu",
     "acdiiil",
+    "acdiiilps",
     "acdiiino",
     "acdiiinss",
     "acdiilnno",
@@ -15946,6 +15947,10 @@
     {
       "date": "2026-07-29T20:52:24.759Z",
       "anagram": "aceiloov"
+    },
+    {
+      "date": "2026-07-30T02:06:35.484Z",
+      "anagram": "acdiiilps"
     }
   ]
 }
