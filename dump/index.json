@@ -2025,6 +2025,7 @@
     "aeiprrtx",
     "aeiprt",
     "aeiprtu",
+    "aeiprtuv",
     "aeiqqrsuu",
     "aeiqrsu",
     "aeirrst",
@@ -15961,6 +15962,10 @@
     {
       "date": "2026-07-30T13:52:41.417Z",
       "anagram": "adeorrr"
+    },
+    {
+      "date": "2026-07-30T17:23:18.633Z",
+      "anagram": "aeiprtuv"
     }
   ]
 }
