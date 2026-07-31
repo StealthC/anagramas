@@ -3003,6 +3003,7 @@
     "ehinoors",
     "ehinops",
     "ehinorss",
+    "ehnoost",
     "eiiilnsvv",
     "eiilmmort",
     "eiiloprt",
@@ -15981,6 +15982,10 @@
     {
       "date": "2026-07-31T10:35:29.431Z",
       "anagram": "cdeoor"
+    },
+    {
+      "date": "2026-07-31T17:26:06.875Z",
+      "anagram": "ehnoost"
     }
   ]
 }
