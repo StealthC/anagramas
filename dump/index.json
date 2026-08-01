@@ -2551,6 +2551,7 @@
     "ceeilsstuv",
     "ceeinnosv",
     "ceeinoss",
+    "ceeinrrsv",
     "ceeiors",
     "ceeiossvx",
     "ceeiprsst",
@@ -15996,6 +15997,10 @@
     {
       "date": "2026-08-01T13:13:42.141Z",
       "anagram": "aaemrrrt"
+    },
+    {
+      "date": "2026-08-01T16:56:17.465Z",
+      "anagram": "ceeinrrsv"
     }
   ]
 }
