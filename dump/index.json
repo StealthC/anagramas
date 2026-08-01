@@ -889,6 +889,7 @@
     "aaemnrsz",
     "aaemnt",
     "aaempsss",
+    "aaemrrrt",
     "aaemrrt",
     "aaennorsz",
     "aaenorss",
@@ -15991,6 +15992,10 @@
     {
       "date": "2026-07-31T21:00:50.128Z",
       "anagram": "aimnnos"
+    },
+    {
+      "date": "2026-08-01T13:13:42.141Z",
+      "anagram": "aaemrrrt"
     }
   ]
 }
