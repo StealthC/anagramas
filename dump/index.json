@@ -1437,6 +1437,7 @@
     "aceoosv",
     "aceop",
     "aceopru",
+    "aceops",
     "aceopt",
     "aceos",
     "aceoss",
@@ -16006,6 +16007,10 @@
     {
       "date": "2026-08-01T20:48:14.047Z",
       "anagram": "acilpssu"
+    },
+    {
+      "date": "2026-08-02T02:31:43.779Z",
+      "anagram": "aceops"
     }
   ]
 }
