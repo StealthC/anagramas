@@ -1608,6 +1608,7 @@
     "addior",
     "addiors",
     "addiost",
+    "addmoos",
     "addmosu",
     "addoops",
     "addoost",
@@ -16021,6 +16022,10 @@
     {
       "date": "2026-08-02T16:55:19.211Z",
       "anagram": "aachnopu"
+    },
+    {
+      "date": "2026-08-02T20:52:06.088Z",
+      "anagram": "addmoos"
     }
   ]
 }
