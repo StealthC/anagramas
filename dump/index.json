@@ -2307,6 +2307,7 @@
     "aiotvv",
     "aiprrt",
     "aiprs",
+    "aipsst",
     "aiqrtu",
     "airs",
     "airssttu",
@@ -16036,6 +16037,10 @@
     {
       "date": "2026-08-03T20:59:28.492Z",
       "anagram": "aertv"
+    },
+    {
+      "date": "2026-08-04T02:12:49.930Z",
+      "anagram": "aipsst"
     }
   ]
 }
