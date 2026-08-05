@@ -2289,6 +2289,7 @@
     "ainort",
     "ainortu",
     "ainosz",
+    "ainov",
     "ainqtu",
     "ainrtt",
     "ainstt",
@@ -16066,6 +16067,10 @@
     {
       "date": "2026-08-05T02:12:11.851Z",
       "anagram": "aabcfiiss"
+    },
+    {
+      "date": "2026-08-05T10:31:14.748Z",
+      "anagram": "ainov"
     }
   ]
 }
