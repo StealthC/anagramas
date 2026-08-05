@@ -756,6 +756,7 @@
     "aadiprs",
     "aadiprv",
     "aadir",
+    "aadirrttu",
     "aadirt",
     "aadisstu",
     "aadistu",
@@ -16076,6 +16077,10 @@
     {
       "date": "2026-08-05T14:01:50.579Z",
       "anagram": "bddgioosu"
+    },
+    {
+      "date": "2026-08-05T17:26:07.444Z",
+      "anagram": "aadirrttu"
     }
   ]
 }
