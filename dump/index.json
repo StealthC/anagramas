@@ -2487,6 +2487,7 @@
     "cceehlost",
     "cceemoor",
     "cceennorv",
+    "ccehloos",
     "cceioorv",
     "cceiost",
     "cceloosu",
@@ -16101,6 +16102,10 @@
     {
       "date": "2026-08-07T12:56:18.623Z",
       "anagram": "acoorv"
+    },
+    {
+      "date": "2026-08-07T16:51:16.371Z",
+      "anagram": "ccehloos"
     }
   ]
 }
