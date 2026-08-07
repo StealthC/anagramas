@@ -1565,6 +1565,7 @@
     "acnorr",
     "acnort",
     "acoop",
+    "acoorv",
     "acop",
     "acopt",
     "acorr",
@@ -16096,6 +16097,10 @@
     {
       "date": "2026-08-07T00:51:19.587Z",
       "anagram": "aeefirtv"
+    },
+    {
+      "date": "2026-08-07T12:56:18.623Z",
+      "anagram": "acoorv"
     }
   ]
 }
