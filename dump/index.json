@@ -1843,6 +1843,7 @@
     "aeefimntx",
     "aeefinrt",
     "aeefiprt",
+    "aeefirtv",
     "aeeflntu",
     "aeefnrt",
     "aeeghnnoss",
@@ -16091,6 +16092,10 @@
     {
       "date": "2026-08-06T02:21:20.662Z",
       "anagram": "aaacclor"
+    },
+    {
+      "date": "2026-08-07T00:51:19.587Z",
+      "anagram": "aeefirtv"
     }
   ]
 }
