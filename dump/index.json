@@ -1534,6 +1534,7 @@
     "acios",
     "aciosssv",
     "aciostt",
+    "aciosv",
     "aciott",
     "aciotx",
     "aciprr",
@@ -16111,6 +16112,10 @@
     {
       "date": "2026-08-07T20:37:26.491Z",
       "anagram": "cciimoo"
+    },
+    {
+      "date": "2026-08-08T12:40:57.774Z",
+      "anagram": "aciosv"
     }
   ]
 }
