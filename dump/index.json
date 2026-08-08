@@ -1330,6 +1330,7 @@
     "acdeinsv",
     "acdeior",
     "acdemno",
+    "acdemor",
     "acdennor",
     "acdenos",
     "acdeo",
@@ -16116,6 +16117,10 @@
     {
       "date": "2026-08-08T12:40:57.774Z",
       "anagram": "aciosv"
+    },
+    {
+      "date": "2026-08-08T16:29:27.118Z",
+      "anagram": "acdemor"
     }
   ]
 }
