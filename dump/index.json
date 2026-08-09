@@ -1078,6 +1078,7 @@
     "aamors",
     "aampr",
     "aamprt",
+    "aamprtu",
     "aamrt",
     "aamst",
     "aanoprt",
@@ -16126,6 +16127,10 @@
     {
       "date": "2026-08-08T20:25:34.053Z",
       "anagram": "adiilnov"
+    },
+    {
+      "date": "2026-08-09T01:25:52.910Z",
+      "anagram": "aamprtu"
     }
   ]
 }
