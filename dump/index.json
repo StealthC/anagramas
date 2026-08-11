@@ -135,6 +135,7 @@
     "aaaclrr",
     "aaaclst",
     "aaacmrrss",
+    "aaacnrsst",
     "aaacns",
     "aaacntt",
     "aaacopru",
@@ -16156,6 +16157,10 @@
     {
       "date": "2026-08-11T12:56:52.944Z",
       "anagram": "aacddeinnu"
+    },
+    {
+      "date": "2026-08-11T16:54:50.340Z",
+      "anagram": "aaacnrsst"
     }
   ]
 }
