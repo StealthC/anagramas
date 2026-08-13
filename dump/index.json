@@ -2057,6 +2057,7 @@
     "aeiprt",
     "aeiprtu",
     "aeiprtuv",
+    "aeips",
     "aeiqqrsuu",
     "aeiqrsu",
     "aeirrst",
@@ -16181,6 +16182,10 @@
     {
       "date": "2026-08-13T01:45:22.277Z",
       "anagram": "abeillr"
+    },
+    {
+      "date": "2026-08-13T13:02:50.672Z",
+      "anagram": "aeips"
     }
   ]
 }
