@@ -565,6 +565,7 @@
     "aaclpssu",
     "aaclrtu",
     "aaclssu",
+    "aacmns",
     "aacnor",
     "aacnossu",
     "aacnrt",
@@ -16211,6 +16212,10 @@
     {
       "date": "2026-08-14T16:50:37.424Z",
       "anagram": "aaacehnquv"
+    },
+    {
+      "date": "2026-08-14T20:27:20.931Z",
+      "anagram": "aacmns"
     }
   ]
 }
