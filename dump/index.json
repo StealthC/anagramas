@@ -1706,6 +1706,7 @@
     "adeirsv",
     "adeirt",
     "adeirtu",
+    "adeittu",
     "adelmor",
     "adelopr",
     "adelorz",
@@ -16201,6 +16202,10 @@
     {
       "date": "2026-08-14T01:43:14.681Z",
       "anagram": "achot"
+    },
+    {
+      "date": "2026-08-14T12:59:28.922Z",
+      "anagram": "adeittu"
     }
   ]
 }
