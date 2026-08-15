@@ -1593,6 +1593,7 @@
     "acos",
     "acost",
     "acrrsuu",
+    "adddeegor",
     "adddeeims",
     "adddeeins",
     "adddegiin",
@@ -16221,6 +16222,10 @@
     {
       "date": "2026-08-15T01:03:41.266Z",
       "anagram": "addeiinsv"
+    },
+    {
+      "date": "2026-08-15T12:31:30.661Z",
+      "anagram": "adddeegor"
     }
   ]
 }
