@@ -2116,6 +2116,7 @@
     "aemrsu",
     "aemrt",
     "aemrttu",
+    "aems",
     "aenoorss",
     "aenoprt",
     "aenorrss",
@@ -16226,6 +16227,10 @@
     {
       "date": "2026-08-15T12:31:30.661Z",
       "anagram": "adddeegor"
+    },
+    {
+      "date": "2026-08-15T16:19:57.845Z",
+      "anagram": "aems"
     }
   ]
 }
