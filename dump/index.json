@@ -583,6 +583,7 @@
     "aacrs",
     "aacrst",
     "aacrt",
+    "aacsstu",
     "aadddeegrs",
     "aadddeiinv",
     "aaddeefrs",
@@ -16236,6 +16237,10 @@
     {
       "date": "2026-08-15T20:18:13.521Z",
       "anagram": "adefino"
+    },
+    {
+      "date": "2026-08-16T01:07:17.255Z",
+      "anagram": "aacsstu"
     }
   ]
 }
