@@ -2543,6 +2543,7 @@
     "cdeeiimop",
     "cdeeiimops",
     "cdeeillosu",
+    "cdeeimor",
     "cdeeimos",
     "cdeeios",
     "cdeeioss",
@@ -16281,6 +16282,10 @@
     {
       "date": "2026-08-18T12:39:07.867Z",
       "anagram": "aeoprs"
+    },
+    {
+      "date": "2026-08-18T16:27:06.810Z",
+      "anagram": "cdeeimor"
     }
   ]
 }
