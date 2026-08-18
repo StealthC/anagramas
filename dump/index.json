@@ -202,6 +202,7 @@
     "aaadjrst",
     "aaadlmnr",
     "aaadlmor",
+    "aaadlnpt",
     "aaadlost",
     "aaadluz",
     "aaadmns",
@@ -16271,6 +16272,10 @@
     {
       "date": "2026-08-17T20:22:30.810Z",
       "anagram": "aceemst"
+    },
+    {
+      "date": "2026-08-18T01:03:24.457Z",
+      "anagram": "aaadlnpt"
     }
   ]
 }
