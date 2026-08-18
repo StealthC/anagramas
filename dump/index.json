@@ -2141,6 +2141,7 @@
     "aeooprs",
     "aeopr",
     "aeoprrs",
+    "aeoprs",
     "aeoprss",
     "aeoprsx",
     "aeoprx",
@@ -16276,6 +16277,10 @@
     {
       "date": "2026-08-18T01:03:24.457Z",
       "anagram": "aaadlnpt"
+    },
+    {
+      "date": "2026-08-18T12:39:07.867Z",
+      "anagram": "aeoprs"
     }
   ]
 }
