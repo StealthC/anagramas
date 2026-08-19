@@ -1655,6 +1655,7 @@
     "adeeilno",
     "adeeinrt",
     "adeeinrtt",
+    "adeeiprr",
     "adeemopr",
     "adeenpss",
     "adeenrt",
@@ -16291,6 +16292,10 @@
     {
       "date": "2026-08-18T20:19:27.429Z",
       "anagram": "deimnoos"
+    },
+    {
+      "date": "2026-08-19T01:03:58.152Z",
+      "anagram": "adeeiprr"
     }
   ]
 }
