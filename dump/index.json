@@ -2050,6 +2050,7 @@
     "aeimrs",
     "aeimrt",
     "aeimssst",
+    "aeimst",
     "aeimstuz",
     "aeinnrrt",
     "aeinott",
@@ -16316,6 +16317,10 @@
     {
       "date": "2026-08-20T16:31:09.956Z",
       "anagram": "agisu"
+    },
+    {
+      "date": "2026-08-20T20:24:00.472Z",
+      "anagram": "aeimst"
     }
   ]
 }
