@@ -3114,6 +3114,7 @@
     "einopt",
     "einosst",
     "einost",
+    "einosu",
     "eiooprsss",
     "eiooqssu",
     "eioorstu",
@@ -16306,6 +16307,10 @@
     {
       "date": "2026-08-19T16:27:32.140Z",
       "anagram": "aalnpr"
+    },
+    {
+      "date": "2026-08-20T12:41:23.900Z",
+      "anagram": "einosu"
     }
   ]
 }
