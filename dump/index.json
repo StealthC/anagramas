@@ -884,6 +884,7 @@
     "aaeit",
     "aaejmnnor",
     "aaejmosst",
+    "aaejnrst",
     "aaejqstu",
     "aaejrrst",
     "aaejrst",
@@ -16331,6 +16332,10 @@
     {
       "date": "2026-08-21T12:40:03.720Z",
       "anagram": "adegop"
+    },
+    {
+      "date": "2026-08-21T20:21:57.540Z",
+      "anagram": "aaejnrst"
     }
   ]
 }
