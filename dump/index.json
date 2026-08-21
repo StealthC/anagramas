@@ -1093,6 +1093,7 @@
     "aampr",
     "aamprt",
     "aamprtu",
+    "aamrs",
     "aamrt",
     "aamst",
     "aanoprt",
@@ -16321,6 +16322,10 @@
     {
       "date": "2026-08-20T20:24:00.472Z",
       "anagram": "aeimst"
+    },
+    {
+      "date": "2026-08-21T01:07:09.919Z",
+      "anagram": "aamrs"
     }
   ]
 }
