@@ -1685,6 +1685,7 @@
     "adegmos",
     "adegnrs",
     "adegoosst",
+    "adegop",
     "adegopr",
     "adegos",
     "adegru",
@@ -16326,6 +16327,10 @@
     {
       "date": "2026-08-21T01:07:09.919Z",
       "anagram": "aamrs"
+    },
+    {
+      "date": "2026-08-21T12:40:03.720Z",
+      "anagram": "adegop"
     }
   ]
 }
