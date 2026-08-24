@@ -3103,6 +3103,7 @@
     "eiloss",
     "eilossv",
     "eilotv",
+    "eilpru",
     "eimnnos",
     "eimnooors",
     "eimnoopt",
@@ -16381,6 +16382,10 @@
     {
       "date": "2026-08-24T16:33:17.720Z",
       "anagram": "aacdiqru"
+    },
+    {
+      "date": "2026-08-24T20:26:31.092Z",
+      "anagram": "eilpru"
     }
   ]
 }
