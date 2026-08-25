@@ -1828,6 +1828,7 @@
     "adimnu",
     "adimo",
     "adimootv",
+    "adimopr",
     "adinnru",
     "adinoott",
     "adinopt",
@@ -16386,6 +16387,10 @@
     {
       "date": "2026-08-24T20:26:31.092Z",
       "anagram": "eilpru"
+    },
+    {
+      "date": "2026-08-25T01:05:34.107Z",
+      "anagram": "adimopr"
     }
   ]
 }
