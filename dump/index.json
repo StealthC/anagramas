@@ -393,6 +393,7 @@
     "aaccfinno",
     "aacchiinnr",
     "aacchiln",
+    "aacchinr",
     "aacchins",
     "aacciimst",
     "aacciisst",
@@ -16391,6 +16392,10 @@
     {
       "date": "2026-08-25T01:05:34.107Z",
       "anagram": "adimopr"
+    },
+    {
+      "date": "2026-08-25T12:41:04.678Z",
+      "anagram": "aacchinr"
     }
   ]
 }
