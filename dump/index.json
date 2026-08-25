@@ -2881,6 +2881,7 @@
     "deioosstu",
     "deioprt",
     "deioptu",
+    "deiorrsv",
     "deiort",
     "deiortv",
     "deioss",
@@ -16396,6 +16397,10 @@
     {
       "date": "2026-08-25T12:41:04.678Z",
       "anagram": "aacchinr"
+    },
+    {
+      "date": "2026-08-25T20:24:38.605Z",
+      "anagram": "deiorrsv"
     }
   ]
 }
