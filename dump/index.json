@@ -316,6 +316,7 @@
     "aabcjmnoo",
     "aabcls",
     "aabcmtu",
+    "aabcnno",
     "aabcnr",
     "aabcnrru",
     "aabcnsu",
@@ -16406,6 +16407,10 @@
     {
       "date": "2026-08-26T01:07:26.067Z",
       "anagram": "aaddeossv"
+    },
+    {
+      "date": "2026-08-26T12:45:08.340Z",
+      "anagram": "aabcnno"
     }
   ]
 }
