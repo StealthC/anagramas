@@ -621,6 +621,7 @@
     "aaddeoorr",
     "aaddeopr",
     "aaddeoqu",
+    "aaddeossv",
     "aaddeost",
     "aaddepr",
     "aaddesstu",
@@ -16401,6 +16402,10 @@
     {
       "date": "2026-08-25T20:24:38.605Z",
       "anagram": "deiorrsv"
+    },
+    {
+      "date": "2026-08-26T01:07:26.067Z",
+      "anagram": "aaddeossv"
     }
   ]
 }
