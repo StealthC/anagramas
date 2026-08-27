@@ -591,6 +591,7 @@
     "aacrs",
     "aacrst",
     "aacrt",
+    "aacrtz",
     "aacsstu",
     "aadddeegrs",
     "aadddeiinv",
@@ -16416,6 +16417,10 @@
     {
       "date": "2026-08-26T22:42:08.825Z",
       "anagram": "abeegint"
+    },
+    {
+      "date": "2026-08-27T07:14:41.237Z",
+      "anagram": "aacrtz"
     }
   ]
 }
