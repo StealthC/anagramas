@@ -2464,6 +2464,7 @@
     "bceor",
     "bchios",
     "bciilmoos",
+    "bciinoos",
     "bciinorrtu",
     "bcilnoou",
     "bciloossu",
@@ -16446,6 +16447,10 @@
     {
       "date": "2026-08-29T16:11:03.235Z",
       "anagram": "dinortu"
+    },
+    {
+      "date": "2026-08-29T22:19:26.596Z",
+      "anagram": "bciinoos"
     }
   ]
 }
