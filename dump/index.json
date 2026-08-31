@@ -1682,6 +1682,7 @@
     "adefioss",
     "adeflpu",
     "adefnno",
+    "adefnnos",
     "adefntu",
     "adefoosst",
     "adeforr",
@@ -16466,6 +16467,10 @@
     {
       "date": "2026-08-30T22:22:53.078Z",
       "anagram": "aagginot"
+    },
+    {
+      "date": "2026-08-31T03:33:33.448Z",
+      "anagram": "adefnnos"
     }
   ]
 }
