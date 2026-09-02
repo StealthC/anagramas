@@ -1861,6 +1861,7 @@
     "adloors",
     "admnnou",
     "admnoot",
+    "admru",
     "admsu",
     "adnoos",
     "adnooss",
@@ -16501,6 +16502,10 @@
     {
       "date": "2026-09-02T15:56:38.926Z",
       "anagram": "aegipss"
+    },
+    {
+      "date": "2026-09-02T19:14:40.757Z",
+      "anagram": "admru"
     }
   ]
 }
