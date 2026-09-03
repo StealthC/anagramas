@@ -1171,6 +1171,7 @@
     "abclmoo",
     "abcmmoos",
     "abcnors",
+    "abcnos",
     "abcorr",
     "abcors",
     "abcos",
@@ -16516,6 +16517,10 @@
     {
       "date": "2026-09-03T02:53:27.799Z",
       "anagram": "egiilors"
+    },
+    {
+      "date": "2026-09-03T15:45:30.835Z",
+      "anagram": "abcnos"
     }
   ]
 }
