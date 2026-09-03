@@ -1955,6 +1955,7 @@
     "aeeorrsv",
     "aeeorsssss",
     "aeeprrssv",
+    "aeeprssssu",
     "aeeprst",
     "aeeprstz",
     "aeeqrstu",
@@ -16526,6 +16527,10 @@
     {
       "date": "2026-09-03T19:04:44.461Z",
       "anagram": "aaachnst"
+    },
+    {
+      "date": "2026-09-03T22:15:31.981Z",
+      "anagram": "aeeprssssu"
     }
   ]
 }
