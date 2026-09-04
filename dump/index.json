@@ -361,6 +361,7 @@
     "aabettu",
     "aabflosu",
     "aabgimsu",
+    "aabgors",
     "aabhiistu",
     "aabhilns",
     "aabhinstu",
@@ -16531,6 +16532,10 @@
     {
       "date": "2026-09-03T22:15:31.981Z",
       "anagram": "aeeprssssu"
+    },
+    {
+      "date": "2026-09-04T02:52:28.876Z",
+      "anagram": "aabgors"
     }
   ]
 }
