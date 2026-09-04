@@ -2429,6 +2429,7 @@
     "anooprs",
     "anoprtu",
     "anorst",
+    "anort",
     "anosstu",
     "anost",
     "anottu",
@@ -16536,6 +16537,10 @@
     {
       "date": "2026-09-04T02:52:28.876Z",
       "anagram": "aabgors"
+    },
+    {
+      "date": "2026-09-04T18:48:07.981Z",
+      "anagram": "anort"
     }
   ]
 }
