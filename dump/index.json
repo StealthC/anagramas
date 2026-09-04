@@ -794,6 +794,7 @@
     "aadjsu",
     "aadlmoo",
     "aadlmoss",
+    "aadlnor",
     "aadlooppr",
     "aadloorr",
     "aadlor",
@@ -16541,6 +16542,10 @@
     {
       "date": "2026-09-04T18:48:07.981Z",
       "anagram": "anort"
+    },
+    {
+      "date": "2026-09-04T22:04:59.619Z",
+      "anagram": "aadlnor"
     }
   ]
 }
