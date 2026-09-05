@@ -1478,6 +1478,7 @@
     "acelrsu",
     "acelsss",
     "acelsu",
+    "acelu",
     "acenor",
     "acenosx",
     "acenovx",
@@ -16556,6 +16557,10 @@
     {
       "date": "2026-09-05T14:33:37.894Z",
       "anagram": "aabciins"
+    },
+    {
+      "date": "2026-09-05T21:55:03.671Z",
+      "anagram": "acelu"
     }
   ]
 }
