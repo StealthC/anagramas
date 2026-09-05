@@ -213,6 +213,7 @@
     "aaadnrr",
     "aaadotz",
     "aaadprrsu",
+    "aaadprru",
     "aaadprs",
     "aaadrssu",
     "aaadrst",
@@ -16546,6 +16547,10 @@
     {
       "date": "2026-09-04T22:04:59.619Z",
       "anagram": "aadlnor"
+    },
+    {
+      "date": "2026-09-05T02:54:24.579Z",
+      "anagram": "aaadprru"
     }
   ]
 }
