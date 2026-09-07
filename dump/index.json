@@ -143,6 +143,7 @@
     "aaacntt",
     "aaacopru",
     "aaacrrt",
+    "aaaddegrrs",
     "aaaddeims",
     "aaaddempst",
     "aaadderrt",
@@ -16581,6 +16582,10 @@
     {
       "date": "2026-09-06T21:56:45.089Z",
       "anagram": "eimopr"
+    },
+    {
+      "date": "2026-09-07T02:50:31.256Z",
+      "anagram": "aaaddegrrs"
     }
   ]
 }
