@@ -605,6 +605,7 @@
     "aadddeiinv",
     "aaddeefrs",
     "aaddeeinss",
+    "aaddeejps",
     "aaddeelsv",
     "aaddeemn",
     "aaddeempr",
@@ -16601,6 +16602,10 @@
     {
       "date": "2026-09-08T19:19:26.492Z",
       "anagram": "aaabgimrr"
+    },
+    {
+      "date": "2026-09-08T22:21:06.365Z",
+      "anagram": "aaddeejps"
     }
   ]
 }
