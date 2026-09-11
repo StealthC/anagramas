@@ -3298,6 +3298,7 @@
     "iioooprrsv",
     "iiosst",
     "illmopstu",
+    "ilnosstu",
     "iloopst",
     "iloors",
     "ilorsv",
@@ -16651,6 +16652,10 @@
     {
       "date": "2026-09-11T02:57:45.111Z",
       "anagram": "aerstt"
+    },
+    {
+      "date": "2026-09-11T15:50:43.716Z",
+      "anagram": "ilnosstu"
     }
   ]
 }
