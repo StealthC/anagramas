@@ -379,6 +379,7 @@
     "aabinpsu",
     "aabinst",
     "aabis",
+    "aabitux",
     "aablo",
     "aablrtu",
     "aabmr",
@@ -16671,6 +16672,10 @@
     {
       "date": "2026-09-12T03:04:38.255Z",
       "anagram": "eioqrrrtu"
+    },
+    {
+      "date": "2026-09-12T14:58:17.447Z",
+      "anagram": "aabitux"
     }
   ]
 }
