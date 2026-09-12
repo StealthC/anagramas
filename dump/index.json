@@ -3189,6 +3189,7 @@
     "eioorsv",
     "eiopr",
     "eioprss",
+    "eioqrrrtu",
     "eiorrsstt",
     "eiorrt",
     "eiost",
@@ -16666,6 +16667,10 @@
     {
       "date": "2026-09-11T22:14:27.200Z",
       "anagram": "adiilrstt"
+    },
+    {
+      "date": "2026-09-12T03:04:38.255Z",
+      "anagram": "eioqrrrtu"
     }
   ]
 }
