@@ -1672,6 +1672,7 @@
     "addfiinnu",
     "addgiiirs",
     "addiinov",
+    "addinnosu",
     "addio",
     "addioosv",
     "addior",
@@ -16696,6 +16697,10 @@
     {
       "date": "2026-09-13T18:31:30.154Z",
       "anagram": "aioorv"
+    },
+    {
+      "date": "2026-09-13T22:05:55.001Z",
+      "anagram": "addinnosu"
     }
   ]
 }
