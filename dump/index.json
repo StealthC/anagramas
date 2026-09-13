@@ -2392,6 +2392,7 @@
     "aioorssv",
     "aioorsv",
     "aioort",
+    "aioorv",
     "aioprr",
     "aioprt",
     "aiops",
@@ -16691,6 +16692,10 @@
     {
       "date": "2026-09-13T15:35:47.944Z",
       "anagram": "ddeiiosttu"
+    },
+    {
+      "date": "2026-09-13T18:31:30.154Z",
+      "anagram": "aioorv"
     }
   ]
 }
