@@ -1519,6 +1519,7 @@
     "acflo",
     "acfors",
     "acforss",
+    "acfoss",
     "acfru",
     "acghno",
     "acghnos",
@@ -16716,6 +16717,10 @@
     {
       "date": "2026-09-15T03:20:58.494Z",
       "anagram": "efilms"
+    },
+    {
+      "date": "2026-09-15T16:13:30.369Z",
+      "anagram": "acfoss"
     }
   ]
 }
