@@ -1996,6 +1996,7 @@
     "aefhiilmo",
     "aefiilr",
     "aefiilsv",
+    "aefiinorr",
     "aefiiort",
     "aefiirr",
     "aefiisstv",
@@ -16741,6 +16742,10 @@
     {
       "date": "2026-09-16T22:38:11.248Z",
       "anagram": "aabdeorv"
+    },
+    {
+      "date": "2026-09-17T16:13:05.978Z",
+      "anagram": "aefiinorr"
     }
   ]
 }
