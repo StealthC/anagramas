@@ -242,6 +242,7 @@
     "aaagirrs",
     "aaagist",
     "aaagjrstu",
+    "aaaglnno",
     "aaaglnos",
     "aaaglrt",
     "aaagmrrsu",
@@ -16766,6 +16767,10 @@
     {
       "date": "2026-09-19T03:05:17.645Z",
       "anagram": "aceeirs"
+    },
+    {
+      "date": "2026-09-19T15:20:47.263Z",
+      "anagram": "aaaglnno"
     }
   ]
 }
