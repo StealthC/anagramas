@@ -3092,6 +3092,7 @@
     "eeopsss",
     "eeopssss",
     "eeorrst",
+    "eeorsst",
     "eeorstv",
     "eeprss",
     "eepsst",
@@ -16786,6 +16787,10 @@
     {
       "date": "2026-09-20T15:25:12.827Z",
       "anagram": "diooprv"
+    },
+    {
+      "date": "2026-09-20T22:10:41.367Z",
+      "anagram": "eeorsst"
     }
   ]
 }
