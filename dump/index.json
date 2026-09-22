@@ -124,6 +124,7 @@
     "aaacflo",
     "aaacflrtu",
     "aaacginn",
+    "aaacginop",
     "aaacgorv",
     "aaachnst",
     "aaaciimnns",
@@ -16806,6 +16807,10 @@
     {
       "date": "2026-09-21T22:59:30.812Z",
       "anagram": "aaimno"
+    },
+    {
+      "date": "2026-09-22T03:15:54.745Z",
+      "anagram": "aaacginop"
     }
   ]
 }
