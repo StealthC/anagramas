@@ -406,6 +406,7 @@
     "aaccens",
     "aacceorr",
     "aacceoss",
+    "aacceosss",
     "aaccer",
     "aaccfinno",
     "aacchiinnr",
@@ -16811,6 +16812,10 @@
     {
       "date": "2026-09-22T03:15:54.745Z",
       "anagram": "aaacginop"
+    },
+    {
+      "date": "2026-09-22T16:15:06.299Z",
+      "anagram": "aacceosss"
     }
   ]
 }
