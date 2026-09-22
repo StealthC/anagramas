@@ -2375,6 +2375,7 @@
     "ailrrstu",
     "ailrssu",
     "ailrsu",
+    "ailrt",
     "ailsv",
     "ailtv",
     "aimmoss",
@@ -16816,6 +16817,10 @@
     {
       "date": "2026-09-22T16:15:06.299Z",
       "anagram": "aacceosss"
+    },
+    {
+      "date": "2026-09-22T22:43:16.988Z",
+      "anagram": "ailrt"
     }
   ]
 }
