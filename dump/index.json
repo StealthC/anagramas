@@ -602,6 +602,7 @@
     "aacor",
     "aacorr",
     "aacors",
+    "aacort",
     "aacorz",
     "aacpr",
     "aacps",
@@ -16831,6 +16832,10 @@
     {
       "date": "2026-09-23T16:04:36.673Z",
       "anagram": "aabilr"
+    },
+    {
+      "date": "2026-09-24T16:28:48.191Z",
+      "anagram": "aacort"
     }
   ]
 }
