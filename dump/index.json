@@ -1777,6 +1777,7 @@
     "adeiopt",
     "adeiorr",
     "adeiosv",
+    "adeirrv",
     "adeirsv",
     "adeirt",
     "adeirtu",
@@ -16876,6 +16877,10 @@
     {
       "date": "2026-09-27T16:22:43.600Z",
       "anagram": "adeeqrsu"
+    },
+    {
+      "date": "2026-09-28T03:35:20.213Z",
+      "anagram": "adeirrv"
     }
   ]
 }
