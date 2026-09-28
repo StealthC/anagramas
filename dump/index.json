@@ -1529,6 +1529,7 @@
     "acert",
     "acfgioot",
     "acfhhiins",
+    "acfhir",
     "acfiiirvv",
     "acfiinru",
     "acfilnnou",
@@ -16881,6 +16882,10 @@
     {
       "date": "2026-09-28T03:35:20.213Z",
       "anagram": "adeirrv"
+    },
+    {
+      "date": "2026-09-28T10:32:10.849Z",
+      "anagram": "acfhir"
     }
   ]
 }
