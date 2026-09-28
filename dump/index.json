@@ -3360,6 +3360,7 @@
     "inostt",
     "inosu",
     "iooopprsst",
+    "ioopprr",
     "ioort",
     "iopst",
     "iorst",
@@ -16886,6 +16887,10 @@
     {
       "date": "2026-09-28T10:32:10.849Z",
       "anagram": "acfhir"
+    },
+    {
+      "date": "2026-09-28T19:13:16.414Z",
+      "anagram": "ioopprr"
     }
   ]
 }
