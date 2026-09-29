@@ -711,6 +711,7 @@
     "aadeillo",
     "aadeils",
     "aadeinnrv",
+    "aadeinntv",
     "aadeipt",
     "aadeiqsux",
     "aadeisst",
@@ -16901,6 +16902,10 @@
     {
       "date": "2026-09-29T10:23:30.724Z",
       "anagram": "aeiijnstv"
+    },
+    {
+      "date": "2026-09-29T17:36:24.783Z",
+      "anagram": "aadeinntv"
     }
   ]
 }
