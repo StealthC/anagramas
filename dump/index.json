@@ -2758,6 +2758,7 @@
     "celnos",
     "celooostv",
     "cemoooprs",
+    "cemooprrr",
     "cemoos",
     "cennoort",
     "cenoorrsv",
@@ -16926,6 +16927,10 @@
     {
       "date": "2026-10-01T04:06:01.240Z",
       "anagram": "aiootv"
+    },
+    {
+      "date": "2026-10-01T15:04:24.212Z",
+      "anagram": "cemooprrr"
     }
   ]
 }
