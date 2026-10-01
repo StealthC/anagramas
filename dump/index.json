@@ -2429,6 +2429,7 @@
     "aioorsv",
     "aioort",
     "aioorv",
+    "aiootv",
     "aioprr",
     "aioprt",
     "aiops",
@@ -16921,6 +16922,10 @@
     {
       "date": "2026-09-30T23:26:57.938Z",
       "anagram": "aadejlo"
+    },
+    {
+      "date": "2026-10-01T04:06:01.240Z",
+      "anagram": "aiootv"
     }
   ]
 }
