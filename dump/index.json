@@ -3348,6 +3348,7 @@
     "iinoopst",
     "iinoorstt",
     "iinoptuv",
+    "iinorsstuv",
     "iinrrstu",
     "iioooprrsv",
     "iiosst",
@@ -16931,6 +16932,10 @@
     {
       "date": "2026-10-01T15:04:24.212Z",
       "anagram": "cemooprrr"
+    },
+    {
+      "date": "2026-10-02T04:00:34.937Z",
+      "anagram": "iinorsstuv"
     }
   ]
 }
