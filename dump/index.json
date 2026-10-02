@@ -2315,6 +2315,7 @@
     "aginpsstuu",
     "agioorrs",
     "agioprr",
+    "agior",
     "agiorttu",
     "agirru",
     "agirs",
@@ -16936,6 +16937,10 @@
     {
       "date": "2026-10-02T04:00:34.937Z",
       "anagram": "iinorsstuv"
+    },
+    {
+      "date": "2026-10-02T14:26:03.757Z",
+      "anagram": "agior"
     }
   ]
 }
