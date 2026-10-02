@@ -1182,6 +1182,7 @@
     "abcdeeir",
     "abcdei",
     "abcdiimnu",
+    "abcdisu",
     "abcdiu",
     "abcdoor",
     "abceehmot",
@@ -16941,6 +16942,10 @@
     {
       "date": "2026-10-02T14:26:03.757Z",
       "anagram": "agior"
+    },
+    {
+      "date": "2026-10-02T20:20:39.590Z",
+      "anagram": "abcdisu"
     }
   ]
 }
