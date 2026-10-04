@@ -826,6 +826,7 @@
     "aadlot",
     "aadlouv",
     "aadmop",
+    "aadmos",
     "aadnorr",
     "aadooprv",
     "aadoorrs",
@@ -16956,6 +16957,10 @@
     {
       "date": "2026-10-04T04:15:35.024Z",
       "anagram": "dimorr"
+    },
+    {
+      "date": "2026-10-04T13:39:55.559Z",
+      "anagram": "aadmos"
     }
   ]
 }
