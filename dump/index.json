@@ -3396,6 +3396,7 @@
     "morsu",
     "nnoorstu",
     "noooprtu",
+    "noorsstu",
     "nostu",
     "ooopprsst",
     "ooprss",
@@ -17001,6 +17002,10 @@
     {
       "date": "2026-10-07T04:15:18.477Z",
       "anagram": "eiinossstv"
+    },
+    {
+      "date": "2026-10-07T15:03:38.063Z",
+      "anagram": "noorsstu"
     }
   ]
 }
