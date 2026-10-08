@@ -1624,6 +1624,7 @@
     "aciostt",
     "aciosv",
     "aciott",
+    "aciotv",
     "aciotx",
     "aciprr",
     "acirst",
@@ -17011,6 +17012,10 @@
     {
       "date": "2026-10-07T20:59:20.933Z",
       "anagram": "aaaadlrsst"
+    },
+    {
+      "date": "2026-10-08T04:27:31.273Z",
+      "anagram": "aciotv"
     }
   ]
 }
