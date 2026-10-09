@@ -2617,6 +2617,7 @@
     "bioost",
     "bioosv",
     "biorsttu",
+    "biostu",
     "blooss",
     "bnosu",
     "boorsstu",
@@ -17026,6 +17027,10 @@
     {
       "date": "2026-10-08T21:01:01.791Z",
       "anagram": "aabdlnu"
+    },
+    {
+      "date": "2026-10-09T04:31:27.753Z",
+      "anagram": "biostu"
     }
   ]
 }
