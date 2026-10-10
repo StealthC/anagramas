@@ -2150,6 +2150,7 @@
     "aeinpss",
     "aeinpst",
     "aeinrsu",
+    "aeinrsv",
     "aeinruvv",
     "aeinsssu",
     "aeinst",
@@ -17041,6 +17042,10 @@
     {
       "date": "2026-10-09T20:32:02.669Z",
       "anagram": "abemmnoott"
+    },
+    {
+      "date": "2026-10-10T14:12:30.939Z",
+      "anagram": "aeinrsv"
     }
   ]
 }
