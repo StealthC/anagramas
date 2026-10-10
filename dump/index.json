@@ -2390,6 +2390,7 @@
     "aiirrrt",
     "aiirst",
     "aijlost",
+    "aijnors",
     "aijrsstu",
     "aills",
     "ailmo",
@@ -17046,6 +17047,10 @@
     {
       "date": "2026-10-10T14:12:30.939Z",
       "anagram": "aeinrsv"
+    },
+    {
+      "date": "2026-10-10T19:44:03.240Z",
+      "anagram": "aijnors"
     }
   ]
 }
