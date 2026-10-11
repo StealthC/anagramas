@@ -529,6 +529,7 @@
     "aacelps",
     "aacelrr",
     "aacelss",
+    "aacemnpr",
     "aacemp",
     "aacems",
     "aacemst",
@@ -17071,6 +17072,10 @@
     {
       "date": "2026-10-11T17:18:18.678Z",
       "anagram": "ddeinor"
+    },
+    {
+      "date": "2026-10-11T23:26:05.692Z",
+      "anagram": "aacemnpr"
     }
   ]
 }
