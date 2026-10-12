@@ -1004,6 +1004,7 @@
     "aafnors",
     "aafoprr",
     "aaforr",
+    "aaforrs",
     "aafprs",
     "aafrss",
     "aafrst",
@@ -17081,6 +17082,10 @@
     {
       "date": "2026-10-12T04:16:47.919Z",
       "anagram": "adimorr"
+    },
+    {
+      "date": "2026-10-12T17:20:23.365Z",
+      "anagram": "aaforrs"
     }
   ]
 }
