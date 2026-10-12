@@ -1904,6 +1904,7 @@
     "adimo",
     "adimootv",
     "adimopr",
+    "adimorr",
     "adinnru",
     "adinoott",
     "adinopt",
@@ -17076,6 +17077,10 @@
     {
       "date": "2026-10-11T23:26:05.692Z",
       "anagram": "aacemnpr"
+    },
+    {
+      "date": "2026-10-12T04:16:47.919Z",
+      "anagram": "adimorr"
     }
   ]
 }
