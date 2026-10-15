@@ -551,6 +551,7 @@
     "aacginn",
     "aacginns",
     "aacginnsv",
+    "aacgint",
     "aacgn",
     "aacgr",
     "aachiimns",
@@ -17111,6 +17112,10 @@
     {
       "date": "2026-10-15T03:08:54.743Z",
       "anagram": "cdfiiooor"
+    },
+    {
+      "date": "2026-10-15T16:17:11.265Z",
+      "anagram": "aacgint"
     }
   ]
 }
