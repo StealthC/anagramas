@@ -336,6 +336,7 @@
     "aabcnr",
     "aabcnrru",
     "aabcnsu",
+    "aabcost",
     "aabcsuz",
     "aabddeiilt",
     "aabddenr",
@@ -17131,6 +17132,10 @@
     {
       "date": "2026-10-17T02:57:10.105Z",
       "anagram": "acehinnoqu"
+    },
+    {
+      "date": "2026-10-17T14:55:51.118Z",
+      "anagram": "aabcost"
     }
   ]
 }
