@@ -3267,6 +3267,7 @@
     "einnort",
     "einnostv",
     "einnotv",
+    "einooprt",
     "einoorrt",
     "einopst",
     "einopt",
@@ -17141,6 +17142,10 @@
     {
       "date": "2026-10-17T18:08:18.740Z",
       "anagram": "cchorsu"
+    },
+    {
+      "date": "2026-10-17T21:57:21.760Z",
+      "anagram": "einooprt"
     }
   ]
 }
