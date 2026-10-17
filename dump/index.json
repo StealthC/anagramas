@@ -2654,6 +2654,7 @@
     "ccenoorrt",
     "ccgiilooot",
     "ccgiiorru",
+    "cchorsu",
     "cciimoo",
     "cciiorst",
     "ccilos",
@@ -17136,6 +17137,10 @@
     {
       "date": "2026-10-17T14:55:51.118Z",
       "anagram": "aabcost"
+    },
+    {
+      "date": "2026-10-17T18:08:18.740Z",
+      "anagram": "cchorsu"
     }
   ]
 }
