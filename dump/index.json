@@ -1213,6 +1213,7 @@
     "abcfiilrru",
     "abchor",
     "abciiilmsu",
+    "abciinor",
     "abcilpru",
     "abcinru",
     "abclmoo",
@@ -17151,6 +17152,10 @@
     {
       "date": "2026-10-18T02:58:53.842Z",
       "anagram": "amooppss"
+    },
+    {
+      "date": "2026-10-18T15:21:21.674Z",
+      "anagram": "abciinor"
     }
   ]
 }
