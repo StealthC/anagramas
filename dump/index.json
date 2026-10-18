@@ -1929,6 +1929,7 @@
     "adiostu",
     "adiprsu",
     "adirss",
+    "adirsstu",
     "adisstu",
     "adlooorss",
     "adloors",
@@ -17161,6 +17162,10 @@
     {
       "date": "2026-10-18T18:26:29.805Z",
       "anagram": "aaccdfiiir"
+    },
+    {
+      "date": "2026-10-18T22:12:10.507Z",
+      "anagram": "adirsstu"
     }
   ]
 }
