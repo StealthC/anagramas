@@ -3139,6 +3139,7 @@
     "eelnoss",
     "eelnst",
     "eeloopssx",
+    "eeloprt",
     "eelorrsv",
     "eelorrvv",
     "eelsst",
@@ -17176,6 +17177,10 @@
     {
       "date": "2026-10-19T18:18:42.754Z",
       "anagram": "aadeenrv"
+    },
+    {
+      "date": "2026-10-19T23:17:06.935Z",
+      "anagram": "eeloprt"
     }
   ]
 }
