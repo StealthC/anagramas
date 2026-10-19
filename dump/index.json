@@ -393,6 +393,7 @@
     "aabinst",
     "aabis",
     "aabitux",
+    "aablmos",
     "aablo",
     "aablrtu",
     "aabmr",
@@ -17166,6 +17167,10 @@
     {
       "date": "2026-10-18T22:12:10.507Z",
       "anagram": "adirsstu"
+    },
+    {
+      "date": "2026-10-19T03:12:44.365Z",
+      "anagram": "aablmos"
     }
   ]
 }
