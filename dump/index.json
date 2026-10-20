@@ -1196,6 +1196,7 @@
     "abcddeoos",
     "abcdeeir",
     "abcdei",
+    "abcdeisu",
     "abcdiimnu",
     "abcdisu",
     "abcdiu",
@@ -17181,6 +17182,10 @@
     {
       "date": "2026-10-19T23:17:06.935Z",
       "anagram": "eeloprt"
+    },
+    {
+      "date": "2026-10-20T03:21:30.766Z",
+      "anagram": "abcdeisu"
     }
   ]
 }
