@@ -1495,6 +1495,7 @@
     "acefiinz",
     "acefrs",
     "acegiinsv",
+    "acegiinv",
     "aceglos",
     "acegoosz",
     "acegor",
@@ -17186,6 +17187,10 @@
     {
       "date": "2026-10-20T03:21:30.766Z",
       "anagram": "abcdeisu"
+    },
+    {
+      "date": "2026-10-20T16:19:51.304Z",
+      "anagram": "acegiinv"
     }
   ]
 }
