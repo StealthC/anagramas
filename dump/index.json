@@ -2481,6 +2481,7 @@
     "airssttu",
     "airsv",
     "airuvv",
+    "aisuvv",
     "ajmorsu",
     "ajmoru",
     "ajnos",
@@ -17191,6 +17192,10 @@
     {
       "date": "2026-10-20T16:19:51.304Z",
       "anagram": "acegiinv"
+    },
+    {
+      "date": "2026-10-21T03:16:11.790Z",
+      "anagram": "aisuvv"
     }
   ]
 }
