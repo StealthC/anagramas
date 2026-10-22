@@ -3413,6 +3413,7 @@
     "imooss",
     "imopru",
     "imosst",
+    "imost",
     "inooorst",
     "inoprt",
     "inops",
@@ -17201,6 +17202,10 @@
     {
       "date": "2026-10-21T23:00:27.737Z",
       "anagram": "emnorsu"
+    },
+    {
+      "date": "2026-10-22T03:14:31.976Z",
+      "anagram": "imost"
     }
   ]
 }
