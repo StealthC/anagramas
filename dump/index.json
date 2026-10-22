@@ -1729,6 +1729,7 @@
     "addiors",
     "addiost",
     "addisuv",
+    "addmoo",
     "addmoos",
     "addmosu",
     "addoops",
@@ -17211,6 +17212,10 @@
     {
       "date": "2026-10-22T16:36:37.255Z",
       "anagram": "efiimnno"
+    },
+    {
+      "date": "2026-10-22T22:57:04.137Z",
+      "anagram": "addmoo"
     }
   ]
 }
