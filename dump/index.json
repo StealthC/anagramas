@@ -100,6 +100,7 @@
     "aaacdfin",
     "aaacdhmno",
     "aaacdhruv",
+    "aaacdhs",
     "aaacdinv",
     "aaacdl",
     "aaacdlns",
@@ -17231,6 +17232,10 @@
     {
       "date": "2026-10-24T03:14:05.343Z",
       "anagram": "aaaefprrrs"
+    },
+    {
+      "date": "2026-10-24T18:34:19.036Z",
+      "anagram": "aaacdhs"
     }
   ]
 }
