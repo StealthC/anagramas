@@ -2688,6 +2688,7 @@
     "cdeeillosu",
     "cdeeimor",
     "cdeeimos",
+    "cdeeinos",
     "cdeeios",
     "cdeeioss",
     "cdeenors",
@@ -17236,6 +17237,10 @@
     {
       "date": "2026-10-24T18:34:19.036Z",
       "anagram": "aaacdhs"
+    },
+    {
+      "date": "2026-10-24T22:13:36.590Z",
+      "anagram": "cdeeinos"
     }
   ]
 }
