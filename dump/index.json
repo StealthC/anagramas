@@ -1718,6 +1718,7 @@
     "addeist",
     "addelmoo",
     "addelnou",
+    "addelos",
     "addenoot",
     "addenosv",
     "addeoostv",
@@ -17256,6 +17257,10 @@
     {
       "date": "2026-10-25T18:42:40.933Z",
       "anagram": "eiioqrssu"
+    },
+    {
+      "date": "2026-10-25T22:16:44.884Z",
+      "anagram": "addelos"
     }
   ]
 }
