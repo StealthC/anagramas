@@ -657,6 +657,7 @@
     "aaddensv",
     "aaddeoorr",
     "aaddeopr",
+    "aaddeopss",
     "aaddeoqu",
     "aaddeossv",
     "aaddeost",
@@ -17266,6 +17267,10 @@
     {
       "date": "2026-10-26T03:09:26.006Z",
       "anagram": "bosstu"
+    },
+    {
+      "date": "2026-10-26T19:15:15.371Z",
+      "anagram": "aaddeopss"
     }
   ]
 }
