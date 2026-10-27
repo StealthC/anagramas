@@ -2662,6 +2662,7 @@
     "ccdilnoou",
     "cceehlnoot",
     "cceehlost",
+    "cceeilot",
     "cceemoor",
     "cceennorv",
     "ccehloos",
@@ -17281,6 +17282,10 @@
     {
       "date": "2026-10-27T18:40:38.349Z",
       "anagram": "einort"
+    },
+    {
+      "date": "2026-10-27T22:56:45.759Z",
+      "anagram": "cceeilot"
     }
   ]
 }
