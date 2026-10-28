@@ -1545,6 +1545,7 @@
     "acenosx",
     "acenovx",
     "acenps",
+    "acenrt",
     "acenssu",
     "aceoors",
     "aceoosv",
@@ -17286,6 +17287,10 @@
     {
       "date": "2026-10-27T22:56:45.759Z",
       "anagram": "cceeilot"
+    },
+    {
+      "date": "2026-10-28T23:10:52.667Z",
+      "anagram": "acenrt"
     }
   ]
 }
