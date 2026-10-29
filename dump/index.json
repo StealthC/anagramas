@@ -1789,6 +1789,7 @@
     "adehiiinrt",
     "adehinor",
     "adehinoz",
+    "adehlnor",
     "adehmnopu",
     "adehnorr",
     "adeiiimnz",
@@ -17291,6 +17292,10 @@
     {
       "date": "2026-10-28T23:10:52.667Z",
       "anagram": "acenrt"
+    },
+    {
+      "date": "2026-10-29T07:01:03.874Z",
+      "anagram": "adehlnor"
     }
   ]
 }
