@@ -436,6 +436,7 @@
     "aaccisst",
     "aaccisstu",
     "aaccist",
+    "aaccllru",
     "aacclo",
     "aaccloopu",
     "aacclr",
@@ -17306,6 +17307,10 @@
     {
       "date": "2026-10-30T07:03:51.190Z",
       "anagram": "aadmor"
+    },
+    {
+      "date": "2026-10-30T22:57:23.178Z",
+      "anagram": "aaccllru"
     }
   ]
 }
