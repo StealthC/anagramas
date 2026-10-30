@@ -842,6 +842,7 @@
     "aadlot",
     "aadlouv",
     "aadmop",
+    "aadmor",
     "aadmorru",
     "aadmos",
     "aadnorr",
@@ -17301,6 +17302,10 @@
     {
       "date": "2026-10-29T23:16:26.333Z",
       "anagram": "aaccdstuu"
+    },
+    {
+      "date": "2026-10-30T07:03:51.190Z",
+      "anagram": "aadmor"
     }
   ]
 }
