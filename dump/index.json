@@ -1908,6 +1908,7 @@
     "adiiinsttu",
     "adiilnov",
     "adiilrstt",
+    "adiimnsu",
     "adiimsz",
     "adiinno",
     "adiinnos",
@@ -17316,6 +17317,10 @@
     {
       "date": "2026-10-31T17:42:00.851Z",
       "anagram": "aademrrr"
+    },
+    {
+      "date": "2026-10-31T22:27:44.186Z",
+      "anagram": "adiimnsu"
     }
   ]
 }
