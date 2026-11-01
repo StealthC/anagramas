@@ -1993,6 +1993,7 @@
     "aeefnrt",
     "aeeghnnoss",
     "aeegil",
+    "aeegilntz",
     "aeegilnv",
     "aeegils",
     "aeeginprr",
@@ -17321,6 +17322,10 @@
     {
       "date": "2026-10-31T22:27:44.186Z",
       "anagram": "adiimnsu"
+    },
+    {
+      "date": "2026-11-01T02:10:41.504Z",
+      "anagram": "aeegilntz"
     }
   ]
 }
