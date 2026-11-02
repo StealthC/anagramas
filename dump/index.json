@@ -1407,6 +1407,7 @@
     "accor",
     "acddefiio",
     "acddeiinu",
+    "acddeimo",
     "acddeiop",
     "acddeis",
     "acddenou",
@@ -17336,6 +17337,10 @@
     {
       "date": "2026-11-01T22:46:39.656Z",
       "anagram": "abfgioor"
+    },
+    {
+      "date": "2026-11-02T02:28:26.941Z",
+      "anagram": "acddeimo"
     }
   ]
 }
