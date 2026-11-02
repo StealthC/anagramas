@@ -875,6 +875,7 @@
     "aaeeemnttx",
     "aaeefgllnt",
     "aaeefsstt",
+    "aaeefstt",
     "aaeegjnrr",
     "aaeehlmprr",
     "aaeeimnttv",
@@ -17341,6 +17342,10 @@
     {
       "date": "2026-11-02T02:28:26.941Z",
       "anagram": "acddeimo"
+    },
+    {
+      "date": "2026-11-02T22:17:58.596Z",
+      "anagram": "aaeefstt"
     }
   ]
 }
