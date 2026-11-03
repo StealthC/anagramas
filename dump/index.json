@@ -811,6 +811,7 @@
     "aadilmsu",
     "aadilnsu",
     "aadilstu",
+    "aadimn",
     "aadimnst",
     "aadimor",
     "aadinno",
@@ -17351,6 +17352,10 @@
     {
       "date": "2026-11-03T03:55:14.827Z",
       "anagram": "binortu"
+    },
+    {
+      "date": "2026-11-03T20:04:59.720Z",
+      "anagram": "aadimn"
     }
   ]
 }
