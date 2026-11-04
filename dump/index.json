@@ -1065,6 +1065,7 @@
     "aagmns",
     "aagmo",
     "aagmoprrr",
+    "aagmorr",
     "aagmr",
     "aagor",
     "aagort",
@@ -17361,6 +17362,10 @@
     {
       "date": "2026-11-04T01:19:25.770Z",
       "anagram": "aeelqru"
+    },
+    {
+      "date": "2026-11-04T10:49:19.386Z",
+      "anagram": "aagmorr"
     }
   ]
 }
