@@ -3164,6 +3164,7 @@
     "eeinprrv",
     "eeinrss",
     "eeinrsvz",
+    "eeinstvv",
     "eeioptt",
     "eeiqrrssu",
     "eeirss",
@@ -17376,6 +17377,10 @@
     {
       "date": "2026-11-05T10:47:23.102Z",
       "anagram": "acdilpru"
+    },
+    {
+      "date": "2026-11-05T20:38:35.955Z",
+      "anagram": "eeinstvv"
     }
   ]
 }
