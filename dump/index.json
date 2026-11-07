@@ -2189,6 +2189,7 @@
     "aeimst",
     "aeimstuz",
     "aeinnrrt",
+    "aeinors",
     "aeinott",
     "aeinps",
     "aeinpss",
@@ -17396,6 +17397,10 @@
     {
       "date": "2026-11-06T19:56:43.566Z",
       "anagram": "abbcios"
+    },
+    {
+      "date": "2026-11-07T18:01:49.149Z",
+      "anagram": "aeinors"
     }
   ]
 }
