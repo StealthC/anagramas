@@ -2111,6 +2111,7 @@
     "aegimrr",
     "aegims",
     "aeginnot",
+    "aeginoru",
     "aeginotv",
     "aeginrrt",
     "aegiort",
@@ -17411,6 +17412,10 @@
     {
       "date": "2026-11-08T02:25:08.998Z",
       "anagram": "acops"
+    },
+    {
+      "date": "2026-11-08T22:51:14.950Z",
+      "anagram": "aeginoru"
     }
   ]
 }
