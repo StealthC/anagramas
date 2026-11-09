@@ -2385,6 +2385,7 @@
     "agirstu",
     "agisu",
     "agjlor",
+    "agjor",
     "aglnoosu",
     "aglnos",
     "aglnotu",
@@ -17421,6 +17422,10 @@
     {
       "date": "2026-11-09T02:38:24.113Z",
       "anagram": "adgiinnr"
+    },
+    {
+      "date": "2026-11-09T11:24:07.929Z",
+      "anagram": "agjor"
     }
   ]
 }
