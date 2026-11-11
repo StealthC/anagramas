@@ -3060,6 +3060,7 @@
     "deiortv",
     "deioss",
     "deiosstv",
+    "deiostu",
     "deiosv",
     "deirsuz",
     "delmoos",
@@ -17441,6 +17442,10 @@
     {
       "date": "2026-11-11T01:13:53.422Z",
       "anagram": "aeflnttuu"
+    },
+    {
+      "date": "2026-11-11T20:10:41.239Z",
+      "anagram": "deiostu"
     }
   ]
 }
