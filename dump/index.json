@@ -137,6 +137,7 @@
     "aaacilnv",
     "aaacimn",
     "aaacimnno",
+    "aaacinr",
     "aaacinrs",
     "aaacinstv",
     "aaacipst",
@@ -17451,6 +17452,10 @@
     {
       "date": "2026-11-12T02:14:33.826Z",
       "anagram": "aceirsv"
+    },
+    {
+      "date": "2026-11-13T01:48:28.190Z",
+      "anagram": "aaacinr"
     }
   ]
 }
