@@ -754,6 +754,7 @@
     "aadenrrr",
     "aadeorr",
     "aadeorrrv",
+    "aadeorrt",
     "aadeort",
     "aadeorv",
     "aadeostvx",
@@ -17476,6 +17477,10 @@
     {
       "date": "2026-11-14T18:43:23.767Z",
       "anagram": "aabdeir"
+    },
+    {
+      "date": "2026-11-14T22:57:09.463Z",
+      "anagram": "aadeorrt"
     }
   ]
 }
