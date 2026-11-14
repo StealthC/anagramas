@@ -2211,6 +2211,7 @@
     "aeioqsssu",
     "aeiorrt",
     "aeiorrtz",
+    "aeioss",
     "aeiosst",
     "aeiosv",
     "aeippst",
@@ -17466,6 +17467,10 @@
     {
       "date": "2026-11-14T01:26:03.749Z",
       "anagram": "hilmoopp"
+    },
+    {
+      "date": "2026-11-14T10:16:03.276Z",
+      "anagram": "aeioss"
     }
   ]
 }
