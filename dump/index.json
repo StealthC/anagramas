@@ -1098,6 +1098,7 @@
     "aaillnno",
     "aailmmx",
     "aailmnpu",
+    "aailmpr",
     "aailmssst",
     "aailmsst",
     "aailmx",
@@ -17486,6 +17487,10 @@
     {
       "date": "2026-11-15T02:37:43.725Z",
       "anagram": "ceeossx"
+    },
+    {
+      "date": "2026-11-15T10:45:21.420Z",
+      "anagram": "aailmpr"
     }
   ]
 }
