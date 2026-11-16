@@ -167,6 +167,7 @@
     "aaadefrr",
     "aaadefst",
     "aaadegl",
+    "aaadeglr",
     "aaadegnss",
     "aaadehnsst",
     "aaadeijls",
@@ -17496,6 +17497,10 @@
     {
       "date": "2026-11-16T00:59:13.507Z",
       "anagram": "aaamprt"
+    },
+    {
+      "date": "2026-11-16T22:51:55.503Z",
+      "anagram": "aaadeglr"
     }
   ]
 }
