@@ -1842,6 +1842,7 @@
     "adeiopt",
     "adeiorr",
     "adeiosv",
+    "adeiprru",
     "adeirrv",
     "adeirsv",
     "adeirt",
@@ -17516,6 +17517,10 @@
     {
       "date": "2026-11-18T04:14:37.227Z",
       "anagram": "aadeeggrs"
+    },
+    {
+      "date": "2026-11-18T21:23:40.732Z",
+      "anagram": "adeiprru"
     }
   ]
 }
