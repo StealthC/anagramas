@@ -1998,6 +1998,7 @@
     "adorr",
     "adorstu",
     "adort",
+    "adostu",
     "aeeefimnrr",
     "aeeegnrst",
     "aeeegstx",
@@ -17526,6 +17527,10 @@
     {
       "date": "2026-11-19T04:08:59.777Z",
       "anagram": "aaginorz"
+    },
+    {
+      "date": "2026-11-20T03:57:40.275Z",
+      "anagram": "adostu"
     }
   ]
 }
