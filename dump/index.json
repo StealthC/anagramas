@@ -2955,6 +2955,7 @@
     "cmoopstu",
     "cmooptu",
     "cnoors",
+    "cnoost",
     "cnopsu",
     "cooprs",
     "coossstu",
@@ -17546,6 +17547,10 @@
     {
       "date": "2026-11-21T10:55:29.685Z",
       "anagram": "cdeeiinoss"
+    },
+    {
+      "date": "2026-11-21T20:03:56.272Z",
+      "anagram": "cnoost"
     }
   ]
 }
