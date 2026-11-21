@@ -2737,6 +2737,7 @@
     "cdeegioos",
     "cdeeiimop",
     "cdeeiimops",
+    "cdeeiinoss",
     "cdeeillosu",
     "cdeeimor",
     "cdeeimos",
@@ -17541,6 +17542,10 @@
     {
       "date": "2026-11-21T02:10:34.853Z",
       "anagram": "adenot"
+    },
+    {
+      "date": "2026-11-21T10:55:29.685Z",
+      "anagram": "cdeeiinoss"
     }
   ]
 }
