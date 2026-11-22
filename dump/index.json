@@ -483,6 +483,7 @@
     "aacdhinoz",
     "aacdhloo",
     "aacdhmos",
+    "aacdhnsu",
     "aacdho",
     "aacdhops",
     "aacdi",
@@ -17551,6 +17552,10 @@
     {
       "date": "2026-11-21T20:03:56.272Z",
       "anagram": "cnoost"
+    },
+    {
+      "date": "2026-11-22T01:13:52.705Z",
+      "anagram": "aacdhnsu"
     }
   ]
 }
