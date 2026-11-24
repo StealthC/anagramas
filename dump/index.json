@@ -195,6 +195,7 @@
     "aaadfin",
     "aaadfix",
     "aaadfls",
+    "aaadfnopr",
     "aaadghilr",
     "aaadgimpr",
     "aaadginruu",
@@ -17581,6 +17582,10 @@
     {
       "date": "2026-11-24T10:53:23.470Z",
       "anagram": "cffiilooos"
+    },
+    {
+      "date": "2026-11-24T22:59:57.086Z",
+      "anagram": "aaadfnopr"
     }
   ]
 }
