@@ -21,6 +21,7 @@
     "aaaacdmr",
     "aaaacdmrs",
     "aaaaclnv",
+    "aaaaddflm",
     "aaaaddint",
     "aaaadeglrr",
     "aaaadelntv",
@@ -17606,6 +17607,10 @@
     {
       "date": "2026-11-27T21:57:07.085Z",
       "anagram": "afiops"
+    },
+    {
+      "date": "2026-11-28T04:43:05.204Z",
+      "anagram": "aaaaddflm"
     }
   ]
 }
